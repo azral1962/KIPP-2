@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "Komunikasi Inter Personal dan Publik"
+  author: "Norah Jones"
+  date: "16/08/2026"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
