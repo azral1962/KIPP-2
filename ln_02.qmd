@@ -1,0 +1,1268 @@
+# MINGGU 2 — INTRA-SELF COMMUNICATION
+
+:::{.callout-tip}
+## Sebelum Berkomunikasi dengan Orang Lain, Kita Berkomunikasi dengan Diri Sendiri
+
+**Mata Kuliah:** Person-Centered Communication in the AI Era  
+**Tingkat:** Mahasiswa Tahun 2  
+**Durasi:** 2 jam  
+**Domain:** Intra-Self  
+**Tema Besar:** *How do I communicate with myself before I communicate with others?*
+:::
+---
+
+## 1. Mengapa Intra-Self Communication Penting?
+
+Pada Minggu 1 kita memulai dari gagasan:
+
+> **Communication happens between persons.**
+
+Tetapi ada satu hubungan yang selalu hadir sebelum kita berhubungan dengan orang lain:
+
+> **ME ⇄ ME**
+
+Kita terus-menerus berbicara dengan diri sendiri.
+
+Kadang dalam bentuk kata-kata:
+
+> “Saya bisa melakukan ini.”
+
+atau:
+
+> “Wah, pasti sulit.”
+
+Kadang dalam bentuk pertanyaan:
+
+> “Mengapa dia mengatakan itu kepada saya?”
+
+Kadang berupa ingatan:
+
+> “Saya pernah gagal melakukan hal seperti ini.”
+
+Kadang berupa imajinasi:
+
+> “Bagaimana kalau presentasi saya besok berhasil?”
+
+Kadang tanpa kalimat yang jelas, tetapi berupa:
+
+- perasaan,
+- kekhawatiran,
+- harapan,
+- penilaian,
+- rencana,
+- atau keputusan.
+
+Semua itu merupakan bagian dari **intra-self communication**.
+
+---
+
+## 2. Learning Objectives Minggu 2
+
+Setelah mengikuti pertemuan ini, mahasiswa mampu:
+
+1. menjelaskan arti **intra-self communication**;
+2. membedakan **event, perception, internal narrative, emotion, dan action**;
+3. mengenali beberapa narrative character yang muncul dalam komunikasi dengan diri sendiri;
+4. menyadari bahwa interpretasi terhadap suatu peristiwa dapat memengaruhi komunikasi berikutnya;
+5. mengembangkan internal communication yang lebih reflektif dan konstruktif;
+6. menggunakan AI sebagai **reflection mirror dan questioning partner**;
+7. menghasilkan satu keputusan atau action berdasarkan refleksi yang lebih baik.
+
+---
+
+## 3. Komunikasi Dimulai Sebelum Kita Berbicara
+
+Bayangkan seorang mahasiswa menerima pesan:
+
+> “Besok saya ingin bicara mengenai kontribusi kamu di project.”
+
+Pesannya hanya satu kalimat.
+
+Tetapi mahasiswa dapat mengatakan kepada dirinya:
+
+### Narrative A
+
+> “Wah, saya pasti dimarahi.”
+
+### Narrative B
+
+> “Mungkin ada masalah dengan pekerjaan saya.”
+
+### Narrative C
+
+> “Saya belum tahu apa yang akan dibicarakan. Saya sebaiknya mempersiapkan data pekerjaan saya.”
+
+Event-nya sama.
+
+Tetapi internal communication-nya berbeda.
+
+Dan hasilnya juga dapat berbeda.
+
+Narrative A mungkin menghasilkan:
+
+> takut → defensif → menghindar.
+
+Narrative B:
+
+> khawatir → memikirkan kesalahan → mempersiapkan penjelasan.
+
+Narrative C:
+
+> curious → mencari fakta → datang siap berdiskusi.
+
+Maka:
+
+> **Kita tidak hanya bereaksi terhadap apa yang terjadi. Kita juga bereaksi terhadap bagaimana kita menceritakan apa yang terjadi kepada diri sendiri.**
+
+---
+
+## 4. Model Dasar Intra-Self Communication
+
+Gunakan model sederhana:
+
+> **EVENT**  
+> ↓  
+> **PERCEPTION**  
+> ↓  
+> **INTERNAL NARRATIVE**  
+> ↓  
+> **EMOTION**  
+> ↓  
+> **CHOICE**  
+> ↓  
+> **ACTION**  
+> ↓  
+> **CONSEQUENCE**
+
+Contoh:
+
+### Event
+
+Dosen mengatakan:
+
+> “Bagian ini perlu diperbaiki.”
+
+### Perception
+
+> Kritik terhadap hasil pekerjaan.
+
+### Internal Narrative A
+
+> “Dosen menganggap saya bodoh.”
+
+### Emotion
+
+> malu / marah.
+
+### Choice
+
+> mempertahankan pekerjaan.
+
+### Action
+
+> berdebat.
+
+---
+
+Dengan event yang sama:
+
+### Internal Narrative B
+
+> “Dosen menemukan kelemahan yang mungkin belum saya lihat.”
+
+### Emotion
+
+> penasaran.
+
+### Choice
+
+> meminta penjelasan.
+
+### Action
+
+> “Bagian mana yang menurut Bapak/Ibu paling perlu saya perbaiki?”
+
+Event sama.
+
+Communication outcome berbeda.
+
+---
+
+## 5. EVENT ≠ INTERPRETATION
+
+Ini merupakan prinsip penting.
+
+Apa yang terjadi belum tentu sama dengan apa yang kita pikir terjadi.
+
+Misalnya:
+
+### Event
+
+Teman tidak membalas WhatsApp selama lima jam.
+
+### Possible Interpretation 1
+
+> “Dia marah kepada saya.”
+
+### Possible Interpretation 2
+
+> “Dia memang tidak menghargai saya.”
+
+### Possible Interpretation 3
+
+> “Mungkin sedang sibuk.”
+
+### Possible Interpretation 4
+
+> “Saya belum tahu apa penyebabnya.”
+
+Satu event dapat menghasilkan beberapa interpretation.
+
+Maka sebelum bertindak kita dapat bertanya:
+
+> **Apa yang sebenarnya saya ketahui?**
+
+dan:
+
+> **Apa yang baru merupakan asumsi saya?**
+
+---
+
+## 6. FACT, INTERPRETATION, DAN STORY
+
+Mahasiswa perlu belajar membedakan tiga hal:
+
+| Level | Pertanyaan | Contoh |
+|---|---|---|
+| **Fact** | Apa yang benar-benar terjadi? | Pesan saya belum dibalas lima jam. |
+| **Interpretation** | Apa arti yang saya berikan? | Mungkin dia tidak ingin berbicara. |
+| **Story** | Cerita apa yang saya bangun? | Dia tidak menghargai saya dan persahabatan ini sedang bermasalah. |
+
+Masalah komunikasi sering muncul ketika:
+
+> **interpretation diperlakukan sebagai fact.**
+
+Contoh:
+
+Bukan lagi:
+
+> “Pesan saya belum dibalas.”
+
+Tetapi:
+
+> “Kamu memang selalu mengabaikan saya.”
+
+Sebuah fakta sederhana telah berkembang menjadi sebuah story tentang character orang lain.
+
+---
+
+## 7. Intra-Self Communication Bukan Sekadar Positive Thinking
+
+Tujuan kuliah ini bukan mengajarkan:
+
+> “Selalu berpikir positif.”
+
+Kadang memang ada masalah.
+
+Kadang kita memang melakukan kesalahan.
+
+Kadang orang lain memang tidak memenuhi komitmennya.
+
+Intra-self communication yang baik bukan:
+
+> **mengubah semua hal buruk menjadi cerita menyenangkan.**
+
+Tetapi:
+
+> **melihat situasi dengan cukup jernih sehingga kita dapat memilih action yang lebih baik.**
+
+Prinsipnya:
+
+> **Not automatically positive. More accurately reflective.**
+
+---
+
+## 8. PERSON, PERSONALITY, DAN INTERNAL CHARACTER
+
+Pada Minggu 1 kita membedakan:
+
+> **Person → Personality → Narrative Character**
+
+Konsep yang sama berlaku pada intra-self communication.
+
+Kita adalah person yang sama.
+
+Tetapi di dalam diri kita dapat muncul berbagai **narrative character**.
+
+Contoh:
+
+### The Judge
+
+> “Kamu seharusnya tidak melakukan kesalahan itu.”
+
+### The Defender
+
+> “Ini bukan kesalahan saya.”
+
+### The Worrier
+
+> “Bagaimana kalau semuanya gagal?”
+
+### The Dreamer
+
+> “Bayangkan kalau ide ini berhasil.”
+
+### The Learner
+
+> “Apa yang dapat saya pelajari?”
+
+### The Planner
+
+> “Apa yang harus saya lakukan berikutnya?”
+
+### The Caretaker
+
+> “Saya sudah bekerja keras. Mungkin saya perlu berhenti sebentar dan memulihkan energi.”
+
+Semua character tersebut dapat berguna pada situasi tertentu.
+
+Masalah muncul jika satu character selalu menguasai semua situasi.
+
+---
+
+## 9. Internal Character Harus Sesuai Objective
+
+Contoh:
+
+Besok mahasiswa memiliki ujian.
+
+Jika objective-nya adalah mempersiapkan ujian:
+
+**Dreamer** saja tidak cukup.
+
+> “Mudah-mudahan besok saya dapat nilai bagus.”
+
+Yang dibutuhkan mungkin:
+
+### Learner
+
+> “Bagian mana yang belum saya pahami?”
+
+kemudian:
+
+### Planner
+
+> “Saya punya waktu dua jam. Topik mana yang harus saya prioritaskan?”
+
+kemudian:
+
+### Performer
+
+> “Sekarang saya kerjakan latihan tanpa melihat jawaban.”
+
+Jadi:
+
+> **Character harus mendukung objective.**
+
+---
+
+## 10. Objective Intra-Self Communication
+
+Komunikasi dengan diri sendiri dapat memiliki berbagai objective.
+
+Misalnya:
+
+### Understanding
+
+> “Apa sebenarnya yang saya rasakan?”
+
+### Learning
+
+> “Apa yang dapat saya pelajari dari kejadian ini?”
+
+### Decision
+
+> “Pilihan mana yang akan saya ambil?”
+
+### Planning
+
+> “Apa langkah saya berikutnya?”
+
+### Regulation
+
+> “Bagaimana saya dapat merespons tanpa langsung bereaksi?”
+
+### Motivation
+
+> “Mengapa pekerjaan ini penting bagi saya?”
+
+### Reflection
+
+> “Apakah tindakan saya sesuai dengan nilai saya?”
+
+### Commitment
+
+> “Apa yang benar-benar akan saya lakukan?”
+
+Dengan demikian intra-self communication juga harus purposeful.
+
+---
+
+## 11. Repertoire Intra-Self Communication
+
+Kita memiliki banyak cara berkomunikasi dengan diri sendiri.
+
+### 11.1 Internal Dialogue
+
+Berbicara dalam pikiran:
+
+> “Apa yang sebenarnya terjadi?”
+
+---
+
+### 11.2 Questioning
+
+Mengajukan pertanyaan kepada diri sendiri:
+
+> “Apa buktinya?”
+
+> “Apa alternatif penjelasannya?”
+
+---
+
+### 11.3 Journaling
+
+Menuliskan:
+
+> Event → Thought → Feeling → Choice → Action.
+
+---
+
+### 11.4 Drawing
+
+Membuat:
+
+- mind map,
+- relationship map,
+- decision tree,
+- timeline.
+
+---
+
+### 11.5 Reflection
+
+Mengingat kembali suatu kejadian:
+
+> “Apa yang saya lakukan?”
+
+> “Apa hasilnya?”
+
+---
+
+### 11.6 Imagination
+
+Membayangkan:
+
+> “Jika saya mengambil pilihan A, apa yang mungkin terjadi?”
+
+---
+
+### 11.7 Rehearsal
+
+Berlatih sebelum komunikasi nyata:
+
+> “Apa yang akan saya katakan kepada dosen?”
+
+---
+
+### 11.8 Silence
+
+Kadang kita tidak harus segera memberi jawaban.
+
+Kita dapat berhenti sejenak dan mengamati apa yang sedang kita pikirkan.
+
+---
+
+## 12. LANGUAGE WITH MYSELF
+
+Bahasa yang kita gunakan terhadap diri sendiri penting karena language membentuk narrative.
+
+Bandingkan:
+
+### Language 1
+
+> “Saya gagal.”
+
+dengan:
+
+### Language 2
+
+> “Percobaan ini belum berhasil.”
+
+Bandingkan:
+
+> “Saya memang tidak pandai presentasi.”
+
+dengan:
+
+> “Presentasi tadi belum berjalan sebagaimana yang saya harapkan.”
+
+Kalimat pertama mengubah satu kejadian menjadi identitas.
+
+Kalimat kedua tetap mengakui kegagalan tetapi memberikan ruang untuk belajar.
+
+Prinsipnya:
+
+> **Describe the event without unnecessarily defining the whole person by the event.**
+
+---
+
+## 13. Berbicara kepada Diri sebagai Person
+
+Jika seorang teman melakukan kesalahan, kita mungkin berkata:
+
+> “Coba kita lihat dulu apa yang salah.”
+
+Tetapi kepada diri sendiri kita dapat berkata:
+
+> “Bodoh sekali saya.”
+
+Mengapa standar komunikasi kepada diri sendiri harus lebih buruk daripada kepada orang lain?
+
+Intra-self communication yang baik memperlakukan diri sendiri sebagai:
+
+> **a person worth understanding.**
+
+Bukan berarti selalu membenarkan diri.
+
+Justru kita dapat mengatakan:
+
+> “Saya memang melakukan kesalahan.”
+
+kemudian:
+
+> “Apa yang harus saya lakukan untuk memperbaikinya?”
+
+Accountability tetap ada.
+
+Tetapi accountability berbeda dari humiliation.
+
+---
+
+## 14. From Reaction to Response
+
+Salah satu objective penting intra-self communication adalah menciptakan jarak antara:
+
+> **stimulus**
+
+dan:
+
+> **action.**
+
+Model sederhana:
+
+> **EVENT → AUTOMATIC REACTION**
+
+dapat dikembangkan menjadi:
+
+> **EVENT → PAUSE → REFLECT → CHOOSE → RESPONSE**
+
+Contoh:
+
+Teman kelompok mengatakan:
+
+> “Bagian kamu belum bagus.”
+
+Automatic reaction:
+
+> “Kalau begitu kerjakan sendiri!”
+
+Reflective response:
+
+> “Bagian mana yang menurut kamu belum memenuhi kebutuhan project?”
+
+Komunikasi dengan diri sendiri memberi kesempatan untuk:
+
+> **choose rather than merely react.**
+
+---
+
+## 15. Empat Pertanyaan Reflection
+
+Sebelum bereaksi terhadap situasi penting, gunakan empat pertanyaan:
+
+### 1. WHAT HAPPENED?
+
+> Apa faktanya?
+
+### 2. WHAT AM I TELLING MYSELF?
+
+> Cerita apa yang sedang saya bangun?
+
+### 3. WHAT DO I WANT?
+
+> Apa objective saya?
+
+### 4. WHAT SHOULD I DO NEXT?
+
+> Action apa yang paling membantu objective dan relationship?
+
+Disingkat:
+
+> **FACT → STORY → OBJECTIVE → ACTION**
+
+---
+
+## 16. Contoh Kasus
+
+### Situasi
+
+Nilai quiz seorang mahasiswa adalah 45.
+
+#### Internal Communication A
+
+> “Saya bodoh.”
+
+> “Mata kuliah ini terlalu sulit.”
+
+> “Percuma belajar.”
+
+Action:
+
+> berhenti berusaha.
+
+---
+
+#### Internal Communication B
+
+> “Saya mendapat 45.”
+
+> “Saya gagal menjawab sebagian besar soal.”
+
+> “Saya perlu tahu apakah masalahnya konsep, latihan, atau cara belajar.”
+
+Action:
+
+> memeriksa kesalahan dan meminta bantuan.
+
+Kedua mahasiswa menerima nilai yang sama.
+
+Yang berbeda adalah:
+
+> **narrative → choice → action.**
+
+---
+
+## 17. Relationship dengan Diri Sendiri
+
+Dalam framework kuliah ini, relationship tidak hanya:
+
+> Person A ⇄ Person B.
+
+Ada juga:
+
+> **ME ⇄ ME**
+
+Relationship dengan diri sendiri berkembang melalui:
+
+- honesty,
+- reflection,
+- accountability,
+- self-respect,
+- willingness to learn,
+- consistency antara value dan action.
+
+Pertanyaan penting:
+
+> **Can I trust myself?**
+
+Contohnya:
+
+Jika saya berkata:
+
+> “Malam ini saya akan belajar satu jam.”
+
+tetapi terus-menerus tidak melakukannya, maka relationship dengan diri sendiri juga terpengaruh.
+
+Karena itu intra-self communication bukan hanya reflection.
+
+Ia juga berkaitan dengan:
+
+> **promise → commitment → action.**
+
+---
+
+## 18. Internal Agreement
+
+Pada komunikasi dengan orang lain kita ingin mencapai **agreement**.
+
+Dalam intra-self communication kita juga dapat membuat **internal agreement**.
+
+Contoh:
+
+> “Saya akan menyelesaikan bagian program sebelum pukul 21.00.”
+
+atau:
+
+> “Saya akan berbicara langsung kepada teman saya besok daripada terus membuat asumsi.”
+
+Agreement menjadi kuat apabila memiliki:
+
+**What?**
+
+> Apa yang akan dilakukan?
+
+**When?**
+
+> Kapan?
+
+**Evidence?**
+
+> Bagaimana saya tahu sudah dilakukan?
+
+Contoh:
+
+> “Besok pukul 10.00 saya akan menghubungi Budi dan meminta waktu berbicara 10 menit mengenai pembagian pekerjaan.”
+
+Lebih kuat daripada:
+
+> “Nanti saya bicara sama dia.”
+
+---
+
+## 19. Preview: Baseball Model untuk Diri Sendiri
+
+TAIDA akan dipelajari lebih jauh pada minggu berikutnya.
+
+Tetapi pola sederhananya juga dapat digunakan terhadap diri sendiri.
+
+> **TARGET → ATTENTION → INTEREST → DESIRE → ACTION**
+
+Misalnya ingin mulai olahraga.
+
+### Target
+
+> “Kondisi fisik saya perlu lebih baik.”
+
+### Attention
+
+> “Saya mudah lelah setelah naik tangga.”
+
+### Interest
+
+> “Mungkin berjalan kaki rutin dapat membantu.”
+
+### Desire
+
+> “Saya ingin bisa beraktivitas tanpa cepat lelah.”
+
+### Action
+
+> “Mulai Senin saya berjalan 20 menit setelah kuliah.”
+
+Artinya kita juga dapat belajar:
+
+> **membawa diri sendiri dari awareness menuju action.**
+
+---
+
+## 20. Artificial Intelligence sebagai Reflection Mirror
+
+AI sangat berguna dalam intra-self communication.
+
+Tetapi AI tidak boleh menjadi:
+
+> **the authority that tells me who I am.**
+
+AI berfungsi sebagai:
+
+### Mirror
+
+> membantu melihat pola dalam cerita kita.
+
+### Questioning Partner
+
+> mengajukan pertanyaan yang mungkin belum terpikir.
+
+### Alternative Generator
+
+> memberikan beberapa interpretasi terhadap situasi.
+
+### Rehearsal Partner
+
+> membantu mempersiapkan komunikasi berikutnya.
+
+### Reflection Assistant
+
+> membantu membandingkan objective, action, dan consequence.
+
+---
+
+## 21. Contoh Penggunaan AI
+
+Mahasiswa dapat memberikan situasi sederhana:
+
+> “Teman kelompok saya belum membalas pesan selama dua hari. Saya mulai berpikir dia tidak bertanggung jawab.”
+
+Kemudian gunakan prompt:
+
+> Bantu saya melakukan reflection tanpa langsung menyimpulkan siapa yang benar atau salah.
+>
+> Pisahkan:
+>
+> 1. fakta yang saya ketahui,
+> 2. interpretasi saya,
+> 3. asumsi yang belum terbukti,
+> 4. kemungkinan penjelasan alternatif,
+> 5. objective komunikasi saya,
+> 6. dua pilihan action berikutnya.
+
+Kemudian mahasiswa harus mengevaluasi hasil AI.
+
+Pertanyaan penting:
+
+> **Does this help me think, or am I allowing AI to think for me?**
+
+---
+
+## 22. AI Tidak Mengenal Diri Kita Secara Sempurna
+
+AI dapat membantu berdasarkan informasi yang kita berikan.
+
+Tetapi AI:
+
+- tidak menjalani kehidupan kita,
+- tidak mengalami hubungan kita secara langsung,
+- tidak mengetahui semua konteks,
+- dapat salah menafsirkan informasi,
+- dapat menghasilkan saran yang tidak sesuai.
+
+Karena itu:
+
+> **AI provides perspective; the person retains judgment.**
+
+---
+
+## 23. Latihan 1 — Fact or Story?
+
+Dosen memberikan beberapa pernyataan.
+
+Mahasiswa menentukan apakah merupakan:
+
+**FACT** atau **STORY/INTERPRETATION**.
+
+### Pernyataan A
+
+> “Dosen belum membalas email saya selama tiga hari.”
+
+### Pernyataan B
+
+> “Dosen tidak peduli kepada mahasiswa.”
+
+### Pernyataan C
+
+> “Teman saya datang 20 menit terlambat.”
+
+### Pernyataan D
+
+> “Dia tidak menghargai waktu saya.”
+
+### Pernyataan E
+
+> “Saya mendapat nilai 55.”
+
+### Pernyataan F
+
+> “Saya memang tidak cocok belajar programming.”
+
+Diskusikan:
+
+> Kapan sebuah interpretation mungkin benar?
+
+Jawaban:
+
+> Mungkin saja benar, tetapi kita membutuhkan evidence tambahan sebelum memperlakukannya sebagai fact.
+
+---
+
+# 24. Latihan 2 — Three Narratives
+
+Pilih satu situasi sederhana:
+
+> gagal quiz,
+
+> tidak terpilih menjadi ketua,
+
+> program error,
+
+> teman membatalkan janji,
+
+> proposal ditolak.
+
+Buat tiga internal narratives:
+
+### Narrative 1 — Reactive
+
+Apa pikiran spontan saya?
+
+### Narrative 2 — Alternative
+
+Apakah ada interpretasi lain?
+
+### Narrative 3 — Constructive
+
+Narrative apa yang paling membantu saya mengambil action yang bertanggung jawab?
+
+Tujuannya bukan mencari narrative paling menyenangkan.
+
+Tujuannya:
+
+> **find a narrative that is sufficiently truthful and useful for responsible action.**
+
+---
+
+## 25. Latihan 3 — Internal Characters
+
+Mahasiswa memilih satu masalah.
+
+Kemudian biarkan beberapa character “berbicara”.
+
+Contoh:
+
+### THE JUDGE
+
+> “Kamu seharusnya sudah menyelesaikan ini.”
+
+### THE DEFENDER
+
+> “Saya terlalu banyak tugas.”
+
+### THE WORRIER
+
+> “Kalau terlambat, semuanya akan berantakan.”
+
+### THE LEARNER
+
+> “Apa sebenarnya penyebab keterlambatan?”
+
+### THE PLANNER
+
+> “Apa satu hal yang dapat diselesaikan malam ini?”
+
+Kemudian mahasiswa menjawab:
+
+> Character mana yang paling membantu objective saya sekarang?
+
+---
+
+## 26. Latihan 4 — From Reaction to Response
+
+Berpasangan.
+
+Person A memberikan sebuah kalimat:
+
+> “Pekerjaan kamu mengecewakan.”
+
+Person B tidak langsung menjawab.
+
+Person B melakukan secara singkat:
+
+> **Pause → Fact → Story → Objective → Response**
+
+Kemudian memberikan jawaban.
+
+Contoh:
+
+> “Boleh jelaskan bagian mana yang belum memenuhi harapan supaya saya tahu apa yang perlu diperbaiki?”
+
+Ulangi dengan:
+
+> “Kamu selalu terlambat.”
+
+> “Ide kamu tidak realistis.”
+
+> “Nilai kamu jauh di bawah rata-rata.”
+
+> “Saya tidak setuju dengan proposalmu.”
+
+Tujuannya adalah melatih:
+
+> **response instead of immediate reaction.**
+
+---
+
+## 27. Mini Performance — Two Versions of Me
+
+Mahasiswa memilih satu situasi nyata tetapi tidak terlalu pribadi.
+
+Contoh:
+
+> mendapatkan kritik.
+
+Lakukan dua versi.
+
+### VERSION 1 — Automatic Me
+
+Tunjukkan internal narrative dan respons spontan.
+
+### VERSION 2 — Reflective Me
+
+Gunakan:
+
+> Fact → Story → Objective → Action.
+
+Bandingkan hasilnya.
+
+---
+
+## 28. Format Pertemuan 2 Jam
+
+### 0–15 menit — Review Minggu 1
+
+Review:
+
+> Person → Personality → Character → Objective → Repertoire → Language → Action → Relationship.
+
+---
+
+### 15–40 menit — Lecture
+
+Materi:
+
+- intra-self communication,
+- event versus interpretation,
+- internal narrative,
+- internal characters,
+- reaction versus response.
+
+---
+
+### 40–60 menit — Demonstration
+
+Dosen mendemonstrasikan satu event dengan beberapa internal narratives.
+
+---
+
+### 60–90 menit — Practice
+
+- Fact or Story
+- Three Narratives
+- Internal Characters
+
+---
+
+### 90–110 menit — Mini Performance
+
+**Automatic Me vs Reflective Me.**
+
+---
+
+### 110–120 menit — AI Reflection & Closing
+
+Mahasiswa menggunakan AI untuk mengevaluasi salah satu communication episode.
+
+---
+
+## 29. Tugas Minggu 2 — Intra-Self Communication Journal
+
+Pilih **satu communication episode** selama minggu berjalan.
+
+Tidak perlu menggunakan pengalaman yang sangat pribadi.
+
+Tuliskan maksimal **2 halaman**.
+
+---
+
+### BAGIAN A — EVENT
+
+Apa yang terjadi?
+
+Tuliskan hanya fact yang dapat diamati.
+
+---
+
+### BAGIAN B — INITIAL STORY
+
+Apa yang pertama kali Anda katakan kepada diri sendiri?
+
+---
+
+### BAGIAN C — EMOTION
+
+Apa yang Anda rasakan?
+
+Tidak perlu diagnosis.
+
+Cukup misalnya:
+
+> senang, kecewa, khawatir, marah, bingung, tertarik.
+
+---
+
+### BAGIAN D — CHARACTER
+
+Character apa yang dominan?
+
+Contoh:
+
+> Judge, Defender, Worrier, Learner, Planner, Dreamer.
+
+Anda boleh memberi nama character sendiri.
+
+---
+
+### BAGIAN E — OBJECTIVE
+
+Apa yang sebenarnya ingin Anda capai?
+
+---
+
+### BAGIAN F — ALTERNATIVE NARRATIVE
+
+Apakah ada cara lain yang cukup masuk akal untuk memahami event tersebut?
+
+---
+
+### BAGIAN G — ACTION
+
+Apa tindakan yang Anda pilih?
+
+---
+
+### BAGIAN H — CONSEQUENCE
+
+Apa yang terjadi setelah action?
+
+---
+
+### BAGIAN I — AI REFLECTION
+
+Gunakan AI untuk memberikan **satu perspektif alternatif**.
+
+Tuliskan:
+
+> Apa saran AI?
+
+dan:
+
+> Apa yang Anda terima atau tolak dari saran tersebut?
+
+---
+
+## 30. Penilaian Tugas Minggu 2
+
+| Aspek | Bobot |
+|---|---:|
+| Kemampuan memisahkan fact dan interpretation | 20% |
+| Kejelasan internal narrative dan character | 20% |
+| Kejelasan objective | 20% |
+| Kualitas reflection menuju action | 20% |
+| Penggunaan AI secara kritis | 20% |
+
+Yang dinilai bukan:
+
+> apakah mahasiswa mempunyai pikiran atau emosi yang “baik”.
+
+Yang dinilai:
+
+> **apakah mahasiswa mampu mengamati internal communication-nya dan mengubah reflection menjadi responsible action.**
+
+---
+
+## 31. Reflection Questions
+
+Sebelum meninggalkan kelas, jawab:
+
+### 1.
+
+Ketika sesuatu terjadi, apakah saya dapat membedakan **fact** dari **story**?
+
+### 2.
+
+Character internal apa yang sering muncul dalam diri saya?
+
+### 3.
+
+Character apa yang perlu lebih sering saya gunakan?
+
+### 4.
+
+Apakah saya cenderung **react** atau **respond**?
+
+### 5.
+
+Apakah komunikasi saya dengan diri sendiri membantu saya melakukan action yang lebih baik?
+
+---
+
+## 32. Take-Home Messages
+
+Jika hanya mengingat enam hal dari Minggu 2:
+
+### 1.
+
+> **Before communicating with others, I communicate with myself.**
+
+### 2.
+
+> **Event and interpretation are not the same thing.**
+
+### 3.
+
+> **Internal narrative influences emotion, choice, and action.**
+
+### 4.
+
+> **I can choose an appropriate internal character for the objective I face.**
+
+### 5.
+
+> **Good reflection creates space between reaction and response.**
+
+### 6.
+
+> **AI can help me reflect, but I remain responsible for judgment and action.**
+
+---
+
+## 33. One-Minute Summary
+
+Minggu 1 mengajarkan:
+
+> **Who am I communicating with?**
+
+Minggu 2 mengajarkan:
+
+> **What am I communicating to myself before I communicate with others?**
+
+Kerangka utamanya:
+
+> **EVENT**  
+> ↓  
+> **PERCEPTION**  
+> ↓  
+> **INTERNAL NARRATIVE**  
+> ↓  
+> **EMOTION**  
+> ↓  
+> **CHOICE**  
+> ↓  
+> **ACTION**  
+> ↓  
+> **CONSEQUENCE**
+
+Kemudian gunakan empat pertanyaan:
+
+> **WHAT HAPPENED?** — Fact
+
+> **WHAT AM I TELLING MYSELF?** — Story
+
+> **WHAT DO I WANT?** — Objective
+
+> **WHAT SHOULD I DO NEXT?** — Action
+
+Dengan demikian, **intra-self communication** menjadi fondasi bagi komunikasi interpersonal.
+
+Sebelum kita belajar memperoleh perhatian, membangun interest, melakukan negotiation, atau mempengaruhi dunia, kita terlebih dahulu belajar:
+
+> **mendengar diri sendiri, memahami cerita yang kita bangun, memilih character yang tepat, dan mengubah reflection menjadi responsible action.**

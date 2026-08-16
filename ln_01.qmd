@@ -1,0 +1,934 @@
+# MINGGU 1 — COMMUNICATION IS ABOUT PERSONS
+
+:::{.callout-tip}
+
+## Komunikasi Dimulai dari Manusia, Bukan dari Pesan
+
+**Mata Kuliah:** Person-Centered Communication in the AI Era
+**Tingkat:** Mahasiswa Tahun 2
+**Durasi:** 2 jam
+**Tema Besar:** *Who communicates with whom, for what purpose?*
+:::
+---
+
+## 1. Mengapa Kita Belajar Ini?
+
+Setiap hari kita berkomunikasi:
+
+* dengan diri sendiri,
+* dengan keluarga,
+* dengan teman,
+* dengan rekan kerja,
+* dengan dosen,
+* dengan pelanggan,
+* dengan masyarakat,
+* bahkan dengan orang yang tidak pernah kita temui secara langsung.
+
+Namun banyak kegagalan komunikasi terjadi bukan karena kita tidak bisa berbicara.
+
+Kita dapat berbicara dengan lancar, tetapi:
+
+* salah memahami orang,
+* salah memilih cara bicara,
+* salah membaca situasi,
+* salah memahami tujuan,
+* atau gagal membangun hubungan.
+
+Mata kuliah ini berangkat dari satu gagasan sederhana:
+
+> **Communication is about persons building relationships with persons.**
+
+Komunikasi bukan terutama persoalan:
+
+> Sender → Message → Channel → Receiver.
+
+Model tersebut berguna untuk menjelaskan transmisi informasi, tetapi kehidupan manusia lebih kompleks.
+
+Kita akan menggunakan model:
+
+> **PERSON A ⇄ COMMUNICATION ⇄ PERSON B → RELATIONSHIP**
+
+Komunikasi dikatakan efektif apabila membantu manusia:
+
+> **memperoleh, membangun, memelihara, memperbaiki, dan mengembangkan relationship.**
+
+---
+
+## 2. Learning Objectives Minggu 1
+
+Setelah mengikuti pertemuan ini, mahasiswa mampu:
+
+1. menjelaskan mengapa **person** menjadi pusat komunikasi;
+2. membedakan **person, personality, dan narrative character**;
+3. mengenali bahwa satu person dapat memainkan banyak character;
+4. menjelaskan hubungan antara character, objective, language, dan action;
+5. membuat peta sederhana dirinya sebagai communicator;
+6. menggunakan AI sebagai **communication mirror**, bukan sebagai pengganti dirinya.
+
+---
+
+## 3. Masalah Utama: Kita Terlalu Mudah Melihat Kategori
+
+Kita sering menggambarkan orang dengan kategori:
+
+* mahasiswa,
+* Gen Z,
+* laki-laki,
+* perempuan,
+* engineer,
+* customer,
+* manager,
+* orang kaya,
+* introvert,
+* extrovert.
+
+Kategori berguna.
+
+Tetapi kategori bukan person.
+
+Dua orang dapat berada dalam kategori yang sama tetapi memiliki:
+
+* pengalaman berbeda,
+* aspirasi berbeda,
+* ketakutan berbeda,
+* kepentingan berbeda,
+* kemampuan berbeda,
+* hubungan berbeda,
+* dan cara berkomunikasi berbeda.
+
+Karena itu prinsip pertama mata kuliah adalah:
+
+> **Recognize the person before relying on the category.**
+
+Misalnya:
+
+> “Customer kami adalah mahasiswa usia 18–22 tahun.”
+
+Informasi tersebut belum cukup.
+
+Kita masih perlu mengetahui:
+
+> Siapa mahasiswa tersebut?
+> Apa yang sedang ia perlukan?
+> Dalam situasi apa ia berada?
+> Apa yang ia anggap penting?
+> Apa hubungan kita dengannya?
+
+Ini adalah pergeseran dari:
+
+> **Category-centered communication**
+
+menjadi:
+
+> **Person-centered communication.**
+
+---
+
+## 4. PERSON
+
+### 4.1 Apa yang Dimaksud Person?
+
+Dalam mata kuliah ini, **person** adalah manusia utuh yang menjadi pelaku komunikasi.
+
+Person mempunyai:
+
+* identitas,
+* sejarah hidup,
+* pengalaman,
+* pengetahuan,
+* kemampuan,
+* nilai,
+* kebutuhan,
+* aspirasi,
+* emosi,
+* hubungan,
+* dan tujuan.
+
+Karena itu kita tidak mengatakan:
+
+> “Saya sedang berkomunikasi dengan suatu kategori customer.”
+
+Tetapi:
+
+> **“Saya sedang berkomunikasi dengan seseorang.”**
+
+---
+
+## 5. PERSONALITY
+
+Person mempunyai kecenderungan perilaku tertentu.
+
+Inilah yang kita sebut **personality**.
+
+Personality dapat terlihat dalam kecenderungan seperti:
+
+* lebih banyak mendengar atau berbicara,
+* cepat atau lambat mengambil keputusan,
+* analitis atau intuitif,
+* spontan atau terencana,
+* ekspresif atau tenang,
+* langsung atau berhati-hati.
+
+Tetapi:
+
+> **Personality bukan penjara.**
+
+Seseorang yang secara personality pendiam tetap dapat belajar:
+
+* memimpin rapat,
+* mengajar,
+* melakukan negosiasi,
+* memberikan presentasi,
+* atau menyampaikan ketidaksetujuan.
+
+Maka:
+
+> **Personality describes tendencies, not destiny.**
+
+---
+
+## 6. NARRATIVE CHARACTER
+
+Ini adalah konsep penting dalam mata kuliah.
+
+Person yang sama dapat memainkan banyak **narrative character**.
+
+Contoh seorang mahasiswa:
+
+Pagi hari:
+
+> **anak** di rumah.
+
+Kemudian:
+
+> **mahasiswa** di kelas.
+
+Siang:
+
+> **team member** dalam project.
+
+Sore:
+
+> **ketua organisasi mahasiswa**.
+
+Malam:
+
+> **sahabat** yang mendengarkan masalah temannya.
+
+Orangnya sama.
+
+Tetapi character berbeda.
+
+Dan ketika character berubah, biasanya ikut berubah:
+
+* objective,
+* responsibility,
+* repertoire,
+* language,
+* dan action.
+
+---
+
+## 7. Person ≠ Personality ≠ Character
+
+Gunakan perbedaan sederhana berikut.
+
+| Konsep          | Pertanyaan                                   |
+| --------------- | -------------------------------------------- |
+| **Person**      | Siapa saya?                                  |
+| **Personality** | Bagaimana kecenderungan saya?                |
+| **Character**   | Saya sedang menjadi siapa dalam situasi ini? |
+
+Contoh:
+
+**Person:** Rina
+**Personality:** tenang, teliti, tidak banyak bicara
+**Character 1:** sahabat
+**Character 2:** mahasiswa
+**Character 3:** project leader
+**Character 4:** customer
+**Character 5:** citizen
+
+Ketika Rina menjadi sahabat:
+
+> ia mungkin banyak mendengarkan.
+
+Ketika menjadi project leader:
+
+> ia harus menentukan tugas dan deadline.
+
+Ketika menjadi customer:
+
+> ia dapat bertanya mengenai harga dan kualitas.
+
+Dengan demikian:
+
+> **Person tetap, personality relatif stabil, character berubah mengikuti narrative dan situation.**
+
+---
+
+## 8. Character Menentukan Bahasa
+
+Bayangkan seorang mahasiswa informatika menemukan bahwa server project sering gagal.
+
+Kepada teman engineer:
+
+> “Memory consumption naik terus karena ada memory leak.”
+
+Kepada project manager:
+
+> “Ada masalah software yang membuat server semakin tidak stabil jika berjalan lama.”
+
+Kepada customer:
+
+> “Kami menemukan penyebab gangguan dan sedang memperbaikinya agar layanan kembali stabil.”
+
+Kepada keluarga:
+
+> “Program yang kami buat punya masalah dan saya sedang memperbaikinya.”
+
+Fakta dasarnya sama.
+
+Tetapi:
+
+> **person yang menerima berbeda → character berbeda → language berbeda.**
+
+Maka komunikasi efektif bukan sekadar:
+
+> **speak correctly.**
+
+Tetapi:
+
+> **speak appropriately to this person in this situation.**
+
+---
+
+## 9. OBJECTIVE
+
+Setiap komunikasi mempunyai objective.
+
+Contohnya:
+
+### Sebagai sahabat
+
+Objective:
+
+> membantu teman merasa didengar.
+
+### Sebagai mahasiswa
+
+Objective:
+
+> memperoleh pemahaman.
+
+### Sebagai project leader
+
+Objective:
+
+> memastikan anggota tim menyelesaikan pekerjaan.
+
+### Sebagai customer
+
+Objective:
+
+> mendapatkan solusi yang sesuai kebutuhan.
+
+### Sebagai citizen
+
+Objective:
+
+> mencapai keputusan bersama.
+
+Objective menjawab:
+
+> **“Apa yang ingin berubah setelah komunikasi ini?”**
+
+---
+
+## 10. REPERTOIRE
+
+Communication repertoire adalah kumpulan cara yang dapat kita gunakan untuk berkomunikasi.
+
+Bukan hanya berbicara.
+
+Repertoire dapat mencakup:
+
+* listening,
+* questioning,
+* explaining,
+* storytelling,
+* writing,
+* drawing,
+* visualization,
+* demonstration,
+* negotiation,
+* humor,
+* silence,
+* gesture,
+* apology,
+* giving feedback,
+* asking,
+* promising,
+* agreement,
+* contract,
+* digital media,
+* Artificial Intelligence.
+
+Pertanyaan communicator yang baik adalah:
+
+> **“Dari seluruh repertoire yang saya punya, mana yang paling tepat digunakan sekarang?”**
+
+Kadang solusi terbaik adalah berbicara.
+
+Kadang mendengarkan.
+
+Kadang menggambar diagram.
+
+Kadang mengirim pesan tertulis.
+
+Kadang cukup berkata:
+
+> “Saya mengerti.”
+
+---
+
+## 11. LANGUAGE
+
+Language bukan hanya Bahasa Indonesia atau Bahasa Inggris.
+
+Dalam kuliah ini, language berarti juga:
+
+* technical language,
+* business language,
+* everyday language,
+* emotional language,
+* visual language,
+* mathematical language,
+* professional language,
+* public language.
+
+Good communicator mempunyai kemampuan **code-switching**.
+
+Ia dapat mempertahankan meaning sambil mengubah language.
+
+Contoh:
+
+### Engineer language
+
+> “Latency API meningkat karena query database tidak terindeks.”
+
+### Manager language
+
+> “Ada bottleneck yang memperlambat transaksi.”
+
+### Customer language
+
+> “Respons layanan sedang lebih lambat dari seharusnya dan kami sudah menemukan penyebabnya.”
+
+Satu fakta.
+
+Tiga language.
+
+---
+
+## 12. ACTION
+
+Komunikasi bukan hanya menghasilkan pemahaman.
+
+Banyak komunikasi mempunyai tujuan akhirnya berupa **action**.
+
+Contoh:
+
+> “Saya mengerti.”
+
+belum tentu cukup.
+
+Dalam project kita mungkin membutuhkan:
+
+> “Saya setuju menyelesaikan modul tersebut Jumat pukul 17.00.”
+
+Maka terdapat progression:
+
+> **Communication → Understanding → Agreement → Action**
+
+Dan setelah action:
+
+> **Action → Consequence → Relationship**
+
+---
+
+## 13. RELATIONSHIP
+
+Relationship adalah salah satu hasil utama komunikasi.
+
+Setiap percakapan dapat:
+
+* meningkatkan trust,
+* menurunkan trust,
+* memperjelas relationship,
+* memperbaiki relationship,
+* merusak relationship,
+* atau mengembangkan relationship.
+
+Karena itu seseorang dapat:
+
+> memenangkan argumentasi,
+
+tetapi:
+
+> kehilangan relationship.
+
+Dalam mata kuliah ini itu belum dianggap komunikasi yang berhasil.
+
+Kita menginginkan:
+
+> **Successful Action + Healthy Relationship.**
+
+---
+
+## 14. Model Dasar Minggu 1
+
+Gabungkan konsep-konsep tadi:
+
+> **PERSON**
+> ↓
+> **PERSONALITY**
+> ↓
+> **NARRATIVE CHARACTER**
+> ↓
+> **OBJECTIVE**
+> ↓
+> **REPERTOIRE**
+> ↓
+> **LANGUAGE**
+> ↓
+> **ACTION**
+> ↓
+> **RELATIONSHIP**
+
+Model ini akan digunakan berulang kali sepanjang semester.
+
+Mahasiswa tidak perlu menghafalkan puluhan teori baru.
+
+Yang harus dibiasakan adalah pertanyaan:
+
+> **Who is the person?**
+> **Who am I being?**
+> **What do we want to achieve?**
+> **How should I communicate?**
+> **What happens to our relationship?**
+
+---
+
+## 15. Lima Domain Komunikasi
+
+Selama semester, model tersebut digunakan dalam lima domain.
+
+### Domain 1 — Intra-Self
+
+> **ME ⇄ ME**
+
+Saya belajar berkomunikasi dengan diri saya sendiri.
+
+---
+
+### Domain 2 — Family & Friends
+
+> **ME ⇄ PEOPLE CLOSE TO ME**
+
+Saya belajar memperoleh dan memelihara relationship pribadi.
+
+---
+
+### Domain 3 — Working Colleagues
+
+> **PROFESSIONAL ⇄ PROFESSIONAL**
+
+Saya belajar bekerja, berkolaborasi, dan menciptakan value.
+
+---
+
+### Domain 4 — Neighbors & Communities
+
+> **PERSON ⇄ COMMUNITY**
+
+Saya belajar hidup dan bertindak bersama orang yang berbeda dari saya.
+
+---
+
+### Domain 5 — The World
+
+> **PERSON ⇄ PUBLIC**
+
+Saya belajar membawa gagasan dan kontribusi kepada masyarakat yang lebih luas.
+
+Perkembangannya:
+
+> **SELF → FAMILY & FRIENDS → WORK → COMMUNITY → WORLD**
+
+---
+
+## 16. Demonstrasi di Kelas
+
+### Situasi
+
+Seorang anggota kelompok belum menyelesaikan pekerjaannya dua hari sebelum deadline.
+
+#### Character A — Teman
+
+> “Kamu kelihatannya sedang kesulitan. Ada yang bisa saya bantu?”
+
+Objective:
+
+> memahami keadaan teman.
+
+---
+
+#### Character B — Project Leader
+
+> “Bagian database belum selesai dan deadline kita dua hari lagi. Apa hambatan utamanya dan apa yang perlu kita lakukan hari ini?”
+
+Objective:
+
+> memperoleh recovery plan.
+
+---
+
+### Character C — Angry Team Member
+
+> “Kamu selalu begini. Gara-gara kamu kita semua terlambat.”
+
+Objective yang sebenarnya:
+
+> melampiaskan frustrasi.
+
+Pertanyaan kelas:
+
+1. Manakah yang kemungkinan menghasilkan action?
+2. Manakah yang menjaga relationship?
+3. Character mana yang paling tepat?
+4. Adakah situasi ketika Character A lebih tepat?
+5. Adakah situasi ketika Character B diperlukan?
+
+Kesimpulan:
+
+> **Tidak ada satu language yang selalu benar. Efektivitas bergantung pada person, character, relationship, objective, dan situation.**
+
+---
+
+## 17. LATIHAN 1 — Who Am I?
+
+Tuliskan satu person: **diri Anda sendiri**.
+
+Kemudian identifikasi minimal lima character yang Anda mainkan.
+
+Contoh:
+
+| Domain       | Character saya |
+| ------------ | -------------- |
+| Diri sendiri | Learner        |
+| Family       | Anak           |
+| Friends      | Sahabat        |
+| Campus       | Mahasiswa      |
+| Project      | Programmer     |
+| Organization | Team member    |
+| Society      | Citizen        |
+
+Kemudian pilih tiga character dan jawab:
+
+> Bagaimana saya berbicara?
+> Apa objective saya?
+> Apa responsibility saya?
+> Bahasa apa yang saya gunakan?
+
+---
+
+## 18. LATIHAN 2 — One Person, Three Characters
+
+Berpasangan.
+
+Person A dan Person B adalah mahasiswa.
+
+Person A harus berbicara kepada Person B dalam tiga character:
+
+### Character 1
+
+**Friend**
+
+> Tujuan: memahami mengapa B terlihat sedih.
+
+### Character 2
+
+**Project Leader**
+
+> Tujuan: meminta B menyelesaikan pekerjaan.
+
+### Character 3
+
+**Customer**
+
+Bayangkan B menjual jasa desain.
+
+> Tujuan: memastikan deliverable dan harga.
+
+Setelah setiap roleplay, diskusikan:
+
+* Apa yang berubah?
+* Apakah vocabulary berubah?
+* Apakah tone berubah?
+* Apakah objective berubah?
+* Apakah relationship berubah?
+
+---
+
+## 19. LATIHAN 3 — Communication Failure
+
+Dalam kelompok tiga orang, ceritakan satu communication failure sederhana yang pernah Anda alami.
+
+Tidak perlu menceritakan sesuatu yang sangat pribadi.
+
+Gunakan template:
+
+**Person A:** siapa?
+
+**Person B:** siapa?
+
+**Relationship:** apa?
+
+**Character A:** siapa?
+
+**Character B:** siapa?
+
+**Objective:** apa?
+
+**Language yang digunakan:** bagaimana?
+
+**Outcome:** apa yang terjadi?
+
+Kemudian jawab:
+
+> **Was this a message problem, a character problem, an objective problem, or a relationship problem?**
+
+---
+
+## 20. Artificial Intelligence sebagai Communication Mirror
+
+Dalam kuliah ini AI boleh dan dianjurkan digunakan.
+
+Tetapi posisi AI adalah:
+
+> **assistant to the person**
+
+bukan:
+
+> **replacement of the person.**
+
+Pada Minggu 1, AI digunakan sebagai **mirror**.
+
+Contoh prompt:
+
+> Saya seorang mahasiswa tahun kedua. Dalam project kelompok, teman saya belum menyelesaikan tugasnya. Saya mengatakan: “Kalau kamu tidak bisa mengerjakan, bilang dari awal. Jangan menyusahkan kelompok.”
+>
+> Analisislah:
+>
+> 1. character apa yang tampak saya mainkan,
+> 2. objective apa yang kemungkinan terbaca oleh teman saya,
+> 3. bagaimana relationship dapat terpengaruh,
+> 4. berikan dua alternatif cara berkomunikasi tanpa menghilangkan ketegasan saya.
+
+Mahasiswa kemudian menilai:
+
+> Apakah saran AI masuk akal?
+> Apakah sesuai dengan personality saya?
+> Apakah saya benar-benar akan mengatakan kalimat tersebut?
+
+AI memberi alternatif.
+
+**Person tetap mengambil keputusan.**
+
+---
+
+## 21. Hal yang Tidak Boleh Dilakukan dengan AI
+
+AI jangan digunakan untuk:
+
+> “Buatkan tugas saya seluruhnya.”
+
+Tujuan kuliah bukan menghasilkan kalimat sempurna.
+
+Tujuannya adalah:
+
+> **mengembangkan communicator.**
+
+Karena itu prinsip penggunaan AI:
+
+> **AI may improve my communication, but AI must not replace my responsibility for communicating.**
+
+---
+
+## 22. Reflection
+
+Di akhir kelas, jawab lima pertanyaan berikut.
+
+### 1.
+
+Siapa saya sebagai communicator?
+
+### 2.
+
+Character apa yang paling mudah saya mainkan?
+
+### 3.
+
+Character apa yang sulit bagi saya?
+
+### 4.
+
+Kapan saya pernah menggunakan bahasa yang salah untuk orang yang saya hadapi?
+
+### 5.
+
+Satu hal apa yang akan saya lakukan berbeda setelah kuliah hari ini?
+
+---
+
+## 23. Tugas Minggu 1 — Personal Communication Character Map
+
+Buat **Personal Communication Character Map** sederhana.
+
+Tidak lebih dari 2 halaman.
+
+### Bagian A — Person
+
+Tuliskan secara singkat:
+
+> **Who am I?**
+
+Tidak perlu biography panjang.
+
+---
+
+### Bagian B — Personality Tendencies
+
+Tuliskan 3–5 kecenderungan komunikasi Anda.
+
+Contoh:
+
+* lebih suka mendengar dahulu,
+* sulit mengatakan tidak,
+* mudah bersemangat ketika menjelaskan hal teknis,
+* cenderung menghindari konflik.
+
+Ini adalah refleksi, bukan diagnosis psikologi.
+
+---
+
+### Bagian C — Characters
+
+Identifikasi minimal lima narrative characters yang saat ini Anda mainkan.
+
+Contoh:
+
+> Child
+> Friend
+> Student
+> Team Member
+> Citizen
+
+---
+
+### Bagian D — Character Comparison
+
+Pilih dua character.
+
+Bandingkan:
+
+| Unsur          | Character 1 | Character 2 |
+| -------------- | ----------- | ----------- |
+| Objective      |             |             |
+| Responsibility |             |             |
+| Repertoire     |             |             |
+| Language       |             |             |
+| Typical Action |             |             |
+
+---
+
+### Bagian E — Growth Target
+
+Lengkapi:
+
+> **Selama semester ini saya ingin meningkatkan kemampuan saya untuk berkomunikasi sebagai __________ karena __________.**
+
+---
+
+## 24. Penilaian Tugas
+
+Tugas dinilai sederhana.
+
+| Aspek                                               | Bobot |
+| --------------------------------------------------- | ----: |
+| Kemampuan mengenali diri sebagai person             |   20% |
+| Pemahaman personality tendencies                    |   20% |
+| Kemampuan membedakan characters                     |   20% |
+| Hubungan character dengan objective/language/action |   20% |
+| Refleksi dan target pengembangan                    |   20% |
+
+Yang dinilai bukan:
+
+> seberapa “bagus” personality mahasiswa.
+
+Yang dinilai adalah:
+
+> **seberapa baik mahasiswa mengenali dirinya sebagai communicator.**
+
+---
+
+## 25. Take-Home Messages
+
+Jika hanya mengingat lima hal dari Minggu 1, ingatlah:
+
+### 1.
+
+> **Communication happens between persons.**
+
+### 2.
+
+> **A person is more than a category.**
+
+### 3.
+
+> **Personality provides tendencies; character provides situated direction.**
+
+### 4.
+
+> **Different characters require different objectives, repertoires, and languages.**
+
+### 5.
+
+> **Good communication should lead toward constructive action while growing, rather than unnecessarily damaging, relationships.**
+
+---
+
+## 26. One-Minute Summary
+
+Kerangka Minggu 1:
+
+> **PERSON** — siapa orangnya?
+
+> **PERSONALITY** — bagaimana kecenderungannya?
+
+> **CHARACTER** — dia dan saya sedang menjadi siapa?
+
+> **OBJECTIVE** — apa yang ingin dicapai?
+
+> **REPERTOIRE** — cara komunikasi apa yang tersedia?
+
+> **LANGUAGE** — bahasa mana yang paling tepat?
+
+> **ACTION** — apa yang terjadi setelah komunikasi?
+
+> **RELATIONSHIP** — apakah hubungan bertumbuh atau memburuk?
+
+Inilah fondasi untuk seluruh semester.
+
+Pada minggu-minggu berikutnya model yang sama akan digunakan untuk memahami komunikasi dalam **Intra-Self, Family & Friends, Working Colleagues, Neighbors & Communities, dan The World**, disertai AI-mediated communication sebagai alat bantu refleksi, latihan, dan peningkatan performa. Pendekatan experiential, roleplay, dan AI-assisted reflection ini konsisten dengan desain dasar mata kuliah. 

@@ -1,0 +1,2576 @@
+# MINGGU 10 — BASEBALL MODEL IV: ACTION
+
+:::{.callout-tip}
+## Dari “Saya Menginginkannya” menuju “Kita Sepakat Melakukannya”
+
+**Mata Kuliah:** Person-Centered Communication in the AI Era  
+**Tingkat:** Mahasiswa Tahun 2  
+**Durasi:** 2 jam  
+**Domain:** Working Colleagues  
+**Tema Besar:** *How do we move from Desire to Agreement and Coordinated Action?*
+:::
+
+---
+
+## 1. Kita Sudah Sampai di Home Base
+
+Selama beberapa minggu terakhir kita menggunakan **Baseball Model / TAIDA**:
+
+> **TARGET → ATTENTION → INTEREST → DESIRE → ACTION**
+
+Minggu 6:
+
+> **TARGET → ATTENTION**
+
+Person mengatakan:
+
+> “Ya, ini memang problem atau opportunity yang relevan bagi saya.”
+
+Minggu 7:
+
+> **ATTENTION → INTEREST**
+
+Person mengatakan:
+
+> “Solusi itu menarik. Saya ingin tahu lebih jauh.”
+
+Minggu 9:
+
+> **INTEREST → DESIRE**
+
+Person mengatakan:
+
+> “Kalau hasilnya seperti itu, saya menginginkannya.”
+
+Sekarang kita menghadapi pertanyaan terakhir:
+
+> **Bagaimana Desire diubah menjadi Action?**
+
+Karena:
+
+> **Wanting is not yet doing.**
+
+---
+
+## 2. Home Base
+
+Pada Baseball Model, **Action** adalah Home Base.
+
+Tetapi Action bukan sekadar:
+
+> “Ya.”
+
+Action berarti telah terbentuk cukup agreement sehingga persons dapat melakukan:
+
+> **coordinated action.**
+
+Maka Home Base sebenarnya mempunyai struktur:
+
+> **DESIRE → FEASIBILITY → NEGOTIATION → AGREEMENT → COMMITMENT → ACTION**
+
+---
+
+## 3. Pitch Keempat
+
+Versi sederhana pitch keempat adalah:
+
+> **“You can afford it.”**
+
+Tetapi *afford* di sini lebih luas daripada harga.
+
+Pitch yang lebih lengkap:
+
+> **“Outcome ini feasible bagi kita. Mari kita sepakati apa yang akan dilakukan, oleh siapa, kapan, dan dengan kondisi apa.”**
+
+Atau secara conversational:
+
+> **“Kalau ini memang outcome yang kita inginkan, apa yang diperlukan agar kita bisa benar-benar melakukannya?”**
+
+---
+
+## 4. Learning Objectives Minggu 10
+
+Setelah mengikuti pertemuan ini mahasiswa mampu:
+
+1. membedakan **Desire** dari **Action**;
+2. mengenali barriers yang menghalangi person bertindak;
+3. memahami affordability sebagai uang, waktu, effort, risk, dan change;
+4. membedakan **wish, intention, commitment, agreement, dan action**;
+5. melakukan negotiation sederhana;
+6. mengubah vague agreement menjadi explicit agreement;
+7. membuat commitment yang mempunyai **who, what, when, dan evidence**;
+8. mengenali authority dan responsibility;
+9. menggunakan communication untuk mencapai acceptable agreement;
+10. menjaga relationship ketika melakukan negotiation;
+11. menggunakan AI untuk preparation, option generation, dan agreement review;
+12. memahami bahwa agreement yang baik harus tetap berada di bawah human authority.
+
+---
+
+## 5. Desire Tidak Otomatis Menjadi Action
+
+Bayangkan seseorang mengatakan:
+
+> “Saya ingin olahraga secara teratur.”
+
+Apakah ia pasti:
+
+> olahraga?
+
+Tidak.
+
+Mahasiswa mengatakan:
+
+> “Saya ingin menyelesaikan tugas lebih awal.”
+
+Belum tentu terjadi.
+
+Customer mengatakan:
+
+> “Saya sangat suka sistem Anda.”
+
+Belum tentu membeli.
+
+Manager mengatakan:
+
+> “Ide ini bagus.”
+
+Belum tentu memberi budget.
+
+Maka terdapat:
+
+> **Intention–Action Gap.**
+
+---
+
+## 6. Desire–Action Gap
+
+Secara konseptual:
+
+\[
+Desire \neq Action
+\]
+
+Di antaranya terdapat barriers.
+
+Misalnya:
+
+- terlalu mahal,
+- tidak ada waktu,
+- tidak mempunyai authority,
+- takut risiko,
+- tidak ada resource,
+- belum jelas siapa melakukan apa,
+- orang lain harus menyetujui,
+- terlalu sulit,
+- priority lain lebih tinggi.
+
+Maka communication harus menemukan:
+
+> **What prevents action?**
+
+---
+
+## 7. Dari “Saya Mau” ke “Apa yang Menghalangi?”
+
+Contoh:
+
+Customer:
+
+> “Saya ingin sistem seperti ini.”
+
+Communicator yang terlalu cepat:
+
+> “Bagus. Jadi beli ya?”
+
+Person-centered communicator:
+
+> “Apa yang masih perlu dipastikan sebelum Anda dapat mengambil keputusan?”
+
+Customer:
+
+> “Saya perlu memastikan staff tidak terganggu saat implementasi.”
+
+Sekarang kita menemukan:
+
+> **barrier.**
+
+---
+
+## 8. Affordability Lebih Luas daripada Harga
+
+Kata:
+
+> **“Can you afford it?”**
+
+sering hanya diasosiasikan dengan uang.
+
+Dalam framework ini:
+
+\[
+Affordability =
+Money + Time + Effort + Risk + Change
+\]
+
+Bukan formula hitung literal.
+
+Ini checklist berpikir.
+
+Person harus merasa solution cukup feasible pada berbagai dimensi.
+
+---
+
+## 9. Financial Affordability
+
+Pertanyaan:
+
+> “Apakah ada budget?”
+
+Contoh:
+
+Solution:
+
+> Rp10 juta.
+
+Tetapi budget target:
+
+> Rp3 juta.
+
+Maka Desire ada.
+
+Action belum feasible.
+
+Communication perlu mencari:
+
+- smaller scope,
+- phased implementation,
+- alternative solution,
+- different funding.
+
+---
+
+## 10. Time Affordability
+
+Solution mungkin murah tetapi memerlukan:
+
+> tiga minggu implementasi.
+
+Customer mempunyai:
+
+> deadline lima hari.
+
+Maka:
+
+> technically desirable,
+
+tetapi:
+
+> temporally infeasible.
+
+Possible negotiation:
+
+> fungsi inti lima hari,
+
+> fitur tambahan kemudian.
+
+---
+
+## 11. Effort Affordability
+
+Tool dapat gratis.
+
+Tetapi:
+
+> seluruh staff harus training 20 jam.
+
+Cost uang kecil.
+
+Cost effort:
+
+> besar.
+
+Maka good communicator menanyakan:
+
+> “Berapa besar perubahan workflow yang realistis bagi tim?”
+
+---
+
+## 12. Risk Affordability
+
+Solution mungkin:
+
+- murah,
+- cepat,
+- mudah,
+
+tetapi mempunyai:
+
+> security risk.
+
+Atau:
+
+> kemungkinan downtime tinggi.
+
+Target mungkin tetap tidak bertindak.
+
+Karena:
+
+> **risk cost** terlalu besar.
+
+---
+
+## 13. Change Affordability
+
+Setiap solution mengubah sesuatu.
+
+Kadang problem bukan pada technology.
+
+Problem adalah:
+
+> **change.**
+
+Contoh:
+
+> “Semua data harus mulai menggunakan format baru.”
+
+Secara technical sederhana.
+
+Tetapi 100 orang harus:
+
+> mengubah kebiasaan.
+
+Communication perlu mempertimbangkan:
+
+> human change cost.
+
+---
+
+## 14. Action Membutuhkan Feasibility
+
+Sebelum meminta commitment, pastikan:
+
+> **Can this person realistically act?**
+
+Tanyakan:
+
+### MONEY
+
+> Apakah financial resource tersedia?
+
+### TIME
+
+> Apakah jadwal memungkinkan?
+
+### CAPABILITY
+
+> Apakah orang mempunyai skill/resource?
+
+### AUTHORITY
+
+> Apakah ia mempunyai hak memutuskan?
+
+### RISK
+
+> Apakah risk dapat diterima?
+
+---
+
+## 15. Authority: Orang yang Ingin Belum Tentu Orang yang Dapat Memutuskan
+
+Bayangkan mahasiswa mempresentasikan aplikasi kepada staff.
+
+Staff berkata:
+
+> “Saya sangat ingin menggunakan ini.”
+
+Tetapi:
+
+> keputusan pembelian berada pada manager.
+
+Maka state kita sebenarnya:
+
+> **User Desire**
+
+belum:
+
+> **Organizational Action.**
+
+Communicator perlu bertanya:
+
+> “Siapa lagi yang perlu terlibat agar kita dapat mengambil keputusan?”
+
+---
+
+## 16. Person Mapping Kembali Penting
+
+Action sering melibatkan lebih dari satu person.
+
+Misalnya:
+
+> User menginginkan solution.
+
+> IT harus menyetujui integration.
+
+> Finance harus menyetujui cost.
+
+> Manager mempunyai authority.
+
+Maka:
+
+> **Desire may be individual; Action may be multi-person.**
+
+Ini akan membawa kita menuju materi negotiation dan multi-stakeholder communication.
+
+---
+
+## 17. Wish, Intention, Commitment, Agreement, Action
+
+Kita perlu membedakan lima tingkat.
+
+### WISH
+
+> “Saya ingin ini terjadi.”
+
+Tidak ada plan.
+
+---
+
+### INTENTION
+
+> “Saya berniat melakukannya.”
+
+Sudah ada arah.
+
+---
+
+### COMMITMENT
+
+> “Saya akan melakukannya.”
+
+Ada responsibility.
+
+---
+
+### AGREEMENT
+
+> “Kita sepakat siapa melakukan apa dan kapan.”
+
+Ada coordination.
+
+---
+
+### ACTION
+
+> “Kita benar-benar mulai melakukan.”
+
+---
+
+## 18. Communication Harus Membantu Bergerak Antar-Level
+
+Contoh:
+
+> “Kita harus lebih sering meeting.”
+
+Itu:
+
+> wish.
+
+Lebih jelas:
+
+> “Saya usulkan kita meeting setiap Senin.”
+
+Itu:
+
+> proposal/intention.
+
+Lebih konkret:
+
+> “Mulai Senin depan kita meeting 30 menit pukul 09.00.”
+
+Mulai menjadi:
+
+> agreement.
+
+Jika anggota menjawab:
+
+> “Setuju.”
+
+dan kalender dibuat:
+
+> commitment semakin nyata.
+
+---
+
+## 19. Vague Agreement
+
+Banyak communication failure terjadi karena orang berpikir:
+
+> sudah sepakat.
+
+Padahal agreement terlalu vague.
+
+Contoh:
+
+> “Nanti kita follow-up.”
+
+Kapan?
+
+Siapa?
+
+Follow-up apa?
+
+---
+
+## 20. Explicit Agreement
+
+Bandingkan:
+
+> “Nanti saya kirim.”
+
+dengan:
+
+> “Saya akan mengirim revised design melalui email besok sebelum pukul 12.00.”
+
+Sekarang terdapat:
+
+> **WHO + WHAT + WHEN**
+
+---
+
+## 21. Agreement Formula
+
+Gunakan formula sangat sederhana:
+
+\[
+Agreement = WHO + WHAT + WHEN + EVIDENCE
+\]
+
+### WHO
+
+Siapa responsible?
+
+### WHAT
+
+Apa yang dilakukan?
+
+### WHEN
+
+Kapan?
+
+### EVIDENCE
+
+Bagaimana kita tahu selesai?
+
+---
+
+## 22. Contoh
+
+### Weak
+
+> “Budi akan mengerjakan database.”
+
+### Stronger
+
+> “Budi akan menyelesaikan schema database dan meng-upload SQL file ke repository sebelum Jumat pukul 17.00.”
+
+Evidence:
+
+> file tersedia di repository.
+
+---
+
+## 23. Why Evidence?
+
+Karena kata:
+
+> “selesai”
+
+dapat berarti berbeda.
+
+Engineer:
+
+> code selesai ditulis.
+
+Tester:
+
+> belum selesai karena belum diuji.
+
+Manager:
+
+> belum selesai karena belum deployed.
+
+Maka agreement perlu:
+
+> shared definition of done.
+
+---
+
+## 24. Definition of Done
+
+Contoh:
+
+> “Presentation selesai.”
+
+Apa artinya?
+
+- slides selesai?
+- speaker notes ada?
+- sudah direview?
+- sudah rehearsal?
+
+Good communication memperjelas:
+
+> **What does completion mean?**
+
+---
+
+## 25. Agreement adalah Bridge dari Language ke Reality
+
+Sepanjang kuliah kita membicarakan:
+
+> communication.
+
+Tetapi tujuan akhir bukan:
+
+> menghasilkan kata-kata.
+
+Agreement menghubungkan:
+
+> **language → coordinated action → reality.**
+
+Maka:
+
+\[
+Communication \rightarrow Agreement \rightarrow Action \rightarrow Consequence
+\]
+
+---
+
+## 26. Negotiation
+
+Bagaimana jika kedua person menginginkan outcome, tetapi terms berbeda?
+
+Contoh:
+
+Customer:
+
+> ingin selesai Jumat.
+
+Provider:
+
+> hanya mampu Senin.
+
+Sekarang diperlukan:
+
+> **negotiation.**
+
+Negotiation bukan berarti:
+
+> berdebat sampai salah satu kalah.
+
+Negotiation berarti:
+
+> **mencari konfigurasi yang cukup acceptable bagi persons yang perlu bertindak.**
+
+---
+
+## 27. Position dan Interest
+
+Bedakan:
+
+> **POSITION**
+
+dan:
+
+> **INTEREST.**
+
+Customer mengatakan:
+
+> “Harus selesai Jumat.”
+
+Itu position.
+
+Tanyakan:
+
+> “Apa yang membuat Jumat penting?”
+
+Customer:
+
+> “Ada demo kepada investor hari Sabtu.”
+
+Sekarang kita menemukan:
+
+> **interest.**
+
+Mungkin customer tidak membutuhkan:
+
+> seluruh solution Jumat.
+
+Ia membutuhkan:
+
+> demoable core.
+
+Sekarang ruang negotiation terbuka.
+
+---
+
+## 28. Position
+
+Position adalah:
+
+> apa yang diminta.
+
+Contoh:
+
+> “Harga maksimal Rp5 juta.”
+
+---
+
+## 29. Interest
+
+Interest adalah:
+
+> mengapa hal itu penting.
+
+Mungkin:
+
+> budget quarter ini terbatas.
+
+Jika pembayaran dapat dibagi:
+
+> agreement baru mungkin muncul.
+
+---
+
+## 30. Negotiation melalui Understanding
+
+Model sederhana:
+
+> **POSITION A**
+
+↓ ask why
+
+> **INTEREST A**
+
++
+
+> **POSITION B**
+
+↓ ask why
+
+> **INTEREST B**
+
+↓
+
+> **GENERATE OPTIONS**
+
+↓
+
+> **TEST ACCEPTABILITY**
+
+↓
+
+> **AGREEMENT**
+
+---
+
+## 31. Example
+
+Customer:
+
+> “Saya mau seluruh sistem selesai dua minggu.”
+
+Provider:
+
+> “Kami membutuhkan empat minggu.”
+
+Jika hanya position:
+
+> 2 vs 4.
+
+Deadlock.
+
+Tanyakan interest.
+
+Customer:
+
+> “Kami harus mulai pilot dua minggu lagi.”
+
+Provider:
+
+> “Kalau yang dibutuhkan pilot, kami bisa membuat core functionality dalam dua minggu dan complete version dua minggu sesudahnya.”
+
+Possible agreement:
+
+> **Pilot Week 2 + Full Deployment Week 4**
+
+Communication membuka ruang solution baru.
+
+---
+
+## 32. Acceptable Agreement
+
+Agreement tidak harus:
+
+> sempurna untuk semua pihak.
+
+Ia harus:
+
+> cukup acceptable.
+
+Jika A mendapatkan 100% keinginannya tetapi B dirugikan secara tidak sustainable:
+
+> relationship kemungkinan rusak.
+
+Kita mencari:
+
+> **mutually acceptable configuration.**
+
+---
+
+## 33. Secara Konseptual
+
+Jika:
+
+\[
+A_A = set\ of\ outcomes\ acceptable\ to\ Person\ A
+\]
+
+dan:
+
+\[
+A_B = set\ of\ outcomes\ acceptable\ to\ Person\ B
+\]
+
+maka kita mencari:
+
+\[
+Agreement \in A_A \cap A_B
+\]
+
+Mahasiswa tidak perlu mengerjakan matematikanya.
+
+Konsepnya:
+
+> **Cari daerah di mana kedua pihak masih dapat mengatakan yes.**
+
+---
+
+## 34. Jika Tidak Ada Intersection?
+
+Kadang tidak ada agreement.
+
+Customer maximum budget:
+
+> Rp5 juta.
+
+Minimum sustainable provider:
+
+> Rp10 juta.
+
+Tidak ada overlap untuk scope yang sama.
+
+Good communication tidak memaksa.
+
+Possible responses:
+
+- reduce scope,
+- change timing,
+- find alternative provider,
+- postpone,
+- conclude no deal.
+
+---
+
+## 35. No Agreement Can Be a Good Outcome
+
+Ini penting.
+
+Success communication bukan selalu:
+
+> deal.
+
+Kadang outcome paling sehat adalah:
+
+> **“Kita memahami bahwa saat ini belum ada arrangement yang feasible.”**
+
+Relationship tetap dapat:
+
+> dipertahankan.
+
+---
+
+## 36. Jangan Menjanjikan yang Tidak Dapat Dilakukan
+
+Desire target tinggi.
+
+Communicator ingin Home Base.
+
+Godaan:
+
+> overpromise.
+
+Customer:
+
+> “Bisa selesai tiga hari?”
+
+Communicator:
+
+> “Bisa.”
+
+Padahal tahu:
+
+> tidak realistis.
+
+Mungkin mendapatkan Action hari ini.
+
+Tetapi merusak:
+
+> trust besok.
+
+Maka:
+
+> **Sustainable agreement > immediate agreement.**
+
+---
+
+## 37. Commitment Harus Credible
+
+Commitment yang baik memenuhi:
+
+- realistic,
+- understood,
+- voluntary,
+- specific,
+- owned.
+
+Jika seseorang berkata:
+
+> “Ya, ya.”
+
+karena pressure,
+
+itu mungkin bukan:
+
+> real commitment.
+
+---
+
+## 38. Agreement Check
+
+Setelah negotiation, jangan hanya berkata:
+
+> “Okay.”
+
+Summarize:
+
+> “Jadi kita sepakat bahwa…”
+
+Kemudian sebutkan:
+
+- scope,
+- responsibility,
+- deadline,
+- next step.
+
+Lalu:
+
+> “Apakah itu juga understanding Anda?”
+
+Ini mencegah:
+
+> false agreement.
+
+---
+
+## 39. Example Agreement Check
+
+> “Jadi kita sepakat pilot dilakukan pada satu tenant selama dua minggu. Tim kami menyiapkan prototype sebelum Senin, pihak Anda menyediakan data menu sebelum Jumat, dan setelah dua minggu kita review waktu antrean. Betul?”
+
+Target:
+
+> “Ya.”
+
+Sekarang shared meaning jauh lebih jelas.
+
+---
+
+## 40. Written Confirmation
+
+Untuk professional communication, agreement penting sebaiknya:
+
+> dicatat.
+
+Tidak harus kontrak legal.
+
+Bisa:
+
+- email,
+- message,
+- meeting notes,
+- task board,
+- shared document.
+
+Tujuan:
+
+> external shared memory.
+
+---
+
+## 41. Communication Memory
+
+Human memory berbeda-beda.
+
+A ingat:
+
+> “Kita sepakat Jumat.”
+
+B ingat:
+
+> “Katanya sekitar akhir minggu.”
+
+Written agreement mengurangi:
+
+> relationship conflict karena memory mismatch.
+
+---
+
+## 42. Action Requires Next Step
+
+Agreement besar sering gagal karena:
+
+> next action tidak jelas.
+
+Misalnya:
+
+> “Kita sepakat menjalankan project ini.”
+
+Lalu semua pulang.
+
+Pertanyaan:
+
+> **Apa yang terjadi besok pagi?**
+
+Home Base harus menghasilkan:
+
+> **next observable action.**
+
+---
+
+## 43. Minimum Next Action
+
+Contoh:
+
+> “Besok saya akan membuat repository.”
+
+> “Anda mengirim sample data sebelum pukul 15.00.”
+
+> “Kita jadwalkan pilot hari Senin.”
+
+Action tidak harus:
+
+> menyelesaikan seluruh project.
+
+Cukup:
+
+> membuat movement nyata.
+
+---
+
+## 44. Commitment Loop
+
+Model:
+
+> **AGREEMENT**  
+> ↓  
+> **ACTION**  
+> ↓  
+> **OBSERVE RESULT**  
+> ↓  
+> **COMMUNICATE**  
+> ↓  
+> **UPDATE AGREEMENT**
+
+Agreement tidak selalu final.
+
+Real world berubah.
+
+Maka professional relationship membutuhkan:
+
+> continuous communication.
+
+---
+
+## 45. Baseball Tidak Berakhir Selamanya di Home Base
+
+Setelah Action:
+
+> muncul consequence.
+
+Mungkin:
+
+- berhasil,
+- gagal,
+- muncul problem baru,
+- target berubah.
+
+Kemudian communication cycle dimulai lagi.
+
+Jadi TAIDA sebenarnya dapat menjadi:
+
+> **repeated relationship cycle.**
+
+---
+
+## 46. Relationship after Agreement
+
+Kita selalu mengukur dua hal:
+
+### TASK OUTCOME
+
+> Apakah action tercapai?
+
+### RELATIONSHIP OUTCOME
+
+> Bagaimana trust setelah agreement?
+
+Jika kita memenangkan negotiation tetapi pihak lain merasa:
+
+> ditipu,
+
+relationship melemah.
+
+---
+
+## 47. Agreement Quality
+
+Agreement yang sehat memiliki:
+
+### CLARITY
+
+Semua memahami.
+
+### FEASIBILITY
+
+Dapat dilakukan.
+
+### MUTUAL ACCEPTABILITY
+
+Cukup acceptable.
+
+### RESPONSIBILITY
+
+Siapa melakukan apa jelas.
+
+### ACCOUNTABILITY
+
+Dapat diperiksa.
+
+### RELATIONSHIP SUSTAINABILITY
+
+Tidak mengandalkan exploitation.
+
+---
+
+## 48. Action dan Character
+
+Professional character memengaruhi authority.
+
+### Engineer
+
+Dapat commit:
+
+> technical analysis.
+
+Belum tentu dapat commit:
+
+> company budget.
+
+### Manager
+
+Dapat commit:
+
+> team resource.
+
+### Customer User
+
+Dapat commit:
+
+> pilot participation.
+
+Belum tentu:
+
+> procurement.
+
+Jadi sebelum membuat agreement:
+
+> **Check authority.**
+
+---
+
+## 49. Never Accept a Commitment from the Wrong Character
+
+Misalnya staff berkata:
+
+> “Saya yakin perusahaan akan membeli.”
+
+Tetapi staff tidak mempunyai authority.
+
+Treat as:
+
+> Interest/Desire signal.
+
+Bukan:
+
+> final organizational agreement.
+
+Tanya:
+
+> “Siapa yang perlu terlibat dalam keputusan berikutnya?”
+
+---
+
+## 50. Professional Honesty
+
+Jika kita juga tidak mempunyai authority:
+
+> katakan.
+
+Contoh:
+
+> “Saya bisa commit membuat technical proposal besok, tetapi harga final harus disetujui manager saya.”
+
+Ini lebih baik daripada:
+
+> acting with authority we do not have.
+
+---
+
+## 51. Baseball Model Lengkap
+
+Sekarang mahasiswa telah mengenal seluruh perjalanan:
+
+### TARGET
+
+> Siapa person yang relevan?
+
+### ATTENTION
+
+> “Ya, ini problem/opportunity saya.”
+
+### INTEREST
+
+> “Ada possible solution yang ingin saya pahami.”
+
+### DESIRE
+
+> “Saya menginginkan outcome tersebut.”
+
+### ACTION
+
+> “Kita sepakat melakukan ini.”
+
+---
+
+## 52. Four Pitches Revisited
+
+### PITCH 1 — ATTENTION
+
+> **“Saya melihat Anda mempunyai problem/opportunity.”**
+
+### PITCH 2 — INTEREST
+
+> **“Saya mempunyai sesuatu yang mungkin membantu.”**
+
+### PITCH 3 — DESIRE
+
+> **“Begini cara kerjanya dan benefit yang dapat Anda peroleh.”**
+
+### PITCH 4 — ACTION
+
+> **“Ini feasible. Mari kita sepakati apa yang perlu dilakukan berikutnya.”**
+
+---
+
+## 53. Tetapi TAIDA Bukan Four-Sentence Script
+
+TAIDA adalah:
+
+> **state model.**
+
+Kita tidak harus mengatakan empat kalimat tersebut secara literal.
+
+Dalam conversation nyata:
+
+> person dapat langsung berada di Interest.
+
+Atau:
+
+> kembali dari Desire ke Attention setelah menemukan problem baru.
+
+Good communicator:
+
+> membaca state,
+
+bukan:
+
+> menjalankan script secara mekanis.
+
+---
+
+## 54. Example Complete Conversation
+
+Customer:
+
+> “Kalau sistem ini bisa mengurangi reporting dari tiga jam menjadi 30 menit, saya memang ingin mencobanya.”
+
+**Desire reached.**
+
+Communicator:
+
+> “Apa yang masih perlu dipastikan sebelum pilot bisa dilakukan?”
+
+Customer:
+
+> “Kami tidak ingin mengubah seluruh workflow.”
+
+Communicator:
+
+> “Bagaimana kalau pilot hanya menggunakan satu laporan mingguan dan spreadsheet yang sekarang tetap dipakai?”
+
+Customer:
+
+> “Itu bisa.”
+
+Communicator:
+
+> “Untuk pilot, kami butuh sample data dan format laporan Anda.”
+
+Customer:
+
+> “Kami bisa berikan Jumat.”
+
+Communicator:
+
+> “Tim kami menyiapkan prototype Selasa depan. Setelah itu kita coba selama dua minggu dan review hasilnya. Apakah itu feasible?”
+
+Customer:
+
+> “Ya.”
+
+Communicator:
+
+> “Baik. Jadi pihak Anda mengirim sample Jumat, kami menyiapkan prototype Selasa, lalu pilot dua minggu. Saya kirim ringkasannya setelah meeting ini.”
+
+**Agreement → Action.**
+
+---
+
+## 55. Why It Works
+
+Communicator tidak langsung:
+
+> “Sign here.”
+
+Ia menemukan:
+
+> remaining barrier.
+
+Kemudian:
+
+> mengurangi scope.
+
+Membuat:
+
+> feasible pilot.
+
+Memperjelas:
+
+> who, what, when.
+
+Mengonfirmasi:
+
+> agreement.
+
+---
+
+## 56. Personal Life Juga Membutuhkan Agreement
+
+Walaupun minggu ini berada dalam professional domain, prinsip ini berlaku di personal life.
+
+Contoh:
+
+> “Kita harus lebih sering ketemu.”
+
+Vague.
+
+Lebih actionable:
+
+> “Bagaimana kalau makan malam bersama Sabtu pertama setiap bulan?”
+
+Atau:
+
+> “Saya ingin kita lebih baik dalam membagi pekerjaan rumah.”
+
+Actionable agreement:
+
+> “Saya menyiapkan sarapan, kamu menangani makan malam selama hari kerja.”
+
+Relationship juga membutuhkan:
+
+> clear expectation.
+
+---
+
+## 57. Intra-Self Agreement
+
+Bahkan diri sendiri.
+
+Vague:
+
+> “Saya akan belajar lebih rajin.”
+
+Explicit:
+
+> “Senin sampai Kamis saya belajar 45 menit setelah makan malam tanpa membuka media sosial.”
+
+Maka pola:
+
+> **Objective → Commitment → Action**
+
+berlaku pada lima domain.
+
+---
+
+## 58. Agreement Tidak Berarti Semua Orang Berpikir Sama
+
+Ini sangat penting.
+
+Kita dapat berbeda:
+
+- preference,
+- theory,
+- belief,
+- opinion,
+
+tetapi tetap sepakat:
+
+> apa yang akan dilakukan bersama.
+
+Contoh:
+
+Dua anggota team berbeda pendapat tentang architecture.
+
+Mereka dapat agree:
+
+> “Kita akan test kedua approach dengan benchmark yang sama lalu memilih berdasarkan hasil.”
+
+Tidak ada:
+
+> intellectual consensus.
+
+Tetapi ada:
+
+> **action agreement.**
+
+---
+
+## 59. Agreement Can Manage Disagreement
+
+Communication success tidak selalu:
+
+> membuat semua pihak berpikir sama.
+
+Lebih realistic:
+
+> **make disagreement manageable enough for coordinated action.**
+
+Ini sangat penting ketika nanti masuk ke:
+
+> community communication.
+
+---
+
+## 60. AI sebagai Negotiation Preparation Assistant
+
+Sebelum conversation, AI dapat membantu:
+
+- memetakan positions,
+- mengidentifikasi possible interests,
+- menghasilkan options,
+- menemukan ambiguity,
+- mensimulasikan objections.
+
+Contoh prompt:
+
+> Customer ingin implementasi dua minggu, sedangkan tim kami membutuhkan empat minggu. Bantu saya menghasilkan lima kemungkinan arrangement yang tidak membuat janji palsu. Bedakan position, possible interest, dan trade-off. Jangan asumsikan customer pasti menerima.
+
+---
+
+## 61. AI sebagai Negotiation Simulator
+
+Prompt:
+
+> Anda adalah customer yang sangat menginginkan solution tetapi hanya mempunyai budget 60% dari harga yang kami ajukan. Prioritas utama Anda adalah core functionality, bukan customization. Jangan langsung menerima proposal pertama saya.
+
+Mahasiswa melakukan:
+
+> negotiation practice.
+
+---
+
+## 62. AI sebagai Agreement Reviewer
+
+Setelah meeting:
+
+> “Review agreement berikut. Identifikasi ambiguity mengenai responsibility, deadline, scope, evidence of completion, dan unresolved assumptions.”
+
+Ini sangat berguna.
+
+AI dapat menemukan:
+
+> “segera,”
+
+> “sesuai kebutuhan,”
+
+> “nanti,”
+
+yang terlalu vague.
+
+---
+
+## 63. AI sebagai Meeting Summarizer
+
+AI dapat membantu menghasilkan:
+
+- decisions,
+- commitments,
+- owners,
+- deadlines,
+- unresolved issues.
+
+Tetapi:
+
+> manusia harus verify.
+
+Karena salah summary dapat menciptakan:
+
+> false agreement.
+
+---
+
+## 64. AI Tidak Memiliki Authority Secara Otomatis
+
+Jika AI mengatakan:
+
+> “Deal accepted.”
+
+Itu tidak berarti:
+
+> human principal telah setuju.
+
+Agent hanya boleh membuat commitment jika:
+
+> authority memang didelegasikan.
+
+Prinsip penting:
+
+> **AI can assist agreement; human persons own consequential commitments unless explicitly delegated.**
+
+---
+
+## 65. AI Agent Negotiation
+
+Dalam situasi tertentu nanti dapat digunakan:
+
+> **Agent A ⇄ Agent B**
+
+Contoh:
+
+- scheduling,
+- routine purchasing,
+- standardized terms.
+
+Tetapi boundaries harus jelas:
+
+> maximum price,
+
+> acceptable dates,
+
+> prohibited commitments.
+
+Agent tidak boleh:
+
+> invent authority.
+
+---
+
+## 66. Human-Centered Model
+
+Untuk banyak komunikasi penting, model yang lebih tepat:
+
+> **PERSON A + AI COPILOT ⇄ PERSON B + AI COPILOT**
+
+AI membantu.
+
+Person:
+
+> understands,
+
+> judges,
+
+> agrees,
+
+> commits.
+
+---
+
+## 67. Ethical Negotiation
+
+Negotiation bukan:
+
+> menemukan kelemahan lawan.
+
+Person-centered negotiation mencari:
+
+> **acceptable agreement while respecting autonomy and relationship.**
+
+Tidak boleh:
+
+- misleading urgency,
+- hiding material information,
+- exploiting emotional vulnerability,
+- false scarcity,
+- fake alternatives.
+
+---
+
+## 68. Pressure vs Commitment
+
+Jika seseorang berkata yes karena:
+
+> pressure,
+
+commitment mungkin rendah.
+
+Jika seseorang berkata yes karena:
+
+- understands,
+- considers feasible,
+- accepts terms,
+
+commitment lebih kuat.
+
+Maka:
+
+> **quality of agreement matters more than speed of agreement.**
+
+---
+
+## 69. Latihan 1 — Desire or Action?
+
+Tentukan state.
+
+### A
+
+> “Saya benar-benar ingin sistem seperti ini.”
+
+**Desire**
+
+### B
+
+> “Kalau budget tersedia, saya ingin coba.”
+
+**Desire + Barrier**
+
+### C
+
+> “Mari kita coba satu unit mulai Senin.”
+
+**Action/Commitment**
+
+### D
+
+> “Bisa kirim proposal?”
+
+**Approaching Action**
+
+### E
+
+> “Saya akan kirim data Jumat dan Anda buat prototype Selasa.”
+
+**Agreement**
+
+---
+
+## 70. Latihan 2 — Find the Barrier
+
+Target mengatakan:
+
+> “Saya ingin, tapi…”
+
+Mahasiswa mengidentifikasi barrier.
+
+### A
+
+> “…budget bulan ini sudah habis.”
+
+**Money**
+
+### B
+
+> “…team sedang deadline.”
+
+**Time/Effort**
+
+### C
+
+> “…saya tidak punya authority.”
+
+**Authority**
+
+### D
+
+> “…kami takut data bocor.”
+
+**Risk**
+
+### E
+
+> “…semua staff harus belajar ulang.”
+
+**Change/Effort**
+
+---
+
+## 71. Latihan 3 — Vague to Explicit
+
+Ubah:
+
+> “Nanti kita meeting.”
+
+menjadi:
+
+> “Kita meeting Rabu pukul 10.00 selama 30 menit melalui Teams untuk memilih dua alternatif design.”
+
+Ubah:
+
+> “Saya selesaikan segera.”
+
+> “Kita coba dulu.”
+
+> “Nanti saya hubungi.”
+
+> “Kita improve komunikasi.”
+
+Tujuan:
+
+> **Who + What + When + Evidence.**
+
+---
+
+## 72. Latihan 4 — Position vs Interest
+
+### Position
+
+> “Saya mau Jumat.”
+
+Tanyakan:
+
+> “Mengapa Jumat?”
+
+### Position
+
+> “Budget maksimal Rp5 juta.”
+
+Tanyakan:
+
+> “Apa constraint budget tersebut?”
+
+### Position
+
+> “Saya tidak mau software baru.”
+
+Tanyakan:
+
+> “Apa concern utama terhadap software baru?”
+
+Mahasiswa mencari:
+
+> underlying interest.
+
+---
+
+## 73. Latihan 5 — Generate Options
+
+Case:
+
+Customer:
+
+> butuh result dua minggu.
+
+Provider:
+
+> full solution empat minggu.
+
+Generate minimal tiga options:
+
+1. core prototype dua minggu;
+2. phased implementation;
+3. manual workaround + full system later.
+
+Jangan langsung memilih.
+
+Baru:
+
+> test acceptability.
+
+---
+
+## 74. Latihan 6 — Agreement Check
+
+Satu mahasiswa menjelaskan agreement.
+
+Partner harus menemukan:
+
+> ambiguity.
+
+Contoh:
+
+> “Kita akan mencoba pilot minggu depan.”
+
+Pertanyaan partner:
+
+> hari apa?
+
+> siapa?
+
+> berapa lama?
+
+> apa success criteria?
+
+> siapa review?
+
+---
+
+## 75. Mini Performance — Desire to Action
+
+Mahasiswa berpasangan.
+
+### Student A
+
+Communicator/provider/team leader.
+
+### Student B
+
+Target person yang sudah berada di **Desire**.
+
+Target:
+
+> menginginkan outcome,
+
+tetapi memiliki hidden barrier.
+
+---
+
+## 76. Contoh Hidden Barrier
+
+- budget hanya 60%;
+- tidak punya authority;
+- deadline terlalu pendek;
+- privacy concern;
+- staff tidak punya waktu training;
+- hanya mau pilot kecil.
+
+Student A tidak tahu barrier sebelumnya.
+
+Harus ditemukan melalui:
+
+> communication.
+
+---
+
+## 77. Performance Objective
+
+Student A harus:
+
+1. confirm Desire;
+2. discover barrier;
+3. understand underlying interest;
+4. generate option;
+5. negotiate;
+6. check feasibility;
+7. form explicit agreement;
+8. define next action.
+
+Durasi:
+
+> **5–7 menit.**
+
+---
+
+## 78. Success Indicator
+
+Bukan sekadar target mengatakan:
+
+> “Okay.”
+
+Harus ada agreement seperti:
+
+> “Kita sepakat mencoba pilot pada satu team selama dua minggu. Anda mengirim data Jumat, saya menyiapkan prototype Selasa, dan kita review hasil pada tanggal 20.”
+
+Itulah:
+
+> **Home Base.**
+
+---
+
+## 79. Acceptable Alternative Outcome
+
+Performance juga bisa berakhir:
+
+> “Setelah dibahas, kita sepakat belum melanjutkan karena budget tidak memungkinkan sampai semester depan.”
+
+Jika communication:
+
+- jujur,
+- jelas,
+- respectful,
+- menghasilkan shared understanding,
+
+itu tetap dapat menjadi:
+
+> good performance.
+
+---
+
+## 80. Rubrik Mini Performance
+
+| Dimensi | Bobot |
+|---|---:|
+| Desire & Barrier Recognition | 20% |
+| Interest/Constraint Discovery | 20% |
+| Negotiation & Option Generation | 20% |
+| Agreement Clarity | 20% |
+| Commitment, Action & Relationship | 20% |
+
+---
+
+## 81. Format Pertemuan 2 Jam
+
+### 0–15 menit — Review Minggu 9
+
+Pertanyaan:
+
+> “Mengapa seseorang yang sangat menginginkan solution tetap belum tentu bertindak?”
+
+---
+
+### 15–40 menit — Lecture
+
+Topik:
+
+- Desire–Action Gap,
+- affordability,
+- authority,
+- commitment,
+- agreement,
+- negotiation.
+
+---
+
+### 40–55 menit — Demonstration
+
+Dosen menunjukkan:
+
+### Poor Closing
+
+> pressure + vague agreement.
+
+versus:
+
+### Person-Centered Closing
+
+> discover barrier + negotiate + explicit agreement.
+
+---
+
+### 55–85 menit — Practice
+
+- Desire or Action?
+- Find the Barrier
+- Vague to Explicit
+- Position vs Interest
+- Generate Options
+
+---
+
+### 85–110 menit — Mini Performance
+
+> **Desire → Action**
+
+---
+
+### 110–120 menit — AI Agreement Review & Reflection
+
+Mahasiswa meminta AI mengidentifikasi:
+
+- ambiguity,
+- missing owner,
+- missing deadline,
+- unresolved constraint,
+- hidden assumption.
+
+---
+
+## 82. Tugas Minggu 10 — Agreement-to-Action Challenge
+
+Jika memungkinkan, gunakan case yang sama sejak Minggu 6.
+
+Mahasiswa sekarang dapat melihat satu complete journey:
+
+> **Target → Attention → Interest → Desire → Action**
+
+---
+
+## 83. Bagian A — CURRENT STATE
+
+Tuliskan evidence bahwa target berada pada:
+
+> **Desire.**
+
+Contoh:
+
+> “Saya ingin mencoba system ini.”
+
+---
+
+## 84. Bagian B — BARRIERS
+
+Identifikasi:
+
+- money,
+- time,
+- effort,
+- authority,
+- risk,
+- change,
+- atau barrier lain.
+
+Pisahkan:
+
+> known fact
+
+dari:
+
+> assumption.
+
+---
+
+## 85. Bagian C — POSITION & INTEREST
+
+Tuliskan minimal satu:
+
+| Position | Underlying Interest |
+|---|---|
+| “Harus selesai Jumat” | Butuh demo Sabtu |
+| | |
+
+Jika interest belum diketahui:
+
+> tanyakan.
+
+---
+
+## 86. Bagian D — OPTIONS
+
+Buat minimal:
+
+> **3 possible arrangements.**
+
+Bukan tiga kalimat persuasive.
+
+Tiga configuration nyata.
+
+---
+
+## 87. Bagian E — NEGOTIATION
+
+Lakukan conversation.
+
+Catat:
+
+- proposal,
+- response,
+- adaptation,
+- trade-off.
+
+---
+
+## 88. Bagian F — FINAL AGREEMENT
+
+Gunakan format:
+
+### WHO?
+
+### DOES WHAT?
+
+### BY WHEN?
+
+### WITH WHAT CONDITIONS?
+
+### WHAT COUNTS AS DONE?
+
+### WHAT IS THE NEXT ACTION?
+
+---
+
+## 89. Bagian G — AGREEMENT STATE
+
+Outcome dapat berupa:
+
+### FULL AGREEMENT
+
+Semua terms cukup jelas.
+
+### PARTIAL AGREEMENT
+
+Sebagian disepakati, sebagian unresolved.
+
+### NO AGREEMENT
+
+Belum ada feasible intersection.
+
+Semua dapat diterima jika dianalisis dengan baik.
+
+---
+
+## 90. Bagian H — RELATIONSHIP
+
+Bagaimana negotiation mempengaruhi:
+
+- trust,
+- respect,
+- willingness to continue?
+
+Berikan evidence.
+
+---
+
+## 91. Bagian I — AI REVIEW
+
+Berikan agreement yang dianonimkan kepada AI.
+
+Minta:
+
+1. temukan ambiguity;
+2. temukan missing responsibility;
+3. temukan missing deadline;
+4. temukan assumption;
+5. identifikasi risk terhadap relationship;
+6. usulkan versi agreement lebih jelas.
+
+Mahasiswa kemudian:
+
+> verify dan edit.
+
+---
+
+## 92. Penilaian Tugas Minggu 10
+
+| Aspek | Bobot |
+|---|---:|
+| Barrier & Constraint Understanding | 20% |
+| Position–Interest Analysis | 20% |
+| Option Generation & Negotiation | 20% |
+| Agreement Clarity | 20% |
+| Action, Relationship & Critical AI Use | 20% |
+
+---
+
+## 93. Home Base Checklist
+
+Sebelum meminta Action:
+
+### DESIRE?
+
+> Apakah target benar-benar menginginkan outcome?
+
+### BARRIER?
+
+> Apa yang masih menghalangi?
+
+### AUTHORITY?
+
+> Apakah person dapat commit?
+
+### AFFORDABLE?
+
+> Money, time, effort, risk, change?
+
+### OPTIONS?
+
+> Adakah lebih dari satu configuration?
+
+---
+
+Setelah negotiation:
+
+### WHO?
+
+> Siapa responsible?
+
+### WHAT?
+
+> Apa yang dilakukan?
+
+### WHEN?
+
+> Kapan?
+
+### DONE?
+
+> Apa evidence selesai?
+
+### NEXT?
+
+> Apa action pertama?
+
+---
+
+## 94. TAIDA sebagai Communication Journey Lengkap
+
+Sekarang seluruh Baseball Model dapat dituliskan:
+
+### TARGET
+
+> **Who matters?**
+
+↓ Pitch
+
+### ATTENTION
+
+> **“This matters to me.”**
+
+↓ Pitch
+
+### INTEREST
+
+> **“This may help me.”**
+
+↓ Pitch
+
+### DESIRE
+
+> **“I want that outcome.”**
+
+↓ Negotiation
+
+### ACTION
+
+> **“We agree to do this.”**
+
+---
+
+## 95. Empat Pitch dalam Bahasa Sederhana
+
+### 1.
+
+> **“Saya melihat Anda mempunyai suatu problem atau opportunity.”**
+
+### 2.
+
+> **“Saya mempunyai sesuatu yang mungkin membantu.”**
+
+### 3.
+
+> **“Begini cara kerjanya dan benefit yang dapat Anda peroleh.”**
+
+### 4.
+
+> **“Ini feasible. Mari kita sepakati langkah berikutnya.”**
+
+---
+
+## 96. Tetapi Purpose Lebih Dalam dari Sales
+
+TAIDA dapat digunakan untuk:
+
+- mengajak teman,
+- mengembangkan project,
+- memimpin team,
+- customer communication,
+- community initiative,
+- public campaign,
+- personal commitment.
+
+Karena prinsip dasarnya adalah:
+
+> **communication moves persons from awareness toward coordinated action.**
+
+---
+
+## 97. Communication as Agreement-Making
+
+Kita sekarang dapat memperluas definisi communication.
+
+Communication bukan hanya:
+
+> transfer of information.
+
+Communication membantu autonomous persons:
+
+> **create sufficient shared understanding to reach acceptable agreements for coordinated action.**
+
+Dalam bentuk ringkas:
+
+\[
+\boxed{
+Communication
+\rightarrow
+Shared\ Understanding
+\rightarrow
+Agreement
+\rightarrow
+Coordinated\ Action
+}
+\]
+
+---
+
+## 98. Relationship Membuat Siklus Berkelanjutan
+
+Tetapi action menghasilkan consequence.
+
+Consequence mempengaruhi:
+
+> relationship.
+
+Maka:
+
+\[
+Communication
+\rightarrow Agreement
+\rightarrow Action
+\rightarrow Consequence
+\rightarrow Relationship
+\rightarrow Future\ Communication
+\]
+
+Jika commitment ditepati:
+
+> trust meningkat.
+
+Jika dilanggar:
+
+> trust menurun.
+
+Relationship menjadi:
+
+> memory of communication + action over time.
+
+---
+
+## 99. Dari Transaction menuju Relationship
+
+Seseorang dapat memperoleh satu transaksi melalui:
+
+> aggressive closing.
+
+Tetapi kehilangan:
+
+> future customer.
+
+Person-centered communication bertanya:
+
+> **Apakah agreement hari ini membuat relationship besok lebih kuat atau lebih lemah?**
+
+Maka:
+
+\[
+\boxed{
+Good\ Agreement =
+Useful\ Action + Sustainable\ Relationship
+}
+\]
+
+---
+
+## 100. Preview Minggu 11
+
+Dengan TAIDA lengkap, kita sudah dapat:
+
+> menemukan target,
+
+> membangun attention,
+
+> interest,
+
+> desire,
+
+> dan action.
+
+Tetapi real life sering melibatkan:
+
+> **lebih dari dua persons.**
+
+Customer, employee, manager, finance, supplier, regulator dapat mempunyai objective berbeda.
+
+Maka Minggu 11 akan bergerak ke:
+
+> **MULTI-PERSON NEGOTIATION**
+
+Pertanyaannya:
+
+> **Bagaimana beberapa persons dengan interests, constraints, dan narrative characters berbeda dapat berkomunikasi untuk menemukan acceptable agreement?**
+
+Kita akan mulai dari:
+
+> **Person A ⇄ Person B**
+
+menuju:
+
+> **Person A ⇄ Person B ⇄ Person C ⇄ Person D**
+
+dan kemudian melihat bagaimana AI agents dapat membantu:
+
+> simulation,
+
+> option generation,
+
+> dan negotiation support.
+
+---
+
+## 101. Take-Home Messages
+
+Jika hanya mengingat sembilan hal dari Minggu 10:
+
+### 1.
+
+> **Desire is not Action.**
+
+### 2.
+
+> **Before asking for commitment, discover what still prevents action.**
+
+### 3.
+
+> **Affordability includes money, time, effort, risk, and change.**
+
+### 4.
+
+> **The person who wants the solution may not be the person who has authority to commit.**
+
+### 5.
+
+> **Negotiate interests, not merely positions.**
+
+### 6.
+
+> **Agreement should specify Who, What, When, and Evidence.**
+
+### 7.
+
+> **No agreement can sometimes be better than a bad agreement.**
+
+### 8.
+
+> **AI can help generate options and review agreements, but consequential authority remains with persons unless explicitly delegated.**
+
+### 9.
+
+> **The quality of Action must be measured together with the quality of the relationship.**
+
+---
+
+## 102. One-Minute Summary
+
+Minggu 6:
+
+> **TARGET → ATTENTION**  
+> “Ini problem/opportunity saya.”
+
+Minggu 7:
+
+> **ATTENTION → INTEREST**  
+> “Solution itu mungkin relevant.”
+
+Minggu 9:
+
+> **INTEREST → DESIRE**  
+> “Saya menginginkan outcome tersebut.”
+
+Minggu 10:
+
+> **DESIRE → ACTION**
+
+Tetapi perjalanan terakhir adalah:
+
+> **DESIRE**  
+> ↓  
+> **DISCOVER BARRIER**  
+> ↓  
+> **CHECK AFFORDABILITY**  
+> ↓  
+> **CHECK AUTHORITY**  
+> ↓  
+> **UNDERSTAND POSITIONS AND INTERESTS**  
+> ↓  
+> **GENERATE OPTIONS**  
+> ↓  
+> **NEGOTIATE**  
+> ↓  
+> **ACCEPTABLE AGREEMENT**  
+> ↓  
+> **WHO + WHAT + WHEN + EVIDENCE**  
+> ↓  
+> **COMMITMENT**  
+> ↓  
+> **ACTION**
+
+Maka Home Base bukan:
+
+> **“Saya berhasil membuat orang berkata yes.”**
+
+Home Base adalah:
+
+> **“Persons yang terlibat memahami apa yang akan dilakukan, menilai arrangement tersebut feasible dan acceptable, membuat commitment yang jelas, dan siap melakukan coordinated action.”**
+
+Dengan ini seluruh **TAIDA Baseball Model** telah lengkap:
+
+\[
+\boxed{
+TARGET
+\rightarrow
+ATTENTION
+\rightarrow
+INTEREST
+\rightarrow
+DESIRE
+\rightarrow
+ACTION
+}
+\]
+
+dan seluruhnya tetap berada dalam framework yang lebih besar:
+
+\[
+\boxed{
+PERSON
+\rightarrow
+CHARACTER
+\rightarrow
+COMMUNICATION
+\rightarrow
+AGREEMENT
+\rightarrow
+ACTION
+\rightarrow
+RELATIONSHIP
+}
+\]
+
+Prinsip akhirnya:
+
+> **Effective communication does not end when the other person understands us. It reaches maturity when persons can transform shared understanding into clear, feasible, ethical agreements for coordinated action—while preserving and growing the relationship.**

@@ -1,0 +1,1961 @@
+# MINGGU 5 — WORKING COLLEAGUES
+
+:::{.callout-tip}
+## Komunikasi untuk Membangun Relasi Profesional dan Menciptakan Nilai Bersama
+
+**Mata Kuliah:** Person-Centered Communication in the AI Era  
+**Tingkat:** Mahasiswa Tahun 2  
+**Durasi:** 2 jam  
+**Domain:** Working Colleagues  
+**Tema Besar:** *How do persons communicate professionally to create value together?*
+:::
+
+---
+
+## 1. Dari Personal Relationship menuju Professional Relationship
+
+Pada empat minggu pertama kita membangun fondasi:
+
+**Minggu 1 — PERSON**  
+> Siapa yang berkomunikasi?
+
+**Minggu 2 — INTRA-SELF**  
+> Apa yang saya katakan kepada diri sendiri?
+
+**Minggu 3 — RELATIONSHIP**  
+> Bagaimana relasi diperoleh, dipelihara, diperbaiki, dan ditumbuhkan?
+
+**Minggu 4 — LANGUAGE**  
+> Bagaimana menemukan bahasa yang tepat bagi person dan character yang berbeda?
+
+Mulai Minggu 5, kita masuk ke domain ketiga:
+
+> **WORKING COLLEAGUES**
+
+Di sini komunikasi memperoleh objective tambahan:
+
+> **people must work together to create value.**
+
+---
+
+## 2. Mengapa Komunikasi Profesional Penting?
+
+Kita sering beranggapan bahwa seseorang diterima bekerja karena:
+
+- pengetahuan,
+- technical skill,
+- sertifikat,
+- kemampuan programming,
+- kemampuan analisis.
+
+Semua itu penting.
+
+Tetapi begitu seseorang masuk ke lingkungan kerja, hampir tidak ada pekerjaan penting yang dilakukan sendirian.
+
+Kita harus berhubungan dengan:
+
+- colleagues,
+- manager,
+- subordinate,
+- customer,
+- supplier,
+- consultant,
+- partner,
+- regulator,
+- stakeholder lainnya.
+
+Maka pertanyaan berubah dari:
+
+> **“Can I do the work?”**
+
+menjadi:
+
+> **“Can we work together?”**
+
+Dan kemampuan bekerja bersama sangat bergantung pada:
+
+> **communication and relationship.**
+
+---
+
+## 3. Learning Objectives Minggu 5
+
+Setelah mengikuti pertemuan ini mahasiswa mampu:
+
+1. menjelaskan professional work sebagai proses **person-to-person value creation**;
+2. membedakan personal relationship dan professional relationship;
+3. mengenali berbagai narrative characters dalam lingkungan kerja;
+4. menjelaskan hubungan antara **employee, colleague, customer, dan value creation**;
+5. menggunakan listening dan questioning untuk menemukan kebutuhan orang lain;
+6. membedakan **problem, need, request, dan proposed solution**;
+7. melakukan simple customer or colleague discovery conversation;
+8. mengubah komunikasi dari **telling** menjadi **understanding before proposing**;
+9. menggunakan AI sebagai preparation dan reflection copilot;
+10. menghasilkan **shared problem statement** sebagai dasar kerja bersama.
+
+---
+
+## 4. Bisnis dan Pekerjaan adalah Relational Systems
+
+Dalam pembahasan sebelumnya kita menggunakan satu gagasan penting:
+
+> **Business does not merely connect products with markets. It connects persons who create value with persons who need value.**
+
+Kita dapat menyederhanakannya menjadi:
+
+> **EMPLOYEE ⇄ CUSTOMER**
+
+Tetapi di dalam organisasi sendiri terdapat:
+
+> **EMPLOYEE ⇄ EMPLOYEE**
+
+dan:
+
+> **EMPLOYEE ⇄ MANAGER**
+
+serta:
+
+> **TEAM ⇄ TEAM**
+
+Maka organisasi sebenarnya merupakan jaringan relationship.
+
+Contoh:
+
+> Programmer membutuhkan requirement dari analyst.
+
+> Analyst membutuhkan pengetahuan dari user.
+
+> User membutuhkan solusi dari perusahaan.
+
+> Manager membutuhkan informasi dari team.
+
+> Customer membutuhkan reliability dari provider.
+
+Nilai tercipta ketika hubungan tersebut bekerja.
+
+---
+
+## 5. Employee dan Customer Bukan Dua Jenis Manusia
+
+Ini konsep penting.
+
+Seseorang mungkin:
+
+> employee di perusahaan A,
+
+tetapi pada sore hari ia menjadi:
+
+> customer restoran,
+
+> customer transportasi,
+
+> customer bank,
+
+> customer internet provider.
+
+Seorang customer bagi kita hampir selalu merupakan:
+
+> worker, professional, entrepreneur, investor, family member, atau contributor
+
+di bagian lain dari society.
+
+Karena itu:
+
+> **Employee dan customer adalah roles atau characters, bukan dua kelas manusia yang permanen.**
+
+Person yang sama dapat berganti character.
+
+---
+
+## 6. PERSON → PROFESSIONAL CHARACTER
+
+Gunakan kembali model utama:
+
+> **PERSON**  
+> ↓  
+> **PERSONALITY**  
+> ↓  
+> **NARRATIVE CHARACTER**
+
+Dalam working environment, seseorang dapat memainkan character:
+
+- Engineer
+- Designer
+- Team Member
+- Project Leader
+- Manager
+- Consultant
+- Customer
+- Supplier
+- Mentor
+- Reviewer
+- Negotiator
+- Decision Maker
+- Problem Owner
+- Solution Provider
+
+Character menentukan:
+
+- objective,
+- responsibility,
+- authority,
+- language,
+- expected action.
+
+---
+
+## 7. Contoh: Satu Person, Beberapa Professional Characters
+
+Bayangkan Rina bekerja di perusahaan software.
+
+Pukul 09.00:
+
+> **Developer**
+
+Objective:
+
+> memperbaiki bug.
+
+Pukul 10.00:
+
+> **Team Member**
+
+Objective:
+
+> menjelaskan progress kepada team.
+
+Pukul 13.00:
+
+> **Technical Adviser**
+
+Objective:
+
+> menjelaskan pilihan architecture.
+
+Pukul 15.00:
+
+> **Service Provider**
+
+Objective:
+
+> memahami complaint customer.
+
+Pukul 17.00:
+
+> **Mentor**
+
+Objective:
+
+> membantu junior engineer belajar.
+
+Person tetap:
+
+> **Rina**
+
+Tetapi communication yang efektif berubah karena character berubah.
+
+---
+
+## 8. Professional Relationship Berbeda dari Personal Relationship
+
+Dalam friendship kita mungkin mempunyai objective utama:
+
+- companionship,
+- belonging,
+- support,
+- intimacy.
+
+Dalam professional relationship kita menambahkan:
+
+- task,
+- responsibility,
+- performance,
+- deadline,
+- quality,
+- value,
+- agreement.
+
+Tetapi professional relationship tetap:
+
+> **human relationship.**
+
+Rekan kerja bukan sekadar:
+
+> “resource.”
+
+Customer bukan sekadar:
+
+> “revenue.”
+
+Manager bukan sekadar:
+
+> “authority.”
+
+Mereka tetap:
+
+> **persons.**
+
+---
+
+## 9. Professional Relationship = Person + Mission
+
+Kita dapat merumuskan:
+
+> **Professional Relationship = Person-to-Person Relationship organized around a shared or negotiated mission.**
+
+Contoh:
+
+### Friend
+
+> “Mari kita makan bersama.”
+
+### Project Team
+
+> “Mari kita selesaikan aplikasi ini sebelum Jumat.”
+
+### Consultant–Customer
+
+> “Mari kita menemukan solusi agar proses pembayaran lebih cepat.”
+
+Jadi professional relationship mempunyai:
+
+> **relationship + objective + responsibility.**
+
+---
+
+## 10. Value Creation
+
+Mengapa kita bekerja bersama?
+
+Karena ada sesuatu yang ingin dihasilkan.
+
+Kita sebut:
+
+> **VALUE**
+
+Value dapat berupa:
+
+- software,
+- service,
+- knowledge,
+- safety,
+- convenience,
+- efficiency,
+- education,
+- health,
+- entertainment,
+- income,
+- social benefit.
+
+Value bukan hanya:
+
+> uang.
+
+Uang menjadi salah satu cara mengukur dan menukar sebagian value.
+
+---
+
+## 11. Value Hanya Ada Jika Ada Person yang Menganggapnya Bernilai
+
+Bayangkan engineer membuat aplikasi yang sangat sophisticated.
+
+Tetapi:
+
+> tidak ada yang membutuhkannya.
+
+Apakah technological achievement tersebut mempunyai value?
+
+Mungkin mempunyai:
+
+> technical value,
+
+tetapi belum tentu:
+
+> customer value.
+
+Karena itu value memerlukan:
+
+> **someone for whom it matters.**
+
+Maka professional communication dimulai dari:
+
+> **understanding the person who receives the value.**
+
+---
+
+## 12. From “What Can I Build?” to “What Problem Matters?”
+
+Kesalahan umum pada mahasiswa technical:
+
+> “Saya bisa membuat AI. Mari kita cari masalah untuk AI.”
+
+Person-centered approach membalik urutan:
+
+> **Who is the person?**
+
+> **What is happening to them?**
+
+> **What matters to them?**
+
+> **What problem or opportunity exists?**
+
+baru kemudian:
+
+> **What can we build or do?**
+
+Urutannya:
+
+> **PERSON → PROBLEM/OPPORTUNITY → VALUE → SOLUTION**
+
+bukan selalu:
+
+> **TECHNOLOGY → SEARCH FOR USER**
+
+---
+
+## 13. Problem Discovery
+
+Sebelum menawarkan solution, kita perlu memahami:
+
+> **problem.**
+
+Misalnya customer mengatakan:
+
+> “Kami butuh aplikasi mobile.”
+
+Kita belum tentu sudah memahami problem.
+
+Kita dapat bertanya:
+
+> “Mengapa aplikasi mobile dibutuhkan?”
+
+Customer:
+
+> “Staff lapangan sulit mengakses sistem.”
+
+Tanya lagi:
+
+> “Mengapa?”
+
+Customer:
+
+> “Sistem hanya tersedia dari komputer kantor.”
+
+Sekarang problem mulai terlihat:
+
+> **staff lapangan membutuhkan akses terhadap informasi saat berada di luar kantor.**
+
+Solution mungkin:
+
+- mobile application,
+- responsive web,
+- messaging bot,
+- device lain.
+
+Jadi:
+
+> **requested solution is not always the real problem.**
+
+---
+
+## 14. Problem, Need, Request, Solution
+
+Bedakan empat hal.
+
+| Konsep | Contoh |
+|---|---|
+| **Problem** | Staff lapangan tidak dapat mengakses data saat bekerja di luar kantor |
+| **Need** | Akses informasi secara aman dari lokasi kerja |
+| **Request** | “Buatkan aplikasi mobile” |
+| **Solution** | Mobile app / responsive web / secure portal |
+
+Jika communicator langsung menerima request sebagai problem, kita bisa:
+
+> membangun solusi yang salah.
+
+---
+
+## 15. Listening Before Proposing
+
+Professional yang immature sering ingin cepat menunjukkan expertise.
+
+Customer:
+
+> “Kami punya masalah pencatatan.”
+
+Engineer:
+
+> “Pakai blockchain saja.”
+
+Ini adalah:
+
+> **solution jumping.**
+
+Professional communicator melakukan:
+
+> **LISTEN → QUESTION → UNDERSTAND → CONFIRM → THEN PROPOSE**
+
+---
+
+## 16. The Discovery Mindset
+
+Dalam discovery conversation, objective pertama bukan:
+
+> menjual.
+
+Bukan pula:
+
+> menunjukkan kecerdasan.
+
+Objective-nya:
+
+> **understand the other person's reality sufficiently well to define a shared problem.**
+
+Itulah dasar professional trust.
+
+---
+
+## 17. Five Discovery Questions
+
+Untuk mahasiswa tingkat 2 gunakan lima pertanyaan sederhana:
+
+### 1. WHAT IS HAPPENING?
+
+> Apa yang terjadi sekarang?
+
+### 2. WHY IS IT A PROBLEM?
+
+> Mengapa hal itu penting?
+
+### 3. WHO IS AFFECTED?
+
+> Siapa yang terkena dampak?
+
+### 4. WHAT WOULD BETTER LOOK LIKE?
+
+> Kalau masalah selesai, kondisi yang diinginkan seperti apa?
+
+### 5. WHAT CONSTRAINS US?
+
+> Apa keterbatasannya?
+
+Ringkas:
+
+> **WHAT → WHY → WHO → BETTER → CONSTRAINT**
+
+---
+
+## 18. Contoh Discovery
+
+Customer:
+
+> “Antrian kantin terlalu panjang.”
+
+Jangan langsung:
+
+> “Saya buat aplikasi ordering.”
+
+Tanyakan:
+
+### What?
+
+> “Paling panjang pada jam berapa?”
+
+### Why?
+
+> “Apa dampaknya?”
+
+> “Mahasiswa sering tidak jadi membeli.”
+
+### Who?
+
+> “Siapa yang paling terkena?”
+
+> “Mahasiswa dan kasir.”
+
+### Better?
+
+> “Kalau prosesnya membaik, targetnya seperti apa?”
+
+> “Maksimum lima menit.”
+
+### Constraints?
+
+> “Ada keterbatasan apa?”
+
+> “Kami tidak bisa menambah kasir.”
+
+Baru sekarang mulai ada:
+
+> **shared problem understanding.**
+
+---
+
+## 19. Shared Problem Statement
+
+Hasil discovery sebaiknya dapat dirumuskan bersama.
+
+Contoh:
+
+> **“Pada jam makan siang, waktu tunggu di kantin dapat melebihi 15 menit sehingga mahasiswa membatalkan pembelian dan kasir kewalahan. Kita ingin menurunkan waktu tunggu menjadi sekitar 5 menit tanpa menambah jumlah kasir.”**
+
+Ini jauh lebih baik daripada:
+
+> “Customer butuh aplikasi.”
+
+---
+
+## 20. Agreement Sebelum Solution
+
+Sebelum menawarkan solution, communicator dapat bertanya:
+
+> “Apakah saya memahami masalahnya dengan benar?”
+
+Ini menghasilkan **micro-agreement**:
+
+> **Yes, that is our problem.**
+
+Communication telah menghasilkan state baru:
+
+> berbeda persepsi → shared understanding.
+
+---
+
+## 21. Professional Communication adalah Series of Agreements
+
+Kita sering membayangkan agreement hanya sebagai contract besar di akhir.
+
+Sebenarnya professional communication penuh dengan **small agreements**.
+
+Contoh:
+
+> “Ya, itu problem yang kita maksud.”
+
+> “Ya, requirement itu benar.”
+
+> “Ya, deadline-nya Jumat.”
+
+> “Ya, saya bertanggung jawab untuk bagian database.”
+
+> “Ya, versi ini siap diuji.”
+
+Small agreements memungkinkan:
+
+> **coordinated action.**
+
+---
+
+## 22. Colleague Communication
+
+Tidak semua professional communication melibatkan customer.
+
+Di dalam team kita juga perlu discovery.
+
+Contoh:
+
+Manager:
+
+> “Kenapa task belum selesai?”
+
+Jawaban buruk:
+
+> “Saya sibuk.”
+
+Manager dapat melakukan discovery:
+
+> “Bagian mana yang belum selesai?”
+
+> “Apa hambatan utamanya?”
+
+> “Apakah masalahnya waktu, knowledge, dependency, atau resource?”
+
+> “Apa bantuan yang dibutuhkan?”
+
+Objective:
+
+> bukan sekadar menemukan siapa salah.
+
+Objective:
+
+> **restore coordinated action.**
+
+---
+
+## 23. From Blame to Problem
+
+Bandingkan:
+
+### Person-Blame Language
+
+> “Kamu lambat.”
+
+dengan:
+
+### Problem Language
+
+> “Task ini melewati deadline dua hari. Hambatan apa yang sedang terjadi?”
+
+Versi pertama mendefinisikan:
+
+> person sebagai problem.
+
+Versi kedua mencoba melihat:
+
+> problem yang sedang dihadapi person/team.
+
+Ini bukan berarti accountability dihilangkan.
+
+Setelah problem dipahami, responsibility tetap harus jelas.
+
+---
+
+## 24. Professional Trust
+
+Professional relationship membutuhkan trust.
+
+Trust tidak hanya berarti:
+
+> “Saya suka orang ini.”
+
+Professional trust mencakup:
+
+### Competence
+
+> Apakah ia mampu?
+
+### Reliability
+
+> Apakah ia melakukan yang dijanjikan?
+
+### Honesty
+
+> Apakah informasi yang diberikan dapat dipercaya?
+
+### Care
+
+> Apakah ia memperhatikan dampak pekerjaannya terhadap orang lain?
+
+### Accountability
+
+> Apakah ia bertanggung jawab ketika terjadi masalah?
+
+Komunikasi mempengaruhi semua dimensi tersebut.
+
+---
+
+## 25. Saying “I Don't Know”
+
+Dalam professional communication, salah satu tanda maturity adalah kemampuan mengatakan:
+
+> “Saya belum tahu.”
+
+Daripada:
+
+> membuat jawaban agar terlihat pintar.
+
+Lebih baik:
+
+> “Saya belum tahu penyebab pastinya. Saya akan memeriksa log dan kembali dengan jawaban pukul dua.”
+
+Ini dapat meningkatkan trust karena:
+
+> **uncertainty + commitment**
+
+lebih baik daripada:
+
+> **false confidence.**
+
+---
+
+## 26. Saying “No”
+
+Professional relationship juga memerlukan boundary.
+
+Customer:
+
+> “Bisa selesai besok?”
+
+Engineer tahu pekerjaan membutuhkan satu minggu.
+
+Jawaban buruk:
+
+> “Bisa.”
+
+karena takut customer kecewa.
+
+Kemudian gagal.
+
+Lebih baik:
+
+> “Untuk scope penuh, besok tidak realistis. Kami bisa memberikan fungsi inti besok dan sisanya Jumat.”
+
+Communication menjadi:
+
+> **constraint → alternative → agreement.**
+
+---
+
+## 27. Listening Ratio
+
+Dalam initial discovery, professional sering sebaiknya:
+
+> lebih banyak mendengar daripada menjelaskan.
+
+Bukan sebagai hukum matematis, tetapi latihan kelas dapat menggunakan target:
+
+> **30% talking : 70% listening**
+
+untuk melatih kebiasaan.
+
+Rancangan awal mata kuliah memang menempatkan consultative discovery sebagai latihan professional communication dengan fokus mendengar kebutuhan customer sebelum menjelaskan architecture.
+
+Yang terpenting bukan angka persis.
+
+Prinsipnya:
+
+> **Do not consume the conversation with your solution before understanding the other person's problem.**
+
+---
+
+## 28. Questioning Repertoire
+
+Tidak semua pertanyaan sama.
+
+### CLOSED QUESTION
+
+> “Apakah sistem sering lambat?”
+
+Jawaban:
+
+> “Ya.”
+
+Berguna untuk confirmation.
+
+---
+
+### OPEN QUESTION
+
+> “Kapan sistem biasanya paling lambat?”
+
+Menghasilkan informasi lebih kaya.
+
+---
+
+### CLARIFYING QUESTION
+
+> “Ketika Anda mengatakan ‘lambat’, kira-kira berapa lama?”
+
+---
+
+### IMPACT QUESTION
+
+> “Apa yang terjadi ketika transaksi membutuhkan waktu selama itu?”
+
+---
+
+### FUTURE QUESTION
+
+> “Kalau masalah ini selesai, kondisi idealnya seperti apa?”
+
+Good discovery menggunakan kombinasi.
+
+---
+
+## 29. Jangan Membuat Interrogation
+
+Customer discovery bukan:
+
+> daftar 30 pertanyaan yang ditembakkan satu per satu.
+
+Question harus diikuti:
+
+> listening.
+
+Kemudian pertanyaan berikutnya lahir dari jawaban sebelumnya.
+
+Model:
+
+> **ASK → LISTEN → INTERPRET → ASK AGAIN**
+
+Itulah dialogue.
+
+---
+
+## 30. Paraphrasing
+
+Salah satu repertoire paling efektif:
+
+> **paraphrase what we think we heard.**
+
+Customer:
+
+> “Kadang transaksi gagal kalau jaringan buruk dan staff harus input ulang.”
+
+Professional:
+
+> “Jadi masalahnya bukan hanya transaksi gagal, tetapi staff harus mengulang pekerjaan sehingga antrian ikut bertambah?”
+
+Customer:
+
+> “Ya, benar.”
+
+Sekarang terjadi:
+
+> **shared meaning.**
+
+---
+
+## 31. From Technical Language to Problem Language
+
+Customer:
+
+> “Sistem sering putus.”
+
+Engineer mungkin berpikir:
+
+> unstable connectivity, timeout, retry mechanism.
+
+Tetapi jangan langsung berbicara dalam language internal.
+
+Mulai dengan language customer:
+
+> “Ketika koneksi terputus, pekerjaan apa yang paling terganggu?”
+
+Setelah problem understood, technical language dapat digunakan di internal team.
+
+Ini contoh:
+
+> **Person Language → Shared Problem Language → Technical Language**
+
+---
+
+## 32. Professional Communication and TAIDA
+
+Mulai minggu ini kita mulai menghubungkan professional relationship dengan Baseball Model:
+
+> **TARGET → ATTENTION → INTEREST → DESIRE → ACTION**
+
+Tetapi Minggu 5 terutama membahas tahap awal:
+
+> **TARGET**
+
+Siapa person yang perlu kita pahami?
+
+dan:
+
+> **ATTENTION**
+
+Apa problem/opportunity yang perlu menjadi perhatian bersama?
+
+Jangan terlalu cepat menuju:
+
+> Solution.
+
+---
+
+## 33. Target Bukan Sekadar Demographic Segment
+
+Traditional marketing dapat mengatakan:
+
+> “Target kita mahasiswa 18–22 tahun.”
+
+Person-centered approach bertanya:
+
+> **Which student?**
+
+> **In what character?**
+
+> **Facing what problem?**
+
+> **In what relationship with us?**
+
+Target menjadi:
+
+> **a relevant person in a relevant situation.**
+
+---
+
+## 34. Attention Bukan Sekadar Membuat Orang Melihat
+
+Attention dalam framework ini bukan:
+
+> clickbait.
+
+Attention berarti:
+
+> **a person recognizes that a problem or opportunity is relevant to them.**
+
+Contoh:
+
+Buruk:
+
+> “NEW REVOLUTIONARY AI SYSTEM!”
+
+Lebih person-centered:
+
+> “Anda menghabiskan sekitar dua jam setiap minggu merangkum laporan secara manual. Bagaimana kalau pekerjaan itu dapat dilakukan dalam 10 menit?”
+
+Attention dibangun melalui:
+
+> **relevance.**
+
+---
+
+## 35. Pitch 1
+
+Pitch pertama dalam Baseball Model:
+
+> **“I notice that you have a problem or opportunity.”**
+
+Tetapi pitch ini sebaiknya tidak berbunyi arrogant:
+
+> “Saya tahu masalah Anda.”
+
+Lebih baik:
+
+> “Kami melihat proses approval sering membutuhkan beberapa hari. Apakah itu memang menjadi bottleneck bagi tim Anda?”
+
+Ini sekaligus:
+
+> observation + invitation to correct us.
+
+---
+
+## 36. Professional Humility
+
+Person-centered professional tidak berasumsi:
+
+> “Saya sudah memahami semuanya.”
+
+Ia mengatakan:
+
+> **“This is what I currently understand. Please correct me.”**
+
+Communication menjadi collaborative.
+
+---
+
+## 37. Customer is Not an Object to Persuade
+
+Penting secara etik.
+
+Customer bukan:
+
+> target yang harus “ditaklukkan.”
+
+Customer adalah:
+
+> **person with a problem, objective, constraint, and freedom to decide.**
+
+Kita ingin:
+
+> menemukan apakah terdapat possibility for mutual value.
+
+Jika solusi kita tidak cocok, professional communication mungkin justru menghasilkan:
+
+> “Produk kami bukan solusi terbaik untuk kebutuhan Anda saat ini.”
+
+Itu dapat menjaga trust.
+
+---
+
+## 38. Mutual Value
+
+Professional relationship yang sehat menghasilkan value untuk kedua sisi.
+
+Customer memperoleh:
+
+> desired outcome.
+
+Employee/provider memperoleh:
+
+- compensation,
+- learning,
+- reputation,
+- sustainable work,
+- opportunity.
+
+Jadi:
+
+> **Customer Value + Provider Value**
+
+harus cukup besar agar relationship sustainable.
+
+---
+
+## 39. AI-Mediated Professional Communication
+
+Dalam professional setting, AI dapat sangat membantu.
+
+Arsitektur:
+
+> **PERSON + AI COPILOT ⇄ PERSON + AI COPILOT**
+
+AI dapat membantu sebelum meeting:
+
+- memahami background customer,
+- mengorganisasi informasi,
+- menyiapkan discovery questions,
+- mensimulasikan character,
+- mengidentifikasi terminology.
+
+---
+
+## 40. AI During Practice
+
+Dalam kelas, AI dapat berperan sebagai:
+
+### Customer
+
+> “Saya pemilik toko kecil. Saya tidak mengerti teknologi.”
+
+### Skeptical Manager
+
+> “Saya tidak mau menambah biaya.”
+
+### Busy Colleague
+
+> “Saya hanya punya lima menit.”
+
+### Technical Expert
+
+> “Saya ingin evidence.”
+
+Mahasiswa belajar:
+
+> **recognize character and adapt communication.**
+
+---
+
+## 41. AI After Conversation
+
+AI dapat membantu menganalisis transcript:
+
+> Berapa banyak pertanyaan terbuka?
+
+> Apakah saya memotong conversation?
+
+> Apakah saya menawarkan solution terlalu awal?
+
+> Apakah saya mengulang problem customer dengan benar?
+
+> Apakah sudah ada shared problem statement?
+
+Rancangan awal mata kuliah memang menggunakan speech-to-text dan conversational analytics untuk membantu mahasiswa melihat talking-to-listening ratio dan kualitas discovery conversation.
+
+---
+
+## 42. Risiko AI
+
+AI tidak boleh membuat kita merasa:
+
+> sudah mengenal customer
+
+hanya karena telah membaca data tentang customer.
+
+Data adalah:
+
+> evidence.
+
+Bukan:
+
+> person.
+
+AI mungkin mengatakan:
+
+> “Customer tipe ini biasanya sensitif terhadap harga.”
+
+Tetapi person yang sebenarnya mungkin lebih memprioritaskan:
+
+> reliability.
+
+Maka:
+
+> **AI hypothesis must be tested through human dialogue.**
+
+---
+
+## 43. Person Recognition, Not Profiling
+
+Gunakan AI untuk bertanya:
+
+> “Apa yang perlu saya pahami?”
+
+bukan:
+
+> “Bagaimana memanipulasi orang ini?”
+
+Prinsip etik:
+
+> **Know the person to serve and communicate better, not to exploit vulnerability.**
+
+---
+
+## 44. Latihan 1 — Who Are the Professional Characters?
+
+Dosen memberikan situasi:
+
+> Sebuah aplikasi kampus gagal saat registrasi.
+
+Mahasiswa mengidentifikasi possible characters:
+
+- Student/User
+- Developer
+- System Administrator
+- Project Manager
+- Faculty Management
+- Customer Service
+- Vendor
+
+Untuk masing-masing jawab:
+
+> Apa objective-nya?
+
+> Apa concern-nya?
+
+> Bahasa apa yang digunakan?
+
+---
+
+## 45. Latihan 2 — Problem or Solution?
+
+Tentukan apakah pernyataan berikut merupakan:
+
+> problem, need, request, atau solution.
+
+### A
+
+> “Kami perlu chatbot.”
+
+### B
+
+> “Customer harus menunggu 20 menit untuk memperoleh jawaban sederhana.”
+
+### C
+
+> “Customer perlu memperoleh jawaban dasar dengan cepat.”
+
+### D
+
+> “Gunakan LLM untuk menjawab FAQ.”
+
+Jawaban:
+
+A = Request/proposed solution  
+B = Problem  
+C = Need  
+D = Solution
+
+Diskusikan:
+
+> Mengapa distinction ini penting?
+
+---
+
+## 46. Latihan 3 — Five Discovery Questions
+
+Berpasangan.
+
+Person A adalah:
+
+> Problem Owner.
+
+Person B adalah:
+
+> Professional.
+
+Case:
+
+> kelompok mahasiswa selalu terlambat mengumpulkan laporan.
+
+Person B hanya boleh menggunakan:
+
+> WHAT → WHY → WHO → BETTER → CONSTRAINT
+
+selama lima menit.
+
+Tidak boleh menawarkan solution sebelum selesai.
+
+---
+
+## 47. Latihan 4 — Stop Solution Jumping
+
+Customer berkata:
+
+> “Saya butuh AI.”
+
+Student tidak boleh menjawab dengan technology.
+
+Ia harus menemukan:
+
+> problem.
+
+Contoh dialogue:
+
+> “AI-nya ingin digunakan untuk apa?”
+
+> “Mengurangi waktu menjawab email.”
+
+> “Email jenis apa yang paling banyak?”
+
+> “Pertanyaan customer yang berulang.”
+
+Sekarang mungkin problem:
+
+> repetitive customer inquiries consume employee time.
+
+Baru solution dapat dibahas nanti.
+
+---
+
+## 48. Latihan 5 — Colleague Blocker Discovery
+
+Person A:
+
+> Team Leader.
+
+Person B:
+
+> Developer yang task-nya terlambat.
+
+Team Leader tidak boleh memulai dengan:
+
+> blame.
+
+Ia harus menemukan:
+
+- current state,
+- blocker,
+- required assistance,
+- commitment.
+
+Contoh ending:
+
+> “Jadi database migration tertahan karena akses belum diberikan. Saya akan mengurus akses hari ini, dan kamu akan menyelesaikan migration besok pukul tiga. Setuju?”
+
+Sekarang ada:
+
+> **shared understanding + agreement + action.**
+
+---
+
+## 49. Mini Performance — Professional Discovery Conversation
+
+Mahasiswa berpasangan.
+
+### Person A
+
+Professional / consultant / team member.
+
+### Person B
+
+Problem owner / customer / colleague.
+
+Durasi:
+
+> **5–7 menit.**
+
+Student A harus:
+
+1. mengenali person dan character;
+2. membuka conversation;
+3. menemukan problem;
+4. menemukan importance/impact;
+5. mengetahui desired future state;
+6. mengetahui constraint;
+7. membuat shared problem statement;
+8. meminta confirmation.
+
+Tidak harus menawarkan solution.
+
+---
+
+## 50. Contoh Case 1
+
+### Customer
+
+Pemilik kantin kampus.
+
+### Situation
+
+Antrian panjang saat jam makan siang.
+
+### Hidden Information
+
+Customer sebenarnya tidak ingin menambah pegawai.
+
+Student harus menemukan informasi tersebut melalui communication.
+
+---
+
+## 51. Contoh Case 2
+
+### Colleague
+
+Anggota project team.
+
+### Situation
+
+Task terlambat tiga hari.
+
+### Hidden Information
+
+Ia menunggu API dari team lain.
+
+Tujuan bukan:
+
+> menemukan siapa yang malas.
+
+Tujuan:
+
+> menemukan blocker dan recovery plan.
+
+---
+
+## 52. Contoh Case 3
+
+### Student Organization
+
+Ketua organisasi.
+
+### Situation
+
+Attendance rapat turun.
+
+### Hidden Information
+
+Rapat terlalu panjang dan tidak menghasilkan keputusan.
+
+Student harus menemukan:
+
+> actual problem.
+
+---
+
+## 53. Rubrik Mini Performance
+
+| Dimensi | Bobot |
+|---|---:|
+| Person & Character Recognition | 20% |
+| Quality of Listening | 20% |
+| Quality of Questions | 20% |
+| Problem & Need Discovery | 20% |
+| Shared Understanding & Relationship | 20% |
+
+Nilai tinggi bukan karena:
+
+> banyak bicara.
+
+Nilai tinggi karena:
+
+> **membuat problem menjadi lebih jelas bagi kedua pihak.**
+
+---
+
+## 54. Demonstration: Bad vs Good Discovery
+
+### Version A — Solution First
+
+Customer:
+
+> “Penjualan kami turun.”
+
+Professional:
+
+> “Kami punya AI recommendation system yang sangat bagus…”
+
+Customer belum menjelaskan:
+
+> why sales are down.
+
+Professional mulai pitch.
+
+---
+
+### Version B — Person First
+
+Professional:
+
+> “Turunnya sejak kapan?”
+
+Customer:
+
+> “Tiga bulan terakhir.”
+
+Professional:
+
+> “Apakah jumlah pengunjung turun atau conversion-nya yang turun?”
+
+Customer:
+
+> “Pengunjung sama, tapi lebih sedikit membeli.”
+
+Professional:
+
+> “Apa yang berubah tiga bulan lalu?”
+
+Customer:
+
+> “Kami mengubah proses checkout.”
+
+Sekarang problem mungkin bukan:
+
+> recommendation.
+
+Tetapi:
+
+> checkout friction.
+
+---
+
+## 55. Shared Problem Statement Exercise
+
+Dari Version B, mahasiswa membuat:
+
+> **“Dalam tiga bulan terakhir jumlah pengunjung tetap, tetapi conversion menurun setelah perubahan proses checkout. Kita perlu memahami bagian checkout yang membuat customer berhenti sebelum pembelian.”**
+
+Perhatikan:
+
+> solution belum ditentukan.
+
+Ini adalah professional discipline.
+
+---
+
+## 56. Format Pertemuan 2 Jam
+
+### 0–15 menit — Review Minggu 4
+
+Review:
+
+> Person → Character → Objective → Meaning → Language.
+
+Pertanyaan:
+
+> Mengapa bahasa yang tepat tetap tidak cukup jika kita belum memahami problem?
+
+---
+
+### 15–40 menit — Lecture
+
+Topik:
+
+- professional relationships,
+- employee/customer roles,
+- value creation,
+- problem discovery,
+- problem vs need vs solution,
+- trust.
+
+---
+
+### 40–55 menit — Demonstration
+
+Dosen memperagakan:
+
+> Solution First vs Discovery First.
+
+---
+
+### 55–85 menit — Practice
+
+- Problem or Solution?
+- Five Discovery Questions
+- Stop Solution Jumping
+
+---
+
+### 85–110 menit — Mini Performance
+
+Professional Discovery Conversation.
+
+---
+
+### 110–120 menit — AI Reflection
+
+Mahasiswa menggunakan AI untuk menganalisis:
+
+- talking/listening,
+- question quality,
+- solution jumping,
+- shared problem statement.
+
+---
+
+## 57. Tugas Minggu 5 — Professional Discovery Interview
+
+Mahasiswa melakukan satu **discovery conversation** sederhana dengan orang lain.
+
+Bisa dengan:
+
+- teman project,
+- mahasiswa lain,
+- organisasi mahasiswa,
+- pemilik usaha kecil yang dikenal,
+- pengguna suatu service.
+
+Tidak perlu melibatkan informasi confidential.
+
+Durasi:
+
+> **10–15 menit.**
+
+---
+
+## 58. Tujuan Tugas
+
+Bukan menjual solution.
+
+Bukan membuat proposal.
+
+Tujuan:
+
+> **understand a real problem or opportunity from another person's point of view.**
+
+---
+
+## 59. Bagian A — PERSON
+
+Siapa person yang diwawancarai?
+
+Tidak perlu menggunakan nama asli.
+
+Tuliskan character:
+
+> user, team member, organizer, customer, student, dll.
+
+---
+
+## 60. Bagian B — RELATIONSHIP
+
+Apa relationship Anda dengan person tersebut?
+
+Contoh:
+
+> teman sekelas,
+
+> anggota kelompok,
+
+> customer potensial,
+
+> kenalan.
+
+---
+
+## 61. Bagian C — INITIAL ASSUMPTION
+
+Sebelum interview:
+
+> Menurut Anda apa problem-nya?
+
+Ini penting agar nanti dapat dibandingkan dengan:
+
+> actual discovery.
+
+---
+
+## 62. Bagian D — QUESTIONS
+
+Tuliskan minimal lima pertanyaan yang digunakan.
+
+Usahakan mencakup:
+
+> WHAT → WHY → WHO → BETTER → CONSTRAINT.
+
+---
+
+## 63. Bagian E — WHAT I HEARD
+
+Tuliskan poin penting dari jawaban person.
+
+Jangan langsung menambahkan solution.
+
+---
+
+## 64. Bagian F — SHARED PROBLEM STATEMENT
+
+Buat maksimal:
+
+> **100 kata.**
+
+Format sederhana:
+
+> **[Person] mengalami [problem] dalam [situation], yang menyebabkan [impact]. Mereka menginginkan [better state], dengan constraint [constraint].**
+
+---
+
+## 65. Bagian G — CONFIRMATION
+
+Tanyakan kembali kepada person:
+
+> “Apakah ini cukup menggambarkan masalah yang Anda maksud?”
+
+Catat:
+
+> yes / correction.
+
+Jika dikoreksi, revisi statement.
+
+---
+
+## 66. Bagian H — REFLECTION
+
+Jawab:
+
+1. Apa asumsi saya yang ternyata salah?
+2. Pertanyaan mana yang menghasilkan insight terbesar?
+3. Kapan saya hampir menawarkan solution terlalu cepat?
+4. Apakah person merasa didengarkan?
+5. Apa yang saya lakukan berbeda lain kali?
+
+---
+
+## 67. AI Component
+
+Setelah interview, gunakan transcript atau notes yang sudah dianonimkan.
+
+Minta AI:
+
+> 1. memisahkan problem, need, request, dan proposed solution;
+> 2. mencari kemungkinan assumption;
+> 3. menunjukkan pertanyaan lanjutan yang belum ditanyakan;
+> 4. membantu membuat draft shared problem statement.
+
+Kemudian mahasiswa harus:
+
+> **review, correct, and own the final statement.**
+
+---
+
+## 68. Penilaian Tugas Minggu 5
+
+| Aspek | Bobot |
+|---|---:|
+| Person & Character Understanding | 20% |
+| Quality of Discovery Questions | 20% |
+| Listening & Evidence | 20% |
+| Shared Problem Statement | 20% |
+| Reflection & Critical AI Use | 20% |
+
+Yang dinilai bukan:
+
+> seberapa canggih solution yang ditemukan.
+
+Justru solution belum menjadi fokus minggu ini.
+
+Yang dinilai:
+
+> **apakah mahasiswa mampu memahami problem orang lain sebelum menawarkan solution.**
+
+---
+
+## 69. Professional Communication Checklist
+
+Sebelum professional conversation:
+
+### WHO?
+
+> Siapa person-nya?
+
+### AS WHO?
+
+> Character apa yang ia mainkan?
+
+### WHY?
+
+> Mengapa kita berbicara?
+
+### WHAT DO I NEED TO LEARN?
+
+> Informasi apa yang belum saya ketahui?
+
+### HOW WILL I LISTEN?
+
+> Pertanyaan apa yang perlu digunakan?
+
+---
+
+## 70. Setelah Conversation
+
+Tanyakan:
+
+### WHAT DID I LEARN?
+
+Apa yang sekarang saya pahami?
+
+### WHAT CHANGED?
+
+Apakah assumption saya berubah?
+
+### WHAT DO WE AGREE IS THE PROBLEM?
+
+Apakah ada shared problem statement?
+
+### WHAT REMAINS UNCLEAR?
+
+Apa yang belum diketahui?
+
+### WHAT IS THE NEXT STEP?
+
+Apa action berikutnya?
+
+---
+
+## 71. Communication as Value Discovery
+
+Salah satu kesimpulan penting minggu ini:
+
+> **Communication does not only communicate value. Communication helps discover what value actually means to another person.**
+
+Tanpa communication:
+
+> engineer mungkin membuat sesuatu yang sophisticated.
+
+Dengan communication:
+
+> engineer dapat membuat sesuatu yang relevant.
+
+---
+
+## 72. Relationship as Professional Asset
+
+Professional relationship yang baik menghasilkan:
+
+- trust,
+- speed,
+- easier coordination,
+- willingness to share information,
+- easier problem solving,
+- customer retention,
+- employee retention,
+- future collaboration.
+
+Jadi relationship bukan:
+
+> tambahan lembut dari pekerjaan “yang sebenarnya.”
+
+Relationship merupakan:
+
+> **infrastructure of coordinated work.**
+
+---
+
+## 73. Dari Communication menuju Management
+
+Jika organisasi terdiri dari banyak person:
+
+> employee,
+
+> customer,
+
+> manager,
+
+> supplier,
+
+maka management perlu membantu:
+
+> **match persons, capabilities, objectives, and relationships.**
+
+Communication memungkinkan matching tersebut bekerja.
+
+Ini menghubungkan mata kuliah dengan pemikiran yang lebih luas:
+
+> **business success depends not only on acquiring customers, but also on acquiring and growing employees and creating productive relationships between them.**
+
+---
+
+## 74. Take-Home Messages
+
+Jika hanya mengingat tujuh hal dari Minggu 5:
+
+### 1.
+
+> **Professional work happens through relationships between persons.**
+
+### 2.
+
+> **Employee, manager, customer, and supplier are characters or roles played by persons.**
+
+### 3.
+
+> **Professional relationships exist to enable coordinated value creation.**
+
+### 4.
+
+> **Do not jump from a request directly to a solution. Discover the problem first.**
+
+### 5.
+
+> **Listen before proposing. Question before explaining. Confirm before designing.**
+
+### 6.
+
+> **A good discovery conversation produces shared understanding before it produces a solution.**
+
+### 7.
+
+> **AI can support discovery, but only direct communication can confirm what a real person actually means.**
+
+---
+
+## 75. One-Minute Summary
+
+Minggu 1:
+
+> **PERSON**
+
+Minggu 2:
+
+> **SELF**
+
+Minggu 3:
+
+> **RELATIONSHIP**
+
+Minggu 4:
+
+> **LANGUAGE**
+
+Minggu 5:
+
+> **PROFESSIONAL VALUE**
+
+Model minggu ini:
+
+> **PERSON**  
+> ↓  
+> **PROFESSIONAL CHARACTER**  
+> ↓  
+> **RELATIONSHIP**  
+> ↓  
+> **LISTEN & QUESTION**  
+> ↓  
+> **PROBLEM / OPPORTUNITY**  
+> ↓  
+> **NEED**  
+> ↓  
+> **SHARED UNDERSTANDING**  
+> ↓  
+> **AGREEMENT ON THE PROBLEM**  
+> ↓  
+> **VALUE CREATION OPPORTUNITY**
+
+Prinsip inti:
+
+> **Do not begin professional communication by showing what you can do. Begin by understanding who the other person is and what matters to them.**
+
+Dengan demikian professional communication bergerak dari:
+
+> **“I have a solution.”**
+
+menjadi:
+
+> **“Let me first understand your world.”**
+
+Baru setelah problem dan opportunity dipahami bersama, kita siap memasuki Minggu 6:
+
+> **Baseball Model — Target and Attention**
+
+yaitu bagaimana memilih person yang relevan, mengenali problem atau opportunity yang penting bagi mereka, dan menggunakan communication pitch untuk menggerakkan state pertama:
+
+> **TARGET → ATTENTION.**

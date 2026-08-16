@@ -1,0 +1,2192 @@
+# MINGGU 7 — BASEBALL MODEL II: INTEREST
+
+:::{.callout-tip}
+## Dari “Ya, Ini Masalah Saya” menuju “Saya Ingin Tahu Solusinya”
+
+**Mata Kuliah:** Person-Centered Communication in the AI Era  
+**Tingkat:** Mahasiswa Tahun 2  
+**Durasi:** 2 jam  
+**Domain:** Working Colleagues  
+**Tema Besar:** *How do we move a person from Attention to Interest?*
+:::
+
+---
+
+## 1. Dari Attention menuju Interest
+
+Pada Minggu 6 kita mempelajari bagian pertama Baseball Model:
+
+> **TARGET → ATTENTION**
+
+Kita belajar bahwa komunikasi tidak dimulai dengan menawarkan solusi.
+
+Pertama-tama kita harus:
+
+> mengenali person yang tepat,
+
+> memahami character dan situation,
+
+> menemukan problem atau opportunity yang relevan,
+
+> kemudian membuat problem tersebut memperoleh Attention.
+
+Base 1 tercapai ketika person mengatakan:
+
+> **“Ya, ini memang masalah atau peluang yang penting bagi saya.”**
+
+Sekarang muncul pertanyaan berikutnya:
+
+> **“Kalau memang ini masalah, apakah ada sesuatu yang dapat membantu?”**
+
+Inilah perpindahan menuju:
+
+> **BASE 2 — INTEREST**
+
+---
+
+## 2. Baseball Model / TAIDA
+
+Kita mengingat kembali:
+
+> **TARGET → ATTENTION → INTEREST → DESIRE → ACTION**
+
+atau:
+
+> **T → A → I → D → A**
+
+Minggu 7 fokus pada:
+
+\[
+\boxed{ATTENTION \rightarrow INTEREST}
+\]
+
+State awal:
+
+> “Ya, saya melihat problem-nya.”
+
+State berikutnya:
+
+> **“Ada kemungkinan solusi yang relevan. Saya ingin tahu lebih jauh.”**
+
+---
+
+## 3. Pitch Kedua
+
+Pitch kedua secara sederhana adalah:
+
+> **“I have something that may help.”**
+
+Dalam Bahasa Indonesia:
+
+> **“Saya mempunyai sesuatu yang mungkin dapat membantu.”**
+
+Tetapi kalimat tersebut bukan berarti:
+
+> langsung menjelaskan semua fitur produk.
+
+Pitch Interest harus menjawab:
+
+> **Mengapa solution ini relevant terhadap problem yang baru saja kita sepakati?**
+
+---
+
+## 4. Learning Objectives Minggu 7
+
+Setelah mengikuti pertemuan ini mahasiswa mampu:
+
+1. membedakan **Attention** dan **Interest**;
+2. mengenali kapan sebuah person telah mencapai Base 1;
+3. menghubungkan problem dengan proposed solution secara jelas;
+4. membedakan **solution relevance** dari sekadar technical sophistication;
+5. membuat **Interest Pitch** yang sederhana;
+6. menjelaskan value proposition awal tanpa melakukan feature dumping;
+7. menggunakan question, comparison, analogy, demonstration, dan evidence untuk membangun Interest;
+8. membaca response untuk menentukan apakah person telah bergerak menuju Interest;
+9. mengadaptasi language berdasarkan person dan character;
+10. menggunakan AI sebagai **solution-pitch coach dan adversarial roleplay partner**.
+
+---
+
+## 5. Attention ≠ Interest
+
+Ini penting.
+
+Seorang person dapat mengatakan:
+
+> “Ya, antrean kantin memang terlalu panjang.”
+
+Itu berarti:
+
+> **Attention sudah tercapai.**
+
+Tetapi belum tentu:
+
+> “Saya tertarik dengan solusi Anda.”
+
+Mungkin ia berpikir:
+
+> “Ya, memang masalah. Tetapi tidak ada yang bisa dilakukan.”
+
+atau:
+
+> “Saya tidak punya waktu mengurusnya.”
+
+atau:
+
+> “Saya sudah mencoba banyak solusi.”
+
+Jadi:
+
+> **Recognizing a problem does not automatically create interest in a solution.**
+
+---
+
+## 6. State Transition Minggu 7
+
+State A:
+
+> **“I have a relevant problem.”**
+
+↓
+
+Communication Pitch
+
+↓
+
+State B:
+
+> **“There may be a useful way to address it.”**
+
+Itulah:
+
+> **Interest.**
+
+Secara sederhana:
+
+\[
+Problem\ Recognition + Relevant\ Possibility \rightarrow Interest
+\]
+
+---
+
+## 7. Jangan Langsung Menjelaskan Teknologi
+
+Misalnya customer mengatakan:
+
+> “Ya, customer service kami memang menghabiskan terlalu banyak waktu menjawab pertanyaan yang sama.”
+
+Mahasiswa langsung mengatakan:
+
+> “Kami menggunakan Retrieval-Augmented Generation dengan vector database, embedding, orchestration agent…”
+
+Apa yang salah?
+
+Customer belum bertanya:
+
+> **Bagaimana AI bekerja secara teknis?**
+
+Ia mungkin baru ingin tahu:
+
+> **Apakah ada cara membantu masalah saya?**
+
+Pitch yang lebih tepat:
+
+> “Sebagian pertanyaan berulang itu sebenarnya bisa dijawab otomatis dari informasi perusahaan yang sudah ada, sementara pertanyaan yang lebih sulit tetap diteruskan kepada staff.”
+
+Sekarang customer mungkin bertanya:
+
+> “Bagaimana caranya?”
+
+Itulah signal:
+
+> **Interest.**
+
+---
+
+## 8. Solution Before Technology
+
+Prinsip penting Minggu 7:
+
+> **First communicate the solution logic. Technology can come later.**
+
+Contoh:
+
+Problem:
+
+> mahasiswa kesulitan mengetahui tugas mana yang paling mendesak.
+
+Solution logic:
+
+> “Kita dapat menggabungkan semua deadline dalam satu tempat dan memberi prioritas berdasarkan waktu dan beban kerja.”
+
+Technology:
+
+> mobile app, database, AI prioritization.
+
+Untuk Interest Pitch:
+
+> solution logic lebih penting daripada technology stack.
+
+---
+
+## 9. Solution Harus Menempel pada Problem
+
+Pitch Interest yang baik mempunyai hubungan langsung:
+
+> **You said X is the problem. This may help because it addresses X.**
+
+Contoh:
+
+Customer:
+
+> “Waktu tunggu terlalu lama karena customer baru memesan ketika sampai di kasir.”
+
+Interest Pitch:
+
+> “Kalau customer dapat memilih menu sebelum mencapai kasir, waktu transaksi di kasir bisa dipersingkat.”
+
+Perhatikan:
+
+Problem:
+
+> ordering time at cashier.
+
+Solution:
+
+> move ordering earlier.
+
+Hubungannya jelas.
+
+---
+
+## 10. Weak Interest Pitch
+
+Problem:
+
+> antrean panjang.
+
+Pitch:
+
+> “Kami membuat aplikasi berbasis cloud dengan modern UI.”
+
+Pertanyaan:
+
+> Apa hubungan langsung antara cloud dan antrean?
+
+Belum jelas.
+
+Ini disebut:
+
+> **solution relevance gap.**
+
+---
+
+## 11. Strong Interest Pitch
+
+> “Karena sebagian besar waktu di kasir digunakan untuk memilih menu dan mencatat pesanan, kita dapat memindahkan proses pemilihan menu sebelum customer tiba di kasir.”
+
+Sekarang target dapat melihat:
+
+> **problem → mechanism → possible improvement.**
+
+Interest mulai muncul.
+
+---
+
+## 12. Problem–Solution Fit
+
+Gunakan struktur sederhana:
+
+> **PROBLEM → CAUSE / FRICTION → SOLUTION MECHANISM → POSSIBLE BENEFIT**
+
+Contoh:
+
+### Problem
+
+Task kelompok sering terlambat.
+
+### Friction
+
+Dependency baru diketahui mendekati deadline.
+
+### Solution Mechanism
+
+Dependency dibuat visible sejak awal.
+
+### Possible Benefit
+
+Team dapat mengetahui blocker sebelum terlambat.
+
+Pitch:
+
+> “Kalau dependency antar-task dibuat terlihat sejak awal dan setiap blocker diberi alert, kelompok bisa menangani hambatan sebelum deadline terlalu dekat.”
+
+---
+
+## 13. Jangan Menjual Solution yang Tidak Menjawab Problem
+
+Problem:
+
+> staff sering salah memasukkan data.
+
+Solution:
+
+> membuat dashboard lebih cantik.
+
+Tidak ada fit.
+
+Problem:
+
+> customer bingung menemukan produk.
+
+Solution:
+
+> meningkatkan kemampuan search.
+
+Lebih relevan.
+
+Professional communicator harus selalu bertanya:
+
+> **What exactly does this proposed solution change?**
+
+---
+
+## 14. Interest Dibangun dari Relevance
+
+Attention menjawab:
+
+> **“Why should I notice?”**
+
+Interest menjawab:
+
+> **“Why might this help?”**
+
+Maka Interest tidak terutama dibangun melalui:
+
+- slogan,
+- kecanggihan,
+- popularitas teknologi.
+
+Tetapi melalui:
+
+> **relevance.**
+
+---
+
+## 15. Dari Feature menuju Benefit
+
+Salah satu komunikasi professional paling penting adalah membedakan:
+
+> **FEATURE**
+
+dan:
+
+> **BENEFIT**
+
+Feature menjelaskan:
+
+> apa yang dimiliki solution.
+
+Benefit menjelaskan:
+
+> perubahan yang mungkin diperoleh person.
+
+Contoh:
+
+### Feature
+
+> aplikasi memiliki push notification.
+
+### Benefit
+
+> anggota kelompok segera tahu ketika dependency mereka berubah.
+
+---
+
+## 16. Feature–Benefit–Value
+
+Lebih jauh:
+
+### Feature
+
+> automatic backup.
+
+### Benefit
+
+> data dapat dipulihkan ketika perangkat rusak.
+
+### Value
+
+> customer tidak kehilangan pekerjaan penting.
+
+Struktur:
+
+> **FEATURE → BENEFIT → PERSON VALUE**
+
+Person-centered communicator bergerak sampai:
+
+> **Why does this matter to this person?**
+
+---
+
+## 17. Contoh Lain
+
+### Feature
+
+> AI summarization.
+
+### Benefit
+
+> laporan panjang dapat diringkas.
+
+### Value bagi Manager
+
+> lebih cepat memahami issue utama sebelum mengambil keputusan.
+
+### Value bagi Student
+
+> lebih cepat menemukan struktur bacaan sebelum membaca detail.
+
+### Value bagi Customer Service
+
+> lebih cepat memahami history complaint.
+
+Feature sama.
+
+Value berbeda karena:
+
+> **person dan character berbeda.**
+
+---
+
+## 18. Value Proposition Awal
+
+Pada tahap Interest kita belum membutuhkan business proposal lengkap.
+
+Cukup sebuah:
+
+> **simple value proposition.**
+
+Format:
+
+> **For [person] experiencing [problem], we offer [solution approach] so that [meaningful improvement].**
+
+Contoh:
+
+> “Untuk ketua kelompok yang kesulitan melihat dependency antaranggota, kita dapat menggunakan shared task board yang menunjukkan blocker secara eksplisit sehingga masalah dapat diketahui sebelum deadline.”
+
+---
+
+## 19. Jangan Overpromise
+
+Interest Pitch bukan:
+
+> promise bahwa solution pasti berhasil.
+
+Gunakan language yang jujur:
+
+> “Ini mungkin membantu…”
+
+> “Salah satu pendekatan yang bisa dicoba…”
+
+> “Hipotesis kita adalah…”
+
+> “Kita bisa menguji…”
+
+Ini lebih professional daripada:
+
+> “Solusi kami pasti menyelesaikan masalah Anda.”
+
+---
+
+## 20. Professional Credibility
+
+Interest tidak hanya bergantung pada solution.
+
+Person juga bertanya:
+
+> **“Mengapa saya harus mempercayai kemungkinan ini?”**
+
+Karena itu communicator dapat menggunakan:
+
+- evidence,
+- prototype,
+- example,
+- previous case,
+- demonstration,
+- comparison.
+
+Tetapi cukup untuk:
+
+> membuka Interest.
+
+Jangan membebani.
+
+---
+
+## 21. Evidence for Interest
+
+Contoh:
+
+> “Dalam simulasi sederhana, proses pencatatan yang tadinya sekitar lima menit dapat dilakukan kurang dari satu menit.”
+
+Sekarang solution menjadi:
+
+> lebih credible.
+
+Tetapi bedakan:
+
+> **evidence**
+
+dengan:
+
+> **proof that it will work everywhere.**
+
+Satu test tidak menjamin semua kondisi.
+
+---
+
+## 22. Demonstration
+
+Kadang cara terbaik membangun Interest adalah:
+
+> **show rather than tell.**
+
+Problem:
+
+> sulit mencari informasi di dokumen panjang.
+
+Daripada 10 menit menjelaskan AI:
+
+> tunjukkan bagaimana satu pertanyaan dapat menemukan bagian dokumen yang relevan dalam 10 detik.
+
+Person:
+
+> “Oh, jadi seperti itu.”
+
+Interest meningkat.
+
+---
+
+## 23. Prototype sebagai Communication
+
+Prototype bukan hanya engineering artifact.
+
+Prototype juga merupakan:
+
+> **communication repertoire.**
+
+Prototype mengatakan:
+
+> “This is what I mean.”
+
+Daripada communicator dan customer membayangkan hal yang berbeda, mereka dapat melihat:
+
+> sesuatu yang sama.
+
+---
+
+## 24. Analogy
+
+Jika solution sulit dipahami, gunakan analogy.
+
+Contoh:
+
+> “Sistem ini seperti asisten yang membaca semua FAQ perusahaan terlebih dahulu. Ketika customer bertanya, ia mencari informasi yang relevan sebelum menjawab.”
+
+Ini lebih mudah daripada:
+
+> “RAG pipeline retrieves semantically similar chunks…”
+
+Jika person kemudian meminta detail:
+
+> baru gunakan technical language.
+
+---
+
+## 25. Question-Based Interest
+
+Interest tidak harus dibangun melalui statement.
+
+Dapat menggunakan question:
+
+> “Kalau customer bisa memesan sebelum sampai di kasir, apakah itu akan mengurangi bottleneck?”
+
+atau:
+
+> “Bagaimana kalau semua blocker project dapat terlihat dalam satu dashboard sebelum meeting?”
+
+Question memungkinkan target:
+
+> membayangkan solution.
+
+---
+
+## 26. Let the Person Complete the Value
+
+Kadang communicator terlalu banyak menjelaskan benefit.
+
+Coba bertanya:
+
+> “Kalau waktu rekap turun dari tiga jam menjadi 30 menit, waktu yang tersisa biasanya dapat digunakan untuk apa?”
+
+Customer:
+
+> “Untuk mengecek kesalahan laporan.”
+
+Sekarang:
+
+> customer sendiri mengartikulasikan value.
+
+Ini lebih kuat karena:
+
+> value bukan hanya diberikan oleh communicator.
+
+Value:
+
+> **co-discovered.**
+
+---
+
+## 27. Interest dan Curiosity
+
+Signal Interest sering berbentuk curiosity.
+
+Contoh response:
+
+> “Bagaimana cara kerjanya?”
+
+> “Apakah bisa dipakai dengan sistem kami?”
+
+> “Berapa lama implementasinya?”
+
+> “Ada contohnya?”
+
+> “Bagaimana kalau internet mati?”
+
+Semua merupakan tanda:
+
+> person telah mulai mentally engaging dengan solution.
+
+---
+
+## 28. Jangan Takut pada Pertanyaan
+
+Pertanyaan bukan tanda pitch gagal.
+
+Justru:
+
+> **questions are often evidence of Interest.**
+
+Customer yang tidak tertarik mungkin hanya berkata:
+
+> “Oh, baik.”
+
+Customer yang tertarik:
+
+> mulai bertanya.
+
+---
+
+## 29. Interest ≠ Desire
+
+Tetapi jangan salah membaca.
+
+Customer:
+
+> “Menarik. Bagaimana cara kerjanya?”
+
+Ini berarti:
+
+> **Interest.**
+
+Belum tentu:
+
+> “Saya ingin menggunakannya.”
+
+Desire akan dibahas pada Minggu 9.
+
+Minggu 7 cukup menghasilkan:
+
+> **I want to know more.**
+
+---
+
+## 30. Jangan Langsung Closing
+
+Jika customer bertanya:
+
+> “Bagaimana sistem bekerja?”
+
+Jangan langsung:
+
+> “Jadi Anda mau beli?”
+
+Itu seperti:
+
+> berlari dari Base 2 langsung ke Home Base.
+
+Mungkin berhasil sekali-sekali.
+
+Tetapi biasanya:
+
+> terlalu cepat.
+
+Good communicator:
+
+> **respect the progression of the other person's state.**
+
+---
+
+## 31. Interest Pitch Formula
+
+Untuk mahasiswa tingkat 2 gunakan formula:
+
+### 1. RECONNECT TO PROBLEM
+
+> “Tadi kita melihat bahwa…”
+
+### 2. INTRODUCE POSSIBILITY
+
+> “Salah satu cara yang mungkin membantu adalah…”
+
+### 3. EXPLAIN MECHANISM SIMPLY
+
+> “Idenya adalah…”
+
+### 4. STATE POSSIBLE BENEFIT
+
+> “Dengan begitu…”
+
+### 5. INVITE RESPONSE
+
+> “Apakah pendekatan seperti ini relevan bagi Anda?”
+
+Contoh:
+
+> “Tadi kita melihat bahwa sebagian besar antrean terjadi karena customer baru memilih menu di depan kasir. Salah satu cara yang mungkin membantu adalah memberi kesempatan memilih lebih awal. Dengan begitu waktu di kasir terutama digunakan untuk konfirmasi dan pembayaran. Apakah pendekatan seperti ini layak kita lihat lebih jauh?”
+
+---
+
+## 32. Notice: Tidak Harus Ada Produk
+
+Solution dapat berupa:
+
+- perubahan process,
+- perubahan schedule,
+- agreement,
+- training,
+- new procedure,
+- software,
+- equipment,
+- organization change,
+- information.
+
+Jadi Interest Pitch bukan selalu:
+
+> product pitch.
+
+---
+
+## 33. Contoh Personal-Professional
+
+Problem:
+
+> anggota kelompok tidak tahu siapa mengerjakan apa.
+
+Solution:
+
+> bukan harus aplikasi.
+
+Bisa:
+
+> “Bagaimana kalau setelah setiap meeting kita menutup dengan daftar siapa melakukan apa dan kapan selesai?”
+
+Simple.
+
+Relevant.
+
+Actionable.
+
+---
+
+## 34. Interest dalam Employee–Employee Communication
+
+Misalnya manager ingin mengubah workflow.
+
+Buruk:
+
+> “Mulai Senin semua harus pakai tool baru.”
+
+Itu:
+
+> instruction.
+
+Belum ada Interest.
+
+Lebih baik:
+
+> “Kita sepakat bahwa status task sekarang sering tersebar di chat. Tool ini membuat status dan blocker terlihat di satu tempat. Kita bisa mencoba satu sprint. Bagaimana menurut kalian?”
+
+Team dapat melihat:
+
+> hubungan antara problem dan solution.
+
+---
+
+## 35. Employee–Customer Communication
+
+Customer:
+
+> “Reporting memakan terlalu banyak waktu.”
+
+Provider:
+
+> “Kami bisa membuat reporting otomatis.”
+
+Customer:
+
+> “Bagaimana?”
+
+Provider:
+
+> “Data dari transaksi dapat ditarik otomatis setiap malam, lalu laporan mingguan dibuat dari data yang sama. Staff hanya memeriksa exception.”
+
+Customer:
+
+> “Apakah formatnya bisa sama seperti laporan kami sekarang?”
+
+Signal:
+
+> **Interest.**
+
+---
+
+## 36. Customer–Employee Matching
+
+Kita kembali ke gagasan besar mata kuliah:
+
+> business mempertemukan employee dengan customer untuk menciptakan value.
+
+Interest muncul jika:
+
+> **capability employee**
+
+terlihat relevant terhadap:
+
+> **problem customer.**
+
+Maka communication membantu melakukan matching:
+
+> **Person Need ⇄ Person Capability**
+
+---
+
+## 37. Interest dan Trust
+
+Customer mungkin melihat solution relevant tetapi belum tertarik karena tidak percaya communicator.
+
+Misalnya:
+
+> “Idenya bagus, tetapi apakah tim Anda mampu?”
+
+Maka Interest juga membutuhkan:
+
+> **credible character.**
+
+Professional communicator perlu menunjukkan:
+
+- competence,
+- honesty,
+- realistic limits,
+- evidence.
+
+---
+
+## 38. “I Don't Know” Dapat Meningkatkan Interest
+
+Customer:
+
+> “Apakah sistem bisa terintegrasi dengan software lama kami?”
+
+Jika belum tahu:
+
+> “Saya belum bisa memastikan tanpa melihat interface software tersebut. Tapi itu salah satu hal pertama yang bisa kita periksa.”
+
+Lebih baik daripada:
+
+> “Bisa.”
+
+Kemudian ternyata tidak bisa.
+
+Trust mendukung Interest.
+
+---
+
+## 39. Common Failure: Feature Dumping
+
+Contoh:
+
+> “Aplikasi kami mempunyai dashboard, AI, cloud, mobile interface, notification, analytics, voice input, chatbot…”
+
+Customer berpikir:
+
+> “Lalu?”
+
+Masalah:
+
+> communicator berbicara tentang solution universe,
+
+bukan:
+
+> customer problem.
+
+Prinsip:
+
+> **Only introduce the part of the solution needed for the next state transition.**
+
+---
+
+## 40. Common Failure: Too Much Detail
+
+Interest Pitch bukan technical lecture.
+
+Misalnya customer baru bertanya:
+
+> “Bagaimana chatbot membantu?”
+
+Jawaban 15 menit tentang transformer architecture:
+
+> terlalu banyak.
+
+Lebih baik:
+
+> “Chatbot membaca knowledge base perusahaan sehingga pertanyaan rutin dapat dijawab otomatis. Jika pertanyaannya di luar scope, ia meneruskannya kepada staff.”
+
+Jika customer bertanya:
+
+> “Bagaimana knowledge base itu dipakai?”
+
+Baru lanjut.
+
+---
+
+## 41. Layered Communication
+
+Gunakan prinsip:
+
+> **Simple first, deeper on demand.**
+
+Layer 1:
+
+> solution idea.
+
+Layer 2:
+
+> how it works.
+
+Layer 3:
+
+> evidence.
+
+Layer 4:
+
+> technical detail.
+
+Jangan memulai dari Layer 4.
+
+---
+
+## 42. Common Failure: Generic Value
+
+Buruk:
+
+> “Solution kami meningkatkan efficiency.”
+
+Pertanyaan:
+
+> efficiency apa?
+
+Lebih baik:
+
+> “Staff tidak lagi perlu menyalin data yang sama ke tiga laporan.”
+
+Specific value:
+
+> lebih credible.
+
+---
+
+## 43. Common Failure: Solution Attachment
+
+Kadang communicator jatuh cinta kepada solution.
+
+Customer:
+
+> “Kami sebenarnya tidak masalah dengan waktu, masalahnya data sering salah.”
+
+Communicator:
+
+> tetap menawarkan automation untuk mempercepat.
+
+Good communicator:
+
+> kembali ke problem.
+
+> “Baik, berarti speed bukan issue utama. Mari kita lihat sumber error-nya.”
+
+Solution harus mengikuti person.
+
+Bukan person dipaksa mengikuti solution.
+
+---
+
+## 44. Interest adalah Hypothesis Test
+
+Ketika menawarkan solution, sebenarnya kita sedang menguji hypothesis:
+
+> **“Kami menduga solusi ini relevant bagi problem Anda.”**
+
+Response target memberikan evidence.
+
+Jika target berkata:
+
+> “Tidak, karena…”
+
+Kita belajar.
+
+Bukan gagal total.
+
+Model:
+
+> **Solution Hypothesis → Pitch → Response → Learning**
+
+---
+
+## 45. Closed-Loop Interest Communication
+
+Gunakan:
+
+> **ATTENTION ACHIEVED**  
+> ↓  
+> **PROPOSE RELEVANT POSSIBILITY**  
+> ↓  
+> **EXPLAIN SIMPLY**  
+> ↓  
+> **OBSERVE RESPONSE**  
+> ↓  
+> **CLARIFY / ADAPT**  
+> ↓  
+> **INTEREST**
+
+Sekali lagi:
+
+> communication bukan script.
+
+Communication adalah:
+
+> **adaptive loop.**
+
+---
+
+## 46. State Recognition
+
+Signal bahwa person masih di Attention:
+
+> “Ya, problem itu memang ada.”
+
+Signal Interest:
+
+> “Bagaimana solusinya?”
+
+> “Ada contoh?”
+
+> “Bisa dipakai di tempat kami?”
+
+> “Apa yang dibutuhkan?”
+
+Signal Desire:
+
+> “Ini akan sangat membantu kami.”
+
+> “Saya ingin mencoba.”
+
+Jangan salah membaca base.
+
+---
+
+## 47. Interest dari Opportunity
+
+Tidak semua Interest berasal dari problem.
+
+Contoh:
+
+> “Saat ini kampus sudah mempunyai data aktivitas pembelajaran. Data tersebut mungkin dapat digunakan untuk memberi mahasiswa feedback belajar yang lebih personal.”
+
+Person:
+
+> “Seperti apa?”
+
+Interest muncul dari:
+
+> opportunity.
+
+---
+
+## 48. Interest Pitch untuk Innovation
+
+Innovation sering sulit karena target belum pernah melihat solution.
+
+Gunakan:
+
+> **Current Reality → New Possibility → Human Benefit**
+
+Contoh:
+
+> “Sekarang mahasiswa menunggu feedback sampai tugas diperiksa. Dengan AI-assisted checking, mereka bisa mendapatkan feedback awal beberapa menit setelah submission sehingga kesalahan dasar dapat diperbaiki sebelum konsultasi dengan dosen.”
+
+Target:
+
+> “Apa AI-nya yang menentukan nilai?”
+
+Pertanyaan itu menunjukkan:
+
+> Interest sekaligus concern.
+
+Good communicator menjawab concern.
+
+---
+
+## 49. Answer the Concern, Not the Question Words Alone
+
+Customer bertanya:
+
+> “Apakah datanya di cloud?”
+
+Mungkin underlying concern:
+
+> privacy.
+
+Jangan hanya jawab:
+
+> “Ya.”
+
+Tanyakan atau respons:
+
+> “Ya, untuk versi ini datanya tersimpan di cloud. Apakah concern utama Anda tentang keamanan atau lokasi penyimpanan?”
+
+Sekarang kita memahami:
+
+> person behind the question.
+
+---
+
+## 50. Personality dan Interest
+
+Person yang berbeda dapat membutuhkan repertoire berbeda.
+
+### Analytical Person
+
+Mungkin tertarik melalui:
+
+> data, comparison, evidence.
+
+### Practical Person
+
+Melalui:
+
+> demonstration.
+
+### Big-Picture Person
+
+Melalui:
+
+> outcome.
+
+### Cautious Person
+
+Melalui:
+
+> risk reduction dan trial.
+
+Tetapi:
+
+> jangan mengunci orang dalam personality stereotype.
+
+Gunakan response aktual sebagai evidence.
+
+---
+
+## 51. Character dan Interest Language
+
+### Engineer
+
+> “Bagaimana architecture mengatasi bottleneck?”
+
+### Manager
+
+> “Apa impact terhadap workload?”
+
+### Customer
+
+> “Apa manfaatnya dan seberapa sulit digunakan?”
+
+### Finance
+
+> “Apa cost dan saving?”
+
+### Citizen
+
+> “Apa impact kepada masyarakat?”
+
+Solution sama.
+
+Interest language berbeda.
+
+---
+
+## 52. AI sebagai Interest-Pitch Coach
+
+AI dapat membantu mahasiswa melihat apakah pitch:
+
+- relevant,
+- terlalu technical,
+- terlalu panjang,
+- feature-heavy,
+- tidak menjawab problem.
+
+Contoh prompt:
+
+> Saya sudah memperoleh agreement bahwa customer mengalami problem X. Saya ingin membuat pitch hanya untuk membawa customer dari Attention ke Interest, belum ke Desire atau Action. Nilai pitch berikut berdasarkan problem-solution fit, clarity, relevance, simplicity, dan whether I am feature dumping.
+
+---
+
+## 53. AI sebagai Skeptical Character
+
+Prompt:
+
+> Berperanlah sebagai manager yang mengakui problem tersebut tetapi skeptis terhadap solusi baru karena tim sudah pernah mencoba tool serupa. Jangan langsung setuju. Saya akan mencoba membangun Interest.
+
+Mahasiswa harus:
+
+> listen and adapt.
+
+---
+
+## 54. AI sebagai Language Translator
+
+Mahasiswa menulis:
+
+> technical solution.
+
+AI membantu mengubah menjadi:
+
+- customer language,
+- manager language,
+- public language.
+
+Tetapi mahasiswa harus memastikan:
+
+> meaning tidak berubah.
+
+---
+
+## 55. AI sebagai Alternative Generator
+
+AI dapat memberikan:
+
+> 3 cara membangun Interest:
+
+- menggunakan analogy,
+- menggunakan data,
+- menggunakan demo.
+
+Mahasiswa memilih:
+
+> repertoire yang sesuai person.
+
+AI tidak menentukan secara otomatis.
+
+---
+
+## 56. Jangan Menggunakan AI untuk Manipulation
+
+Jangan:
+
+> “Bagaimana membuat customer tidak bisa menolak?”
+
+Gunakan:
+
+> “Bagaimana menjelaskan relevance solution secara jelas sehingga customer dapat menilai sendiri?”
+
+Tujuan:
+
+> **informed interest**
+
+bukan:
+
+> forced interest.
+
+---
+
+## 57. Latihan 1 — Attention or Interest?
+
+Tentukan state.
+
+### A
+
+> “Ya, laporan manual memang menyita waktu.”
+
+Jawaban:
+
+> Attention.
+
+### B
+
+> “Jadi ada cara membuatnya otomatis?”
+
+> Interest.
+
+### C
+
+> “Kalau memang dapat menghemat tiga jam, saya ingin coba.”
+
+> Desire.
+
+### D
+
+> “Kapan kita dapat mulai?”
+
+> Action.
+
+---
+
+## 58. Latihan 2 — Problem to Solution Fit
+
+Dosen memberikan problem.
+
+Mahasiswa memilih solution yang paling relevant.
+
+### Problem
+
+> mahasiswa sering melewatkan perubahan deadline.
+
+Possible solutions:
+
+A. meningkatkan resolusi layar.
+
+B. notification terpusat untuk deadline.
+
+C. mengganti logo aplikasi.
+
+D. menambah storage server.
+
+Jawaban:
+
+> B.
+
+Kemudian mahasiswa menjelaskan:
+
+> mechanism-nya.
+
+---
+
+## 59. Latihan 3 — Feature to Value
+
+Ubah feature menjadi:
+
+> benefit → value.
+
+### Feature
+
+> automatic reminder.
+
+### Benefit
+
+> deadline tidak mudah terlupakan.
+
+### Value
+
+> mahasiswa lebih mampu memenuhi commitment.
+
+Lakukan untuk:
+
+- cloud backup,
+- search,
+- dashboard,
+- AI summary,
+- shared calendar.
+
+---
+
+## 60. Latihan 4 — Stop Feature Dumping
+
+Student A diberi 8 features.
+
+Student B adalah customer dengan satu specific problem.
+
+Student A hanya boleh memilih:
+
+> maksimal 2 features
+
+yang relevant.
+
+Tujuan:
+
+> melatih selectivity.
+
+---
+
+## 61. Latihan 5 — Interest Questions
+
+Ubah statement menjadi question.
+
+Statement:
+
+> “Dashboard ini akan membantu Anda.”
+
+Question:
+
+> “Kalau semua status project dapat dilihat dalam satu halaman, apakah itu membantu meeting mingguan?”
+
+Statement:
+
+> “Automation menghemat waktu.”
+
+Question:
+
+> “Kalau input yang sama tidak perlu diketik ulang tiga kali, apakah itu cukup mengurangi beban staff?”
+
+---
+
+## 62. Latihan 6 — Build the Pitch
+
+Gunakan:
+
+> **Reconnect → Possibility → Mechanism → Benefit → Check**
+
+Case:
+
+> anggota kelompok tidak melihat blocker.
+
+Contoh:
+
+> “Tadi kita sepakat bahwa blocker sering baru diketahui menjelang deadline. Salah satu cara yang bisa dicoba adalah membuat semua dependency dan blocker terlihat di satu shared board. Setiap anggota bisa melihat task mana yang menunggu task lain. Dengan begitu team bisa menangani hambatan lebih awal. Apakah pendekatan ini cukup relevan untuk kita coba lihat?”
+
+---
+
+## 63. Latihan 7 — Different Character, Same Solution
+
+Solution:
+
+> appointment scheduling system.
+
+Jelaskan kepada:
+
+### Customer
+
+> lebih mudah memilih waktu.
+
+### Staff
+
+> mengurangi telepon manual.
+
+### Manager
+
+> meningkatkan visibility workload.
+
+### IT Engineer
+
+> integrasi dengan existing calendar.
+
+Tujuan:
+
+> character-based Interest language.
+
+---
+
+## 64. Mini Performance — Attention to Interest
+
+Mahasiswa berpasangan.
+
+### Student A
+
+Communicator.
+
+### Student B
+
+Target Person.
+
+Student B sudah berada di Base 1:
+
+> **Attention.**
+
+Contoh:
+
+> “Ya, reporting manual memang menghabiskan terlalu banyak waktu.”
+
+Student A mempunyai waktu:
+
+> **3 menit**
+
+untuk membawa Student B menuju:
+
+> **Interest.**
+
+---
+
+## 65. Rule
+
+Student A harus:
+
+1. reconnect dengan problem;
+2. menawarkan relevant possibility;
+3. menjelaskan solution mechanism secara sederhana;
+4. menyatakan possible benefit;
+5. memberi ruang response;
+6. menjawab concern;
+7. tidak meminta commitment besar.
+
+---
+
+## 66. Success Indicator
+
+Student B mengatakan:
+
+> “Menarik. Bisa jelaskan lebih lanjut?”
+
+atau:
+
+> “Kalau seperti itu, saya ingin lihat demonya.”
+
+atau:
+
+> “Apakah bisa diterapkan di sistem kami?”
+
+Itulah:
+
+> **BASE 2 — INTEREST**
+
+---
+
+## 67. Failure Indicator
+
+Student B mengatakan:
+
+> “Saya tidak melihat hubungannya dengan problem kami.”
+
+atau:
+
+> “Terlalu rumit.”
+
+atau:
+
+> “Anda belum menjawab masalah utama.”
+
+Tidak apa-apa.
+
+Student A harus:
+
+> **adapt.**
+
+---
+
+## 68. Hidden Concerns
+
+Untuk membuat latihan menarik, Person B memiliki hidden concern.
+
+Contoh:
+
+### Manager
+
+Problem:
+
+> reporting lambat.
+
+Hidden Concern:
+
+> staff tidak mau belajar tool kompleks.
+
+Student A harus menemukan concern melalui response.
+
+---
+
+## 69. Example Performance
+
+Target:
+
+> “Ya, memang staff kami menghabiskan banyak waktu membuat laporan.”
+
+Communicator:
+
+> “Kalau begitu, salah satu hal yang bisa kita lihat adalah menghilangkan input berulang. Data transaksi yang sudah ada dapat langsung digunakan untuk membuat draft laporan mingguan.”
+
+Target:
+
+> “Tetapi staff saya tidak bisa programming.”
+
+Communicator:
+
+> “Mereka tidak perlu programming. Sistem dapat membuat draft otomatis, lalu staff tetap memeriksa dan mengoreksi sebelum laporan dikirim.”
+
+Target:
+
+> “Kalau begitu saya ingin lihat seperti apa bentuk draft-nya.”
+
+State:
+
+> **Interest achieved.**
+
+---
+
+## 70. Rubrik Mini Performance
+
+| Dimensi | Bobot |
+|---|---:|
+| Recognition of Existing Attention | 20% |
+| Problem–Solution Fit | 20% |
+| Clarity of Solution Mechanism | 20% |
+| Person/Character Language Adaptation | 20% |
+| Response Reading & Adaptation | 20% |
+
+---
+
+## 71. Format Pertemuan 2 Jam
+
+### 0–15 menit — Review Minggu 6
+
+Review:
+
+> Target → Attention
+
+Pertanyaan:
+
+> Apa signal bahwa kita sudah mencapai Base 1?
+
+---
+
+### 15–40 menit — Lecture
+
+Topik:
+
+- Attention vs Interest,
+- problem–solution fit,
+- feature vs benefit vs value,
+- value proposition,
+- state recognition.
+
+---
+
+### 40–55 menit — Demonstration
+
+Dosen memperagakan:
+
+> Feature Dump Pitch
+
+versus:
+
+> Relevant Solution Pitch.
+
+---
+
+### 55–85 menit — Practice
+
+- Attention or Interest?
+- Feature to Value
+- Stop Feature Dumping
+- Build the Pitch
+
+---
+
+### 85–110 menit — Mini Performance
+
+> **Attention → Interest**
+
+---
+
+### 110–120 menit — AI Feedback & Reflection
+
+Mahasiswa menggunakan AI untuk mengevaluasi:
+
+- relevance,
+- clarity,
+- feature dumping,
+- character adaptation,
+- apakah pitch terlalu cepat menuju Action.
+
+---
+
+## 72. Tugas Minggu 7 — Problem–Solution Interest Pitch
+
+Gunakan problem atau opportunity dari tugas Minggu 6 bila memungkinkan.
+
+Ini penting karena mahasiswa melihat progression:
+
+> Minggu 6:
+
+**Target → Attention**
+
+Minggu 7:
+
+**Attention → Interest**
+
+---
+
+## 73. Bagian A — RECAP TARGET
+
+Tuliskan:
+
+> person,
+
+> character,
+
+> relationship,
+
+> problem/opportunity.
+
+Maksimal:
+
+> 100 kata.
+
+---
+
+## 74. Bagian B — ATTENTION EVIDENCE
+
+Apa bukti bahwa person sudah berada di:
+
+> **Attention?**
+
+Contoh response:
+
+> “Ya, ini memang masalah kami.”
+
+Jika Attention belum tercapai:
+
+> selesaikan terlebih dahulu Base 1.
+
+---
+
+## 75. Bagian C — PROBLEM–SOLUTION LINK
+
+Tuliskan:
+
+### Problem
+
+> apa?
+
+### Cause/Friction
+
+> apa yang menjadi penyebab atau hambatan?
+
+### Proposed Solution Mechanism
+
+> apa yang berubah?
+
+### Possible Benefit
+
+> outcome apa yang mungkin membaik?
+
+---
+
+## 76. Bagian D — INTEREST PITCH
+
+Maksimum:
+
+> **90 detik.**
+
+Gunakan:
+
+> **Reconnect → Possibility → Mechanism → Benefit → Check**
+
+---
+
+## 77. Bagian E — REPERTOIRE
+
+Pilih minimal satu:
+
+- explanation,
+- analogy,
+- example,
+- data,
+- demo,
+- visualization,
+- question.
+
+Jelaskan:
+
+> mengapa repertoire tersebut sesuai person.
+
+---
+
+## 78. Bagian F — PERFORMANCE
+
+Sampaikan kepada:
+
+> real person atau simulated person.
+
+Catat:
+
+> response.
+
+---
+
+## 79. Bagian G — STATE ASSESSMENT
+
+Setelah pitch, apakah person:
+
+### Remains at Attention
+
+> memahami problem tetapi belum tertarik.
+
+### Moves to Interest
+
+> ingin tahu lebih lanjut.
+
+### Moves toward Desire
+
+> mulai membayangkan menggunakan solution.
+
+### Rejects Solution
+
+> tidak melihat fit.
+
+Semua outcome dapat menjadi bahan belajar.
+
+---
+
+## 80. Bagian H — RESPONSE EVIDENCE
+
+Tuliskan kalimat atau behavior yang menjadi evidence.
+
+Contoh:
+
+> “Apakah bisa digunakan dengan sistem yang sekarang?”
+
+Ini evidence:
+
+> Interest.
+
+---
+
+## 81. Bagian I — ADAPTATION
+
+Jika target tidak tertarik:
+
+> apa yang perlu berubah?
+
+Kemungkinan:
+
+- solution salah,
+- language salah,
+- benefit tidak relevant,
+- evidence kurang,
+- target salah,
+- problem tidak cukup penting.
+
+---
+
+## 82. Bagian J — AI REFLECTION
+
+Gunakan AI sebagai reviewer.
+
+Berikan:
+
+- target,
+- problem,
+- pitch,
+- response.
+
+Minta AI mengevaluasi:
+
+1. apakah solution benar-benar menjawab problem;
+2. apakah ada feature dumping;
+3. apakah benefit specific;
+4. state person setelah pitch;
+5. satu alternatif pitch.
+
+Mahasiswa menulis:
+
+> apa yang diterima,
+
+> apa yang ditolak,
+
+> dan mengapa.
+
+---
+
+## 83. Penilaian Tugas Minggu 7
+
+| Aspek | Bobot |
+|---|---:|
+| Problem–Solution Fit | 20% |
+| Interest Pitch Clarity | 20% |
+| Benefit & Relevance | 20% |
+| Response/State Recognition | 20% |
+| Adaptation & Critical AI Use | 20% |
+
+---
+
+## 84. Interest Checklist
+
+Sebelum pitch:
+
+### ATTENTION?
+
+> Apakah target sudah mengakui problem?
+
+### PERSON?
+
+> Siapa dia dan dalam character apa?
+
+### PROBLEM?
+
+> Problem apa yang sudah disepakati?
+
+### SOLUTION?
+
+> Bagian solution mana yang langsung menjawab problem?
+
+### VALUE?
+
+> Mengapa ini relevant baginya?
+
+---
+
+Setelah pitch:
+
+### CURIOUS?
+
+> Apakah muncul pertanyaan?
+
+### RELEVANT?
+
+> Apakah ia melihat hubungan problem–solution?
+
+### CONCERN?
+
+> Apa yang masih menghambat Interest?
+
+### STATE?
+
+> Attention atau Interest?
+
+### NEXT?
+
+> Jelaskan lebih lanjut atau kembali memperbaiki fit?
+
+---
+
+## 85. Simple Formula Minggu 7
+
+\[
+\boxed{
+Interest =
+Recognized\ Problem
++
+Relevant\ Solution\ Possibility
++
+Understandable\ Value
+}
+\]
+
+Tetapi:
+
+\[
+\boxed{
+Interest \neq Desire
+}
+\]
+
+Person baru mengatakan:
+
+> **“Saya ingin tahu lebih jauh.”**
+
+Belum:
+
+> **“Saya menginginkannya.”**
+
+---
+
+## 86. Relationship Dimension
+
+Seperti minggu sebelumnya, kita selalu menilai dua hal.
+
+### Decision State
+
+Apakah person bergerak:
+
+> Attention → Interest?
+
+### Relationship State
+
+Apakah communication:
+
+- meningkatkan trust,
+- mempertahankan respect,
+- memberi ruang freedom,
+- atau justru terasa memaksa?
+
+Maka:
+
+\[
+\boxed{
+Effective\ Interest\ Pitch =
+State\ Progress + Trust
+}
+\]
+
+---
+
+## 87. Communication Is Not Convincing at Any Cost
+
+Ada keadaan di mana target mengatakan:
+
+> “Problem memang ada, tetapi solusi Anda tidak sesuai.”
+
+Communicator yang baik dapat menjawab:
+
+> “Baik. Mari kita lihat bagian mana yang tidak sesuai.”
+
+Bahkan mungkin akhirnya:
+
+> “Saya setuju, solusi kami bukan pilihan terbaik.”
+
+Itu bukan communication failure.
+
+Itu dapat menjadi:
+
+> **relationship success.**
+
+---
+
+## 88. Dari Interest menuju Desire
+
+Ketika target mulai bertanya:
+
+> “Bagaimana caranya?”
+
+> “Apa contohnya?”
+
+> “Apakah bisa diterapkan?”
+
+kita telah mencapai:
+
+> **BASE 2 — INTEREST**
+
+Tetapi masih ada gap:
+
+> **“Menarik”**
+
+belum sama dengan:
+
+> **“Saya menginginkannya.”**
+
+Pada Minggu berikutnya kita akan membahas bagaimana Interest dikembangkan menjadi:
+
+> **DESIRE**
+
+dengan membantu person memahami:
+
+- bagaimana solution bekerja,
+- seperti apa future state,
+- apakah benefit cukup besar,
+- apakah risk dapat diterima,
+- apakah solution cocok dengan dirinya.
+
+---
+
+## 89. Take-Home Messages
+
+Jika hanya mengingat delapan hal:
+
+### 1.
+
+> **Attention means “this matters.” Interest means “this may help.”**
+
+### 2.
+
+> **Do not introduce a solution before the problem is recognized.**
+
+### 3.
+
+> **A solution becomes interesting when it clearly connects to the person's problem.**
+
+### 4.
+
+> **Technology is not the value; what it changes for the person is the value.**
+
+### 5.
+
+> **Translate features into benefits and benefits into person-specific value.**
+
+### 6.
+
+> **Interest often reveals itself through curiosity and questions.**
+
+### 7.
+
+> **Do not rush from Interest directly to Action.**
+
+### 8.
+
+> **AI can help refine and simulate the pitch, but real communication determines whether a real person finds the solution relevant.**
+
+---
+
+## 90. One-Minute Summary
+
+Minggu 6:
+
+> **TARGET → ATTENTION**
+
+Pitch:
+
+> **“Saya melihat ada problem atau opportunity yang relevant bagi Anda.”**
+
+Minggu 7:
+
+> **ATTENTION → INTEREST**
+
+Pitch:
+
+> **“Saya mempunyai sesuatu yang mungkin membantu.”**
+
+Tetapi pitch tersebut bekerja hanya bila kita dapat menunjukkan:
+
+> **PROBLEM**  
+> ↓  
+> **SOLUTION MECHANISM**  
+> ↓  
+> **POSSIBLE BENEFIT**  
+> ↓  
+> **PERSONAL RELEVANCE**
+
+Maka alurnya:
+
+> **LISTEN TO THE PROBLEM**  
+> ↓  
+> **RECONNECT TO WHAT WAS AGREED**  
+> ↓  
+> **INTRODUCE A RELEVANT POSSIBILITY**  
+> ↓  
+> **EXPLAIN SIMPLY**  
+> ↓  
+> **SHOW POSSIBLE VALUE**  
+> ↓  
+> **LISTEN TO RESPONSE**  
+> ↓  
+> **ADAPT**  
+> ↓  
+> **INTEREST**
+
+Jika target berkata:
+
+> **“Menarik. Bisa jelaskan lebih lanjut?”**
+
+kita telah sampai:
+
+> **BASE 2 — INTEREST.**
+
+Dan prinsip paling sederhana Minggu 7 adalah:
+
+> **Jangan membuat orang tertarik kepada solusi kita karena solusi itu canggih. Bantu mereka melihat bahwa solusi itu relevan terhadap problem yang memang penting bagi mereka.**

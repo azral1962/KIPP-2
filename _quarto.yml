@@ -1,15 +1,32 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Komunikasi Inter Personal dan Publik"
-  author: "Norah Jones"
+  author: "Armein Z. R. Langi"
   date: "16/08/2026"
   chapters:
     - index.qmd
     - intro.qmd
+    - desain.md
     - summary.qmd
     - references.qmd
+    - ln_01.qmd
+    - ln_02.qmd
+    - ln_03.qmd
+    - ln_04.qmd
+    - ln_05.qmd
+    - ln_06.qmd
+    - ln_07.qmd
+    - ln_08.qmd
+    - ln_09.qmd
+    - ln_10.qmd
+    - ln_11.qmd
+    - ln_12.qmd
+    - ln_13.qmd
+    - ln_14.qmd
+    - ln_15.qmd
 
 bibliography: references.bib
 
@@ -18,8 +35,6 @@ format:
     theme:
       - cosmo
       - brand
-  pdf:
-    documentclass: scrreprt
 
 
 

@@ -1,0 +1,2323 @@
+# MINGGU 9 — BASEBALL MODEL III: DESIRE
+
+:::{.callout-tip}
+## Dari “Ini Menarik” menuju “Saya Menginginkan Hasil Ini”
+
+**Mata Kuliah:** Person-Centered Communication in the AI Era  
+**Tingkat:** Mahasiswa Tahun 2  
+**Durasi:** 2 jam  
+**Domain:** Working Colleagues  
+**Tema Besar:** *How do we move a person from Interest to Desire without manipulation?*
+:::
+
+---
+
+## 1. Dari UTS menuju Base 3
+
+Sampai Minggu 8 mahasiswa telah mempelajari dan mempraktikkan:
+
+> **TARGET → ATTENTION → INTEREST**
+
+Target mengatakan:
+
+> **Attention:** “Ya, ini memang masalah atau peluang yang penting.”
+
+Kemudian:
+
+> **Interest:** “Solusi itu kelihatannya relevan. Saya ingin mengetahui lebih jauh.”
+
+Tetapi:
+
+> **Interested is not the same as wanting.**
+
+Seseorang dapat berkata:
+
+> “Teknologinya menarik.”
+
+tetapi tidak merasa:
+
+> “Saya membutuhkan ini.”
+
+Minggu 9 membahas bagaimana komunikasi membantu person bergerak menuju:
+
+> **BASE 3 — DESIRE**
+
+---
+
+## 2. Baseball Model / TAIDA
+
+Model lengkap:
+
+> **TARGET → ATTENTION → INTEREST → DESIRE → ACTION**
+
+atau:
+
+> **T → A → I → D → A**
+
+Minggu ini kita fokus pada:
+
+\[
+\boxed{INTEREST \rightarrow DESIRE}
+\]
+
+State awal:
+
+> **“Saya ingin tahu lebih jauh.”**
+
+State yang ingin dicapai:
+
+> **“Saya menginginkan outcome tersebut.”**
+
+---
+
+## 3. Pitch Ketiga
+
+Pitch ketiga dapat diringkas:
+
+> **“This is how it works, and this is what it can do for you.”**
+
+Dalam bahasa sederhana:
+
+> **“Begini cara kerjanya, dan beginilah keadaan Anda dapat menjadi lebih baik.”**
+
+Pitch Desire bukan lagi sekadar:
+
+> “Saya mempunyai solution.”
+
+Sekarang kita membantu person:
+
+1. memahami solution;
+2. membayangkan future state;
+3. melihat benefit;
+4. menilai evidence;
+5. memahami risk;
+6. mengetahui apakah solution benar-benar cocok dengan dirinya.
+
+---
+
+## 4. Learning Objectives Minggu 9
+
+Setelah mengikuti pertemuan ini mahasiswa mampu:
+
+1. membedakan **Interest** dan **Desire**;
+2. mengenali signal bahwa target telah mencapai Interest;
+3. menjelaskan solution mechanism secara cukup jelas;
+4. menghubungkan feature → benefit → value → desired outcome;
+5. menggambarkan **current state** dan **desired future state**;
+6. menggunakan demonstration, evidence, story, comparison, dan visualization;
+7. mengenali serta menjawab concern dan perceived risk;
+8. membangun Desire tanpa exaggeration atau manipulation;
+9. membaca response dan mengadaptasi communication;
+10. menggunakan AI sebagai simulator, translator, dan communication coach;
+11. menjaga **relationship dan autonomy** ketika membangun Desire.
+
+---
+
+## 5. Attention, Interest, dan Desire Berbeda
+
+Mari bandingkan.
+
+### ATTENTION
+
+> “Ya, reporting manual memang menghabiskan terlalu banyak waktu.”
+
+Person mengakui:
+
+> **problem.**
+
+---
+
+### INTEREST
+
+> “Jadi reporting itu bisa dibuat otomatis?”
+
+Person melihat:
+
+> **possible solution.**
+
+---
+
+### DESIRE
+
+> “Kalau staff hanya perlu memeriksa hasilnya dan kita bisa menghemat tiga jam setiap minggu, itu sangat membantu kami.”
+
+Person sudah melihat:
+
+> **value bagi dirinya.**
+
+Inilah perubahan penting.
+
+---
+
+## 6. Interest Bertanya “How?”
+
+Interest biasanya bertanya:
+
+> “Bagaimana caranya?”
+
+> “Bisa dipakai di tempat kami?”
+
+> “Ada contoh?”
+
+Desire mulai berkata:
+
+> “Ini akan membantu kami.”
+
+> “Saya ingin kondisi seperti itu.”
+
+> “Kalau benar bekerja seperti ini, kami membutuhkannya.”
+
+---
+
+## 7. Desire Berorientasi Outcome
+
+Ini prinsip penting:
+
+> **People usually do not desire features. They desire outcomes.**
+
+Customer jarang sebenarnya menginginkan:
+
+> cloud database.
+
+Ia mungkin menginginkan:
+
+> data selalu tersedia.
+
+Mahasiswa tidak benar-benar menginginkan:
+
+> notification system.
+
+Ia menginginkan:
+
+> tidak melewatkan deadline.
+
+Manager tidak menginginkan:
+
+> dashboard.
+
+Ia menginginkan:
+
+> melihat keadaan project dengan cepat.
+
+Jadi:
+
+> **solution is the means; desired state is the end.**
+
+---
+
+## 8. Current State dan Desired State
+
+Desire muncul ketika person dapat melihat perbedaan antara:
+
+> **WHERE I AM NOW**
+
+dan:
+
+> **WHERE I COULD BE.**
+
+Model sederhana:
+
+> **CURRENT STATE → SOLUTION → DESIRED STATE**
+
+Contoh:
+
+### Current State
+
+Setiap Jumat staff membutuhkan 3 jam menyusun laporan.
+
+### Solution
+
+Automatic data aggregation.
+
+### Desired State
+
+Draft laporan tersedia otomatis, staff hanya melakukan review selama 30 menit.
+
+Sekarang value menjadi:
+
+> visible.
+
+---
+
+## 9. Desire Gap
+
+Kita dapat menyebut perbedaan tersebut:
+
+> **DESIRE GAP**
+
+\[
+Desire\ Gap = Desired\ State - Current\ State
+\]
+
+Bukan persamaan matematis literal untuk semua hal.
+
+Ini alat berpikir.
+
+Semakin person memahami:
+
+> keadaan sekarang,
+
+dan:
+
+> keadaan yang secara realistis dapat dicapai,
+
+semakin jelas alasan untuk berubah.
+
+---
+
+## 10. Tetapi Jangan Membesar-besarkan Gap
+
+Manipulative communicator dapat membuat current state tampak:
+
+> jauh lebih buruk,
+
+dan future state tampak:
+
+> jauh lebih sempurna.
+
+Contoh:
+
+> “Kalau tidak menggunakan AI, perusahaan Anda akan tertinggal total.”
+
+atau:
+
+> “Sistem ini akan menghilangkan semua masalah.”
+
+Itu bukan person-centered communication.
+
+Kita menggunakan:
+
+> **credible gap.**
+
+---
+
+## 11. Desired State Harus Milik Person
+
+Kesalahan umum:
+
+communicator mengatakan:
+
+> “Anda pasti ingin sistem paling modern.”
+
+Belum tentu.
+
+Person mungkin sebenarnya ingin:
+
+> sederhana,
+
+> stabil,
+
+> murah,
+
+> mudah dipelihara.
+
+Karena itu jangan menentukan Desire orang lain.
+
+Tanyakan:
+
+> **“Kalau problem ini berhasil dikurangi, kondisi yang Anda anggap baik seperti apa?”**
+
+Desired state harus:
+
+> **co-discovered.**
+
+---
+
+## 12. Future-State Question
+
+Gunakan pertanyaan:
+
+> “Kalau masalah ini selesai, apa yang berubah bagi Anda?”
+
+atau:
+
+> “Kalau proses ini dapat dipercepat, waktu yang tersisa akan digunakan untuk apa?”
+
+atau:
+
+> “Bagaimana Anda tahu bahwa solution ini berhasil?”
+
+Pertanyaan ini membuat target:
+
+> membangun sendiri desired state.
+
+---
+
+## 13. Contoh
+
+Customer:
+
+> “Reporting membutuhkan tiga jam.”
+
+Communicator:
+
+> “Kalau prosesnya bisa turun menjadi sekitar 30 menit, apa dampaknya?”
+
+Customer:
+
+> “Staff bisa menggunakan waktunya untuk mengecek error transaksi.”
+
+Sekarang value bukan lagi:
+
+> automation.
+
+Value adalah:
+
+> **lebih banyak waktu untuk quality checking.**
+
+Person sendiri yang mengatakannya.
+
+---
+
+## 14. Feature → Benefit → Value → Outcome
+
+Gunakan empat lapisan.
+
+### FEATURE
+
+Apa yang dimiliki solution?
+
+> Automatic synchronization.
+
+### BENEFIT
+
+Apa yang dilakukannya?
+
+> Data tidak perlu dimasukkan ulang.
+
+### VALUE
+
+Mengapa penting bagi person?
+
+> Mengurangi waktu dan kesalahan.
+
+### OUTCOME
+
+Kondisi apa yang menjadi mungkin?
+
+> Staff dapat memusatkan waktu pada review dan customer service.
+
+Struktur:
+
+\[
+Feature \rightarrow Benefit \rightarrow Value \rightarrow Desired\ Outcome
+\]
+
+---
+
+## 15. Contoh AI Summary
+
+### Feature
+
+> AI summarization.
+
+### Benefit
+
+> Dokumen panjang dapat dibuatkan ringkasan awal.
+
+### Value bagi Student
+
+> Lebih cepat mengetahui struktur sebelum membaca mendalam.
+
+### Desired Outcome
+
+> Student dapat menggunakan waktu membaca untuk bagian yang paling relevan.
+
+---
+
+## 16. Contoh Shared Calendar
+
+### Feature
+
+> Shared calendar.
+
+### Benefit
+
+> Semua deadline terlihat bersama.
+
+### Value
+
+> Konflik deadline dapat diketahui lebih awal.
+
+### Desired Outcome
+
+> Team dapat merencanakan workload sebelum masalah muncul.
+
+---
+
+## 17. Jangan Berhenti pada Benefit Generik
+
+Buruk:
+
+> “Ini akan meningkatkan productivity.”
+
+Apa artinya?
+
+Lebih baik:
+
+> “Staff tidak lagi perlu menyalin data ke tiga spreadsheet, sehingga sekitar dua jam setiap Jumat dapat digunakan untuk review.”
+
+Specificity membuat Desire:
+
+> credible.
+
+---
+
+## 18. HOW IT WORKS
+
+Pada tahap Interest, kita cukup menjelaskan mechanism sederhana.
+
+Pada tahap Desire, person biasanya ingin memahami:
+
+> **Apakah ini benar-benar bekerja dalam situasi saya?**
+
+Maka penjelasan perlu sedikit lebih dalam.
+
+Tetapi tetap:
+
+> **appropriate to the character.**
+
+---
+
+## 19. How It Works untuk Engineer
+
+Engineer mungkin ingin tahu:
+
+> architecture,
+
+> integration,
+
+> reliability,
+
+> technical limitations.
+
+---
+
+## 20. How It Works untuk Customer
+
+Customer mungkin lebih ingin tahu:
+
+> apa yang harus dilakukan user,
+
+> apa yang berubah,
+
+> apa yang tetap,
+
+> apa yang terjadi ketika ada error.
+
+---
+
+## 21. How It Works untuk Manager
+
+Manager mungkin ingin tahu:
+
+> workflow,
+
+> responsibility,
+
+> resource,
+
+> impact,
+
+> implementation.
+
+---
+
+## 22. How It Works untuk Finance
+
+Finance mungkin bertanya:
+
+> investment,
+
+> recurring cost,
+
+> saving,
+
+> financial risk.
+
+Person sama-sama tertarik.
+
+Tetapi:
+
+> **Desire language berbeda berdasarkan character.**
+
+---
+
+## 23. Layered Explanation
+
+Gunakan prinsip Minggu 4:
+
+> **Simple first, deeper on demand.**
+
+Layer 1:
+
+> desired outcome.
+
+Layer 2:
+
+> mechanism.
+
+Layer 3:
+
+> evidence.
+
+Layer 4:
+
+> technical detail.
+
+Layer 5:
+
+> limitation/risk.
+
+Jangan memberikan semua layer sekaligus jika tidak dibutuhkan.
+
+---
+
+## 24. Demonstration sebagai Repertoire
+
+Jika memungkinkan:
+
+> **show the future state.**
+
+Misalnya:
+
+Problem:
+
+> laporan manual.
+
+Daripada mengatakan:
+
+> “Sistem dapat otomatis.”
+
+Tunjukkan:
+
+> raw data → klik → report draft muncul.
+
+Sekarang target dapat membayangkan:
+
+> dirinya menggunakan solution.
+
+---
+
+## 25. Prototype Membantu Desire
+
+Prototype menjawab:
+
+> “What would this actually feel like?”
+
+Contoh:
+
+- mockup screen,
+- clickable prototype,
+- workflow diagram,
+- sample report,
+- sample chatbot conversation.
+
+Prototype mengubah:
+
+> abstract possibility
+
+menjadi:
+
+> visible possibility.
+
+---
+
+## 26. Before–After Demonstration
+
+Sangat efektif menggunakan:
+
+### BEFORE
+
+> 8 langkah.
+
+### AFTER
+
+> 3 langkah.
+
+atau:
+
+### BEFORE
+
+> 3 jam.
+
+### AFTER
+
+> 30 menit.
+
+atau:
+
+### BEFORE
+
+> informasi tersebar di lima chat.
+
+### AFTER
+
+> blocker terlihat dalam satu board.
+
+Ini membuat:
+
+> desired state concrete.
+
+---
+
+## 27. Evidence
+
+Desire membutuhkan confidence.
+
+Person bertanya:
+
+> **“Apakah outcome itu believable?”**
+
+Gunakan evidence seperti:
+
+- measurements,
+- pilot result,
+- previous case,
+- user feedback,
+- comparison,
+- simulation.
+
+Contoh:
+
+> “Dalam test dengan 20 transaksi, waktu rata-rata turun dari 4,5 menit menjadi 1,8 menit.”
+
+---
+
+## 28. Jangan Mengubah Evidence menjadi Janji
+
+Data test:
+
+> waktu turun 60%.
+
+Tidak berarti boleh mengatakan:
+
+> “Sistem pasti akan menurunkan waktu 60% di tempat Anda.”
+
+Lebih tepat:
+
+> “Dalam test awal kami melihat penurunan sekitar 60%. Kita perlu pilot untuk mengetahui hasil pada kondisi Anda.”
+
+Credibility membangun Desire lebih baik daripada:
+
+> exaggeration.
+
+---
+
+## 29. Story sebagai Future-State Language
+
+Story dapat membantu person membayangkan outcome.
+
+Contoh:
+
+> “Bayangkan Jumat sore. Biasanya staff masih menggabungkan spreadsheet sampai jam lima. Dengan workflow baru, draft laporan sudah tersedia sejak pagi dan mereka hanya memeriksa exception.”
+
+Story menunjukkan:
+
+> **lived future state.**
+
+---
+
+## 30. Tetapi Story Harus Jujur
+
+Jangan menggunakan:
+
+> fictional success story
+
+seolah-olah:
+
+> real evidence.
+
+Jika hypothetical:
+
+katakan:
+
+> “Bayangkan…”
+
+Jika actual case:
+
+katakan:
+
+> “Pada pilot sebelumnya…”
+
+Truth tetap penting.
+
+---
+
+## 31. Desire Memerlukan Trust
+
+Person dapat sangat menginginkan outcome tetapi ragu:
+
+> “Saya tidak yakin Anda dapat mewujudkannya.”
+
+Maka Desire dipengaruhi oleh:
+
+> **Expected Value × Trust**
+
+Secara konseptual:
+
+\[
+Desire \approx Perceived\ Value \times Credibility
+\]
+
+Jika value tinggi tetapi credibility nol:
+
+> Desire untuk memilih solution kita bisa tetap rendah.
+
+---
+
+## 32. Credibility Bukan Pamer
+
+Credibility dapat dibangun melalui:
+
+- evidence,
+- clear explanation,
+- honesty,
+- consistency,
+- acknowledgment of limitations,
+- relevant experience.
+
+Bukan hanya:
+
+> banyak title dan jargon.
+
+---
+
+## 33. Limitation Dapat Meningkatkan Trust
+
+Contoh:
+
+> “Sistem ini cocok untuk pertanyaan rutin dari knowledge base. Untuk complaint kompleks, staff tetap harus mengambil alih.”
+
+Itu mungkin terdengar kurang spectacular.
+
+Tetapi target belajar:
+
+> communicator memahami batas solution.
+
+Trust meningkat.
+
+---
+
+## 34. Desire dan Risk
+
+Semakin dekat person menuju action, semakin banyak ia memikirkan:
+
+> **risk.**
+
+Contoh:
+
+- bagaimana kalau gagal?
+- bagaimana kalau staff menolak?
+- bagaimana kalau data bocor?
+- bagaimana kalau terlalu mahal?
+- bagaimana kalau sulit digunakan?
+- bagaimana kalau vendor hilang?
+
+Desire dapat turun ketika perceived risk tinggi.
+
+---
+
+## 35. Risk Is Part of the Person's Reality
+
+Jangan menjawab concern:
+
+> “Tidak perlu khawatir.”
+
+Lebih baik:
+
+> “Concern itu masuk akal. Risiko utamanya memang X. Ini cara kita menguranginya…”
+
+Person-centered communication:
+
+> **acknowledges risk rather than dismissing it.**
+
+---
+
+## 36. Four Common Risks
+
+Untuk mahasiswa, gunakan empat kategori sederhana:
+
+### PERFORMANCE RISK
+
+> Apakah bekerja?
+
+### COST RISK
+
+> Apakah terlalu mahal?
+
+### EFFORT RISK
+
+> Apakah terlalu sulit?
+
+### RELATIONSHIP / SOCIAL RISK
+
+> Apa dampaknya terhadap orang lain?
+
+Untuk technology juga dapat muncul:
+
+> privacy, safety, security.
+
+---
+
+## 37. Risk Reduction Repertoire
+
+Communicator dapat menggunakan:
+
+- pilot,
+- trial,
+- prototype,
+- phased implementation,
+- guarantee,
+- rollback,
+- training,
+- human oversight,
+- transparent limitation.
+
+Contoh:
+
+> “Kita tidak perlu mengubah seluruh workflow. Kita dapat mencoba pada satu tim selama dua minggu.”
+
+Sekarang:
+
+> perceived risk menurun.
+
+---
+
+## 38. Trial Membangun Desire secara Etis
+
+Daripada memaksa:
+
+> “Percayalah, ini pasti bagus.”
+
+Tawarkan:
+
+> **evidence-generating experience.**
+
+> “Mari kita uji kecil.”
+
+Person dapat:
+
+> mengalami value sendiri.
+
+Ini jauh lebih kuat dan lebih etis.
+
+---
+
+## 39. Desire dan Affordability
+
+Kalimat pitch awal yang Anda rumuskan adalah:
+
+1. Saya melihat Anda mempunyai problem/opportunity.
+2. Saya mempunyai solution.
+3. Begini cara kerjanya.
+4. Anda dapat afford it.
+
+Affordability mulai relevan di akhir Desire.
+
+Namun **affordability bukan hanya uang**.
+
+Seseorang dapat bertanya:
+
+> “Can I afford this?”
+
+dalam arti:
+
+- uang,
+- waktu,
+- tenaga,
+- learning effort,
+- risk,
+- organizational change.
+
+---
+
+## 40. Total Cost to the Person
+
+Jadi lebih luas:
+
+\[
+Affordability =
+Money + Time + Effort + Risk + Change
+\]
+
+Tidak perlu dianggap formula numerik.
+
+Tujuannya:
+
+> melihat feasibility dari sudut person.
+
+---
+
+## 41. “Murah” Menurut Siapa?
+
+Rp1 juta mungkin:
+
+> murah bagi organisasi besar,
+
+tetapi sangat mahal bagi mahasiswa.
+
+Tiga jam training mungkin:
+
+> ringan bagi satu person,
+
+tetapi berat bagi team yang sedang deadline.
+
+Affordability harus:
+
+> **person-centered.**
+
+---
+
+## 42. Desire Bukan Sekadar Emotion
+
+Kata **Desire** dapat terdengar sangat emosional.
+
+Tetapi dalam framework ini Desire berarti:
+
+> **person now prefers the proposed future state strongly enough to seriously consider pursuing it.**
+
+Desire dapat dibentuk oleh:
+
+- rational benefit,
+- emotion,
+- identity,
+- convenience,
+- trust,
+- values.
+
+---
+
+## 43. Logical Desire
+
+Manager dapat berkata:
+
+> “Penghematan 10 jam per minggu membuat solution ini masuk akal.”
+
+---
+
+## 44. Emotional Desire
+
+Parent dapat berkata:
+
+> “Saya ingin anak saya merasa aman menggunakan sistem ini.”
+
+---
+
+## 45. Value-Based Desire
+
+Citizen dapat berkata:
+
+> “Saya menginginkan solution yang tidak mengorbankan privacy.”
+
+Semua valid.
+
+Karena person:
+
+> lebih besar daripada economic calculator.
+
+---
+
+## 46. Desire dan Narrative Character
+
+Character mempengaruhi:
+
+> **what counts as value.**
+
+### Engineer
+
+Value:
+
+> technical quality.
+
+### Manager
+
+Value:
+
+> coordinated performance.
+
+### Customer
+
+Value:
+
+> desired outcome.
+
+### Parent
+
+Value:
+
+> wellbeing.
+
+### Citizen
+
+Value:
+
+> fairness and public good.
+
+Jadi Desire Pitch harus bertanya:
+
+> **What would this character value?**
+
+Kemudian:
+
+> verify through communication.
+
+---
+
+## 47. Jangan Mengasumsikan Value
+
+Jangan berkata:
+
+> “Sebagai manager, Anda pasti ingin mengurangi staff.”
+
+Manager mungkin justru ingin:
+
+> mempertahankan staff tetapi mengurangi pekerjaan repetitif.
+
+Tanyakan.
+
+Person-centered approach:
+
+> **hypothesize → communicate → verify.**
+
+---
+
+## 48. Desire dan Identity
+
+Kadang person tertarik karena solution cocok dengan:
+
+> siapa ia ingin menjadi.
+
+Contoh:
+
+Seorang team leader mungkin menginginkan tool bukan hanya karena:
+
+> lebih cepat,
+
+tetapi karena ia ingin menjadi:
+
+> leader yang transparan dan tidak micromanage.
+
+Ini menunjukkan relationship antara:
+
+> narrative character dan Desire.
+
+---
+
+## 49. Tetapi Identity Tidak Boleh Dieksploitasi
+
+Manipulatif:
+
+> “Kalau Anda benar-benar peduli pada tim, Anda harus membeli sistem ini.”
+
+Itu menyerang identity untuk memaksa keputusan.
+
+Lebih baik:
+
+> “Anda tadi mengatakan transparency penting bagi team. Salah satu benefit pendekatan ini adalah status pekerjaan dapat terlihat tanpa harus terus menanyakan setiap anggota.”
+
+Hubungkan pada:
+
+> stated value,
+
+bukan pressure.
+
+---
+
+## 50. Interest Pitch vs Desire Pitch
+
+### Interest Pitch
+
+> “Ada cara membuat reporting otomatis.”
+
+Objective:
+
+> membuat person ingin tahu.
+
+---
+
+### Desire Pitch
+
+> “Data transaksi dapat dikumpulkan otomatis setiap malam. Draft laporan tersedia pagi Jumat, sehingga staff yang biasanya menghabiskan tiga jam menyusun data dapat fokus memeriksa exception. Dalam prototype, proses review membutuhkan sekitar 30 menit.”
+
+Objective:
+
+> membuat person melihat future state dan value.
+
+---
+
+## 51. Desire Pitch Formula
+
+Gunakan formula sederhana:
+
+### 1. RECONNECT
+
+> “Tadi Anda mengatakan…”
+
+### 2. EXPLAIN HOW
+
+> “Cara kerjanya…”
+
+### 3. SHOW FUTURE STATE
+
+> “Dengan begitu…”
+
+### 4. PROVIDE EVIDENCE
+
+> “Dalam test/example…”
+
+### 5. ACKNOWLEDGE RISK
+
+> “Batas/risiko yang perlu diperhatikan…”
+
+### 6. CHECK VALUE
+
+> “Apakah outcome seperti ini cukup berarti bagi Anda?”
+
+---
+
+## 52. Contoh Lengkap
+
+> “Tadi Anda mengatakan staff menghabiskan sekitar tiga jam setiap Jumat untuk menggabungkan laporan. Sistem ini mengambil data yang sudah dimasukkan selama minggu berjalan dan membuat draft laporan otomatis. Staff tetap memeriksa sebelum dikirim. Dalam prototype dengan data minggu lalu, draft dapat dibuat kurang dari satu menit dan review sekitar 30 menit. Risiko utamanya adalah format input harus konsisten, jadi kita perlu memastikan template sederhana untuk semua divisi. Kalau waktu reporting bisa turun seperti ini, apakah perubahan tersebut cukup bernilai bagi tim?”
+
+---
+
+## 53. Last Question Matters
+
+Perhatikan:
+
+> “Apakah outcome ini cukup bernilai bagi Anda?”
+
+Jangan mengasumsikan.
+
+Biarkan person:
+
+> evaluate.
+
+Jika jawab:
+
+> “Ya, itu akan sangat membantu.”
+
+Desire signal.
+
+Jika:
+
+> “Tidak terlalu. Masalah kami sebenarnya accuracy.”
+
+Kembali:
+
+> adapt.
+
+---
+
+## 54. Signal Desire
+
+Beberapa signal:
+
+> “Kami benar-benar membutuhkan ini.”
+
+> “Ini akan menghemat banyak waktu.”
+
+> “Kalau bisa seperti itu, saya ingin mencoba.”
+
+> “Ini cocok dengan yang kami cari.”
+
+> “Bagaimana kita menerapkannya?”
+
+Yang terakhir bahkan mulai mendekati:
+
+> **Action.**
+
+---
+
+## 55. Signal Masih Interest
+
+> “Menarik.”
+
+> “Bagaimana technology-nya?”
+
+> “Apa ada contoh lain?”
+
+Person masih:
+
+> evaluating possibility.
+
+Jangan memaksa menganggap Desire sudah tercapai.
+
+---
+
+## 56. Signal Concern
+
+> “Saya suka idenya, tetapi…”
+
+Ini bukan rejection.
+
+Sering berarti:
+
+> **Desire + Barrier.**
+
+Contoh:
+
+> “Saya suka idenya, tetapi staff saya tidak punya waktu belajar.”
+
+Sekarang tugas communicator:
+
+> memahami barrier.
+
+---
+
+## 57. Desire + Barrier
+
+Kita dapat melihat:
+
+\[
+Desire\ to\ Act =
+Desired\ Value - Perceived\ Barrier
+\]
+
+Sekali lagi bukan persamaan literal.
+
+Jika value tinggi tetapi barrier juga sangat tinggi:
+
+> Action belum terjadi.
+
+Minggu 9 membangun Desire dan mulai mengenali barrier.
+
+Minggu 10 akan membawa kita menuju:
+
+> **Action and Agreement.**
+
+---
+
+## 58. Do Not Fight Objections
+
+Objection adalah:
+
+> information.
+
+Customer:
+
+> “Kelihatannya terlalu rumit.”
+
+Jangan:
+
+> “Tidak, gampang kok.”
+
+Tanya:
+
+> “Bagian mana yang terasa paling rumit?”
+
+Mungkin concern:
+
+> training.
+
+Sekarang conversation menjadi lebih precise.
+
+---
+
+## 59. Objection Categories
+
+Gunakan lima kategori mudah:
+
+### VALUE
+
+> “Saya tidak melihat benefit-nya.”
+
+### TRUST
+
+> “Saya tidak yakin ini bekerja.”
+
+### COST
+
+> “Terlalu mahal.”
+
+### EFFORT
+
+> “Terlalu sulit diterapkan.”
+
+### RISK
+
+> “Saya khawatir jika gagal.”
+
+Masing-masing membutuhkan communication berbeda.
+
+---
+
+## 60. Objection Bukan Musuh
+
+Jika customer bertanya:
+
+> “Bagaimana privacy-nya?”
+
+Itu dapat berarti:
+
+> ia cukup tertarik untuk memikirkan real implementation.
+
+Pertanyaan kritis sering merupakan:
+
+> **advanced engagement.**
+
+---
+
+## 61. AI sebagai Desire Simulator
+
+AI dapat memainkan character yang sudah berada di Interest.
+
+Prompt:
+
+> “Anda adalah manager yang tertarik dengan solusi saya, tetapi belum yakin cukup bernilai untuk mengubah workflow team. Anda khawatir terhadap training, reliability, dan disruption. Jangan langsung setuju. Saya akan mencoba membawa Anda dari Interest ke Desire.”
+
+Mahasiswa harus:
+
+> discover which barrier matters.
+
+---
+
+## 62. AI sebagai Future-State Translator
+
+Mahasiswa dapat memasukkan technical feature.
+
+Contoh:
+
+> automated log anomaly detection.
+
+Minta AI:
+
+> “Jelaskan kemungkinan future state untuk system administrator, manager, dan customer tanpa exaggeration.”
+
+Kemudian mahasiswa mengevaluasi.
+
+---
+
+## 63. AI sebagai Evidence Critic
+
+Minta:
+
+> “Apakah evidence berikut cukup mendukung claim saya? Mana yang masih terlalu kuat?”
+
+Ini membantu mahasiswa membedakan:
+
+> evidence
+
+dari:
+
+> overclaim.
+
+---
+
+## 64. AI sebagai Objection Generator
+
+AI dapat memberikan:
+
+- cost objection,
+- trust objection,
+- usability objection,
+- ethical objection.
+
+Mahasiswa belajar:
+
+> tidak defensif.
+
+---
+
+## 65. AI Bukan Mesin Manipulasi
+
+Tidak:
+
+> “Cari kata yang membuat orang merasa takut kehilangan kesempatan.”
+
+Lebih baik:
+
+> “Bantu saya membuat future state dan trade-off lebih mudah dipahami sehingga person dapat menilai solution secara informed.”
+
+Prinsip:
+
+> **AI should improve informed desire, not manufacture desire.**
+
+---
+
+## 66. Latihan 1 — Interest atau Desire?
+
+Tentukan state.
+
+### A
+
+> “Bagaimana sistem ini bekerja?”
+
+**Interest**
+
+### B
+
+> “Kalau report bisa tersedia otomatis setiap Jumat, itu akan sangat membantu kami.”
+
+**Desire**
+
+### C
+
+> “Apakah ada demo?”
+
+**Interest**
+
+### D
+
+> “Saya ingin team kami mempunyai kondisi seperti itu.”
+
+**Desire**
+
+### E
+
+> “Berapa biayanya dan kapan kita bisa mulai?”
+
+**Approaching Action**
+
+---
+
+## 67. Latihan 2 — Feature to Outcome
+
+Ubah:
+
+> **Feature → Benefit → Value → Desired Outcome**
+
+### Feature
+
+Automatic backup.
+
+### Benefit
+
+Data dapat dipulihkan.
+
+### Value
+
+Risiko kehilangan pekerjaan berkurang.
+
+### Desired Outcome
+
+Mahasiswa dapat bekerja tanpa takut kehilangan seluruh project ketika laptop bermasalah.
+
+Lakukan untuk:
+
+- notification,
+- AI summary,
+- shared dashboard,
+- search,
+- automatic report.
+
+---
+
+## 68. Latihan 3 — Current vs Future State
+
+Case:
+
+> anggota organisasi menghabiskan 45 menit dalam setiap meeting hanya untuk progress update.
+
+Mahasiswa membuat:
+
+### CURRENT STATE
+
+Progress update dilakukan satu per satu dalam meeting.
+
+### FUTURE STATE
+
+Progress update dilakukan asynchronous sebelum meeting.
+
+### VALUE
+
+Meeting digunakan untuk decision dan problem solving.
+
+Kemudian buat:
+
+> 60-second Desire Pitch.
+
+---
+
+## 69. Latihan 4 — Show, Don't Tell
+
+Pilih satu solution.
+
+Jelaskan dengan:
+
+### VERSION A
+
+verbal explanation.
+
+### VERSION B
+
+simple demonstration/prototype.
+
+Partner menilai:
+
+> mana lebih mudah membayangkan desired state?
+
+---
+
+## 70. Latihan 5 — Evidence or Hype?
+
+Tentukan.
+
+### A
+
+> “Semua pengguna akan menyukai aplikasi ini.”
+
+**Hype**
+
+### B
+
+> “Dalam pilot 12 mahasiswa, 9 mengatakan reminder membantu mereka melihat deadline.”
+
+**Evidence**
+
+### C
+
+> “AI ini akan mengubah pendidikan selamanya.”
+
+**Hype / unsupported claim**
+
+### D
+
+> “Dalam test awal, waktu pencarian turun dari rata-rata 4 menit menjadi 40 detik.”
+
+**Evidence**
+
+---
+
+## 71. Latihan 6 — Handle the Barrier
+
+Person B mendapat barrier card:
+
+- too expensive,
+- too difficult,
+- no time,
+- don't trust,
+- privacy concern.
+
+Student A tidak mengetahui barrier.
+
+Ia harus:
+
+> listen → clarify → respond.
+
+---
+
+## 72. Contoh
+
+Target:
+
+> “Solusinya menarik, tapi kami tidak punya waktu implementasi.”
+
+Buruk:
+
+> “Implementasinya gampang.”
+
+Lebih baik:
+
+> “Berapa banyak waktu perubahan yang masih realistis bagi tim?”
+
+Target:
+
+> “Mungkin maksimal satu hari.”
+
+Communicator:
+
+> “Kalau begitu full migration bukan pilihan. Kita perlu melihat apakah pilot bisa dilakukan tanpa mengubah workflow utama.”
+
+Itu:
+
+> person-centered adaptation.
+
+---
+
+## 73. Latihan 7 — Same Solution, Different Desire
+
+Solution:
+
+> AI meeting summarizer.
+
+### Team Member
+
+Desired outcome:
+
+> tidak kehilangan action items.
+
+### Manager
+
+Desired outcome:
+
+> keputusan dan responsibility terlihat jelas.
+
+### Absent Colleague
+
+Desired outcome:
+
+> cepat memahami apa yang terjadi tanpa menonton rekaman penuh.
+
+### Compliance Officer
+
+Desired outcome:
+
+> traceable record.
+
+Satu solution.
+
+Desired value berbeda.
+
+---
+
+## 74. Mini Performance — Interest to Desire
+
+Mahasiswa berpasangan.
+
+### Student A
+
+Communicator.
+
+### Student B
+
+Target yang sudah berada di:
+
+> **Interest.**
+
+Target mengatakan misalnya:
+
+> “Solusinya menarik. Bisa jelaskan bagaimana ini membantu team kami?”
+
+Student A mempunyai:
+
+> **4–5 menit**
+
+untuk membawa target menuju:
+
+> **Desire.**
+
+---
+
+## 75. Performance Requirements
+
+Student A harus:
+
+1. mengingat problem dan desired state;
+2. menjelaskan solution mechanism;
+3. menghubungkan feature dengan person-specific value;
+4. menggunakan minimal satu evidence/demo/example;
+5. menemukan minimal satu concern/barrier;
+6. merespons tanpa defensif;
+7. mengecek apakah outcome memang desirable.
+
+---
+
+## 76. Success Indicator
+
+Target mengatakan sesuatu seperti:
+
+> “Kalau hasilnya seperti itu, saya benar-benar ingin mencobanya.”
+
+atau:
+
+> “Ini memang kondisi yang kami inginkan.”
+
+atau:
+
+> “Kalau risiko tersebut bisa dikelola, solution ini cocok untuk kami.”
+
+Itulah:
+
+> **BASE 3 — DESIRE**
+
+---
+
+## 77. Jangan Langsung Memaksa Action
+
+Jika target sudah mengatakan:
+
+> “Saya menginginkan solution itu.”
+
+Sekarang communicator dapat mulai bertanya:
+
+> feasibility.
+
+Tetapi fokus Minggu 9 masih:
+
+> **Desire.**
+
+Home Base akan dipelajari:
+
+> Minggu 10.
+
+---
+
+## 78. Failure Modes
+
+### Failure 1 — Feature Dumping Lagi
+
+Banyak fitur tetapi future state tidak jelas.
+
+### Failure 2 — Generic Benefit
+
+> “Lebih efficient.”
+
+### Failure 3 — No Evidence
+
+Semua claim berupa promise.
+
+### Failure 4 — Ignore Risk
+
+Customer concern dianggap tidak penting.
+
+### Failure 5 — False Promise
+
+Mengatakan sesuatu pasti terjadi tanpa evidence.
+
+### Failure 6 — Wrong Value
+
+Communicator berbicara tentang sesuatu yang tidak penting bagi target.
+
+### Failure 7 — Manipulation
+
+Menggunakan fear, guilt, atau identity pressure.
+
+---
+
+## 79. Rubrik Mini Performance
+
+| Dimensi | Bobot |
+|---|---:|
+| Person & Desired-State Recognition | 20% |
+| Solution Mechanism & Clarity | 20% |
+| Benefit, Value & Evidence | 20% |
+| Concern/Barrier Response & Adaptation | 20% |
+| Desire Progress + Trust/Relationship | 20% |
+
+---
+
+## 80. Format Pertemuan 2 Jam
+
+### 0–15 menit — Review UTS
+
+Diskusikan:
+
+> Apa bedanya Interest dengan Desire?
+
+Gunakan beberapa contoh dari performance UTS.
+
+---
+
+### 15–40 menit — Lecture
+
+Topik:
+
+- current vs future state,
+- feature → benefit → value → outcome,
+- evidence,
+- trust,
+- risk,
+- barrier.
+
+---
+
+### 40–55 menit — Demonstration
+
+Dosen melakukan dua version:
+
+> Feature-heavy pitch
+
+versus:
+
+> Future-state Desire Pitch.
+
+---
+
+### 55–85 menit — Practice
+
+- Interest or Desire?
+- Feature to Outcome
+- Evidence or Hype?
+- Handle the Barrier
+
+---
+
+### 85–110 menit — Mini Performance
+
+> **Interest → Desire**
+
+---
+
+### 110–120 menit — AI Feedback & Reflection
+
+Mahasiswa menggunakan AI untuk melihat:
+
+- apakah value benar-benar person-specific;
+- claim terlalu besar;
+- concern yang diabaikan;
+- evidence yang kurang;
+- state akhir.
+
+---
+
+## 81. Tugas Minggu 9 — Desire-Building Demonstration
+
+Gunakan target dan problem yang sama dari Minggu 6–7 bila memungkinkan.
+
+Progression semester menjadi terlihat:
+
+### Minggu 6
+
+> Target → Attention
+
+### Minggu 7
+
+> Attention → Interest
+
+### Minggu 8
+
+> Integrated Performance
+
+### Minggu 9
+
+> Interest → Desire
+
+---
+
+## 82. Bagian A — PERSON & CHARACTER
+
+Tuliskan:
+
+- siapa target,
+- character,
+- relationship,
+- current state.
+
+---
+
+## 83. Bagian B — DESIRED STATE
+
+Jawab:
+
+> **Apa keadaan yang benar-benar diinginkan oleh target?**
+
+Jangan hanya:
+
+> apa yang Anda ingin jual.
+
+Gunakan evidence dari conversation jika tersedia.
+
+---
+
+## 84. Bagian C — CURRENT vs FUTURE
+
+Buat tabel:
+
+| Current State | Desired Future State |
+|---|---|
+| | |
+| | |
+| | |
+
+Contoh:
+
+| Current | Future |
+|---|---|
+| 3 jam membuat report | 30 menit review |
+| input berulang | data otomatis |
+| error ditemukan terlambat | exception terlihat |
+
+---
+
+## 85. Bagian D — FEATURE → BENEFIT → VALUE → OUTCOME
+
+Pilih maksimal:
+
+> **3 feature**.
+
+Untuk masing-masing jelaskan:
+
+| Feature | Benefit | Value | Desired Outcome |
+|---|---|---|---|
+
+Jangan feature dump.
+
+---
+
+## 86. Bagian E — EVIDENCE
+
+Gunakan minimal satu:
+
+- data,
+- prototype,
+- demo,
+- example,
+- previous case,
+- simulation.
+
+Jelaskan:
+
+> batas evidence tersebut.
+
+---
+
+## 87. Bagian F — RISK / BARRIER
+
+Identifikasi minimal satu:
+
+> concern nyata target.
+
+Bukan concern yang Anda karang jika sudah ada evidence conversation.
+
+Tuliskan:
+
+> bagaimana Anda menanggapinya.
+
+---
+
+## 88. Bagian G — DESIRE PITCH
+
+Maksimum:
+
+> **2 menit.**
+
+Gunakan:
+
+> Reconnect → How → Future State → Evidence → Risk → Value Check.
+
+---
+
+## 89. Bagian H — PERFORMANCE
+
+Lakukan kepada:
+
+> real person atau simulated character.
+
+Catat response.
+
+---
+
+## 90. Bagian I — STATE EVIDENCE
+
+Apakah target berada pada:
+
+- Interest,
+- Desire,
+- approaching Action,
+- rejection?
+
+Tuliskan:
+
+> evidence berupa response aktual.
+
+---
+
+## 91. Bagian J — AI REFLECTION
+
+Berikan AI:
+
+- person/character,
+- problem,
+- desired state,
+- pitch,
+- target response.
+
+Minta AI:
+
+1. memisahkan feature, benefit, value, dan outcome;
+2. menunjukkan claim yang terlalu besar;
+3. mengidentifikasi concern yang belum dijawab;
+4. menilai apakah response menunjukkan Interest atau Desire;
+5. memberi satu alternative formulation.
+
+Kemudian mahasiswa:
+
+> menerima atau menolak analisis AI dengan alasan.
+
+---
+
+## 92. Penilaian Tugas Minggu 9
+
+| Aspek | Bobot |
+|---|---:|
+| Desired-State Understanding | 20% |
+| Feature–Benefit–Value–Outcome Mapping | 20% |
+| Evidence & Credibility | 20% |
+| Risk/Barrier & Adaptation | 20% |
+| State Evidence, Reflection & AI Use | 20% |
+
+---
+
+## 93. Desire Checklist
+
+Sebelum communication:
+
+### PERSON?
+
+> Siapa?
+
+### CHARACTER?
+
+> Sebagai siapa?
+
+### CURRENT STATE?
+
+> Apa yang terjadi sekarang?
+
+### DESIRED STATE?
+
+> Apa yang benar-benar mereka inginkan?
+
+### VALUE?
+
+> Mengapa future state itu penting?
+
+### EVIDENCE?
+
+> Apa dasar claim?
+
+### RISK?
+
+> Apa yang membuat mereka ragu?
+
+---
+
+Setelah communication:
+
+### CAN THEY SEE THE FUTURE?
+
+> Apakah person dapat membayangkan keadaan lebih baik?
+
+### DO THEY VALUE IT?
+
+> Apakah outcome penting bagi mereka?
+
+### DO THEY BELIEVE IT?
+
+> Apakah evidence cukup credible?
+
+### WHAT BARRIER REMAINS?
+
+> Cost? effort? trust? risk?
+
+### WHAT STATE NOW?
+
+> Interest atau Desire?
+
+---
+
+## 94. Dua State yang Harus Selalu Diperhatikan
+
+Seperti minggu sebelumnya:
+
+### DECISION STATE
+
+Apakah:
+
+> Interest → Desire?
+
+### RELATIONSHIP STATE
+
+Apakah:
+
+- trust meningkat?
+- person merasa dipahami?
+- autonomy dipertahankan?
+- communication jujur?
+
+Maka:
+
+\[
+\boxed{
+Effective\ Desire\ Communication =
+Desired\ Value + Credibility + Healthy\ Relationship
+}
+\]
+
+---
+
+## 95. Desire Tidak Boleh Merusak Relationship
+
+Misalnya communicator berhasil membuat target merasa takut sehingga berkata:
+
+> “Baik, saya harus beli sekarang.”
+
+Decision state mungkin bergerak.
+
+Tetapi:
+
+> relationship dan autonomy rusak.
+
+Itu bukan communication excellence.
+
+Kuliah ini menolak:
+
+> manipulation as success.
+
+---
+
+## 96. Ethical Desire
+
+Desire yang sehat adalah:
+
+> **informed desire.**
+
+Person:
+
+- memahami problem,
+- memahami solution,
+- memahami benefit,
+- memahami limitation,
+- memahami risk,
+- tetap bebas memutuskan.
+
+Jadi:
+
+> **Desire should emerge from clearer understanding, not reduced autonomy.**
+
+---
+
+## 97. Dari Desire menuju Home Base
+
+Jika target mengatakan:
+
+> “Ya, ini memang solusi yang saya inginkan.”
+
+Kita belum selesai.
+
+Masih ada:
+
+- biaya,
+- waktu,
+- resource,
+- authority,
+- responsibility,
+- terms,
+- commitment.
+
+Person mungkin:
+
+> ingin,
+
+tetapi belum:
+
+> mampu atau siap bertindak.
+
+Maka Minggu 10 membahas:
+
+> **DESIRE → ACTION**
+
+---
+
+## 98. Preview Minggu 10
+
+Pertanyaan utama:
+
+> **How do we convert willingness into commitment and coordinated action?**
+
+Kita akan membahas:
+
+- feasibility,
+- affordability,
+- negotiation,
+- commitment,
+- agreement,
+- who does what,
+- when,
+- evidence of completion.
+
+Pitch keempat:
+
+> **“You can afford/do this. Shall we proceed?”**
+
+Tetapi lebih lengkap:
+
+> **“Ini feasible bagi kita. Apakah kita siap membuat agreement dan mengambil langkah berikutnya?”**
+
+---
+
+## 99. Take-Home Messages
+
+Jika hanya mengingat sembilan hal dari Minggu 9:
+
+### 1.
+
+> **Interest means “I want to know more.” Desire means “I want that outcome.”**
+
+### 2.
+
+> **People usually desire outcomes, not features.**
+
+### 3.
+
+> **Help the person see the difference between current state and a credible desired future state.**
+
+### 4.
+
+> **Translate Feature → Benefit → Value → Outcome.**
+
+### 5.
+
+> **Desired state must be discovered with the person, not imposed on the person.**
+
+### 6.
+
+> **Evidence builds credibility; exaggeration destroys it.**
+
+### 7.
+
+> **Risk and objections are information, not enemies.**
+
+### 8.
+
+> **AI may help explain, simulate, and critique—but must not manufacture desire through manipulation.**
+
+### 9.
+
+> **Successful Desire communication increases both perceived value and trust.**
+
+---
+
+## 100. One-Minute Summary
+
+Minggu 6:
+
+> **TARGET → ATTENTION**
+
+> “Saya melihat Anda mempunyai problem/opportunity.”
+
+Minggu 7:
+
+> **ATTENTION → INTEREST**
+
+> “Saya mempunyai sesuatu yang mungkin membantu.”
+
+Minggu 9:
+
+> **INTEREST → DESIRE**
+
+> **“Begini cara kerjanya, dan beginilah keadaan Anda dapat menjadi lebih baik.”**
+
+Alurnya:
+
+> **INTEREST**  
+> “Menarik. Bagaimana caranya?”  
+> ↓  
+> **UNDERSTAND CURRENT STATE**  
+> ↓  
+> **DISCOVER DESIRED STATE**  
+> ↓  
+> **EXPLAIN SOLUTION MECHANISM**  
+> ↓  
+> **FEATURE → BENEFIT → VALUE → OUTCOME**  
+> ↓  
+> **DEMONSTRATE / PROVIDE EVIDENCE**  
+> ↓  
+> **ACKNOWLEDGE RISK & BARRIERS**  
+> ↓  
+> **LISTEN AND ADAPT**  
+> ↓  
+> **CHECK VALUE**  
+> ↓  
+> **DESIRE**  
+> “Ya. Itulah outcome yang saya inginkan.”
+
+Prinsip terpenting Minggu 9 adalah:
+
+> **Kita tidak menciptakan Desire dengan memanipulasi person. Kita membantu person melihat dengan lebih jelas apakah future state yang ditawarkan benar-benar bernilai, credible, dan sesuai dengan kehidupannya.**
+
+Dengan Base 3 tercapai, mahasiswa siap menuju **Home Base pada Minggu 10**:
+
+> **DESIRE → AGREEMENT → ACTION.**

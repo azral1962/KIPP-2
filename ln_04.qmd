@@ -1,0 +1,1926 @@
+# MINGGU 4 — LANGUAGE OF PERSON AND CHARACTER
+
+:::{.callout-tip}
+## Makna yang Sama, Person yang Berbeda, Bahasa yang Berbeda
+
+**Mata Kuliah:** Person-Centered Communication in the AI Era  
+**Tingkat:** Mahasiswa Tahun 2  
+**Durasi:** 2 jam  
+**Domain:** Jembatan dari Personal menuju Professional Communication  
+**Tema Besar:** *How do I find the right language for the person, character, relationship, and objective?*
+:::
+
+---
+
+## 1. Dari Relationship menuju Language
+
+Pada Minggu 1 kita belajar:
+
+> **Communication happens between persons.**
+
+Pada Minggu 2 kita belajar:
+
+> **ME ⇄ ME**
+
+Kita mengenali bahwa sebelum berbicara kepada orang lain, kita membangun narrative di dalam diri.
+
+Pada Minggu 3 kita bergerak ke:
+
+> **ME ⇄ YOU**
+
+dan mempelajari bagaimana komunikasi digunakan untuk:
+
+> **Acquire → Maintain → Repair → Grow Relationship**
+
+Sekarang muncul pertanyaan berikutnya:
+
+> **Kalau saya sudah mengenali person dan relationship, bagaimana saya harus berbicara dengannya?**
+
+Jawabannya tidak selalu:
+
+> “Gunakan bahasa yang benar.”
+
+Komunikasi efektif membutuhkan sesuatu yang lebih:
+
+> **Gunakan language yang dapat dipahami dan bermakna bagi person yang sedang kita hadapi.**
+
+---
+
+## 2. Learning Objectives Minggu 4
+
+Setelah mengikuti pertemuan ini, mahasiswa mampu:
+
+1. menjelaskan bahwa **language** lebih luas daripada bahasa Indonesia atau bahasa Inggris;
+2. membedakan **meaning** dari cara meaning tersebut diekspresikan;
+3. mengenali hubungan antara **person, personality, character, objective, relationship, dan language**;
+4. melakukan **code-switching** tanpa mengubah substansi utama;
+5. menjelaskan satu gagasan kepada beberapa person dengan character berbeda;
+6. menggunakan analogy, story, visual, data, dan technical explanation sebagai repertoire;
+7. mengenali **language mismatch** sebagai salah satu penyebab communication failure;
+8. menggunakan AI untuk membantu melakukan **language adaptation** tanpa kehilangan authentic voice;
+9. menunjukkan kemampuan menerjemahkan technical language menjadi human-centered language.
+
+---
+
+## 3. Masalah Utama: Speaking Correctly Belum Tentu Communicating Effectively
+
+Bayangkan seorang mahasiswa informatika mengatakan kepada seorang pengguna:
+
+> “Aplikasi mengalami race condition pada asynchronous process sehingga transaction state menjadi inconsistent.”
+
+Secara teknis mungkin benar.
+
+Tetapi pengguna menjawab:
+
+> “Jadi... pesanan saya bagaimana?”
+
+Masalahnya bukan:
+
+> mahasiswa tidak mengetahui teknologi.
+
+Justru ia mungkin sangat memahami teknologi.
+
+Masalahnya adalah:
+
+> **ia menggunakan language yang benar untuk dirinya tetapi tidak tepat untuk person yang dihadapinya.**
+
+---
+
+## 4. Communication Is Not Showing What I Know
+
+Salah satu communication trap adalah:
+
+> **I communicate to demonstrate my knowledge.**
+
+Akibatnya communicator berbicara menggunakan:
+
+- vocabulary yang ia kuasai,
+- konsep yang ia sukai,
+- detail yang menurutnya menarik,
+- jargon profesinya sendiri.
+
+Padahal pertanyaan yang lebih penting adalah:
+
+> **What does this person need to understand?**
+
+Komunikasi yang baik bukan terutama:
+
+> “Lihat betapa banyak yang saya ketahui.”
+
+Tetapi:
+
+> **“Bagaimana saya membantu person ini memperoleh meaning yang ia perlukan?”**
+
+---
+
+## 5. MEANING DAN LANGUAGE
+
+Kita perlu membedakan:
+
+> **Meaning**
+
+dari:
+
+> **Language**
+
+Meaning adalah sesuatu yang ingin kita komunikasikan.
+
+Language adalah bentuk yang digunakan agar meaning dapat diterima.
+
+Misalnya meaning:
+
+> **Sistem tidak mampu melayani kenaikan traffic.**
+
+Kepada engineer:
+
+> “Server CPU utilization sudah 95% dan request queue terus meningkat.”
+
+Kepada project manager:
+
+> “Kapasitas sistem sudah mendekati batas dan akan menjadi bottleneck kalau pengguna bertambah.”
+
+Kepada customer:
+
+> “Sistem perlu ditingkatkan agar tetap cepat ketika jumlah pengguna bertambah.”
+
+Kepada keluarga:
+
+> “Komputernya mulai kewalahan karena terlalu banyak orang memakai sistem sekaligus.”
+
+Meaning dasarnya sama.
+
+Language berubah.
+
+---
+
+## 6. Prinsip Penting
+
+> **Do not unnecessarily change the truth. Change the language used to communicate the truth.**
+
+Person-centered communication bukan:
+
+> mengatakan hal berbeda agar orang senang.
+
+Bukan pula:
+
+> menyembunyikan informasi.
+
+Tetapi:
+
+> **menemukan representation yang paling sesuai sehingga meaning dapat dipahami oleh person yang dituju.**
+
+---
+
+## 7. Language Lebih Luas daripada Bahasa
+
+Dalam mata kuliah ini, **language** tidak hanya berarti:
+
+- Bahasa Indonesia,
+- Bahasa Inggris,
+- Bahasa Sunda,
+- Mandarin,
+- dan sebagainya.
+
+Language juga mencakup cara suatu komunitas atau character memberi meaning.
+
+Contohnya:
+
+### Technical Language
+
+> latency, memory, API, database, algorithm.
+
+### Business Language
+
+> cost, revenue, efficiency, risk, return.
+
+### Customer Language
+
+> benefit, ease, reliability, affordability.
+
+### Emotional Language
+
+> worried, happy, disappointed, trusted, cared for.
+
+### Academic Language
+
+> evidence, hypothesis, methodology, validity.
+
+### Managerial Language
+
+> target, resource, schedule, responsibility.
+
+### Public Language
+
+> safety, fairness, benefit, impact.
+
+### Visual Language
+
+> graph, diagram, picture, symbol.
+
+### Mathematical Language
+
+> equation, probability, model.
+
+### Narrative Language
+
+> story, actor, challenge, journey, outcome.
+
+Semua dapat membawa meaning.
+
+---
+
+## 8. PERSON → CHARACTER → LANGUAGE
+
+Kita kembali kepada model dasar:
+
+> **PERSON**  
+> ↓  
+> **PERSONALITY**  
+> ↓  
+> **CHARACTER**  
+> ↓  
+> **OBJECTIVE**  
+> ↓  
+> **REPERTOIRE**  
+> ↓  
+> **LANGUAGE**  
+> ↓  
+> **ACTION**  
+> ↓  
+> **RELATIONSHIP**
+
+Character menjadi sangat penting karena character sering menentukan:
+
+> **bahasa apa yang dianggap relevan.**
+
+---
+
+## 9. Contoh: Satu Person, Banyak Character
+
+Bayangkan seseorang bernama Budi.
+
+Budi adalah:
+
+- seorang ayah,
+- engineer,
+- customer,
+- ketua RT,
+- investor kecil.
+
+Ketika berbicara sebagai engineer, ia mungkin bertanya:
+
+> “Arsitekturnya bagaimana?”
+
+Sebagai customer:
+
+> “Apakah mudah dipakai?”
+
+Sebagai ayah:
+
+> “Apakah aman untuk anak saya?”
+
+Sebagai ketua RT:
+
+> “Apa manfaatnya untuk warga?”
+
+Sebagai investor:
+
+> “Apakah sustainable secara finansial?”
+
+Person-nya sama:
+
+> **Budi.**
+
+Tetapi character yang sedang aktif berbeda.
+
+Maka communicator harus bertanya:
+
+> **Which Budi am I communicating with right now?**
+
+Bukan dalam arti Budi memiliki banyak identitas yang terpisah.
+
+Tetapi:
+
+> **objective dan responsibility dari character-nya sedang berbeda.**
+
+---
+
+## 10. Jangan Berbicara kepada Job Title Saja
+
+Misalnya kita bertemu seorang:
+
+> **Chief Financial Officer.**
+
+Jika hanya melihat kategorinya, kita mungkin langsung berbicara:
+
+> cost, ROI, cash flow.
+
+Tetapi person tersebut mungkin saat itu hadir sebagai:
+
+> **orang tua yang khawatir terhadap keamanan data anaknya.**
+
+Maka professional category saja belum cukup.
+
+Kita tetap perlu:
+
+> **recognize the person and current character.**
+
+---
+
+## 11. Personality Juga Berpengaruh pada Language
+
+Dua orang memainkan character yang sama tetapi mempunyai personality berbeda.
+
+Misalnya dua project manager.
+
+### Person A
+
+Cenderung:
+
+> analytical, detail-oriented.
+
+Ia mungkin menyukai:
+
+- angka,
+- evidence,
+- timeline,
+- risk matrix.
+
+### Person B
+
+Cenderung:
+
+> conceptual, big-picture.
+
+Ia mungkin lebih mudah menerima:
+
+- overview,
+- diagram,
+- narrative,
+- strategic impact.
+
+Jadi:
+
+> **character memberi konteks, personality membantu kita memilih style.**
+
+Tetapi jangan membuat personality menjadi stereotype.
+
+Personality adalah:
+
+> **clue, not prison.**
+
+---
+
+## 12. Relationship Juga Menentukan Language
+
+Bandingkan meminta seseorang datang tepat waktu.
+
+### Kepada Sahabat
+
+> “Besok jangan mode jam karet lagi ya. Jam tujuh betulan.”
+
+### Kepada Rekan Project
+
+> “Kita mulai jam tujuh tepat karena hanya punya satu jam sebelum kelas.”
+
+### Kepada Atasan
+
+> “Apakah pukul tujuh tetap sesuai untuk meeting besok?”
+
+### Kepada Customer
+
+> “Kami siap memulai meeting pukul tujuh sesuai jadwal.”
+
+Objective terkait waktu sama.
+
+Tetapi:
+
+> **relationship berubah → language berubah.**
+
+---
+
+## 13. OBJECTIVE Menentukan Apa yang Perlu Dikatakan
+
+Komunikasi tidak membutuhkan semua informasi yang kita miliki.
+
+Ia membutuhkan informasi yang relevan terhadap objective.
+
+Misalnya mahasiswa mempunyai pengetahuan lengkap tentang sebuah aplikasi.
+
+Jika objective-nya:
+
+> **mengajari programmer baru**
+
+maka detail architecture penting.
+
+Jika objective-nya:
+
+> **membuat customer tertarik mencoba**
+
+maka seluruh internal architecture mungkin tidak diperlukan.
+
+Jika objective-nya:
+
+> **melaporkan security incident**
+
+maka risk dan action lebih penting daripada marketing benefit.
+
+Jadi:
+
+> **Good communication is selective without becoming deceptive.**
+
+---
+
+## 14. Relevance adalah Kunci
+
+Pertanyaan sebelum berbicara:
+
+> **What does this person need from this communication?**
+
+Bukan:
+
+> **What do I know about this topic?**
+
+Kita dapat memiliki 100 unit informasi.
+
+Tetapi mungkin hanya 10 yang relevan.
+
+Communication competence adalah kemampuan memilih:
+
+> **which 10?**
+
+---
+
+## 15. Communication Repertoire
+
+Language bukan satu-satunya alat.
+
+Kita mempunyai communication repertoire.
+
+Misalnya ingin menjelaskan suatu sistem.
+
+Kita dapat menggunakan:
+
+### Explanation
+
+> menjelaskan secara verbal.
+
+### Example
+
+> memberi contoh konkret.
+
+### Analogy
+
+> membandingkan dengan sesuatu yang sudah dikenal.
+
+### Demonstration
+
+> menunjukkan cara kerja.
+
+### Visualization
+
+> diagram atau gambar.
+
+### Data
+
+> angka dan evidence.
+
+### Story
+
+> menceritakan pengalaman seseorang.
+
+### Question
+
+> membuat person menemukan jawabannya.
+
+### Simulation
+
+> memperagakan situasi.
+
+Communicator yang baik tidak hanya bertanya:
+
+> “Kalimat apa yang harus saya gunakan?”
+
+Tetapi:
+
+> **“Repertoire apa yang paling efektif untuk person ini?”**
+
+---
+
+## 16. Analogy sebagai Jembatan Meaning
+
+Analogy sangat penting ketika dua person memiliki knowledge berbeda.
+
+Contoh:
+
+### Technical Concept
+
+> Database sharding.
+
+Untuk mahasiswa non-IT:
+
+> “Bayangkan satu perpustakaan menjadi terlalu besar. Daripada semua buku diletakkan di satu gedung, koleksi dibagi ke beberapa gedung berdasarkan kategori. Beban pelayanan menjadi terbagi.”
+
+Analogy bekerja karena:
+
+> **unknown concept → known experience.**
+
+Tetapi analogy tidak sempurna.
+
+Communicator harus mengetahui:
+
+> analogy membantu menjelaskan bagian tertentu, bukan menggantikan keseluruhan realitas.
+
+---
+
+## 17. Story sebagai Language
+
+Manusia tidak hanya memahami data.
+
+Kita juga memahami story.
+
+Misalnya:
+
+### Data
+
+> “Response time turun 40%.”
+
+### Story
+
+> “Sebelumnya customer harus menunggu hampir lima detik setiap kali membuka transaksi. Setelah perubahan sistem, halaman muncul hampir seketika.”
+
+Data memberikan evidence.
+
+Story memberikan experience.
+
+Keduanya dapat digunakan bersama.
+
+---
+
+## 18. Visual Language
+
+Kadang satu diagram lebih efektif daripada tiga paragraf.
+
+Contoh:
+
+Daripada menjelaskan:
+
+> “Customer mengirim permintaan ke frontend, kemudian frontend berkomunikasi dengan backend, lalu backend mengakses database.”
+
+Kita dapat menggambar:
+
+> **CUSTOMER → FRONTEND → BACKEND → DATABASE**
+
+Visual membantu:
+
+- structure,
+- sequence,
+- comparison,
+- relationship.
+
+Karena itu visual adalah bagian dari:
+
+> **communication repertoire.**
+
+---
+
+## 19. Numbers sebagai Language
+
+Untuk beberapa person, angka memberikan credibility.
+
+Contoh:
+
+Daripada:
+
+> “Sistem lebih cepat.”
+
+kita dapat mengatakan:
+
+> “Waktu respons turun dari 4 detik menjadi 1,5 detik.”
+
+Tetapi angka juga perlu diterjemahkan.
+
+Kepada customer:
+
+> “Artinya halaman muncul sekitar dua setengah detik lebih cepat.”
+
+Good communicator dapat bergerak antara:
+
+> **data ↔ meaning.**
+
+---
+
+## 20. JARGON
+
+Jargon tidak selalu buruk.
+
+Jargon berguna ketika dua person berbagi professional language.
+
+Dua engineer dapat mengatakan:
+
+> “Deploy rollback karena dependency conflict.”
+
+Itu cepat dan efisien.
+
+Masalah muncul ketika:
+
+> **shared language diasumsikan padahal tidak shared.**
+
+Jargon menjadi communication barrier jika receiver:
+
+- tidak memahami,
+- malu bertanya,
+- salah menginterpretasi.
+
+Prinsipnya:
+
+> **Use jargon where it increases shared understanding, not where it merely displays expertise.**
+
+---
+
+## 21. Code-Switching
+
+Dalam mata kuliah ini kita gunakan istilah **code-switching** secara praktis:
+
+> **kemampuan berpindah communication language sesuai person, character, relationship, dan objective tanpa kehilangan core meaning.**
+
+Contoh:
+
+### Engineering
+
+> “Model mempunyai false-positive rate 12%.”
+
+### Managerial
+
+> “Sekitar 12 dari setiap 100 kasus normal masih salah ditandai sistem.”
+
+### Customer
+
+> “Sistem belum sempurna. Beberapa kasus normal masih bisa dianggap bermasalah, sehingga tetap diperlukan pemeriksaan.”
+
+Meaning dipertahankan.
+
+Representation berubah.
+
+---
+
+## 22. Code-Switching Bukan Berpura-pura
+
+Ada kekhawatiran:
+
+> “Kalau saya mengubah cara bicara, berarti saya tidak autentik.”
+
+Tidak harus demikian.
+
+Authenticity bukan berarti:
+
+> berbicara dengan cara yang sama kepada semua orang.
+
+Kita secara alami sudah melakukan adaptation.
+
+Kita berbicara berbeda kepada:
+
+- orang tua,
+- sahabat,
+- dosen,
+- anak kecil,
+- customer.
+
+Selama:
+
+- truth dipertahankan,
+- intention tidak manipulatif,
+- personality kita tidak dipalsukan,
+
+maka adaptation justru merupakan bentuk:
+
+> **respect for the other person.**
+
+---
+
+## 23. Authenticity ≠ Uniformity
+
+Prinsip penting:
+
+> **Being authentic does not require communicating identically in every situation.**
+
+Authenticity berarti:
+
+> meaning, value, dan intention tetap genuine.
+
+Language dapat disesuaikan.
+
+---
+
+## 24. Language Mismatch
+
+Communication failure sering terjadi karena **language mismatch**.
+
+Misalnya:
+
+### Engineer → Customer
+
+Engineer:
+
+> “Kami menggunakan Kubernetes orchestration.”
+
+Customer:
+
+> “So what?”
+
+Engineer menjawab pertanyaan:
+
+> **How did we build it?**
+
+sedangkan customer bertanya:
+
+> **What does it do for me?**
+
+Ini bukan knowledge problem.
+
+Ini:
+
+> **language-objective mismatch.**
+
+---
+
+## 25. Empat Jenis Language Mismatch
+
+### 1. KNOWLEDGE MISMATCH
+
+Communicator mengasumsikan receiver mengetahui lebih banyak daripada yang sebenarnya.
+
+---
+
+### 2. CHARACTER MISMATCH
+
+Berbicara kepada manager seolah-olah ia programmer.
+
+---
+
+### 3. OBJECTIVE MISMATCH
+
+Receiver ingin mengetahui biaya.
+
+Communicator terus menjelaskan fitur.
+
+---
+
+### 4. EMOTIONAL MISMATCH
+
+Person sedang kecewa.
+
+Communicator langsung memberikan angka dan penjelasan teknis.
+
+Contoh:
+
+Customer:
+
+> “Sistem Anda membuat operasi kami berhenti dua jam!”
+
+Response:
+
+> “Secara statistik uptime kami sebenarnya 99,7%.”
+
+Mungkin factually benar.
+
+Tetapi language-nya tidak merespons state person saat itu.
+
+---
+
+## 26. Listen Before Translating
+
+Kita tidak dapat memilih language yang tepat hanya dengan menebak.
+
+Kita perlu:
+
+> **listen.**
+
+Pertanyaan seperti:
+
+> “Bagian mana yang paling ingin Anda pahami?”
+
+> “Yang paling penting bagi Anda sekarang apa?”
+
+> “Apakah Anda ingin penjelasan teknis atau overview-nya dulu?”
+
+membantu menentukan language.
+
+Maka:
+
+> **Language adaptation begins with listening.**
+
+---
+
+## 27. From My Language to Our Language
+
+Pada awal conversation:
+
+> saya mempunyai language saya.
+
+Person lain:
+
+> mempunyai language-nya.
+
+Communication yang baik perlahan menemukan:
+
+> **shared language.**
+
+Modelnya:
+
+> **MY LANGUAGE ⇄ TRANSLATION ⇄ YOUR LANGUAGE**
+
+kemudian:
+
+> **SHARED MEANING**
+
+Idealnya bukan salah satu person selalu harus menyerah kepada language yang lain.
+
+Keduanya dapat:
+
+> **co-create a language they both understand.**
+
+---
+
+## 28. Example: Engineer dan Doctor
+
+Engineer:
+
+> “Model classifier mempunyai sensitivity 93%.”
+
+Doctor:
+
+> “Jadi berapa banyak pasien yang sakit yang dapat terlewat?”
+
+Engineer kemudian menerjemahkan:
+
+> “Kalau ada 100 pasien yang memang memiliki kondisi tersebut, sekitar tujuh masih mungkin tidak terdeteksi oleh model.”
+
+Sekarang keduanya mulai mempunyai:
+
+> **shared meaning.**
+
+Doctor kemudian dapat memperkenalkan clinical language.
+
+Engineer belajar juga.
+
+Communication menjadi:
+
+> **bidirectional translation.**
+
+---
+
+## 29. Communication Pitch
+
+Mulai Minggu 4 kita mulai menghubungkan language dengan konsep **pitch**.
+
+Pitch bukan hanya:
+
+> sales presentation.
+
+Pitch adalah:
+
+> **communication action designed to move a person from one state toward another state.**
+
+Jika seseorang belum memperhatikan masalah:
+
+> language harus membangun attention.
+
+Jika sudah tertarik:
+
+> language harus membantu understanding.
+
+Jika sudah ingin melakukan sesuatu:
+
+> language harus membantu action.
+
+Jadi:
+
+> **Different state → different pitch → different language.**
+
+---
+
+## 30. Preview Baseball Model: TAIDA
+
+Model lengkap akan digunakan pada minggu berikutnya:
+
+> **TARGET → ATTENTION → INTEREST → DESIRE → ACTION**
+
+Kita dapat membayangkan:
+
+### Target
+
+Siapa person-nya?
+
+### Attention
+
+Bahasa apa yang membuat problem menjadi visible?
+
+### Interest
+
+Bahasa apa yang menunjukkan relevance?
+
+### Desire
+
+Bahasa apa yang membuat value dapat dibayangkan?
+
+### Action
+
+Bahasa apa yang membuat next step jelas dan feasible?
+
+Dengan demikian:
+
+> **language is part of the engine that moves state.**
+
+---
+
+## 31. Four Basic Pitches
+
+Kita mulai mengenal empat bentuk dasar.
+
+### Pitch 1 — Problem / Opportunity
+
+> **“Saya melihat ada masalah atau peluang yang relevan bagi Anda.”**
+
+### Pitch 2 — Solution
+
+> **“Saya mempunyai sesuatu yang mungkin membantu.”**
+
+### Pitch 3 — How It Works
+
+> **“Begini cara kerjanya dan manfaatnya bagi Anda.”**
+
+### Pitch 4 — Feasibility and Action
+
+> **“Ini memungkinkan untuk dilakukan. Apakah kita dapat mengambil langkah berikutnya?”**
+
+Tetapi kalimat aktual harus:
+
+> **adapted to the person.**
+
+---
+
+## 32. Contoh Pitch dengan Tiga Person
+
+Kita mempunyai aplikasi untuk membantu mengatur tugas mahasiswa.
+
+### Kepada Mahasiswa
+
+> “Sering merasa deadline datang bersamaan? Aplikasi ini membantu melihat semua tugas dan menentukan mana yang harus dikerjakan lebih dulu.”
+
+### Kepada Dosen
+
+> “Aplikasi ini membantu mahasiswa melihat distribusi workload sehingga tugas dari beberapa mata kuliah dapat direncanakan lebih baik.”
+
+### Kepada Fakultas
+
+> “Data agregat dapat membantu melihat periode ketika workload mahasiswa terkonsentrasi, tanpa harus membuka data pribadi mahasiswa.”
+
+Produk sama.
+
+Person dan character berbeda.
+
+Language berbeda.
+
+---
+
+## 33. Ethical Adaptation vs Manipulation
+
+Personalization dapat membuat communication sangat kuat.
+
+Karena itu ada pertanyaan etik:
+
+> **Apakah saya menyesuaikan language agar orang lebih memahami, atau agar saya dapat mengeksploitasi kelemahannya?**
+
+Contoh ethical adaptation:
+
+> menjelaskan pinjaman dalam bahasa sederhana agar customer memahami risiko.
+
+Contoh manipulation:
+
+> mengetahui customer sedang tertekan secara finansial lalu menggunakan ketakutannya untuk mendorong keputusan cepat.
+
+Prinsip mata kuliah:
+
+> **Adapt language to increase understanding and mutual value, not to exploit vulnerability.**
+
+---
+
+## 34. AI-Mediated Language Adaptation
+
+AI mempunyai kemampuan kuat untuk melakukan:
+
+> **translation and adaptation.**
+
+Misalnya mahasiswa mempunyai technical paragraph:
+
+> “The system uses retrieval augmented generation with vector embeddings and semantic similarity search.”
+
+Mahasiswa dapat meminta AI:
+
+> “Jelaskan kepada pemilik toko kecil yang tidak mempunyai background IT.”
+
+AI mungkin menghasilkan:
+
+> “Sistem mencari informasi yang paling relevan dari dokumen bisnis terlebih dahulu, kemudian AI menggunakan informasi tersebut untuk membuat jawaban yang lebih sesuai.”
+
+AI membantu:
+
+> technical language → customer language.
+
+---
+
+## 35. AI sebagai Communication Translator
+
+Dalam kuliah ini AI dapat memainkan beberapa fungsi:
+
+### LANGUAGE TRANSLATOR
+
+> technical → everyday.
+
+### CHARACTER TRANSLATOR
+
+> engineer → customer.
+
+### COMPLEXITY TRANSLATOR
+
+> expert → novice.
+
+### FORMAT TRANSLATOR
+
+> paragraph → diagram.
+
+### TONE ADAPTER
+
+> confrontational → assertive.
+
+### REPERTOIRE GENERATOR
+
+> explanation → analogy → story → example.
+
+---
+
+## 36. Tetapi AI Tidak Mengetahui Person Secara Otomatis
+
+Prompt:
+
+> “Buat ini lebih baik.”
+
+sering terlalu umum.
+
+Lebih baik:
+
+> “Saya akan menjelaskan ini kepada seorang mahasiswa tahun pertama yang baru belajar database. Tujuan saya bukan mengajarkan seluruh teori, tetapi membuat ia memahami mengapa database membutuhkan index. Berikan explanation singkat dan satu analogy.”
+
+AI memerlukan:
+
+> **Person + Character + Objective + Context**
+
+agar dapat membantu language adaptation dengan lebih baik.
+
+---
+
+## 37. Prompt Framework Minggu 4
+
+Mahasiswa dapat menggunakan formula:
+
+> **PERSON** — siapa receiver?
+
+> **CHARACTER** — dalam kapasitas apa ia hadir?
+
+> **OBJECTIVE** — apa yang harus dipahami atau dilakukan?
+
+> **CURRENT LANGUAGE** — apa yang ingin saya katakan?
+
+> **REPERTOIRE** — explanation, story, analogy, visual?
+
+> **CONSTRAINT** — singkat, formal, informal, dsb.
+
+Contoh:
+
+> Saya mahasiswa informatika dan perlu menjelaskan kegagalan server kepada pemilik usaha kecil. Ia adalah customer, bukan orang teknis. Tujuan saya adalah membuatnya memahami masalah, dampak, dan tindakan yang sedang dilakukan tanpa menyembunyikan fakta. Ubah penjelasan teknis berikut menjadi bahasa customer dalam maksimum 80 kata.
+
+---
+
+## 38. Jangan Menyerahkan Voice kepada AI
+
+AI dapat menghasilkan kalimat:
+
+> sangat rapi,
+
+tetapi mungkin:
+
+> bukan suara kita.
+
+Setelah AI memberi suggestion, mahasiswa harus bertanya:
+
+> **Would I really say this?**
+
+Kemudian:
+
+- edit,
+- simplify,
+- personalize.
+
+Prinsip:
+
+> **AI proposes; person communicates.**
+
+---
+
+## 39. Latihan 1 — One Meaning, Five Languages
+
+Pilih satu konsep sederhana.
+
+Contoh:
+
+> “Password yang lemah berbahaya.”
+
+Jelaskan kepada:
+
+1. anak usia 10 tahun,
+2. sahabat,
+3. mahasiswa IT,
+4. manager perusahaan,
+5. masyarakat umum.
+
+Diskusikan:
+
+> Apa yang tetap?
+
+> Apa yang berubah?
+
+Jawaban yang diharapkan:
+
+**meaning inti tetap.**
+
+Yang dapat berubah:
+
+- vocabulary,
+- example,
+- detail,
+- tone,
+- evidence,
+- call to action.
+
+---
+
+## 40. Latihan 2 — Character Detection
+
+Dosen memberikan lima pertanyaan.
+
+Contoh:
+
+> “Berapa downtime maksimal yang dapat dijamin?”
+
+> “Apakah ibu saya bisa memakai aplikasi ini?”
+
+> “Apakah data saya dijual?”
+
+> “Berapa biaya implementasinya?”
+
+> “Library apa yang dipakai?”
+
+Mahasiswa menentukan kemungkinan character:
+
+- engineer,
+- customer,
+- family member,
+- finance manager,
+- citizen.
+
+Kemudian diskusikan:
+
+> **Apa language yang tepat untuk menjawab masing-masing?**
+
+---
+
+## 41. Latihan 3 — Jargon Detox
+
+Ubah kalimat berikut.
+
+### A
+
+> “Sistem menggunakan distributed microservice architecture.”
+
+Menjadi customer language.
+
+### B
+
+> “Model mengalami overfitting.”
+
+Menjadi manager language.
+
+### C
+
+> “Database transaction mengalami deadlock.”
+
+Menjadi public/service language.
+
+### D
+
+> “API request terkena rate limit.”
+
+Menjadi everyday language.
+
+Tujuannya bukan:
+
+> menghilangkan ketepatan.
+
+Tujuannya:
+
+> **preserve meaning while changing representation.**
+
+---
+
+## 42. Latihan 4 — Repertoire Switching
+
+Jelaskan satu konsep menggunakan empat repertoire:
+
+### 1. Explanation
+
+### 2. Analogy
+
+### 3. Story
+
+### 4. Visual
+
+Contoh konsep:
+
+> cloud storage.
+
+Mahasiswa membandingkan:
+
+> repertoire mana paling efektif untuk person tertentu?
+
+---
+
+## 43. Latihan 5 — Listen Before Explain
+
+Berpasangan.
+
+Person A menjadi:
+
+> mahasiswa IT yang mempunyai sebuah solusi.
+
+Person B mendapat character card.
+
+Contoh:
+
+> “Saya pemilik kantin kampus. Saya tidak peduli teknologi apa yang digunakan. Saya khawatir pembayaran menjadi lebih lambat.”
+
+Person A **tidak boleh langsung menawarkan solusi selama satu menit pertama**.
+
+Ia harus bertanya:
+
+> “Bagian transaksi mana yang sekarang paling bermasalah?”
+
+dan mencoba menemukan language customer.
+
+Kemudian baru menjelaskan solusi.
+
+Tujuan:
+
+> **discover language before pitching.**
+
+---
+
+## 44. Mini Performance — One Idea, Three Persons
+
+Mahasiswa diberi satu konsep.
+
+Contoh:
+
+> AI assistant untuk jadwal mahasiswa.
+
+Mahasiswa mempunyai 3 menit untuk menjelaskan konsep tersebut kepada tiga character:
+
+### Person 1 — Friend
+
+Durasi:
+
+> 45 detik.
+
+### Person 2 — Lecturer
+
+Durasi:
+
+> 45 detik.
+
+### Person 3 — Potential Customer
+
+Durasi:
+
+> 45 detik.
+
+Setelah setiap version, observer mencatat:
+
+- objective,
+- vocabulary,
+- repertoire,
+- tone,
+- call to action.
+
+---
+
+## 45. Performance Challenge
+
+Hal yang tidak boleh dilakukan:
+
+> menghafal tiga script lalu membacakannya.
+
+Mahasiswa harus:
+
+> **recognize → adapt → communicate.**
+
+Observer boleh memberikan satu unexpected question.
+
+Mahasiswa harus menjawab sesuai character receiver.
+
+---
+
+## 46. Rubrik Mini Performance
+
+| Dimensi | Pertanyaan |
+|---|---|
+| **Person Recognition** | Apakah communication sesuai dengan person yang dihadapi? |
+| **Character Recognition** | Apakah mahasiswa memahami kapasitas/character receiver? |
+| **Meaning Integrity** | Apakah substansi penting tetap benar? |
+| **Language Adaptation** | Apakah vocabulary, detail, dan tone sesuai? |
+| **Response & Adaptation** | Apakah mahasiswa mampu menyesuaikan setelah menerima feedback/question? |
+
+---
+
+## 47. Communication Failure Analysis
+
+Contoh kasus:
+
+Seorang programmer mengatakan kepada customer:
+
+> “Fitur belum selesai karena backend refactoring menghasilkan breaking changes pada dependency internal.”
+
+Customer marah:
+
+> “Saya tidak mengerti. Yang saya tahu Anda berjanji selesai hari ini.”
+
+Analisis menggunakan framework:
+
+### Person
+
+Customer.
+
+### Character
+
+Customer yang menunggu deliverable.
+
+### Objective Customer
+
+Mengetahui:
+
+> apakah pekerjaan selesai dan kapan.
+
+### Language Programmer
+
+Technical causal explanation.
+
+### Language Needed
+
+Commitment, impact, recovery.
+
+Alternatif:
+
+> “Fitur belum dapat kami kirim hari ini karena perubahan internal menimbulkan masalah yang baru ditemukan dalam testing. Kami sedang memperbaikinya. Kami akan memberikan versi yang sudah diuji besok pukul 15.00.”
+
+Technical detail dapat diberikan:
+
+> jika customer meminta.
+
+---
+
+## 48. From Explanation to Agreement
+
+Language adaptation tidak berhenti pada:
+
+> understanding.
+
+Akhirnya kita ingin menghubungkannya dengan:
+
+> **Action.**
+
+Misalnya:
+
+Engineer:
+
+> “Kita perlu meningkatkan server.”
+
+Manager:
+
+> “Apa artinya?”
+
+Engineer:
+
+> “Dengan kapasitas saat ini kita berisiko mengalami slowdown pada jam sibuk. Upgrade ini memberi sekitar dua kali kapasitas. Biayanya RpX per bulan.”
+
+Manager:
+
+> “Apa next step?”
+
+Engineer:
+
+> “Jika disetujui hari ini, kita bisa melakukan upgrade sebelum peak traffic Jumat.”
+
+Sekarang komunikasi bergerak:
+
+> **Meaning → Relevance → Decision → Action.**
+
+---
+
+## 49. Relationship Tetap Penting
+
+Language yang efektif tidak hanya menghasilkan action.
+
+Ia juga menghasilkan relational signal.
+
+Bandingkan:
+
+### A
+
+> “Kan sudah saya jelaskan kemarin.”
+
+dengan:
+
+### B
+
+> “Mungkin penjelasan saya kemarin terlalu teknis. Saya coba jelaskan dari sisi dampaknya.”
+
+Meaning mungkin sama.
+
+Relationship signal berbeda.
+
+Versi B mengatakan:
+
+> **I take responsibility for shared understanding.**
+
+---
+
+## 50. Communication Responsibility
+
+Dalam person-centered communication kita tidak mengatakan:
+
+> “Saya sudah menjelaskan. Kalau dia tidak mengerti itu salah dia.”
+
+Shared understanding adalah:
+
+> **shared responsibility.**
+
+Communicator bertanggung jawab untuk:
+
+- memperhatikan response,
+- menguji understanding,
+- mengadaptasi language.
+
+Receiver juga bertanggung jawab untuk:
+
+- mendengarkan,
+- bertanya,
+- mengklarifikasi.
+
+Maka:
+
+> **Communication is cooperative meaning-making.**
+
+---
+
+## 51. Checking Understanding
+
+Jangan hanya bertanya:
+
+> “Sudah mengerti?”
+
+Karena receiver cenderung menjawab:
+
+> “Ya.”
+
+Lebih baik:
+
+> “Bagaimana Anda melihat pilihan yang tersedia sekarang?”
+
+atau:
+
+> “Dari penjelasan tadi, bagian mana yang menurut Anda paling relevan?”
+
+atau:
+
+> “Boleh kita pastikan kembali apa yang akan dilakukan berikutnya?”
+
+Ini menguji:
+
+> **shared meaning.**
+
+---
+
+## 52. Format Pertemuan 2 Jam
+
+### 0–15 menit — Review Minggu 3
+
+Review:
+
+> Person → Character → Objective → Communication → Relationship
+
+Diskusikan:
+
+> Mengapa listening harus dilakukan sebelum memilih language?
+
+---
+
+### 15–40 menit — Lecture
+
+Materi:
+
+- meaning versus language,
+- person and character,
+- repertoire,
+- jargon,
+- code-switching,
+- language mismatch.
+
+---
+
+### 40–55 menit — Demonstration
+
+Dosen menjelaskan satu technical concept kepada:
+
+1. engineer,
+2. manager,
+3. customer.
+
+Mahasiswa mengidentifikasi perubahan.
+
+---
+
+### 55–85 menit — Practice
+
+- One Meaning, Five Languages
+- Jargon Detox
+- Repertoire Switching
+
+---
+
+### 85–110 menit — Mini Performance
+
+**One Idea, Three Persons**
+
+---
+
+### 110–120 menit — AI Language Lab & Reflection
+
+Mahasiswa membandingkan:
+
+> original version,
+
+> AI adapted version,
+
+> final human-edited version.
+
+---
+
+## 53. Tugas Minggu 4 — Five-Language Translation Portfolio
+
+Pilih **satu idea, problem, opportunity, atau solution** yang Anda pahami dengan baik.
+
+Disarankan sesuatu yang terkait kehidupan mahasiswa atau bidang studi Anda.
+
+Contoh:
+
+- penggunaan AI untuk belajar,
+- cybersecurity,
+- aplikasi campus,
+- database,
+- olahraga,
+- transportasi,
+- pengelolaan sampah.
+
+Buat komunikasi untuk **lima person/characters berbeda**.
+
+---
+
+## 54. Audience 1 — FAMILY OR FRIEND
+
+Jelaskan dalam everyday language.
+
+Tujuan:
+
+> membuat person memahami mengapa idea tersebut penting.
+
+---
+
+## 55. Audience 2 — FELLOW STUDENT / TECHNICAL PEER
+
+Gunakan language yang lebih technical apabila sesuai.
+
+Tujuan:
+
+> membangun shared technical understanding.
+
+---
+
+## 56. Audience 3 — PROJECT LEADER / MANAGER
+
+Gunakan language:
+
+> impact, resources, risk, schedule, benefit.
+
+Tujuan:
+
+> membantu decision.
+
+---
+
+## 57. Audience 4 — CUSTOMER / USER
+
+Gunakan language:
+
+> problem, benefit, usability, affordability.
+
+Tujuan:
+
+> membangun relevance dan interest.
+
+---
+
+## 58. Audience 5 — GENERAL PUBLIC
+
+Gunakan:
+
+> clear public language.
+
+Hindari jargon yang tidak diperlukan.
+
+Tujuan:
+
+> membuat gagasan dapat dimengerti orang tanpa background khusus.
+
+---
+
+## 59. Format Setiap Version
+
+Untuk setiap audience tuliskan:
+
+### PERSON / CHARACTER
+
+Siapa?
+
+### OBJECTIVE
+
+Apa yang ingin dicapai?
+
+### CORE MEANING
+
+Apa yang tidak boleh berubah?
+
+### LANGUAGE
+
+Berikan communication version maksimum:
+
+> **100 kata.**
+
+### REPERTOIRE
+
+Apa yang dipilih?
+
+- explanation,
+- example,
+- analogy,
+- data,
+- story,
+- visual.
+
+### EXPECTED ACTION
+
+Apa yang diharapkan terjadi setelah communication?
+
+---
+
+## 60. AI Component
+
+Pilih salah satu dari lima version.
+
+### Step 1
+
+Tulis sendiri terlebih dahulu.
+
+### Step 2
+
+Minta AI mengadaptasi language.
+
+### Step 3
+
+Bandingkan dengan version Anda.
+
+### Step 4
+
+Buat final version dengan keputusan Anda sendiri.
+
+Tuliskan reflection singkat:
+
+> Apa yang AI perbaiki?
+
+> Apa yang justru Anda ubah kembali?
+
+> Apakah AI mempertahankan meaning?
+
+> Apakah final language masih terasa seperti suara Anda?
+
+---
+
+## 61. Penilaian Tugas Minggu 4
+
+| Aspek | Bobot |
+|---|---:|
+| Kejelasan person, character, dan objective | 20% |
+| Kemampuan menjaga core meaning | 20% |
+| Kualitas language adaptation | 20% |
+| Penggunaan communication repertoire | 20% |
+| Reflection dan penggunaan AI secara kritis | 20% |
+
+Yang dinilai bukan:
+
+> siapa menggunakan vocabulary paling canggih.
+
+Yang dinilai:
+
+> **siapa mampu membuat meaning menjadi accessible dan relevant bagi person yang berbeda.**
+
+---
+
+## 62. Reflection Questions
+
+Di akhir kelas jawab:
+
+### 1.
+
+Apakah saya sering berbicara menggunakan language yang paling nyaman bagi saya daripada yang paling berguna bagi receiver?
+
+### 2.
+
+Jargon apa yang sering saya gunakan tanpa sadar?
+
+### 3.
+
+Apakah saya dapat menjelaskan bidang saya kepada orang yang bukan ahli?
+
+### 4.
+
+Ketika seseorang tidak memahami saya, apakah saya cenderung menyalahkannya atau mengubah cara komunikasi?
+
+### 5.
+
+Bagaimana AI dapat membantu saya menemukan language tanpa kehilangan authentic voice?
+
+---
+
+## 63. Lima Pertanyaan Sebelum Menjelaskan Sesuatu
+
+Gunakan:
+
+### WHO?
+
+> Siapa person-nya?
+
+### AS WHO?
+
+> Dalam character apa ia hadir?
+
+### WHY?
+
+> Apa objective communication?
+
+### WHAT?
+
+> Apa core meaning yang harus diterima?
+
+### HOW?
+
+> Language dan repertoire apa yang paling sesuai?
+
+Ringkas:
+
+> **WHO → CHARACTER → OBJECTIVE → MEANING → LANGUAGE**
+
+---
+
+## 64. Lima Pertanyaan Setelah Menjelaskan
+
+### 1.
+
+Apakah receiver benar-benar memahami?
+
+### 2.
+
+Apa response-nya?
+
+### 3.
+
+Adakah language mismatch?
+
+### 4.
+
+Apakah saya perlu menggunakan repertoire lain?
+
+### 5.
+
+Apa action berikutnya?
+
+---
+
+## 65. Take-Home Messages
+
+Jika hanya mengingat tujuh hal dari Minggu 4:
+
+### 1.
+
+> **The same meaning may require different languages for different persons.**
+
+### 2.
+
+> **Speaking correctly is not enough; communication must also be appropriate.**
+
+### 3.
+
+> **Person, personality, character, relationship, and objective help determine language.**
+
+### 4.
+
+> **Jargon is useful only when it supports shared understanding.**
+
+### 5.
+
+> **A good communicator can code-switch without sacrificing truth or authenticity.**
+
+### 6.
+
+> **AI can translate and adapt communication, but the person remains responsible for meaning and voice.**
+
+### 7.
+
+> **The purpose of language adaptation is understanding and mutual value—not manipulation.**
+
+---
+
+## 66. One-Minute Summary
+
+Minggu 1:
+
+> **PERSON**
+
+Siapa yang berkomunikasi?
+
+Minggu 2:
+
+> **INTRA-SELF**
+
+Apa yang saya katakan kepada diri saya sendiri?
+
+Minggu 3:
+
+> **RELATIONSHIP**
+
+Bagaimana saya memperoleh, memelihara, memperbaiki, dan menumbuhkan relationship?
+
+Minggu 4:
+
+> **LANGUAGE**
+
+Bagaimana saya menemukan bahasa yang tepat untuk person yang sedang saya hadapi?
+
+Modelnya:
+
+> **PERSON**  
+> ↓  
+> **PERSONALITY**  
+> ↓  
+> **CHARACTER**  
+> ↓  
+> **RELATIONSHIP & OBJECTIVE**  
+> ↓  
+> **MEANING**  
+> ↓  
+> **REPERTOIRE**  
+> ↓  
+> **LANGUAGE**  
+> ↓  
+> **RESPONSE**  
+> ↓  
+> **ADAPTATION**  
+> ↓  
+> **ACTION & RELATIONSHIP**
+
+Prinsip utamanya:
+
+> **Jangan hanya mengatakan apa yang ingin kita katakan. Temukan cara agar person yang kita hadapi dapat menerima meaning yang kita maksudkan.**
+
+Dan komunikasi yang matang bergerak dari:
+
+> **My language → Your language → Shared language → Shared meaning → Coordinated action.**
+
+Minggu 4 menjadi jembatan penting menuju bagian berikutnya dari kuliah. Setelah mahasiswa belajar mengenali **person, relationship, dan language**, mereka siap memasuki komunikasi profesional dan mempelajari bagaimana komunikasi secara sistematis dapat menggerakkan seseorang melalui **Target → Attention → Interest → Desire → Action (TAIDA)** menuju agreement dan value creation.

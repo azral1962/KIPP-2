@@ -1,0 +1,2008 @@
+# MINGGU 12 — NEIGHBORS & COMMUNITIES
+
+:::{.callout-tip}
+## Communicating Across Differences for Collective Action
+
+**Mata Kuliah:** Person-Centered Communication in the AI Era
+**Tingkat:** Mahasiswa Tahun 2
+**Durasi:** 2 jam
+**Domain:** Neighbors & Communities
+**Tema utama:** *How can different persons live, communicate, and act together?*
+:::
+
+---
+
+## 1. Dari Working Colleagues ke Community
+
+Pada Minggu 11 kita mempelajari komunikasi beberapa stakeholder:
+
+> **Person A ⇄ Person B ⇄ Person C ⇄ Person D**
+
+Masing-masing mempunyai:
+
+> **Character → Objective → Interest → Constraint → Authority**
+
+Kemudian mereka mencari:
+
+> **Acceptable Agreement → Coordinated Action**
+
+Di lingkungan professional, proses ini biasanya dibantu oleh:
+
+* struktur organisasi,
+* job description,
+* contract,
+* manager,
+* budget,
+* formal authority.
+
+Tetapi bagaimana kalau persons tersebut hanyalah:
+
+> tetangga, mahasiswa, warga, pedagang, orang tua, komunitas, atau citizens?
+
+Mereka tidak selalu mempunyai atasan yang sama.
+
+Namun mereka tetap:
+
+* berbagi ruang,
+* menggunakan resources bersama,
+* saling mempengaruhi,
+* dan hidup dengan consequences tindakan satu sama lain.
+
+Inilah domain:
+
+> **Neighbors & Communities.**
+
+---
+
+## 2. Learning Objectives
+
+Setelah Minggu 12 mahasiswa mampu:
+
+1. menjelaskan community sebagai **network of relationships among persons**;
+2. mengenali persons dan narrative characters dalam community;
+3. membedakan **private interest, shared concern, dan common good**;
+4. membedakan **fact, interpretation, value, interest, dan position**;
+5. memahami disagreement tanpa langsung menjadikannya personal conflict;
+6. membangun **shared problem framing**;
+7. menemukan common ground di antara persons yang berbeda;
+8. menghasilkan multiple options dan menjelaskan trade-offs;
+9. membedakan consensus dari **sufficient agreement for collective action**;
+10. menggunakan TAIDA untuk community communication secara etis;
+11. menghasilkan commitment berupa **Who–What–When–Evidence**;
+12. menggunakan AI sebagai communication assistant tanpa menggantikan suara community.
+
+---
+
+## 3. Community Tetap Dimulai dari Person
+
+Kata seperti:
+
+> masyarakat, warga, mahasiswa, generasi muda, orang tua
+
+adalah kategori.
+
+Kategori berguna untuk melihat pattern.
+
+Tetapi communication selalu terjadi dengan:
+
+> **persons.**
+
+Jangan hanya mengatakan:
+
+> “Warga menolak program.”
+
+Tanyakan:
+
+> Siapa yang menolak?
+
+> Sebagai siapa ia hadir?
+
+> Apa yang ia alami?
+
+> Apa yang ingin ia lindungi?
+
+> Apa yang ia khawatirkan?
+
+> Apa yang ia harapkan?
+
+Prinsip mata kuliah tetap:
+
+> **Recognize the person before relying on the category.**
+
+---
+
+## 4. Narrative Characters dalam Community
+
+Satu person dapat menjadi:
+
+* Neighbor
+* Resident
+* Parent
+* Student
+* Volunteer
+* Local Business Owner
+* Community Leader
+* Advocate
+* Expert
+* Citizen
+
+Contoh:
+
+Ibu Rina adalah satu person.
+
+Tetapi terhadap rencana *car-free Sunday* ia dapat hadir sebagai:
+
+### Resident
+
+> ingin lingkungan lebih tenang.
+
+### Parent
+
+> ingin anak memiliki ruang aman.
+
+### Business Owner
+
+> khawatir customer kesulitan mencapai tokonya.
+
+Jadi satu person sendiri dapat memiliki:
+
+> **multiple legitimate interests.**
+
+Karena itu komunikasi publik tidak sesederhana:
+
+> pro versus kontra.
+
+---
+
+## 5. Community sebagai Relationship System
+
+Model sederhana:
+
+> **PERSON A ⇄ PERSON B ⇄ PERSON C ⇄ PERSON D**
+
+Tetapi di tengahnya terdapat sesuatu yang shared:
+
+> **SPACE — RESOURCES — RULES — PROBLEMS — OPPORTUNITIES — FUTURE**
+
+Contoh:
+
+Satu jalan digunakan oleh:
+
+* pedestrian,
+* resident,
+* business,
+* motorcycle,
+* delivery vehicle,
+* children.
+
+Tindakan satu person:
+
+> dapat mempengaruhi person lainnya.
+
+Maka community membutuhkan:
+
+> **coordination without necessarily having one central authority.**
+
+---
+
+## 6. Shared Space, Different Objectives
+
+Bayangkan sebuah taman.
+
+### Children
+
+Objective:
+
+> bermain.
+
+### Parents
+
+Objective:
+
+> safety.
+
+### Teenagers
+
+Objective:
+
+> berkumpul.
+
+### Elderly
+
+Objective:
+
+> berjalan dan beristirahat.
+
+### Vendors
+
+Objective:
+
+> memperoleh livelihood.
+
+### Local Management
+
+Objective:
+
+> kebersihan dan keteraturan.
+
+Semua menggunakan:
+
+> ruang yang sama.
+
+Tetapi objective mereka:
+
+> berbeda.
+
+Itulah sebabnya communication diperlukan.
+
+---
+
+## 7. Private Interest Bukan Musuh
+
+Seorang café owner ingin:
+
+> bisnisnya tetap hidup.
+
+Seorang resident ingin:
+
+> lingkungan tenang.
+
+Seorang mahasiswa ingin:
+
+> tempat berkumpul.
+
+Semua itu dapat menjadi:
+
+> legitimate private interests.
+
+Community communication bukan menghilangkan private interest.
+
+Pertanyaannya:
+
+> **Can we find arrangements where legitimate private interests coexist within an acceptable common good?**
+
+---
+
+## 8. Common Good
+
+Dalam kuliah ini **common good** kita gunakan secara praktis sebagai:
+
+> **conditions that allow persons to live, participate, and flourish together in a reasonably fair and sustainable way.**
+
+Misalnya:
+
+* safety,
+* clean environment,
+* access,
+* mobility,
+* shared facilities,
+* fair rules,
+* community trust.
+
+Common good bukan:
+
+> “semua orang harus mempunyai keinginan identik.”
+
+---
+
+## 9. Jangan Jatuh ke Dua Ekstrem
+
+### Extreme Individualism
+
+> “Yang penting kepentingan saya.”
+
+### Extreme Collectivism
+
+> “Individual person tidak penting; yang penting masyarakat.”
+
+Person-centered communication mengambil posisi berbeda:
+
+> **Persons matter, and relationships among persons also matter.**
+
+Kehidupan bersama membutuhkan:
+
+> individual dignity + sustainable shared arrangements.
+
+---
+
+## 10. Community Relationship Mempunyai Memory
+
+Hubungan community biasanya berlangsung lama.
+
+Tetangga hari ini:
+
+> masih menjadi tetangga bulan depan.
+
+Karena itu kalimat:
+
+> “Pokoknya mayoritas menang!”
+
+mungkin memenangkan vote.
+
+Tetapi dapat merusak:
+
+> trust untuk lima masalah berikutnya.
+
+Community mempunyai:
+
+> **relationship memory.**
+
+Orang mengingat:
+
+* apakah pernah didengar,
+* apakah pernah dipermalukan,
+* apakah janji ditepati,
+* apakah keputusan dianggap fair.
+
+---
+
+## 11. Trust adalah Infrastructure
+
+Bayangkan dua community.
+
+### Community A
+
+Trust tinggi.
+
+Saat muncul problem:
+
+> persons bersedia berdiskusi.
+
+### Community B
+
+Trust rendah.
+
+Setiap proposal langsung dianggap:
+
+> mempunyai agenda tersembunyi.
+
+Maka trust adalah semacam:
+
+> **communication infrastructure.**
+
+Tanpa trust:
+
+> transaction cost komunikasi meningkat.
+
+---
+
+## 12. Dari Blame menuju Shared Problem
+
+Masalah sampah.
+
+Language A:
+
+> “Warga memang malas.”
+
+Language B:
+
+> “Petugas kebersihan tidak becus.”
+
+Language C:
+
+> “Volume sampah meningkat, titik pengumpulan terbatas, dan pembagian responsibility belum jelas.”
+
+Language C mengubah:
+
+> **Person vs Person**
+
+menjadi:
+
+> **Persons vs Problem**
+
+Ini membuka kemungkinan:
+
+> collective problem solving.
+
+---
+
+## 13. Fact ≠ Interpretation ≠ Value ≠ Position
+
+Gunakan empat lapisan.
+
+Contoh statement:
+
+> “Jalan ini terlalu ramai sehingga harus ditutup.”
+
+### FACT
+
+Apa yang benar-benar diketahui?
+
+> 500 kendaraan lewat antara pukul 07.00–09.00.
+
+### INTERPRETATION
+
+> volume tersebut dianggap mengganggu.
+
+### VALUE
+
+> safety atau quiet neighborhood dianggap penting.
+
+### POSITION
+
+> jalan harus ditutup.
+
+Perbedaan ini penting karena:
+
+> seseorang dapat menerima fact tetapi tidak menerima position.
+
+---
+
+## 14. Agreement pada Fakta Tidak Berarti Agreement pada Makna
+
+Dua persons setuju:
+
+> “Traffic meningkat 40%.”
+
+Person A berkata:
+
+> “Ini membahayakan neighborhood.”
+
+Person B berkata:
+
+> “Ini menandakan aktivitas ekonomi meningkat.”
+
+Fact sama.
+
+Interpretation berbeda.
+
+Karena itu tidak semua conflict dapat diselesaikan hanya dengan:
+
+> lebih banyak data.
+
+Kadang perbedaannya adalah:
+
+> values dan priorities.
+
+---
+
+## 15. Understanding ≠ Agreement
+
+Prinsip Minggu 3 kembali penting.
+
+Saya dapat mengatakan:
+
+> “Saya memahami mengapa Anda menolak.”
+
+tanpa mengatakan:
+
+> “Saya setuju dengan penolakan Anda.”
+
+Community yang sehat mampu mencapai:
+
+> **mutual understanding amid disagreement.**
+
+---
+
+## 16. Jangan Serang Character
+
+Buruk:
+
+> “Kalau Anda menolak program ini berarti Anda tidak peduli lingkungan.”
+
+Person mungkin peduli lingkungan.
+
+Tetapi ia mungkin juga khawatir:
+
+> program mematikan usaha kecil.
+
+Seranglah:
+
+> problem atau proposal.
+
+Bukan:
+
+> dignity person.
+
+---
+
+## 17. Multiple Frames
+
+Satu issue dapat mempunyai beberapa framing.
+
+Contoh:
+
+### Street Vendor Issue
+
+Frame 1:
+
+> pedestrian access problem.
+
+Frame 2:
+
+> livelihood problem.
+
+Frame 3:
+
+> public-space management problem.
+
+Frame 4:
+
+> local economic opportunity.
+
+Good communicator bertanya:
+
+> **Apa reality yang terlihat dari masing-masing frame?**
+
+---
+
+## 18. Shared Problem Framing
+
+Tidak harus semua sepakat pada seluruh narrative.
+
+Cukup membuat:
+
+> **working shared problem statement.**
+
+Contoh:
+
+> “Trotoar saat ini digunakan untuk berjalan, berdagang, dan parkir sehingga pada jam sibuk terjadi konflik penggunaan ruang.”
+
+Statement ini belum memilih:
+
+> siapa yang salah.
+
+Ia membuat problem:
+
+> discussable.
+
+---
+
+## 19. From Debate to Deliberation
+
+### Debate
+
+Objective:
+
+> membuktikan posisi saya lebih benar.
+
+### Deliberation
+
+Objective:
+
+> memahami issue dan menentukan apa yang dapat kita lakukan bersama.
+
+Debate bertanya:
+
+> “Siapa menang?”
+
+Deliberation bertanya:
+
+> **“What arrangement can we responsibly live with?”**
+
+---
+
+## 20. Five Objectives of Community Communication
+
+Community communication dapat memiliki lima objective.
+
+### 1. UNDERSTAND
+
+> Mendengar pengalaman persons.
+
+### 2. INFORM
+
+> Membuat fakta lebih jelas.
+
+### 3. DELIBERATE
+
+> Membandingkan options.
+
+### 4. AGREE
+
+> Menentukan arrangement yang cukup acceptable.
+
+### 5. MOBILIZE
+
+> Mengubah agreement menjadi collective action.
+
+---
+
+## 21. Community TAIDA
+
+Baseball Model tetap dapat digunakan:
+
+> **TARGET → ATTENTION → INTEREST → DESIRE → ACTION**
+
+Tetapi interpretation-nya berbeda.
+
+Community member bukan:
+
+> customer yang harus dikonversi.
+
+TAIDA hanya membantu membaca:
+
+> readiness for participation.
+
+---
+
+## 22. TARGET
+
+Community Target berarti:
+
+> **who needs to be included?**
+
+Bukan:
+
+> siapa paling gampang dipersuasi.
+
+Untuk problem sampah:
+
+* households,
+* tenant food vendors,
+* cleaning staff,
+* local management.
+
+Pertanyaannya:
+
+> **Who is affected, who contributes, and who can act?**
+
+---
+
+## 23. ATTENTION
+
+State:
+
+> “Ya, ini memang issue yang perlu diperhatikan.”
+
+Attention dapat diperoleh melalui:
+
+* observation,
+* public data,
+* experience,
+* story,
+* demonstration.
+
+Contoh:
+
+> “Dalam empat minggu terakhir volume sampah sore meningkat sekitar 30% dan dua titik pengumpulan sering penuh sebelum jadwal pengangkutan.”
+
+---
+
+## 24. INTEREST
+
+State:
+
+> “Ada kemungkinan approach yang layak kita lihat.”
+
+Contoh:
+
+> “Bagaimana kalau kita mencoba pemisahan sampah hanya pada tenant makanan terlebih dahulu?”
+
+Belum:
+
+> agreement.
+
+Hanya:
+
+> willingness to explore.
+
+---
+
+## 25. DESIRE
+
+Person melihat desired outcome:
+
+> lingkungan bersih,
+
+> tetapi tanpa workflow yang tidak realistis.
+
+Ia mengatakan:
+
+> “Kalau sistemnya semudah itu dan benar-benar mengurangi sampah berserakan, saya mendukung hasil tersebut.”
+
+---
+
+## 26. ACTION
+
+Sekarang diperlukan:
+
+> sufficient agreement.
+
+Misalnya:
+
+> “Kita melakukan pilot empat minggu.”
+
+Lalu:
+
+> **WHO + WHAT + WHEN + EVIDENCE**
+
+---
+
+## 27. Tidak Semua Stakeholder Berada pada Base yang Sama
+
+Contoh:
+
+| Person           | State     |
+| ---------------- | --------- |
+| Community leader | Desire    |
+| Resident         | Interest  |
+| Vendor           | Attention |
+| Cleaning staff   | Interest  |
+| Finance          | Target    |
+
+Jadi satu public speech yang sama belum tentu:
+
+> cocok bagi semuanya.
+
+Good communication memerlukan:
+
+> state recognition.
+
+---
+
+## 28. TAIDA Harus Mengubah Communicator Juga
+
+Dalam persuasive model sederhana kita mungkin berpikir:
+
+> communicator mengubah audience.
+
+Dalam community dialogue:
+
+> audience juga mengubah communicator.
+
+Misalnya proposal awal:
+
+> semua vendor harus mengganti packaging.
+
+Setelah mendengar:
+
+> beberapa vendor kecil tidak mampu menanggung cost.
+
+Proposal berubah menjadi:
+
+> phased transition.
+
+Itulah:
+
+> **mutual adaptation.**
+
+---
+
+## 29. Consensus Tidak Selalu Diperlukan
+
+Bayangkan 100 persons.
+
+Menunggu seluruh 100 berkata:
+
+> “Saya sepenuhnya setuju”
+
+dapat membuat action tidak pernah terjadi.
+
+Karena itu kita perlu membedakan:
+
+### CONSENSUS
+
+Broad shared acceptance.
+
+### AGREEMENT
+
+Specific arrangement diterima.
+
+### PARTICIPATION
+
+Persons mengambil bagian.
+
+### COLLECTIVE ACTION
+
+Multiple persons membuat coordinated contributions.
+
+---
+
+## 30. Sufficient Agreement
+
+Tujuan community communication sering adalah:
+
+> **enough legitimate agreement to enable responsible collective action.**
+
+Tidak semua person harus menganggap:
+
+> option tersebut ideal.
+
+Tetapi relevant persons cukup mengatakan:
+
+> “Arrangement ini acceptable.”
+
+---
+
+## 31. Tetapi Majority Tidak Selalu Cukup
+
+Contoh:
+
+90% community mendapat:
+
+> benefit kecil.
+
+10% mengalami:
+
+> damage besar.
+
+Vote 90–10 belum otomatis berarti:
+
+> keputusan fair.
+
+Person-centered communication bertanya:
+
+> **Who bears the burden?**
+
+---
+
+## 32. Listen to Minority Impact
+
+Kelompok kecil mungkin:
+
+* elderly,
+* persons with disability,
+* night-shift workers,
+* informal workers.
+
+Mereka mungkin sedikit jumlahnya.
+
+Tetapi consequence terhadap mereka:
+
+> sangat besar.
+
+Karena itu:
+
+> **frequency is not the same as importance.**
+
+---
+
+## 33. Participation ≠ Presence
+
+Seseorang hadir dalam meeting belum tentu:
+
+> berpartisipasi.
+
+Mungkin:
+
+* takut berbicara,
+* kalah dominan,
+* tidak memahami jargon,
+* tidak diberi kesempatan.
+
+Good facilitator bertanya:
+
+> **Who has not yet been heard?**
+
+---
+
+## 34. Silence ≠ Agreement
+
+Leader berkata:
+
+> “Semua setuju?”
+
+Semua diam.
+
+Itu tidak cukup menjadi evidence.
+
+Lebih baik:
+
+> “Saya ingin mendengar concern dari kelompok tenant dan cleaning staff sebelum kita simpulkan.”
+
+Explicit check:
+
+> lebih reliable.
+
+---
+
+## 35. Power Matters
+
+Tidak semua persons mempunyai power yang sama.
+
+Dalam meeting:
+
+> professor,
+
+> mahasiswa,
+
+> cleaning staff,
+
+mungkin secara formal dianggap sama-sama invited.
+
+Tetapi speaking power:
+
+> tidak sama.
+
+Person-centered facilitator perlu:
+
+> menciptakan ruang agar low-power stakeholder dapat berbicara.
+
+---
+
+## 36. Facilitator Character
+
+Community membutuhkan narrative character:
+
+> **FACILITATOR**
+
+Objective facilitator:
+
+> bukan membuat proposalnya menang.
+
+Tetapi:
+
+> **help persons understand differences and produce workable agreements.**
+
+---
+
+## 37. Seven Behaviors of a Facilitator
+
+Facilitator:
+
+1. invites voices;
+2. asks questions;
+3. separates fact from interpretation;
+4. paraphrases fairly;
+5. identifies common ground;
+6. generates options;
+7. summarizes agreement.
+
+---
+
+## 38. Fair Paraphrasing
+
+Resident:
+
+> “Café itu bikin berisik tiap malam.”
+
+Café Owner:
+
+> “Kalau aturan diperketat kami bisa kehilangan pelanggan.”
+
+Facilitator:
+
+> “Saya mendengar dua concern: residents membutuhkan kondisi malam yang memungkinkan istirahat, sedangkan café membutuhkan operasi yang tetap economically viable.”
+
+Facilitator tidak perlu mengatakan:
+
+> siapa benar.
+
+Ia membuat:
+
+> interests visible.
+
+---
+
+## 39. Find Common Ground
+
+Setelah difference jelas:
+
+> “Apakah kedua pihak setuju bahwa café dapat tetap beroperasi tetapi suara malam seharusnya tidak mengganggu rumah sekitar?”
+
+Jika:
+
+> “Ya,”
+
+kita punya:
+
+> common ground.
+
+---
+
+## 40. Make Disagreement Specific
+
+Jangan:
+
+> “Kita tidak pernah sepakat.”
+
+Lebih baik:
+
+> “Kita sepakat mengenai kebutuhan menjaga usaha dan ketenangan lingkungan. Kita berbeda pada jam batas dan level suara.”
+
+Specific disagreement:
+
+> lebih mudah dikelola.
+
+---
+
+## 41. Generate More Than Two Options
+
+Jangan biarkan issue menjadi:
+
+> **YES vs NO**
+
+Contoh café:
+
+A. tutup pukul 20.00
+B. buka bebas sampai malam
+
+Tambahkan:
+
+C. indoor-only after 21.00
+D. acoustic mitigation
+E. limited live music days
+F. agreed noise threshold
+
+Lebih banyak options membuka:
+
+> agreement space.
+
+---
+
+## 42. Trade-Off
+
+Setiap option mempunyai consequences.
+
+| Option             | Residents   | Business    | Enforcement |
+| ------------------ | ----------- | ----------- | ----------- |
+| Early closing      | good        | poor        | easy        |
+| No restriction     | poor        | good        | easy        |
+| Indoor after 21.00 | medium-good | medium-good | moderate    |
+| Noise control      | good        | medium      | harder      |
+
+Tidak ada:
+
+> perfect solution.
+
+Community communication harus membuat:
+
+> trade-offs visible.
+
+---
+
+## 43. Pilot ketika Prediction Berbeda
+
+Resident:
+
+> “Kalau jalan ditutup, traffic akan kacau.”
+
+Student:
+
+> “Tidak, justru area akan lebih baik.”
+
+Kita tidak tahu pasti.
+
+Alih-alih:
+
+> terus berdebat mengenai future,
+
+buat:
+
+> **pilot.**
+
+Misalnya:
+
+> empat Minggu.
+
+Lalu ukur:
+
+* traffic,
+* pedestrian count,
+* business transaction,
+* resident feedback.
+
+---
+
+## 44. Pilot adalah Agreement for Learning
+
+Ini insight penting.
+
+Ketika persons belum bisa sepakat terhadap:
+
+> permanent change,
+
+mereka mungkin sepakat:
+
+> **learning experiment.**
+
+Jadi pilot adalah:
+
+> **communication mechanism**, bukan hanya engineering method.
+
+---
+
+## 45. Community Action Cycle
+
+> **LISTEN**
+> ↓
+> **FRAME**
+> ↓
+> **GENERATE OPTIONS**
+> ↓
+> **AGREE ENOUGH**
+> ↓
+> **PILOT / ACT**
+> ↓
+> **MEASURE**
+> ↓
+> **COMMUNICATE AGAIN**
+> ↓
+> **ADAPT**
+
+Community communication:
+
+> iterative.
+
+---
+
+## 46. Agreement Must Become Action
+
+Statement:
+
+> “Mari kita jaga kebersihan.”
+
+adalah:
+
+> aspiration.
+
+Belum:
+
+> action.
+
+Action memerlukan:
+
+> **WHO + WHAT + WHEN + EVIDENCE**
+
+Contoh:
+
+### Residents
+
+> memisahkan organik dan non-organik mulai Senin.
+
+### Management
+
+> menyediakan delapan bins sebelum Jumat.
+
+### Cleaning Team
+
+> mengukur volume tiap hari.
+
+### Review
+
+> 30 hari kemudian.
+
+Sekarang:
+
+> coordinated action.
+
+---
+
+## 47. Collective Action
+
+Collective action berarti:
+
+> **multiple persons make coordinated contributions toward a sufficiently shared outcome.**
+
+Tidak semua melakukan hal yang sama.
+
+Justru:
+
+> contributions dapat berbeda.
+
+---
+
+## 48. Measure Action, Not Only Attention
+
+Community communication sering bangga:
+
+> “Posting kami dilihat 20.000 orang.”
+
+Dalam TAIDA:
+
+> mungkin baru Attention.
+
+Pertanyaan yang lebih penting:
+
+> Berapa yang memahami?
+
+> Berapa yang berpartisipasi?
+
+> Apa yang berubah?
+
+---
+
+## 49. Dua Outcome Community Communication
+
+Kita selalu mengevaluasi:
+
+### OUTCOME 1 — COLLECTIVE RESULT
+
+Apakah problem membaik?
+
+### OUTCOME 2 — RELATIONSHIP CAPACITY
+
+Apakah persons menjadi lebih mampu bekerja bersama?
+
+Maka:
+
+[
+\boxed{
+Community\ Communication\ Success
+=================================
+
+Collective\ Outcome
++
+Relationship\ Capacity
+}
+]
+
+---
+
+## 50. AI dalam Community Communication
+
+AI dapat berfungsi sebagai:
+
+### Listening Assistant
+
+mengelompokkan ratusan responses.
+
+### Language Translator
+
+technical → public language.
+
+### Stakeholder Simulator
+
+melatih facilitation.
+
+### Option Generator
+
+menghasilkan alternative arrangements.
+
+### Agreement Reviewer
+
+mencari ambiguity.
+
+### Reflection Partner
+
+mengidentifikasi possible bias.
+
+---
+
+## 51. Contoh AI Listening
+
+Ada 500 responses terhadap proposal.
+
+AI dapat mengelompokkan:
+
+* cost concern,
+* privacy,
+* safety,
+* convenience,
+* access.
+
+Tetapi hasil AI tidak boleh langsung disebut:
+
+> “suara masyarakat.”
+
+Mengapa?
+
+Karena model dapat:
+
+* salah mengelompokkan,
+* kehilangan nuance,
+* mengabaikan minority,
+* salah membaca sarcasm/context.
+
+---
+
+## 52. AI Harus Membantu Mendengar, Bukan Menggantikan Pendengar
+
+Model:
+
+> **REAL PERSONS → COMMUNICATION DATA → AI ASSISTANCE → HUMAN REVIEW → COMMUNITY DIALOGUE**
+
+Bukan:
+
+> **AI simulates community → decision.**
+
+---
+
+## 53. AI Stakeholder Simulation
+
+Untuk latihan kelas, agent dapat dirancang sebagai:
+
+> **Agent = Character + Mission + Values + Constraints + Knowledge + Language + Authority**
+
+Contoh:
+
+### Agent: Elderly Resident
+
+Mission:
+
+> maintain access and safety.
+
+Constraint:
+
+> limited walking distance.
+
+Concern:
+
+> car-free area membuat drop-off terlalu jauh.
+
+Mahasiswa kemudian berlatih:
+
+> facilitation.
+
+---
+
+## 54. Tetapi Simulation ≠ Consultation
+
+AI dapat menghasilkan:
+
+> kemungkinan concern lansia.
+
+Namun hanya lansia nyata yang dapat mengatakan:
+
+> apa pengalaman mereka sebenarnya.
+
+Prinsip:
+
+> **Simulate to prepare. Communicate to know.**
+
+---
+
+## 55. AI dan Minority Voice
+
+AI summarization dapat memperbesar suara mayoritas.
+
+Karena itu selalu tanyakan:
+
+> **Which concern appears rarely but may involve high impact?**
+
+Ini salah satu bentuk:
+
+> person-centered AI review.
+
+---
+
+## 56. Ethical Community Communication
+
+Jangan menggunakan AI untuk:
+
+> menentukan ketakutan individual lalu membuat personalized messages agar mereka diam-diam berubah pendapat.
+
+Itu:
+
+> manipulation.
+
+Gunakan personalization untuk:
+
+* accessibility,
+* language,
+* explanation,
+* relevance.
+
+Bukan:
+
+> exploitation.
+
+---
+
+## 57. Latihan 1 — Who Are the Persons?
+
+Case:
+
+> noise di sekitar kampus.
+
+Identifikasi:
+
+* student renter,
+* elderly resident,
+* family with baby,
+* café owner,
+* event organizer,
+* security.
+
+Untuk masing-masing:
+
+> character, objective, experience, concern.
+
+---
+
+## 58. Latihan 2 — Fact / Interpretation / Value / Position
+
+Statement:
+
+> “Motor mahasiswa membuat lingkungan berbahaya dan harus dilarang.”
+
+Pisahkan:
+
+### Fact
+
+Apa evidence?
+
+### Interpretation
+
+Apa meaning yang diberikan?
+
+### Value
+
+Apa yang ingin dilindungi?
+
+### Position
+
+Apa proposed action?
+
+---
+
+## 59. Latihan 3 — Transform Personal Attack
+
+Ubah:
+
+> “Mahasiswa sekarang egois.”
+
+menjadi:
+
+> observable issue.
+
+Contoh:
+
+> “Dalam tiga kegiatan terakhir, volume suara setelah pukul 22.00 menghasilkan beberapa complaint dari residents sekitar.”
+
+Ubah pula:
+
+> “Pengurus tidak kompeten.”
+
+> “Pedagang jorok.”
+
+> “Warga anti-perubahan.”
+
+---
+
+## 60. Latihan 4 — Listening Before Responding
+
+Kelompok 4 orang.
+
+Topic:
+
+> penggunaan smartphone dalam kelas.
+
+Rules:
+
+Sebelum memberikan opinion sendiri:
+
+> mahasiswa harus paraphrase speaker sebelumnya.
+
+Speaker harus mengatakan:
+
+> “Ya, itu cukup menggambarkan maksud saya.”
+
+Baru respondent boleh:
+
+> memberi view.
+
+---
+
+## 61. Latihan 5 — Find Common Ground
+
+Case:
+
+### Resident
+
+> ingin ketenangan.
+
+### Café
+
+> ingin customer.
+
+### Students
+
+> ingin tempat berkumpul.
+
+Cari common ground.
+
+Possible:
+
+> semua ingin area aman.
+
+> semua ingin aturan predictable.
+
+> semua tidak ingin business/community relationship rusak.
+
+---
+
+## 62. Latihan 6 — Generate Five Options
+
+Problem:
+
+> motor parkir di trotoar.
+
+Generate:
+
+1. ban total;
+2. designated parking;
+3. restriction pada jam sibuk;
+4. loading area;
+5. alternative parking.
+
+Kemudian:
+
+> siapa mendapat benefit?
+
+> siapa menerima burden?
+
+---
+
+## 63. Latihan 7 — Majority and Fairness
+
+80 mahasiswa:
+
+> mendukung perubahan jadwal.
+
+20 mahasiswa:
+
+> menolak.
+
+Ternyata 20 tersebut bekerja malam.
+
+Pertanyaan:
+
+> Apakah 80% otomatis selesai?
+
+> Adakah alternative configuration?
+
+> Siapa menanggung burden?
+
+---
+
+## 64. Mini Performance — Community Deliberation
+
+**Kelompok:** 5 mahasiswa
+**Durasi:** 12–15 menit
+
+### Case
+
+> **Car-Free Sunday Morning Around Campus**
+
+Characters:
+
+1. Resident
+2. Student
+3. Local Café Owner
+4. Campus Representative
+5. Facilitator
+
+---
+
+## 65. Hidden Concerns
+
+### Resident
+
+Menyukai car-free.
+
+Tetapi:
+
+> membutuhkan akses drop-off untuk elderly parent.
+
+### Student
+
+Menyukai pedestrian area.
+
+Tetapi:
+
+> transport alternative harus affordable.
+
+### Café Owner
+
+Takut omzet turun.
+
+Tetapi:
+
+> tertarik bila pedestrian traffic naik.
+
+### Campus Representative
+
+Ingin community relationship baik.
+
+Tetapi:
+
+> tidak mempunyai authority penuh terhadap jalan.
+
+### Facilitator
+
+Objective:
+
+> menghasilkan workable pilot.
+
+---
+
+## 66. Performance Goal
+
+Group harus:
+
+1. mendengar persons;
+2. menemukan facts dan assumptions;
+3. mengidentifikasi values/interests;
+4. menemukan common ground;
+5. menghasilkan minimal 3 options;
+6. menjelaskan trade-offs;
+7. menghasilkan sufficient agreement atau menyatakan dengan jujur bahwa agreement belum tercapai.
+
+---
+
+## 67. Possible Agreement
+
+Contoh:
+
+> “Car-free pilot dilakukan empat Minggu, Minggu pukul 06.00–10.00. Akses satu jalur tetap tersedia untuk emergency dan residents dengan mobility needs. Drop-off tersedia di ujung area. Selama pilot diukur traffic, noise, pedestrian use, café transaction, dan resident feedback.”
+
+Ini bukan:
+
+> kemenangan satu faction.
+
+Ini:
+
+> **collective learning arrangement.**
+
+---
+
+## 68. Rubrik Performance
+
+| Dimensi                          | Bobot |
+| -------------------------------- | ----: |
+| Person & Stakeholder Recognition |   20% |
+| Listening & Fair Problem Framing |   20% |
+| Language & Facilitation          |   20% |
+| Options, Trade-offs & Agreement  |   20% |
+| Collective Action & Relationship |   20% |
+
+---
+
+## 69. Format Kelas 2 Jam
+
+### 0–15 menit — Review
+
+Dari Minggu 11:
+
+> Multi-Person Negotiation.
+
+Pertanyaan:
+
+> Apa yang berubah ketika stakeholders bukan employees tetapi community members?
+
+### 15–40 menit — Lecture
+
+* community as persons;
+* shared spaces;
+* private interest/common good;
+* disagreement;
+* community TAIDA;
+* sufficient agreement.
+
+### 40–55 menit — Demonstration
+
+Dosen menunjukkan:
+
+> polarized debate vs facilitated deliberation.
+
+### 55–80 menit — Practice
+
+* fact/interpretation/value/position;
+* listening;
+* common ground;
+* option generation.
+
+### 80–110 menit — Community Deliberation Performance
+
+Roleplay.
+
+### 110–120 menit — Reflection + AI Review
+
+---
+
+## 70. Tugas Minggu 12 — Community Communication Challenge
+
+Kelompok 4–5 mahasiswa memilih satu issue nyata yang sederhana.
+
+Contoh:
+
+* sampah kampus,
+* parkir,
+* noise,
+* student space,
+* transportation,
+* penggunaan AI,
+* event mahasiswa.
+
+---
+
+## 71. Bagian A — COMMUNITY
+
+Jelaskan:
+
+> siapa community-nya?
+
+Apa shared:
+
+* space,
+* relationship,
+* service,
+* resource,
+* concern?
+
+---
+
+## 72. Bagian B — PERSON MAP
+
+Minimal 5 persons/characters.
+
+| Person/Character | Experience | Objective | Concern | Possible Contribution |
+| ---------------- | ---------- | --------- | ------- | --------------------- |
+
+---
+
+## 73. Bagian C — FACT / STORY / VALUE / POSITION
+
+Pisahkan:
+
+### Facts
+
+Apa evidence?
+
+### Interpretations
+
+Meaning apa yang muncul?
+
+### Values
+
+Apa yang ingin dilindungi?
+
+### Positions
+
+Apa yang diminta?
+
+---
+
+## 74. Bagian D — THREE FRAMES
+
+Buat minimal tiga legitimate problem framings.
+
+Kemudian usulkan:
+
+> **working shared problem statement.**
+
+Jika belum ada shared framing:
+
+> tuliskan disagreement-nya.
+
+---
+
+## 75. Bagian E — COMMUNITY TAIDA MAP
+
+| Person | State     |
+| ------ | --------- |
+| A      | Attention |
+| B      | Interest  |
+| C      | Desire    |
+| D      | Target    |
+
+Jelaskan evidence.
+
+---
+
+## 76. Bagian F — OPTIONS
+
+Buat minimal 3 arrangements.
+
+Untuk masing-masing:
+
+| Option | Benefit | Burden | Risk | Feasibility |
+| ------ | ------- | ------ | ---- | ----------- |
+
+---
+
+## 77. Bagian G — DELIBERATION
+
+Lakukan roleplay atau real conversation yang aman.
+
+Catat:
+
+* key argument,
+* new information,
+* disagreement,
+* common ground,
+* changed understanding.
+
+---
+
+## 78. Bagian H — AGREEMENT STATE
+
+Laporkan secara jujur:
+
+* Consensus
+* Sufficient Agreement
+* Pilot Agreement
+* Partial Agreement
+* No Agreement
+
+Tidak ada kewajiban:
+
+> selalu menghasilkan consensus.
+
+---
+
+## 79. Bagian I — COLLECTIVE ACTION
+
+Jika ada agreement:
+
+> **WHO + WHAT + WHEN + CONDITIONS + EVIDENCE**
+
+Jika belum:
+
+> tentukan next communication step.
+
+---
+
+## 80. Bagian J — RELATIONSHIP
+
+Jawab:
+
+> Apakah persons merasa didengar?
+
+> Siapa yang kurang terwakili?
+
+> Apakah trust naik atau turun?
+
+> Apakah community masih mau melakukan round komunikasi berikutnya?
+
+---
+
+## 81. Bagian K — AI Review
+
+Gunakan material yang dianonimkan.
+
+Minta AI:
+
+1. mengidentifikasi missing stakeholder;
+2. menemukan biased framing;
+3. memisahkan facts dari assumptions;
+4. menghasilkan alternative option;
+5. menemukan stakeholder yang menerima burden terbesar;
+6. memeriksa ambiguity agreement.
+
+Kemudian:
+
+> **human group reviews the AI.**
+
+Bukan sebaliknya.
+
+---
+
+## 82. Penilaian Tugas
+
+| Aspek                                 | Bobot |
+| ------------------------------------- | ----: |
+| Person & Community Mapping            |   20% |
+| Fair Problem Framing                  |   20% |
+| Listening, Options & Inclusion        |   20% |
+| Agreement & Collective Action         |   20% |
+| Relationship Reflection & AI Judgment |   20% |
+
+---
+
+## 83. Community Communication Checklist
+
+Sebelum:
+
+> **WHO?** Siapa affected?
+
+> **CHARACTER?** Sebagai siapa?
+
+> **EXPERIENCE?** Apa yang mereka alami?
+
+> **VALUE?** Apa yang mereka lindungi?
+
+> **POWER?** Authority siapa?
+
+> **MISSING?** Siapa belum terdengar?
+
+Setelah:
+
+> **SHARED?** Apa common ground?
+
+> **DIFFERENT?** Apa disagreement?
+
+> **FAIR?** Siapa mendapat benefit/burden?
+
+> **ACTIONABLE?** Ada Who–What–When?
+
+> **RELATIONSHIP?** Apakah kita masih mampu bekerja bersama?
+
+---
+
+## 84. Formula Minggu 12
+
+Kita dapat merangkum:
+
+[
+\boxed{
+Community =
+Persons + Relationships + Shared\ Space/Resources + Mutual\ Consequences
+}
+]
+
+Communication bekerja melalui:
+
+[
+\boxed{
+Listen
+\rightarrow
+Understand\ Differences
+\rightarrow
+Shared\ Problem
+\rightarrow
+Options
+\rightarrow
+Sufficient\ Agreement
+\rightarrow
+Collective\ Action
+}
+]
+
+Dan keberhasilan dinilai dengan:
+
+[
+\boxed{
+Success =
+Useful\ Collective\ Outcome
++
+Fair\ Participation
++
+Sustainable\ Relationships
+}
+]
+
+---
+
+## 85. Take-Home Messages
+
+Jika hanya mengingat sepuluh hal:
+
+1. **Communities are made of persons, not categories.**
+2. Orang yang berbagi ruang dapat mempunyai objectives dan values berbeda.
+3. **Understanding does not require agreement.**
+4. Pisahkan fact, interpretation, value, dan position.
+5. Ubah **person-versus-person** menjadi **persons-versus-shared-problem**.
+6. Complete consensus tidak selalu diperlukan.
+7. Majority tidak otomatis berarti fair.
+8. Pilot dapat mengubah prediction conflict menjadi shared learning.
+9. AI dapat membantu mendengar dan mengorganisasi, tetapi tidak menggantikan persons nyata.
+10. Tujuan akhir bukan memenangkan argumentasi, tetapi meningkatkan kemampuan untuk **live and act together**.
+
+---
+
+## 86. One-Minute Summary
+
+Perjalanan Minggu 12 adalah:
+
+> **PERSONS**
+> ↓
+> **DIFFERENT EXPERIENCES**
+> ↓
+> **DIFFERENT CHARACTERS & VALUES**
+> ↓
+> **LISTEN**
+> ↓
+> **FACTS + INTERPRETATIONS + VALUES + POSITIONS**
+> ↓
+> **SHARED PROBLEM**
+> ↓
+> **COMMON GROUND**
+> ↓
+> **MULTIPLE OPTIONS**
+> ↓
+> **VISIBLE TRADE-OFFS**
+> ↓
+> **SUFFICIENT AGREEMENT**
+> ↓
+> **WHO + WHAT + WHEN + EVIDENCE**
+> ↓
+> **COLLECTIVE ACTION**
+> ↓
+> **OBSERVE + LEARN + ADAPT**
+> ↓
+> **STRONGER COMMUNITY RELATIONSHIP**
+
+Prinsip inti Minggu 12:
+
+> **Kita membutuhkan communication bukan karena semua orang sama, melainkan karena persons yang berbeda harus berbagi ruang, resources, consequences, dan masa depan.**
+
+Maka pertanyaan utama bukan lagi:
+
+> **“Bagaimana saya membuat mereka setuju dengan saya?”**
+
+melainkan:
+
+> **“Bagaimana kita dapat saling mengenali sebagai persons, memahami perbedaan yang legitimate, menemukan common ground yang cukup, dan membuat responsible agreements mengenai apa yang dapat kita lakukan bersama?”**

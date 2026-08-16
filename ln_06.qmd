@@ -1,0 +1,2032 @@
+# MINGGU 6 — BASEBALL MODEL I: TARGET & ATTENTION
+
+:::{.callout-tip}
+## Menemukan Person yang Tepat dan Membuat Masalah atau Peluang Menjadi Relevan
+
+**Mata Kuliah:** Person-Centered Communication in the AI Era  
+**Tingkat:** Mahasiswa Tahun 2  
+**Durasi:** 2 jam  
+**Domain:** Working Colleagues  
+**Tema Besar:** *Who should I communicate with, and how do I earn meaningful attention?*
+:::
+
+---
+
+## 1. Dari Problem Discovery menuju Communication Movement
+
+Pada lima minggu pertama kita membangun fondasi.
+
+**Minggu 1 — PERSON**
+
+> Siapa yang berkomunikasi?
+
+**Minggu 2 — INTRA-SELF**
+
+> Bagaimana saya berkomunikasi dengan diri sendiri?
+
+**Minggu 3 — RELATIONSHIP**
+
+> Bagaimana relationship diperoleh, dipelihara, diperbaiki, dan ditumbuhkan?
+
+**Minggu 4 — LANGUAGE**
+
+> Bagaimana meaning yang sama dikomunikasikan dengan language yang sesuai kepada person yang berbeda?
+
+**Minggu 5 — PROFESSIONAL VALUE**
+
+> Bagaimana memahami problem dan opportunity orang lain sebelum menawarkan solution?
+
+Mulai Minggu 6 kita menambahkan pertanyaan baru:
+
+> **Bagaimana communication digunakan untuk menggerakkan seseorang dari satu state menuju state berikutnya?**
+
+Untuk itu kita menggunakan:
+
+## BASEBALL MODEL — TAIDA
+
+> **TARGET → ATTENTION → INTEREST → DESIRE → ACTION**
+
+Communication pitch digunakan untuk membantu terjadi:
+
+> **State Transition**
+
+Pada Minggu 6 kita fokus hanya pada dua state pertama:
+
+> **TARGET → ATTENTION**
+
+Jangan terburu-buru menjual solution.
+
+Pertama:
+
+> **Temukan person yang tepat.**
+
+Kemudian:
+
+> **Bantu person tersebut melihat problem atau opportunity yang relevan baginya.**
+
+---
+
+## 2. Learning Objectives Minggu 6
+
+Setelah mengikuti pertemuan ini mahasiswa mampu:
+
+1. menjelaskan komunikasi sebagai **state-changing activity**;
+2. menjelaskan struktur Baseball Model / TAIDA;
+3. membedakan **Target Person** dari sekadar target category;
+4. mengenali **person, character, relationship, objective, problem, dan opportunity**;
+5. menentukan current state sebelum melakukan pitch;
+6. membangun Attention melalui relevance, bukan sekadar sensasi;
+7. membuat **Problem/Opportunity Pitch** sederhana;
+8. menggunakan evidence, observation, question, story, dan comparison untuk memperoleh Attention;
+9. membaca response dan menyesuaikan pitch;
+10. menggunakan AI untuk membantu **target recognition, role simulation, dan pitch refinement** secara etis.
+
+---
+
+## 3. Communication sebagai State Transition
+
+Traditional communication sering digambarkan:
+
+> **Sender → Message → Receiver**
+
+Tetapi dalam mata kuliah ini kita ingin melihat communication secara lebih dinamis.
+
+Sebelum communication:
+
+> Person B berada dalam **State A**.
+
+Setelah communication:
+
+> kita berharap Person B berada dalam **State B**.
+
+Secara sederhana:
+
+\[
+State_t + Communication_t \rightarrow State_{t+1}
+\]
+
+Contoh:
+
+Sebelum:
+
+> “Saya tidak tahu ada masalah.”
+
+Setelah:
+
+> “Ya, ternyata ini memang masalah bagi saya.”
+
+Itulah perubahan dari:
+
+> **TARGET → ATTENTION**
+
+Communication telah bekerja.
+
+---
+
+## 4. Apa Itu Baseball Model?
+
+Bayangkan seorang pemain baseball.
+
+Ia tidak langsung memperoleh home run hanya karena ingin mencetak angka.
+
+Ia harus bergerak melalui beberapa base.
+
+Dalam communication:
+
+> **TARGET**
+
+Kita menemukan person yang relevan.
+
+↓
+
+> **BASE 1 — ATTENTION**
+
+Person menyadari:
+
+> “Ini relevan bagi saya.”
+
+↓
+
+> **BASE 2 — INTEREST**
+
+> “Mungkin ada sesuatu yang berguna. Saya ingin tahu lebih jauh.”
+
+↓
+
+> **BASE 3 — DESIRE**
+
+> “Saya melihat value-nya dan saya menginginkan outcome tersebut.”
+
+↓
+
+> **HOME BASE — ACTION**
+
+> “Saya bersedia mengambil langkah konkret.”
+
+Model ini kita singkat:
+
+> **TAIDA**
+
+**T**arget  
+**A**ttention  
+**I**nterest  
+**D**esire  
+**A**ction
+
+---
+
+## 5. Mengapa Ada TARGET Sebelum AIDA?
+
+Model marketing sering menggunakan:
+
+> **AIDA — Attention, Interest, Desire, Action**
+
+Dalam mata kuliah ini kita menambahkan:
+
+> **T — TARGET**
+
+karena sebelum memperoleh attention kita perlu mengetahui:
+
+> **Attention siapa?**
+
+Tidak semua person merupakan target yang tepat untuk setiap objective.
+
+Contoh:
+
+Mahasiswa mempunyai ide memperbaiki sistem parkir kampus.
+
+Possible persons:
+
+- mahasiswa pengguna parkir,
+- petugas parkir,
+- security,
+- pengelola fasilitas,
+- pimpinan kampus,
+- vendor sistem,
+- masyarakat sekitar.
+
+Mereka semua terkait.
+
+Tetapi:
+
+> **person yang tepat untuk satu communication objective belum tentu sama dengan person yang tepat untuk objective lain.**
+
+---
+
+## 6. Target Bukan Sekadar “Audience”
+
+Audience dapat berarti:
+
+> orang-orang yang menerima message.
+
+Target dalam framework ini lebih spesifik:
+
+> **Person yang mempunyai hubungan relevan dengan problem, opportunity, decision, atau action yang ingin dicapai.**
+
+Target harus memiliki setidaknya salah satu:
+
+- mengalami problem,
+- menerima benefit,
+- mempunyai influence,
+- mempunyai capability,
+- mempunyai resource,
+- mempunyai authority,
+- mempunyai responsibility.
+
+---
+
+## 7. Target Person, Bukan Hanya Target Category
+
+Traditional segmentation dapat menghasilkan:
+
+> “Target: mahasiswa usia 18–22 tahun.”
+
+Itu dapat berguna.
+
+Tetapi person-centered communication bertanya lebih jauh:
+
+> Mahasiswa siapa?
+
+> Dalam character apa?
+
+> Sedang menghadapi situasi apa?
+
+> Mengapa problem ini relevan?
+
+> Relationship apa yang kita miliki?
+
+Contoh:
+
+Bukan sekadar:
+
+> “Target = mahasiswa.”
+
+Tetapi:
+
+> “Dina, mahasiswa tingkat dua yang menjadi bendahara organisasi dan harus menggabungkan laporan transaksi dari beberapa anggota setiap minggu.”
+
+Sekarang communication dapat menjadi jauh lebih personal dan relevant.
+
+---
+
+## 8. PERSON → CHARACTER → SITUATION
+
+Untuk menentukan target gunakan tiga pertanyaan:
+
+### PERSON
+
+> Siapa orangnya?
+
+### CHARACTER
+
+> Dalam role apa ia berada?
+
+### SITUATION
+
+> Apa yang sedang terjadi?
+
+Contoh:
+
+**Person:** Andi  
+**Character:** Ketua kelompok project  
+**Situation:** Dua anggota terlambat mengirim modul.
+
+Communication kepada Andi berbeda dari communication kepada:
+
+**Person:** Andi  
+**Character:** Customer  
+**Situation:** Sedang mempertimbangkan membeli software.
+
+Orang sama.
+
+Character dan situation berbeda.
+
+---
+
+## 9. Dari Category ke Person
+
+Bandingkan:
+
+### Category-Based
+
+> “Mahasiswa sulit mengatur waktu.”
+
+### Person-Based
+
+> “Dalam tiga minggu terakhir, Rani menghadapi tiga deadline pada hari yang sama dan dua kali terlambat mengumpulkan tugas.”
+
+Category memberi:
+
+> general pattern.
+
+Person memberi:
+
+> communication context.
+
+Keduanya dapat berguna.
+
+Tetapi communication terjadi dengan:
+
+> **person.**
+
+---
+
+## 10. Target Recognition
+
+Target recognition berarti menemukan:
+
+> **who is relevant to the objective?**
+
+Misalnya objective:
+
+> mengurangi waktu tunggu kantin.
+
+Possible target persons:
+
+### Student
+
+Mengalami:
+
+> antrean.
+
+### Cashier
+
+Mengalami:
+
+> workload tinggi.
+
+### Owner
+
+Mempunyai:
+
+> decision authority.
+
+### Kitchen Staff
+
+Mempunyai:
+
+> process knowledge.
+
+### Developer
+
+Mungkin menyediakan:
+
+> technical capability.
+
+Satu problem memiliki:
+
+> multiple persons and characters.
+
+---
+
+## 11. Jangan Berkomunikasi dengan Orang yang Salah
+
+Misalnya mahasiswa mempunyai ide:
+
+> menambah server untuk meningkatkan sistem kampus.
+
+Ia menghabiskan 30 menit menjelaskan architecture kepada:
+
+> mahasiswa pengguna biasa.
+
+Mahasiswa tersebut mungkin setuju.
+
+Tetapi tidak mempunyai:
+
+> decision authority.
+
+Sebaliknya, berbicara langsung kepada decision maker tanpa memahami pengalaman user juga dapat menghasilkan solusi buruk.
+
+Karena itu:
+
+> **Effective communication begins with stakeholder-person recognition.**
+
+---
+
+## 12. Target Mapping
+
+Gunakan peta sederhana.
+
+Untuk setiap person tuliskan:
+
+| Person/Character | Problem Relation | Influence | Action Possible |
+|---|---|---|---|
+| Student/User | mengalami | rendah–sedang | memberi evidence |
+| Staff | menjalankan proses | sedang | mengubah workflow |
+| Manager | bertanggung jawab | tinggi | memutuskan |
+| Engineer | memahami solusi | sedang | membangun |
+| Finance | mengelola budget | tinggi | menyediakan resource |
+
+Tidak perlu kompleks.
+
+Tujuannya:
+
+> mengetahui dengan siapa kita perlu berbicara terlebih dahulu.
+
+---
+
+## 13. ATTENTION Bukan Sekadar Membuat Orang Melihat
+
+Hari ini kita hidup dalam:
+
+> **attention economy.**
+
+Notification, video, iklan, email, pesan, social media:
+
+semua bersaing mendapatkan attention.
+
+Karena itu mudah menyimpulkan:
+
+> Attention = sesuatu yang mengejutkan.
+
+Tetapi dalam person-centered communication:
+
+> **Attention = recognition of relevance.**
+
+Person berkata:
+
+> “Ya, ini ada hubungannya dengan saya.”
+
+Itulah Base 1.
+
+---
+
+## 14. Attention melalui Relevance
+
+Bandingkan:
+
+### Sensational Attention
+
+> “TEKNOLOGI BARU YANG AKAN MENGUBAH DUNIA!”
+
+Mungkin memperoleh pandangan.
+
+Tetapi belum tentu relevance.
+
+### Person-Centered Attention
+
+> “Anda mengatakan setiap Jumat staff membutuhkan hampir tiga jam untuk menggabungkan laporan secara manual.”
+
+Person:
+
+> “Ya.”
+
+Sekarang attention berasal dari:
+
+> **recognized reality.**
+
+---
+
+## 15. Pitch 1 — Problem or Opportunity
+
+Pitch pertama Baseball Model adalah:
+
+> **“I notice that you have a problem or opportunity.”**
+
+Dalam Bahasa Indonesia:
+
+> **“Saya melihat ada masalah atau peluang yang mungkin penting bagi Anda.”**
+
+Tetapi jangan menggunakannya sebagai template kaku.
+
+Lebih natural:
+
+> “Dari yang saya lihat, transaksi pada jam makan siang sering membutuhkan waktu lebih dari 10 menit. Apakah itu memang menjadi masalah bagi kantin?”
+
+atau:
+
+> “Kelihatannya banyak pertanyaan yang sama harus dijawab customer service setiap hari. Apakah itu cukup menyita waktu tim?”
+
+atau:
+
+> “Sekarang semakin banyak mahasiswa menggunakan AI untuk belajar. Menurut Anda apakah ini juga peluang untuk memperbaiki cara kita memberikan latihan?”
+
+---
+
+## 16. Observation Before Claim
+
+Perhatikan struktur:
+
+> **Observation → Relevance Question**
+
+Bukan:
+
+> “Saya tahu masalah Anda.”
+
+Tetapi:
+
+> “Ini yang saya lihat. Apakah saya memahami situasinya dengan benar?”
+
+Itu merupakan bentuk:
+
+> **professional humility.**
+
+---
+
+## 17. Attention Pitch Tidak Harus Menyatakan Masalah
+
+Kadang lebih efektif bertanya.
+
+Misalnya:
+
+> “Berapa banyak waktu yang Anda habiskan setiap minggu untuk membuat laporan ini?”
+
+Person:
+
+> “Mungkin empat jam.”
+
+> “Kalau empat jam itu dapat dikurangi menjadi 30 menit, apakah itu cukup berarti?”
+
+Sekarang:
+
+> opportunity memperoleh attention.
+
+---
+
+## 18. Problem dan Opportunity
+
+Kita perlu membedakan dua jenis Attention.
+
+### PROBLEM ATTENTION
+
+> “Ada sesuatu yang tidak berjalan sebagaimana mestinya.”
+
+Contoh:
+
+> antrean panjang.
+
+### OPPORTUNITY ATTENTION
+
+> “Ada kemungkinan menghasilkan keadaan yang lebih baik.”
+
+Contoh:
+
+> proses yang sekarang memerlukan empat jam mungkin dapat dilakukan dalam 30 menit.
+
+Communication tidak harus selalu dimulai dengan:
+
+> pain.
+
+Kadang lebih baik memulai dengan:
+
+> possibility.
+
+---
+
+## 19. Problem-Oriented Pitch
+
+Struktur sederhana:
+
+> **Current condition → Consequence → Relevance**
+
+Contoh:
+
+> “Dalam dua minggu terakhir tiga deadline kelompok terlewat karena dependency antaranggota tidak terlihat sejak awal. Akibatnya pekerjaan baru diketahui terlambat ketika deadline sudah dekat. Apakah ini juga yang Anda lihat?”
+
+---
+
+## 20. Opportunity-Oriented Pitch
+
+Struktur:
+
+> **Current condition → Possible improvement → Relevance**
+
+Contoh:
+
+> “Sekarang laporan dibuat manual setiap Jumat selama sekitar tiga jam. Jika sebagian proses dapat otomatis, waktu itu bisa digunakan untuk review. Apakah penghematan seperti itu berguna bagi tim?”
+
+---
+
+## 21. Attention Membutuhkan Evidence
+
+Jika kita mengatakan:
+
+> “Anda punya masalah.”
+
+Person dapat bertanya:
+
+> “Dasarnya apa?”
+
+Attention menjadi lebih kuat jika didukung:
+
+- observation,
+- data,
+- example,
+- testimony,
+- comparison,
+- story,
+- demonstration.
+
+Tetapi evidence harus:
+
+> **relevant and understandable.**
+
+---
+
+## 22. Observation
+
+Contoh:
+
+> “Saya melihat lima customer meninggalkan antrean pada 20 menit terakhir.”
+
+Lebih kuat daripada:
+
+> “Menurut saya antreannya buruk.”
+
+Observation memisahkan:
+
+> fact dari judgment.
+
+Ini menghubungkan kembali dengan Minggu 2:
+
+> **Fact ≠ Story**
+
+---
+
+## 23. Data
+
+Contoh:
+
+> “Rata-rata response time naik dari 2 detik menjadi 7 detik pada jam sibuk.”
+
+Tetapi jangan berhenti pada angka.
+
+Tambahkan meaning:
+
+> “Artinya customer menunggu lebih dari tiga kali lebih lama.”
+
+Data:
+
+> **evidence**
+
+Interpretation:
+
+> **meaning**
+
+---
+
+## 24. Comparison
+
+Contoh:
+
+> “Saat ini proses approval membutuhkan rata-rata tiga hari. Tim lain dengan workflow digital menyelesaikannya dalam satu hari.”
+
+Comparison membantu melihat:
+
+> gap.
+
+Tetapi comparison harus fair.
+
+Jangan memilih comparison yang menyesatkan.
+
+---
+
+## 25. Story
+
+Story dapat memperoleh Attention karena membuat problem terasa nyata.
+
+Contoh:
+
+> “Kemarin seorang mahasiswa sudah mengantre 15 menit, tetapi harus pergi karena kelas dimulai. Ia akhirnya tidak membeli makan siang.”
+
+Story memberi:
+
+> human face.
+
+Namun satu story tidak otomatis mewakili semua orang.
+
+Story sebaiknya digunakan bersama:
+
+> evidence.
+
+---
+
+## 26. Question
+
+Question dapat menjadi alat Attention yang sangat kuat.
+
+Contoh:
+
+> “Apa yang terjadi kalau sistem ini down selama dua jam?”
+
+atau:
+
+> “Berapa banyak customer yang tidak kembali setelah harus menunggu terlalu lama?”
+
+Pertanyaan membuat person:
+
+> **participate in meaning construction.**
+
+---
+
+## 27. Demonstration
+
+Kadang Attention paling mudah diperoleh dengan:
+
+> showing.
+
+Contoh:
+
+Sebelum:
+
+> “Proses ini lambat.”
+
+Demonstration:
+
+> jalankan proses dan ukur:
+
+> **12 menit.**
+
+Kemudian tunjukkan:
+
+> “Dari 12 menit itu, delapan menit sebenarnya menunggu approval manual.”
+
+Problem menjadi visible.
+
+---
+
+## 28. Attention dan Emotion
+
+Emosi dapat membantu Attention.
+
+Tetapi harus digunakan hati-hati.
+
+Misalnya keselamatan:
+
+> “Satu kesalahan kecil dapat menyebabkan data pasien tertukar.”
+
+Concern tersebut legitimate.
+
+Tetapi jangan:
+
+> memperbesar ketakutan untuk memaksa orang.
+
+Prinsip:
+
+> **Emotion should illuminate relevance, not manufacture fear.**
+
+---
+
+## 29. Attention Harus Etis
+
+Ada perbedaan antara:
+
+> **earning attention**
+
+dan:
+
+> **capturing attention manipulatively.**
+
+Ethical Attention:
+
+- relevant,
+- truthful,
+- respectful,
+- evidence-based,
+- allows freedom.
+
+Manipulative Attention:
+
+- misleading,
+- exaggerated,
+- fear exploitation,
+- fake urgency,
+- personal vulnerability exploitation.
+
+---
+
+## 30. Jangan Menyerang Person untuk Memperoleh Attention
+
+Buruk:
+
+> “Kalau Anda terus seperti ini, bisnis Anda akan gagal.”
+
+Lebih baik:
+
+> “Dalam tiga bulan terakhir complaint meningkat 40%. Kalau trend ini berlanjut, customer retention bisa menjadi masalah. Apakah ini juga menjadi concern Anda?”
+
+Problem harus menjadi:
+
+> **shared object of attention**
+
+bukan:
+
+> **attack on the person.**
+
+---
+
+## 31. Attention Pitch Harus Pendek
+
+Tujuannya bukan menjelaskan semuanya.
+
+Tujuan Base 1 hanyalah menghasilkan state:
+
+> **“Yes, this matters.”**
+
+Jika target sudah mengatakan:
+
+> “Ya, ini memang masalah kami.”
+
+berhenti menjelaskan problem.
+
+Kita sudah mencapai Base 1.
+
+Kesalahan umum:
+
+> terus menjelaskan problem selama 15 menit.
+
+Sekarang seharusnya mulai bergerak menuju:
+
+> **Interest.**
+
+---
+
+## 32. Know Which Base You Are On
+
+Ini prinsip utama Baseball Model:
+
+> **Do not pitch the base you have already reached.**
+
+Jika customer sudah memahami problem:
+
+> jangan kembali ke Attention terus-menerus.
+
+Jika customer sudah tertarik:
+
+> jangan terus melakukan problem pitch.
+
+Jika customer sudah ingin membeli:
+
+> jangan membuat presentation dari awal lagi.
+
+Good communicator bertanya:
+
+> **Where is the person now?**
+
+---
+
+## 33. State Recognition
+
+Perhatikan signal.
+
+### TARGET / UNAWARE
+
+> “Saya tidak tahu masalah itu.”
+
+### ATTENTION
+
+> “Ya, itu memang terjadi.”
+
+### INTEREST
+
+> “Jadi apa yang bisa dilakukan?”
+
+### DESIRE
+
+> “Kalau itu benar-benar bekerja, kami membutuhkannya.”
+
+### ACTION
+
+> “Apa langkah berikutnya?”
+
+Communication menjadi:
+
+> **observe response → infer state → choose next pitch.**
+
+---
+
+## 34. Response adalah Feedback
+
+Dalam communication model kita:
+
+> message bukan akhir.
+
+Response adalah:
+
+> **measurement.**
+
+Misalnya pitch:
+
+> “Tim Anda menghabiskan empat jam setiap minggu menyusun laporan.”
+
+Response:
+
+> “Tidak, sebenarnya hanya sekitar satu jam.”
+
+Artinya:
+
+> assumption kita salah.
+
+Jangan memaksa narrative.
+
+Kita adaptasi:
+
+> “Baik, berarti waktu bukan masalah utama. Bagian mana yang paling menyulitkan?”
+
+Sekarang conversation menjadi:
+
+> adaptive.
+
+---
+
+## 35. Closed-Loop Communication
+
+Modelnya:
+
+> **OBSERVE PERSON**  
+> ↓  
+> **ESTIMATE STATE**  
+> ↓  
+> **PITCH**  
+> ↓  
+> **OBSERVE RESPONSE**  
+> ↓  
+> **UPDATE UNDERSTANDING**  
+> ↓  
+> **ADAPT**
+
+Ini berbeda dari:
+
+> **script delivery.**
+
+Good communicator tidak hanya menghafal script.
+
+Ia menjalankan:
+
+> **communication control loop.**
+
+---
+
+## 36. Baseball Model Bukan Manipulation Funnel
+
+TAIDA dapat terlihat seperti:
+
+> sales funnel.
+
+Tetapi mata kuliah ini menggunakan prinsip berbeda.
+
+Tujuannya bukan:
+
+> membuat semua target sampai Home Base.
+
+Kadang communication yang baik menghasilkan:
+
+> “Ternyata ini bukan problem untuk Anda.”
+
+atau:
+
+> “Solusi kita ternyata tidak cocok.”
+
+Itu tetap outcome yang baik karena:
+
+> shared understanding meningkat.
+
+Person mempunyai:
+
+> freedom untuk keluar.
+
+---
+
+## 37. Target Bisa Menolak
+
+Misalnya:
+
+> “Menurut saya waktu laporan bukan masalah.”
+
+Professional response:
+
+> “Baik. Kalau begitu saya ingin memahami apa yang justru paling penting bagi Anda.”
+
+Bukan:
+
+> “Tidak, Anda harus mengerti bahwa ini masalah.”
+
+Communication harus:
+
+> **respect autonomy.**
+
+---
+
+## 38. From Attention to Shared Problem
+
+Base 1 tercapai ketika:
+
+> communicator dan target memiliki cukup shared understanding bahwa suatu problem atau opportunity layak dibicarakan.
+
+Contoh:
+
+> “Jadi kita sama-sama melihat bahwa waktu tunggu 15 menit saat jam makan siang menyebabkan sebagian mahasiswa batal membeli.”
+
+Customer:
+
+> “Ya.”
+
+Sekarang:
+
+> **ATTENTION ACHIEVED.**
+
+Minggu berikutnya kita akan bertanya:
+
+> **Bagaimana bergerak dari Attention menuju Interest?**
+
+---
+
+## 39. PITCH 1 Framework
+
+Mahasiswa dapat menggunakan format mudah:
+
+### 1. OBSERVE
+
+> “Saya melihat…”
+
+### 2. IMPACT
+
+> “Hal ini menyebabkan…”
+
+### 3. CHECK
+
+> “Apakah ini juga penting bagi Anda?”
+
+Contoh:
+
+> “Saya melihat anggota kelompok sering baru mengetahui dependency satu hari sebelum deadline. Akibatnya beberapa task terlambat walaupun anggota sebenarnya sudah bekerja. Apakah koordinasi dependency juga menjadi masalah yang Anda lihat?”
+
+---
+
+## 40. Alternative Pitch: Opportunity
+
+### 1. CURRENT
+
+> “Saat ini…”
+
+### 2. POSSIBILITY
+
+> “Ada peluang…”
+
+### 3. CHECK
+
+> “Apakah ini menarik/relevant?”
+
+Contoh:
+
+> “Saat ini laporan attendance direkap manual setiap minggu. Ada peluang membuat proses tersebut otomatis sehingga staff hanya perlu memeriksa exception. Apakah penghematan waktu seperti ini cukup berguna?”
+
+---
+
+## 41. What NOT to Say
+
+Jangan membuka dengan:
+
+> “Kami mempunyai AI platform dengan transformer architecture terbaru…”
+
+Mengapa?
+
+Karena masih belum jelas:
+
+> **Mengapa saya harus peduli?**
+
+Technology belum tentu:
+
+> relevant.
+
+---
+
+## 42. Feature Is Not Attention
+
+Buruk:
+
+> “Produk kami menggunakan AI.”
+
+Lebih baik:
+
+> “Tim Anda menghabiskan hampir dua jam membaca email yang berisi pertanyaan yang sama berulang kali.”
+
+Sekarang:
+
+> problem memperoleh attention.
+
+Baru nanti:
+
+> solution.
+
+---
+
+## 43. Professional Language vs Customer Language
+
+Technical team mungkin mendeskripsikan problem:
+
+> “Manual reconciliation causes inconsistent state across systems.”
+
+Customer mungkin berkata:
+
+> “Angka di dua laporan sering berbeda.”
+
+Attention pitch kepada customer:
+
+> gunakan language customer.
+
+Setelah shared understanding tercapai:
+
+> technical team dapat menerjemahkan problem ke internal technical language.
+
+---
+
+## 44. AI sebagai Targeting Assistant
+
+AI dapat membantu sebelum communication.
+
+Misalnya mahasiswa mempunyai problem:
+
+> attendance organisasi rendah.
+
+AI dapat membantu bertanya:
+
+> “Siapa saja potential stakeholders?”
+
+Kemungkinan:
+
+- peserta,
+- panitia,
+- ketua organisasi,
+- dosen pembina,
+- venue manager.
+
+Tetapi AI tidak boleh otomatis menentukan:
+
+> siapa person paling penting.
+
+Mahasiswa harus memvalidasi:
+
+> melalui real context.
+
+---
+
+## 45. AI sebagai Character Simulator
+
+Mahasiswa dapat meminta:
+
+> “Berperanlah sebagai ketua organisasi mahasiswa yang merasa attendance meeting bukan masalah utama. Saya akan mencoba membuat problem pitch. Jangan langsung setuju.”
+
+AI kemudian memberikan resistance.
+
+Mahasiswa belajar:
+
+> membaca response.
+
+---
+
+## 46. AI sebagai Pitch Reviewer
+
+Contoh prompt:
+
+> Saya ingin berbicara kepada pengelola kantin kampus. Saya melihat antrean makan siang rata-rata 12 menit dan sebagian mahasiswa meninggalkan antrean. Tujuan saya hanya memperoleh agreement bahwa problem tersebut layak diperhatikan, belum menawarkan solusi. Nilai pitch saya dari aspek relevance, clarity, evidence, tone, dan apakah terlalu cepat menawarkan solution.
+
+Ini penggunaan AI yang tepat:
+
+> **practice and feedback.**
+
+---
+
+## 47. AI Tidak Boleh Membuat Profil Manipulatif
+
+Tidak:
+
+> “Buat pitch berdasarkan kelemahan psikologis orang ini.”
+
+Gunakan:
+
+> “Bantu saya memahami objective, concern, dan language yang mungkin relevant bagi character tersebut.”
+
+Prinsip:
+
+> **Personalization for understanding, not exploitation.**
+
+---
+
+## 48. Latihan 1 — Find the Target
+
+Case:
+
+> Sampah plastik di kantin kampus meningkat.
+
+Mahasiswa membuat daftar possible persons:
+
+- mahasiswa,
+- tenant kantin,
+- cleaning staff,
+- pengelola fasilitas,
+- vendor,
+- organisasi mahasiswa.
+
+Kemudian pilih target untuk tiga objective:
+
+### Objective A
+
+Mengubah perilaku penggunaan gelas.
+
+### Objective B
+
+Mengubah sistem pengumpulan sampah.
+
+### Objective C
+
+Mendanai reusable container.
+
+Apakah target-nya sama?
+
+Kemungkinan:
+
+> tidak.
+
+---
+
+## 49. Latihan 2 — Category to Person
+
+Ubah target berikut:
+
+> “Mahasiswa”
+
+menjadi person-centered target.
+
+Contoh:
+
+> “Mahasiswa tingkat 2 yang menjadi ketua kelompok project dan harus memastikan empat anggota mengumpulkan modul sebelum deadline Jumat.”
+
+Lakukan untuk:
+
+- customer,
+- manager,
+- resident,
+- teacher,
+- small business owner.
+
+---
+
+## 50. Latihan 3 — Fact or Attention Claim?
+
+Dosen memberikan:
+
+### A
+
+> “Sistem Anda buruk.”
+
+### B
+
+> “Dalam minggu ini sistem gagal tiga kali pada jam operasional.”
+
+### C
+
+> “Customer pasti kecewa.”
+
+### D
+
+> “Dari 20 customer yang kami tanyai, 12 mengatakan waktu tunggu terlalu lama.”
+
+Mahasiswa membedakan:
+
+> observation/data vs judgment/assumption.
+
+Hubungkan dengan Minggu 2:
+
+> **Fact vs Story.**
+
+---
+
+## 51. Latihan 4 — Build Attention Pitch
+
+Gunakan:
+
+> **Observation → Impact → Check**
+
+Case:
+
+> Banyak anggota kelompok tidak membaca pesan grup.
+
+Contoh:
+
+> “Dalam tiga hari terakhir, tiga perubahan tugas di grup tidak terbaca oleh semua anggota sehingga dua pekerjaan dikerjakan ganda. Apakah informasi yang tercecer di grup juga menjadi masalah menurut kalian?”
+
+---
+
+## 52. Latihan 5 — Problem vs Opportunity Pitch
+
+Untuk satu kasus buat dua version.
+
+Case:
+
+> proses absensi masih manual.
+
+### Problem Version
+
+> “Setiap minggu staff membutuhkan dua jam untuk memasukkan attendance secara manual, dan kesalahan input masih terjadi.”
+
+### Opportunity Version
+
+> “Data attendance sebenarnya sudah tersedia secara digital. Kalau proses rekap dapat otomatis, staff hanya perlu memeriksa kasus yang tidak normal.”
+
+Diskusikan:
+
+> Person mana lebih responsif terhadap problem language?
+
+> Person mana lebih responsif terhadap opportunity language?
+
+---
+
+## 53. Latihan 6 — Read the State
+
+Dosen memberikan response.
+
+Mahasiswa menentukan state.
+
+### Response A
+
+> “Saya tidak pernah memikirkan hal itu.”
+
+State:
+
+> Attention mulai terbentuk.
+
+### Response B
+
+> “Ya, masalah itu memang cukup mengganggu.”
+
+State:
+
+> Attention.
+
+### Response C
+
+> “Apa ada cara memperbaikinya?”
+
+State:
+
+> Interest.
+
+### Response D
+
+> “Kalau benar bisa menghemat dua jam, saya mau coba.”
+
+State:
+
+> Desire.
+
+### Response E
+
+> “Kapan kita bisa mulai?”
+
+State:
+
+> Action.
+
+Tujuan:
+
+> melatih **state recognition**.
+
+---
+
+## 54. Mini Performance — Target to Attention Pitch
+
+Mahasiswa berpasangan.
+
+### Student A
+
+Communicator.
+
+### Student B
+
+Target Person.
+
+Student B mendapat hidden character card.
+
+Contoh:
+
+> “Anda adalah pengelola kantin. Anda tahu antrean panjang tetapi merasa itu normal saat makan siang.”
+
+Student A mendapat evidence:
+
+> rata-rata antrean 14 menit;
+
+> sekitar 10% calon pembeli meninggalkan antrean.
+
+Tujuan Student A:
+
+> **bukan menawarkan solution.**
+
+Hanya:
+
+> membawa Person B dari Target menuju Attention.
+
+---
+
+## 55. Performance Rule
+
+Student A hanya memiliki:
+
+> **2 menit.**
+
+Ia harus:
+
+1. mengenali person;
+2. menggunakan language yang sesuai;
+3. menunjukkan observation/evidence;
+4. menjelaskan impact;
+5. meminta response;
+6. berhenti ketika Attention tercapai.
+
+---
+
+## 56. Success Indicator
+
+Student B mengatakan sesuatu seperti:
+
+> “Ya, itu memang sesuatu yang perlu kita perhatikan.”
+
+Itulah:
+
+> **Base 1 reached.**
+
+Bukan:
+
+> “Saya langsung beli solusi Anda.”
+
+Itu terlalu jauh.
+
+---
+
+## 57. Failure Modes
+
+### Failure 1 — Too Much Background
+
+Communicator bicara panjang sebelum problem jelas.
+
+### Failure 2 — Solution Jumping
+
+> “Kami punya aplikasi…”
+
+sebelum Attention tercapai.
+
+### Failure 3 — Attack
+
+> “Pengelolaan Anda buruk.”
+
+### Failure 4 — Weak Evidence
+
+> “Katanya banyak orang…”
+
+### Failure 5 — Wrong Person
+
+Target tidak mempunyai relevansi dengan problem.
+
+### Failure 6 — No Feedback
+
+Communicator tidak memberi ruang target merespons.
+
+---
+
+## 58. Rubrik Mini Performance
+
+| Dimensi | Bobot |
+|---|---:|
+| Target Person & Character Recognition | 20% |
+| Relevance of Problem/Opportunity | 20% |
+| Quality of Evidence/Observation | 20% |
+| Language & Pitch Clarity | 20% |
+| Response Reading & Adaptation | 20% |
+
+Yang dinilai bukan:
+
+> kemampuan membuat speech indah.
+
+Yang dinilai:
+
+> **apakah communication berhasil membuat person yang tepat memperhatikan hal yang relevan.**
+
+---
+
+## 59. Demonstration — Wrong Base
+
+### Situation
+
+Customer sudah mengatakan:
+
+> “Ya, antrean panjang memang problem utama kami.”
+
+Student terus berkata:
+
+> “Dan banyak mahasiswa mengeluh. Waktu tunggunya juga panjang. Bahkan…”
+
+Dosen menghentikan.
+
+Pertanyaan:
+
+> Apa masalahnya?
+
+Jawaban:
+
+> **Attention sudah tercapai.**
+
+Pitch berikutnya seharusnya:
+
+> **Interest.**
+
+Good communicator tidak hanya tahu:
+
+> what to say.
+
+Ia tahu:
+
+> **when to move on.**
+
+---
+
+## 60. Format Pertemuan 2 Jam
+
+### 0–15 menit — Review Minggu 5
+
+Review:
+
+> Person → Problem → Need → Shared Problem Statement.
+
+Pertanyaan:
+
+> Kalau sudah memahami problem, dengan siapa kita perlu membicarakannya?
+
+---
+
+### 15–40 menit — Lecture
+
+Topik:
+
+- Baseball Model / TAIDA,
+- target recognition,
+- Attention,
+- relevance,
+- problem/opportunity pitch,
+- evidence,
+- state recognition.
+
+---
+
+### 40–55 menit — Demonstration
+
+Dosen menunjukkan:
+
+> bad pitch vs good Target-to-Attention pitch.
+
+---
+
+### 55–85 menit — Practice
+
+- Find the Target
+- Fact vs Attention Claim
+- Problem vs Opportunity Pitch
+- Read the State
+
+---
+
+### 85–110 menit — Mini Performance
+
+> **Target → Attention**
+
+---
+
+### 110–120 menit — AI Feedback & Reflection
+
+Mahasiswa meminta AI menganalisis:
+
+- clarity,
+- relevance,
+- evidence,
+- tone,
+- apakah terlalu cepat menawarkan solution.
+
+---
+
+## 61. Tugas Minggu 6 — Target–Attention Communication Challenge
+
+Mahasiswa memilih satu problem atau opportunity sederhana.
+
+Dapat berasal dari:
+
+- kehidupan mahasiswa,
+- project,
+- organisasi,
+- layanan kampus,
+- usaha kecil,
+- komunitas.
+
+Contoh:
+
+- jadwal kelompok tidak sinkron,
+- antrian,
+- proses manual,
+- penggunaan energi,
+- waste,
+- information overload.
+
+---
+
+## 62. Bagian A — PROBLEM / OPPORTUNITY
+
+Tuliskan maksimal:
+
+> **100 kata.**
+
+Apa yang Anda lihat?
+
+Gunakan:
+
+> evidence, bukan sekadar opinion.
+
+---
+
+## 63. Bagian B — TARGET MAP
+
+Identifikasi minimal:
+
+> **3 persons/characters**
+
+yang terkait.
+
+Untuk masing-masing:
+
+| Person/Character | Relation to Problem | What Matters to Them | Possible Action |
+|---|---|---|---|
+
+---
+
+## 64. Bagian C — CHOOSE ONE TARGET
+
+Pilih:
+
+> satu person.
+
+Jelaskan:
+
+> mengapa person tersebut menjadi target communication pertama.
+
+---
+
+## 65. Bagian D — CURRENT STATE
+
+Apakah person tersebut:
+
+- unaware?
+- aware but unconcerned?
+- already concerned?
+
+Jelaskan evidence Anda.
+
+Jangan hanya menebak jika bisa bertanya langsung.
+
+---
+
+## 66. Bagian E — ATTENTION PITCH
+
+Buat pitch maksimal:
+
+> **60 detik**
+
+menggunakan:
+
+> Observation → Impact → Relevance Check
+
+atau:
+
+> Current State → Opportunity → Relevance Check.
+
+---
+
+## 67. Bagian F — PERFORM
+
+Sampaikan pitch kepada:
+
+> person nyata atau simulated person.
+
+Jika real person tidak tersedia:
+
+> teman/AI boleh memainkan character.
+
+Catat response.
+
+---
+
+## 68. Bagian G — STATE AFTER PITCH
+
+Apakah state berubah?
+
+Misalnya:
+
+> Unaware → Aware
+
+atau:
+
+> Aware → Concerned
+
+atau:
+
+> no change.
+
+Tidak harus selalu berhasil.
+
+Yang penting:
+
+> evidence dan reflection.
+
+---
+
+## 69. Bagian H — ADAPTATION
+
+Jika pitch pertama tidak berhasil:
+
+> apa yang Anda ubah?
+
+- evidence?
+- language?
+- target?
+- character?
+- problem framing?
+
+---
+
+## 70. Bagian I — AI REFLECTION
+
+Berikan AI:
+
+- target,
+- character,
+- objective,
+- pitch,
+- response.
+
+Minta AI:
+
+> 1. mengidentifikasi kemungkinan current state,
+> 2. menunjukkan apakah pitch terlalu panjang,
+> 3. menunjukkan bagian yang berupa assumption,
+> 4. memberi satu alternatif pitch.
+
+Mahasiswa kemudian menulis:
+
+> apa yang diterima dan ditolak.
+
+---
+
+## 71. Penilaian Tugas Minggu 6
+
+| Aspek | Bobot |
+|---|---:|
+| Target Person Selection | 20% |
+| Problem/Opportunity Relevance | 20% |
+| Evidence & Attention Pitch | 20% |
+| Response/State Recognition | 20% |
+| Adaptation & Critical AI Use | 20% |
+
+---
+
+## 72. Target–Attention Checklist
+
+Sebelum pitch:
+
+### WHO?
+
+> Siapa person yang tepat?
+
+### AS WHO?
+
+> Character apa yang ia mainkan?
+
+### WHAT?
+
+> Problem/opportunity apa yang relevant?
+
+### EVIDENCE?
+
+> Apa dasar observation saya?
+
+### CURRENT STATE?
+
+> Apa yang sudah ia tahu?
+
+---
+
+Setelah pitch:
+
+### DID THEY NOTICE?
+
+> Apakah problem menjadi visible?
+
+### DID THEY CARE?
+
+> Apakah cukup relevant untuk diperhatikan?
+
+### WHAT DID THEY SAY?
+
+> Apa response aktual?
+
+### WHAT STATE NOW?
+
+> Di base mana mereka sekarang?
+
+### MOVE OR ADAPT?
+
+> Pindah ke base berikutnya atau perbaiki pitch?
+
+---
+
+## 73. Simple Formula for Week 6
+
+Minggu ini dapat diringkas dengan:
+
+\[
+\boxed{
+Target = Relevant\ Person + Relevant\ Character + Relevant\ Situation
+}
+\]
+
+dan:
+
+\[
+\boxed{
+Attention = Relevant\ Problem/Opportunity + Credible\ Evidence
+}
+\]
+
+kemudian:
+
+\[
+\boxed{
+Pitch \rightarrow Response \rightarrow State\ Update
+}
+\]
+
+---
+
+## 74. Hubungan dengan Relationship
+
+Ingat:
+
+> communication tidak hanya mengubah decision state.
+
+Communication juga mengubah:
+
+> **relationship state.**
+
+Pitch yang terlalu agresif mungkin memperoleh attention:
+
+> tetapi mengurangi trust.
+
+Karena itu success mempunyai dua ukuran:
+
+### Communication State
+
+Apakah Attention tercapai?
+
+### Relationship State
+
+Apakah trust dipertahankan atau diperkuat?
+
+Idealnya:
+
+\[
+\boxed{
+Effective\ Pitch =
+State\ Progress + Healthy\ Relationship
+}
+\]
+
+---
+
+## 75. Hubungan dengan Person-Centered AI
+
+AI membantu kita:
+
+> mengenali kemungkinan person,
+
+> mensimulasikan character,
+
+> menguji pitch,
+
+> membaca response,
+
+> membuat alternative wording.
+
+Tetapi AI tidak boleh:
+
+> mengubah person menjadi sekadar psychological target.
+
+Framework tetap:
+
+> **Person first.**
+
+AI menjadi:
+
+> **Communication Copilot.**
+
+---
+
+## 76. Take-Home Messages
+
+Jika hanya mengingat delapan hal dari Minggu 6:
+
+### 1.
+
+> **Communication can be designed to move relational and decision states.**
+
+### 2.
+
+> **TAIDA = Target → Attention → Interest → Desire → Action.**
+
+### 3.
+
+> **Before seeking attention, identify the right person.**
+
+### 4.
+
+> **Target is a person in a character and situation, not merely a demographic category.**
+
+### 5.
+
+> **Attention means recognizing relevance, not merely noticing noise.**
+
+### 6.
+
+> **Use observation and evidence before making claims.**
+
+### 7.
+
+> **Read the response and identify the current base before giving the next pitch.**
+
+### 8.
+
+> **The purpose is not manipulation; it is helping persons recognize problems or opportunities relevant to mutually meaningful action.**
+
+---
+
+## 77. One-Minute Summary
+
+Sampai Minggu 5:
+
+> **PERSON → RELATIONSHIP → LANGUAGE → PROBLEM → SHARED UNDERSTANDING**
+
+Minggu 6 mulai menambahkan:
+
+> **STATE MOVEMENT**
+
+Baseball Model:
+
+> **TARGET → ATTENTION → INTEREST → DESIRE → ACTION**
+
+Hari ini kita hanya bermain sampai:
+
+> **BASE 1 — ATTENTION**
+
+Urutannya:
+
+> **RECOGNIZE PERSON**  
+> ↓  
+> **RECOGNIZE CHARACTER**  
+> ↓  
+> **UNDERSTAND SITUATION**  
+> ↓  
+> **SELECT TARGET**  
+> ↓  
+> **OBSERVE PROBLEM / OPPORTUNITY**  
+> ↓  
+> **CHOOSE RELEVANT EVIDENCE**  
+> ↓  
+> **MAKE ATTENTION PITCH**  
+> ↓  
+> **LISTEN TO RESPONSE**  
+> ↓  
+> **IDENTIFY NEW STATE**
+
+Pitch dasar:
+
+> **“Saya melihat sesuatu yang mungkin relevan bagi Anda. Ini yang saya amati, ini dampaknya. Apakah ini juga sesuatu yang penting bagi Anda?”**
+
+Ketika person menjawab:
+
+> **“Ya, ini memang masalah atau peluang yang perlu kita perhatikan,”**
+
+maka kita telah mencapai:
+
+> **BASE 1 — ATTENTION.**
+
+Jangan langsung memaksa action.
+
+Pada **Minggu 7**, kita akan belajar bagaimana bergerak dari:
+
+> **ATTENTION → INTEREST**
+
+dengan pitch kedua:
+
+> **“I have something that may help.”**
+
+Tetapi yang akan kita jual bukan kecanggihan solusi.
+
+Kita harus memperlihatkan:
+
+> **mengapa solution tersebut relevant bagi problem yang baru saja disepakati.**
+
+Pendekatan ini melanjutkan desain dasar mata kuliah yang menekankan perbandingan antara komunikasi default dan learned communication, roleplay, conversational analytics, serta AI sebagai layer untuk memperkuat performa komunikasi mahasiswa.

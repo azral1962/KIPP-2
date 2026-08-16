@@ -1,5 +1,608 @@
-# Introduction
+# Bagaimana cara belajar komunikasi yang efektif?
 
-This is a book created from markdown and executable code.
+## Pola belajar yang konsisten
+Cara mengikuti mata kuliah ini sebaiknya dibuat **sangat konsisten dari minggu ke minggu**, sehingga mahasiswa tingkat 2 tidak dibebani prosedur belajar yang berubah-ubah. Saya mengusulkan pola **4P + R: Preparation – Presentation – Practice – Performance – Reflection**. Pola ini sejalan dengan rancangan sebelumnya yang menekankan demonstrasi, roleplay, AI-assisted feedback, dan pembelajaran berbasis performa. 
 
-See @knuth84 for additional discussion of literate programming.
+| Tahap               | Kegiatan mahasiswa                                                                      | Peran dosen/AI                                         | Hasil                               |
+| ------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------- |
+| **1. Preparation**  | Membaca materi singkat, melihat contoh kasus, mengenali pengalaman pribadi yang relevan | Dosen memberi *brief*; AI membantu eksplorasi awal     | Mahasiswa datang dengan konteks     |
+| **2. Presentation** | Mengikuti penjelasan konsep dan demonstrasi                                             | Dosen menjelaskan model dan memberi contoh             | Mahasiswa memahami prinsip          |
+| **3. Practice**     | Latihan berpasangan/kelompok, roleplay, mencoba beberapa bahasa dan character           | Dosen sebagai coach; AI sebagai simulator dan reviewer | Mahasiswa mencoba tanpa takut gagal |
+| **4. Performance**  | Melakukan komunikasi pada kasus nyata/simulasi dengan target dan outcome jelas          | Dosen/peer menilai berdasarkan rubric                  | Bukti kompetensi                    |
+| **5. Reflection**   | Membandingkan niat, tindakan, respons, agreement, dan dampak pada relationship          | AI membantu transcript/tone analysis                   | Perbaikan untuk siklus berikutnya   |
+
+### 1. Preparation — datang dengan pengalaman, bukan dengan hafalan
+
+Sebelum kelas mahasiswa hanya perlu persiapan ringan, sekitar **20–30 menit**. Mereka membaca satu konsep, melihat satu contoh komunikasi, lalu membawa satu pengalaman yang relevan.
+
+Misalnya minggu tentang *Family & Friends*, persiapannya bisa berupa:
+
+> “Ingat satu percakapan dengan teman yang tidak berjalan seperti yang Anda harapkan. Apa yang Anda inginkan? Apa yang Anda katakan? Bagaimana responsnya?”
+
+Untuk minggu profesional:
+
+> “Temukan satu situasi ketika Anda harus meminta orang lain melakukan sesuatu dalam tugas kelompok.”
+
+Jadi bahan kuliah selalu terhubung dengan **kehidupan mahasiswa sendiri**.
+
+AI dapat dipakai sebelum kelas sebagai *reflection partner*:
+
+> “Bantu saya memahami siapa person-nya, character saya, objective saya, dan mengapa percakapan ini tidak berhasil.”
+
+Tetapi mahasiswa tetap membawa **pemikirannya sendiri**, bukan menyerahkan pekerjaan kepada AI.
+
+---
+
+## 2. Presentation — teori pendek, contoh konkret
+
+Pada awal kelas, dosen menyampaikan satu konsep utama saja.
+
+Misalnya:
+
+> **Person → Personality → Character → Objective → Repertoire → Language → Action**
+
+atau:
+
+> **Target → Attention → Interest → Desire → Action**
+
+Penjelasan tidak perlu terlalu panjang. Sekitar **20–30 menit** sudah cukup.
+
+Yang penting adalah dosen memperlihatkan bagaimana konsep tersebut bekerja melalui satu kasus.
+
+Misalnya dosen mengatakan:
+
+> “Kita punya tugas kelompok yang terlambat.”
+
+Lalu memperlihatkan tiga cara berbicara:
+
+**Character sebagai teman**
+
+> “Ada yang membuat kamu kesulitan menyelesaikannya?”
+
+**Character sebagai project leader**
+
+> “Bagian ini harus selesai Jumat. Apa hambatannya dan apa bantuan yang dibutuhkan?”
+
+**Character sebagai customer**
+
+> “Keterlambatan ini berdampak pada jadwal kami. Kapan deliverable dapat kami terima?”
+
+Mahasiswa melihat bahwa **person mungkin sama, tetapi character, objective, dan language berbeda**.
+
+---
+
+## 3. Practice — tempat untuk salah
+
+Porsi terbesar kelas sebaiknya berupa latihan.
+
+Ini penting karena komunikasi adalah **performance competence**, bukan sekadar pengetahuan.
+
+Mahasiswa dapat berlatih dalam pasangan atau kelompok tiga orang:
+
+> **Person A – Person B – Observer**
+
+Person A mencoba berkomunikasi.
+Person B memainkan character tertentu.
+Observer mencatat apa yang terjadi.
+
+Setelah itu mereka bertukar peran.
+
+Latihan bisa mencakup:
+
+**listening, questioning, explaining, pitching, disagreement, apology, negotiation, feedback, storytelling, dan agreement-making.**
+
+AI sangat berguna pada tahap ini sebagai **role-playing partner**.
+
+Misalnya:
+
+> “Anda adalah customer yang tertarik tetapi menganggap produk saya terlalu mahal. Jangan langsung setuju.”
+
+Mahasiswa kemudian mencoba membawa AI/customer dari:
+
+**Interest → Desire → Action.**
+
+---
+
+## 4. Performance — mahasiswa harus memperlihatkan bahwa ia bisa
+
+Setelah latihan, mahasiswa melakukan **performance**.
+
+Performance berbeda dari latihan.
+
+Pada latihan mahasiswa boleh berhenti, mengulang, meminta bantuan, dan mencoba lagi.
+
+Pada performance mahasiswa diberi:
+
+**person + character + situation + objective**
+
+dan harus menjalankan komunikasinya.
+
+Contohnya:
+
+> Anda adalah ketua tim. Salah satu anggota tim tidak mengerjakan bagiannya selama dua minggu. Tujuan Anda bukan memarahinya, tetapi memahami masalah, memperoleh commitment, dan menjaga hubungan kerja.
+
+Mahasiswa harus menentukan sendiri:
+
+**Siapa person yang saya hadapi?**
+**Character apa yang harus saya mainkan?**
+**Apa objective saya?**
+**Di state TAIDA mana dia?**
+**Repertoire apa yang saya gunakan?**
+**Bahasa apa yang sesuai?**
+**Apa agreement akhirnya?**
+
+Inilah bukti bahwa mahasiswa **dapat melakukan**, bukan hanya menjelaskan teori.
+
+---
+
+# Performance tidak harus berupa public speaking
+
+Ini penting.
+
+Karena kuliah ini adalah tentang **relationship**, performance tidak identik dengan berdiri di depan kelas membuat presentasi.
+
+Performance bisa berupa percakapan dua orang, customer interview, negosiasi, memberikan feedback, menyelesaikan konflik, meminta pertolongan, menjelaskan teknologi, memimpin diskusi, public pitch, atau membuat kesepakatan.
+
+Jadi mahasiswa yang tidak memiliki personality ekstrovert tetap dapat memiliki **communication competence yang sangat tinggi**.
+
+Yang dinilai bukan:
+
+> “Apakah dia pandai bicara?”
+
+tetapi:
+
+> **“Apakah komunikasinya bekerja?”**
+
+---
+
+# 5. Reflection — melihat apakah komunikasi benar-benar bekerja
+
+Setelah performance, mahasiswa melakukan refleksi singkat.
+
+Bukan sekadar:
+
+> “Saya merasa tadi cukup bagus.”
+
+Tetapi menggunakan bukti:
+
+**Objective saya apa?**
+**Apa yang sebenarnya saya katakan?**
+**Bagaimana respons orang lain?**
+**Apakah state berubah?**
+**Apakah tercapai agreement?**
+**Apakah action jelas?**
+**Bagaimana keadaan relationship setelah komunikasi?**
+
+AI dapat membantu menganalisis transcript, misalnya:
+
+> “Di bagian mana saya terlalu banyak menjelaskan?”
+
+atau:
+
+> “Kapan customer mulai menunjukkan interest?”
+
+atau:
+
+> “Apakah agreement akhir sudah cukup eksplisit?”
+
+Dengan demikian AI menjadi **mirror**, bukan pengganti mahasiswa.
+
+---
+
+# Format dua jam
+
+Satu pertemuan dua jam dapat dibuat sangat konsisten:
+
+**15 menit — Review & Preparation Check**
+menghubungkan pengalaman mahasiswa dengan topik.
+
+**25 menit — Presentation**
+satu konsep utama dan satu demonstrasi.
+
+**45 menit — Practice**
+roleplay dan latihan berulang.
+
+**25 menit — Performance**
+beberapa mahasiswa/kelompok melakukan simulasi.
+
+**10 menit — Reflection & AI Feedback**
+
+Dengan demikian kira-kira:
+
+> **⅓ memahami + ⅔ melakukan.**
+
+Ini cocok untuk mahasiswa tingkat 2 karena teori diberikan dalam jumlah yang cukup untuk **memungkinkan tindakan**, bukan untuk dihafalkan sebagai tujuan tersendiri.
+
+---
+
+# Siklus belajar sepanjang semester
+
+Setiap minggu mahasiswa pada dasarnya mengulangi siklus yang sama:
+
+> **Prepare → Understand → Try → Perform → Reflect → Improve**
+
+Tetapi domainnya semakin luas:
+
+**Saya sendiri**
+→ **keluarga dan teman**
+→ **working colleagues/customer**
+→ **community**
+→ **the world**.
+
+Tingkat kesulitannya juga meningkat:
+
+> **express myself → understand another person → coordinate → negotiate → influence multiple stakeholders.**
+
+Pada akhir semester, mahasiswa bukan hanya memiliki kumpulan teori komunikasi, melainkan sebuah **repertoire yang sudah berkali-kali dipraktikkan**.
+
+### Prinsip kuliahnya dapat diringkas menjadi:
+
+> **Sedikit teori. Banyak contoh. Banyak latihan. Harus perform. Selalu refleksi.**
+
+Dan setiap kali berkomunikasi mahasiswa menggunakan pertanyaan sederhana:
+
+> **Siapa orangnya? Saya menjadi siapa? Apa tujuan kami? Di mana state-nya? Cara dan bahasa apa yang tepat? Apa agreement-nya? Apa action berikutnya? Apakah relationship menjadi lebih baik?**
+
+Itulah pola belajar yang membuat mata kuliah ini **mudah diikuti mahasiswa tingkat 2, tetapi secara bertahap membangun kompetensi komunikasi yang dapat dipakai sepanjang hidup.**
+
+## Portfolio Mahasiswa
+
+Untuk mata kuliah ini, dasar penilaian sebaiknya **bukan ujian teori**, tetapi bukti bahwa mahasiswa semakin mampu berkomunikasi secara efektif dalam lima domain. Karena komunikasi adalah kompetensi performatif, mahasiswa harus **mengerjakan, merekam, merefleksikan, dan memperbaiki komunikasi nyata atau simulasi**.
+
+Saya menyarankan **6 jenis tugas utama** berikut.
+
+| Tugas                               | Bentuk                  |    Bobot |
+| ----------------------------------- | ----------------------- | -------: |
+| 1. Personal Communication Profile   | Individu                |      10% |
+| 2. Communication Practice Portfolio | Individu                |      15% |
+| 3. Relationship Conversation        | Berpasangan             |      15% |
+| 4. TAIDA Professional Pitch         | Individu                |      20% |
+| 5. Multi-Person Negotiation         | Kelompok                |      20% |
+| 6. Final Communication Performance  | Individu/kelompok kecil |      20% |
+| **Total**                           |                         | **100%** |
+
+## 1. Personal Communication Profile — 10%
+
+Dilakukan pada awal semester.
+
+Mahasiswa membuat **peta dirinya sebagai communicator**:
+
+* siapa saya sebagai **person**;
+* kecenderungan **personality** saya;
+* character yang sering saya mainkan;
+* kekuatan dan kelemahan komunikasi;
+* lima domain relasi yang saya miliki;
+* satu relasi yang ingin saya kembangkan selama semester.
+
+Mahasiswa tidak perlu menggunakan tes personality yang kompleks. Yang penting adalah kemampuan melakukan refleksi.
+
+Output sederhana, misalnya **2–3 halaman atau video 3 menit**.
+
+Pertanyaan utamanya:
+
+> **Who am I, how do I communicate, and what relationship do I want to grow?**
+
+Tugas ini menjadi **baseline** yang dibandingkan dengan perkembangan pada akhir semester.
+
+---
+
+## 2. Communication Practice Portfolio — 15%
+
+Sepanjang semester mahasiswa mengumpulkan sekitar **5 communication episodes**, masing-masing mewakili lima domain:
+
+1. Intra-Self
+2. Family & Friends
+3. Working Colleagues
+4. Neighbors & Community
+5. The World
+
+Setiap episode cukup satu halaman dengan format yang sama:
+
+> **Person → Personality → Character → Objective → Repertoire → Language → Action**
+
+Kemudian mahasiswa menjawab:
+
+* siapa yang terlibat?
+* saya sedang memainkan character apa?
+* apa objective komunikasi?
+* repertoire apa yang digunakan?
+* bahasa apa yang digunakan?
+* apa responsnya?
+* apa hasilnya?
+* apa yang akan saya lakukan berbeda lain kali?
+
+Ini membuat mahasiswa **berlatih sedikit tetapi terus-menerus**, bukan mengerjakan satu tugas besar di akhir semester.
+
+AI boleh digunakan sebagai **reflection coach**, tetapi mahasiswa harus menuliskan mana analisis dirinya dan mana masukan AI.
+
+---
+
+## 3. Relationship Conversation — 15%
+
+Ini adalah performance pertama dan dibuat relatif mudah.
+
+Mahasiswa berpasangan melakukan percakapan sekitar **5–7 menit**.
+
+Kasus dapat berupa:
+
+* meminta bantuan teman;
+* menyelesaikan salah pengertian;
+* memberi feedback;
+* menolak permintaan dengan baik;
+* meminta maaf;
+* membicarakan pembagian kerja kelompok.
+
+Salah satu mahasiswa menjadi **Person A**, lainnya **Person B**.
+
+Yang dinilai bukan keindahan bicara, tetapi:
+
+> Apakah ia mengenali person?
+> Apakah character-nya tepat?
+> Apakah ia mendengarkan?
+> Apakah bahasanya sesuai?
+> Apakah relationship dipelihara?
+
+Mahasiswa kemudian melakukan **reflection singkat** setelah melihat rekaman performanya.
+
+---
+
+# 4. TAIDA Professional Pitch — 20%
+
+Ini dapat menjadi **UTS**.
+
+Mahasiswa mendapat atau memilih kasus profesional sederhana, misalnya:
+
+> menawarkan aplikasi kepada kantin kampus;
+> mengusulkan penggunaan AI kepada organisasi mahasiswa;
+> menawarkan perbaikan proses kepada ketua tim;
+> mengajak calon anggota bergabung dalam project.
+
+Mahasiswa harus memperlihatkan perjalanan:
+
+> **Target → Attention → Interest → Desire → Action**
+
+Pitch tidak harus berupa presentasi satu arah. Justru sebaiknya berbentuk **interactive pitch**.
+
+Empat pitch dasar yang telah kita rumuskan harus terlihat:
+
+**1. Attention**
+
+> “Saya melihat ada masalah/peluang…”
+
+**2. Interest**
+
+> “Saya mempunyai sesuatu yang mungkin membantu…”
+
+**3. Desire**
+
+> “Begini cara kerjanya dan manfaatnya…”
+
+**4. Action**
+
+> “Ini feasible untuk Anda. Apakah kita bisa melanjutkan?”
+
+Yang dinilai adalah **kemampuan mengubah state lawan bicara**, bukan sekadar menyelesaikan slide.
+
+---
+
+# 5. Multi-Person Negotiation — 20%
+
+Ini adalah tugas kelompok untuk domain **professional dan community**.
+
+Kelompok 4–5 mahasiswa memainkan character berbeda, misalnya:
+
+* customer;
+* engineer;
+* project manager;
+* finance;
+* community representative.
+
+Masing-masing mendapat:
+
+> objective, interest, constraint, dan acceptable outcome.
+
+Sebagai contoh:
+
+**Customer**
+ingin murah dan cepat.
+
+**Engineer**
+menginginkan kualitas dan waktu pengerjaan memadai.
+
+**Finance**
+mempunyai batas anggaran.
+
+**Community**
+mengkhawatirkan dampak sosial.
+
+Mereka harus berkomunikasi sampai menemukan:
+
+> **acceptable agreement**
+
+bukan sekadar memenangkan argumentasi.
+
+Output tugas:
+
+1. video/simulasi negosiasi;
+2. agreement akhir satu halaman;
+3. refleksi mengapa agreement tersebut dapat diterima semua pihak.
+
+AI dapat digunakan untuk membantu persiapan atau bahkan menjadi salah satu **simulated character**, tetapi keputusan akhir tetap dibuat mahasiswa.
+
+---
+
+# 6. Final Communication Performance — 20%
+
+Ini merupakan **UAS/capstone**.
+
+Mahasiswa memilih satu permasalahan sederhana yang relevan dengan kehidupan mahasiswa.
+
+Misalnya:
+
+> meningkatkan kerja sama kelompok;
+> mempromosikan kegiatan kampus;
+> mengurangi sampah kampus;
+> membantu UMKM sekitar kampus;
+> memperkenalkan aplikasi;
+> membuat program komunitas.
+
+Kemudian mereka menunjukkan keseluruhan framework.
+
+### A. PERSON
+
+Siapa saja person yang terlibat?
+
+### B. PERSONALITY
+
+Apa kecenderungan penting yang perlu dipahami?
+
+### C. CHARACTER
+
+Character apa yang dimainkan masing-masing?
+
+### D. OBJECTIVE
+
+Apa yang ingin dicapai?
+
+### E. REPERTOIRE
+
+Listening? Questioning? Storytelling? Demonstration? Negotiation?
+
+### F. LANGUAGE
+
+Bagaimana bahasa disesuaikan dengan lawan bicara?
+
+### G. TAIDA
+
+Di base mana target berada dan bagaimana dipindahkan?
+
+### H. AGREEMENT
+
+Apa yang berhasil disepakati?
+
+### I. ACTION
+
+Apa tindakan konkret berikutnya?
+
+### J. RELATIONSHIP
+
+Apakah relasi menjadi lebih baik?
+
+### K. AI-MEDIATED COMMUNICATION
+
+Bagaimana AI membantu komunikasi?
+
+Dengan demikian capstone bukan sekadar:
+
+> **“Buat presentasi 10 menit.”**
+
+Tetapi:
+
+> **“Tunjukkan bahwa Anda dapat menggunakan komunikasi untuk menggerakkan relationship menuju agreement dan action.”**
+
+---
+
+## Rubrik yang sama untuk seluruh semester
+
+Agar mudah diikuti mahasiswa tingkat 2, saya sarankan **semua performance memakai rubrik yang sama**. Hanya tingkat kesulitannya yang meningkat.
+
+| Dimensi                              | Bobot |
+| ------------------------------------ | ----: |
+| **Person & Character Recognition**   |   20% |
+| **Objective & State Recognition**    |   20% |
+| **Repertoire & Language**            |   20% |
+| **Response & Adaptation**            |   20% |
+| **Agreement, Action & Relationship** |   20% |
+
+Ini penting karena mahasiswa tahu sejak minggu pertama:
+
+> **“Lima hal inilah yang harus saya kuasai.”**
+
+Bukan menghadapi rubrik baru setiap tugas.
+
+## Bukti penilaian sebaiknya sangat sederhana
+
+Untuk sebagian besar tugas cukup ada **empat bukti**:
+
+> **1. PLAN** — apa yang akan dilakukan
+> **2. PERFORM** — lakukan komunikasinya
+> **3. EVIDENCE** — video/audio/transcript/agreement
+> **4. REFLECT** — apa yang berhasil dan harus diperbaiki
+
+Sehingga siklus assessment-nya menjadi:
+
+> **PLAN → COMMUNICATE → OBSERVE → REFLECT → IMPROVE**
+
+Dan menurut saya ini merupakan prinsip penting mata kuliah:
+
+> **Mahasiswa tidak dinilai terutama dari seberapa banyak teori komunikasi yang dapat diingat, tetapi dari seberapa baik mereka dapat membangun dan mengembangkan relationship melalui komunikasi yang efektif.**
+
+Karena itu bahkan AI sebaiknya tidak dilarang. Yang dinilai justru **apakah mahasiswa dapat menggunakan AI dengan baik untuk mempersiapkan, memperbaiki, dan merefleksikan komunikasinya, sambil tetap mempertahankan dirinya sebagai person yang bertanggung jawab atas komunikasi tersebut**.
+
+## Cara Penilaian
+
+Nilai akhir sebaiknya diperoleh dari **akumulasi bukti performa komunikasi selama satu semester**, bukan terutama dari ujian hafalan. Karena tujuan kuliah adalah kemampuan nyata membangun dan mengembangkan relasi melalui komunikasi efektif, maka nilai akhir merepresentasikan perkembangan mahasiswa dari **self-awareness → interpersonal communication → professional communication → negotiation → public/AI-mediated communication**.
+
+Saya sarankan formula berikut, konsisten dengan tugas yang sudah dirancang:
+
+| Komponen                              |    Bobot |
+| ------------------------------------- | -------: |
+| Personal Communication Profile        |      10% |
+| Communication Practice Portfolio      |      15% |
+| Relationship Conversation             |      15% |
+| UTS – TAIDA Professional Pitch        |      20% |
+| Multi-Person Negotiation              |      20% |
+| UAS – Final Communication Performance |      20% |
+| **Total**                             | **100%** |
+
+Jadi secara sederhana:
+
+[
+NA =
+0.10P_1+
+0.15P_2+
+0.15P_3+
+0.20UTS+
+0.20NEG+
+0.20UAS
+]
+
+Namun saya menyarankan agar **semua tugas performa menggunakan rubrik yang sama**, supaya mahasiswa tingkat 2 mudah memahami bagaimana mereka dinilai. Lima dimensinya:
+
+1. **Person & Character Recognition – 20%**
+   Apakah mahasiswa memahami siapa yang dihadapi dan character apa yang tepat?
+
+2. **Objective & State Recognition – 20%**
+   Apakah mahasiswa tahu tujuan komunikasi dan posisi target dalam TAIDA?
+
+3. **Repertoire & Language – 20%**
+   Apakah ia memilih cara dan bahasa yang sesuai?
+
+4. **Response & Adaptation – 20%**
+   Apakah ia mendengarkan respons dan menyesuaikan komunikasi?
+
+5. **Agreement, Action & Relationship – 20%**
+   Apakah komunikasi menghasilkan kesepakatan/tindakan tanpa merusak relasi?
+
+Dengan cara ini, mahasiswa tahu sejak awal bahwa nilai tinggi bukan berarti “pandai bicara”, melainkan **komunikasinya benar-benar bekerja**.
+
+Saya juga menyarankan nilai huruf dibuat sederhana, misalnya:
+
+| Nilai Akhir | Huruf | Makna kompetensi                     |
+| ----------- | ----- | ------------------------------------ |
+| 85–100      | A     | Sangat efektif dan adaptif           |
+| 75–84       | AB/B+ | Efektif dengan sedikit kelemahan     |
+| 65–74       | B     | Cukup efektif                        |
+| 55–64       | BC/C+ | Masih belum konsisten                |
+| 45–54       | C     | Kompetensi dasar terbatas            |
+| <45         | D/E   | Belum menunjukkan kompetensi memadai |
+
+Yang lebih penting, nilai akhir sebaiknya dibaca sebagai **profil kemampuan**, bukan hanya satu angka. Misalnya seorang mahasiswa bisa memperoleh 82, tetapi dari rubrik terlihat bahwa ia sangat baik pada *Person & Character Recognition* dan *Language*, namun masih lemah pada *Agreement & Action*. Itu memberi arah pengembangan yang lebih bermakna.
+
+Jadi prinsip akhirnya adalah:
+
+> **Nilai akhir = kualitas performa komunikasi + konsistensi latihan + kemampuan refleksi + kemampuan menghasilkan agreement, action, dan relationship growth.**
+
+Bukan:
+
+> **Nilai akhir = seberapa banyak teori komunikasi yang dihafal.**

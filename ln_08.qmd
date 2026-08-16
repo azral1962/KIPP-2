@@ -1,0 +1,2263 @@
+# MINGGU 8 — UTS PERFORMANCE LAB
+
+:::{.callout-tip}
+## Dari Mengenali Person hingga Membuatnya Tertarik pada Solusi yang Relevan
+
+**Mata Kuliah:** Person-Centered Communication in the AI Era  
+**Tingkat:** Mahasiswa Tahun 2  
+**Durasi:** 2 jam  
+**Jenis Pertemuan:** Integration & Midterm Performance  
+**Fokus:** **Target → Attention → Interest**  
+**Tema Besar:** *Can I make communication actually work?*
+:::
+
+---
+
+## 1. Minggu 8 Bukan Minggu Teori Baru
+
+Pada tujuh minggu pertama mahasiswa telah mempelajari beberapa konsep.
+
+Sekarang saatnya menjawab:
+
+> **Apakah saya benar-benar dapat melakukannya?**
+
+Minggu 8 bukan terutama untuk menambah teori baru.
+
+Minggu 8 adalah:
+
+> **PERFORMANCE LAB**
+
+Mahasiswa harus menunjukkan kemampuan menggunakan konsep-konsep yang telah dipelajari dalam sebuah komunikasi yang hidup.
+
+---
+
+## 2. Apa yang Sudah Kita Pelajari?
+
+Perjalanan sampai minggu ini adalah:
+
+### Minggu 1 — PERSON
+
+> **Siapa yang berkomunikasi?**
+
+Kita belajar membedakan:
+
+> Person → Personality → Narrative Character.
+
+---
+
+### Minggu 2 — INTRA-SELF
+
+> **Apa yang saya katakan kepada diri sendiri sebelum berbicara kepada orang lain?**
+
+Kita belajar:
+
+> Fact → Story → Objective → Action.
+
+---
+
+### Minggu 3 — RELATIONSHIP
+
+> **Bagaimana memperoleh, memelihara, memperbaiki, dan menumbuhkan relationship?**
+
+Kita belajar:
+
+> Acquire → Maintain → Repair → Grow.
+
+---
+
+### Minggu 4 — LANGUAGE
+
+> **Bagaimana meaning yang sama disampaikan kepada person yang berbeda?**
+
+Kita belajar:
+
+> Person → Character → Objective → Meaning → Language.
+
+---
+
+### Minggu 5 — PROFESSIONAL VALUE
+
+> **Bagaimana memahami problem orang lain sebelum menawarkan solution?**
+
+Kita belajar:
+
+> Listen → Question → Understand → Confirm.
+
+---
+
+### Minggu 6 — TARGET & ATTENTION
+
+> **Siapa person yang tepat dan problem apa yang perlu memperoleh perhatian?**
+
+Kita belajar:
+
+> Target → Attention.
+
+---
+
+### Minggu 7 — INTEREST
+
+> **Bagaimana menghubungkan problem dengan solution yang relevant?**
+
+Kita belajar:
+
+> Attention → Interest.
+
+---
+
+## 3. UTS Mengintegrasikan Semuanya
+
+UTS bukan:
+
+> menghafalkan tujuh minggu materi.
+
+UTS meminta mahasiswa memperlihatkan satu integrated communication performance:
+
+> **PERSON**  
+> ↓  
+> **CHARACTER**  
+> ↓  
+> **RELATIONSHIP**  
+> ↓  
+> **OBJECTIVE**  
+> ↓  
+> **TARGET**  
+> ↓  
+> **ATTENTION**  
+> ↓  
+> **INTEREST**
+
+Dengan kata lain:
+
+> **Can you recognize a person, understand their problem, speak their language, gain meaningful attention, and create genuine interest in a relevant solution?**
+
+---
+
+## 4. Tujuan Pembelajaran Minggu 8
+
+Setelah menyelesaikan Performance Lab ini mahasiswa mampu:
+
+1. mengenali person dan character yang sedang dihadapi;
+2. membaca context dan relationship;
+3. menetapkan communication objective;
+4. melakukan listening dan questioning sebelum pitching;
+5. membedakan problem dari proposed solution;
+6. mengenali state komunikasi dalam TAIDA;
+7. membawa target dari **Target menuju Attention**;
+8. membawa target dari **Attention menuju Interest**;
+9. menyesuaikan language berdasarkan response;
+10. menggunakan AI untuk preparation dan reflection tanpa menyerahkan performance kepada AI;
+11. menilai keberhasilan komunikasi melalui **state change dan relationship quality**.
+
+---
+
+## 5. Communication Performance
+
+Performance berarti mahasiswa:
+
+> **benar-benar melakukan communication.**
+
+Bukan hanya menjelaskan:
+
+> “Kalau saya menjadi consultant, saya akan bertanya…”
+
+Tetapi mahasiswa harus benar-benar bertanya.
+
+Bukan:
+
+> “Saya akan menggunakan language yang sederhana.”
+
+Tetapi benar-benar menunjukkan language tersebut.
+
+Bukan:
+
+> “Customer kemudian tertarik.”
+
+Tetapi partner yang memainkan customer harus benar-benar menunjukkan:
+
+> apakah ia tertarik atau tidak.
+
+---
+
+## 6. Performance Berbeda dari Presentation
+
+Ini penting.
+
+UTS ini bukan terutama:
+
+> **public speaking examination.**
+
+Mahasiswa tidak memperoleh nilai tinggi hanya karena:
+
+- percaya diri,
+- suara keras,
+- slide cantik,
+- vocabulary bagus.
+
+Communication performance lebih menyerupai:
+
+> **conversation.**
+
+Mahasiswa harus:
+
+> berbicara,
+
+tetapi juga:
+
+> mendengarkan.
+
+Mahasiswa harus:
+
+> mempunyai rencana,
+
+tetapi juga:
+
+> mampu berubah ketika response tidak sesuai rencana.
+
+---
+
+## 7. Communication Is Interactive
+
+Performance yang buruk:
+
+> Student A menyampaikan script tiga menit.
+
+Person B hanya mendengarkan.
+
+Performance yang baik:
+
+> Student A berbicara.
+
+Person B merespons.
+
+Student A mendengarkan.
+
+Student A mengadaptasi.
+
+Person B bertanya.
+
+Student A menjawab.
+
+Communication state berubah.
+
+Itulah:
+
+> **closed-loop communication.**
+
+---
+
+## 8. Model Performance
+
+Gunakan model:
+
+> **OBSERVE**  
+> ↓  
+> **ESTIMATE STATE**  
+> ↓  
+> **COMMUNICATE**  
+> ↓  
+> **LISTEN**  
+> ↓  
+> **READ RESPONSE**  
+> ↓  
+> **ADAPT**  
+> ↓  
+> **MOVE STATE**
+
+Mahasiswa tidak dinilai berdasarkan:
+
+> “Apakah script persis sesuai rencana?”
+
+Tetapi:
+
+> **“Apakah komunikasi beradaptasi terhadap person nyata di depan mereka?”**
+
+---
+
+## 9. Objective UTS
+
+Tujuan performance hanya sampai:
+
+> **INTEREST**
+
+Bukan:
+
+> Desire.
+
+Bukan:
+
+> Action.
+
+Mahasiswa tidak harus membuat customer membeli.
+
+Success adalah:
+
+> **Person mengakui problem/opportunity dan menunjukkan genuine interest untuk mempelajari possible solution lebih lanjut.**
+
+Misalnya:
+
+> “Ya, itu memang masalah kami.”
+
+Kemudian:
+
+> “Menarik. Bisa tunjukkan bagaimana pendekatan itu bekerja?”
+
+Itu sudah berhasil.
+
+---
+
+## 10. Baseball Model yang Dinilai
+
+\[
+\boxed{
+TARGET
+\rightarrow
+ATTENTION
+\rightarrow
+INTEREST
+}
+\]
+
+---
+
+## 11. State 0 — TARGET
+
+Sebelum komunikasi, mahasiswa harus mengetahui:
+
+> **Siapa person yang saya hadapi?**
+
+Bukan sekadar:
+
+> “Customer.”
+
+Tetapi:
+
+> siapa person ini dalam case tersebut?
+
+Contoh:
+
+> seorang ketua organisasi mahasiswa yang kesulitan membuat anggota hadir dalam rapat.
+
+atau:
+
+> pemilik kantin yang menghadapi antrean panjang tetapi khawatir perubahan sistem akan menyulitkan staff.
+
+---
+
+## 12. Person Recognition
+
+Sebelum mulai mahasiswa perlu memahami minimal:
+
+### PERSON
+
+Siapa?
+
+### CHARACTER
+
+Sebagai siapa ia hadir?
+
+### OBJECTIVE
+
+Apa yang mungkin penting baginya?
+
+### RELATIONSHIP
+
+Apa hubungan saya dengannya?
+
+### SITUATION
+
+Apa yang sedang terjadi?
+
+---
+
+## 13. Jangan Membuat Personality Stereotype
+
+Case dapat memberikan clue sederhana seperti:
+
+> “Target cenderung meminta evidence.”
+
+atau:
+
+> “Target sangat sibuk.”
+
+Tetapi mahasiswa tidak boleh langsung menyimpulkan:
+
+> “Orang analytical pasti begini.”
+
+Yang utama adalah:
+
+> **response aktual selama conversation.**
+
+Personality adalah clue.
+
+Response adalah evidence.
+
+---
+
+## 14. State 1 — ATTENTION
+
+Target belum tentu melihat problem dengan cara yang sama.
+
+Tujuan mahasiswa adalah membantu membuat problem/opportunity:
+
+> visible,
+
+> relevant,
+
+> credible.
+
+Pitch dasar:
+
+> **Observation → Impact → Check**
+
+Contoh:
+
+> “Dalam tiga meeting terakhir, sekitar separuh waktu digunakan mencari status task karena update tersebar di beberapa chat. Akibatnya keputusan sering tertunda. Apakah masalah koordinasi seperti ini juga yang Anda lihat?”
+
+---
+
+## 15. Attention Success
+
+Attention tercapai jika target mengatakan sesuatu seperti:
+
+> “Ya, itu memang masalah.”
+
+atau:
+
+> “Benar, itu cukup mengganggu kami.”
+
+atau:
+
+> “Saya belum memikirkan dari sisi itu, tetapi memang benar.”
+
+Student tidak perlu terus menjelaskan problem.
+
+Segera mulai membaca:
+
+> apakah waktunya bergerak menuju Interest.
+
+---
+
+## 16. State 2 — INTEREST
+
+Setelah problem disepakati, mahasiswa menawarkan:
+
+> **relevant possibility.**
+
+Bukan seluruh solution.
+
+Bukan seluruh technology.
+
+Pitch dasar:
+
+> **Reconnect → Possibility → Mechanism → Benefit → Check**
+
+Contoh:
+
+> “Kalau problem-nya adalah status task tersebar di banyak chat, salah satu pendekatan adalah menggunakan satu shared board untuk task, dependency, dan blocker. Dengan begitu meeting tidak perlu dimulai dengan mencari status. Apakah pendekatan seperti ini layak dilihat lebih jauh?”
+
+---
+
+## 17. Interest Success
+
+Interest tercapai apabila target menunjukkan curiosity.
+
+Contoh:
+
+> “Bagaimana cara kerjanya?”
+
+> “Ada contohnya?”
+
+> “Apakah bisa dipakai dengan sistem kami?”
+
+> “Siapa yang harus mengupdate?”
+
+> “Berapa lama implementasinya?”
+
+Pertanyaan seperti itu menunjukkan:
+
+> **person mulai mentally engaging dengan solution.**
+
+---
+
+## 18. Jangan Memaksakan Interest
+
+Target boleh mengatakan:
+
+> “Menurut saya solusi itu tidak cocok.”
+
+Mahasiswa tidak boleh:
+
+> memaksa.
+
+Response yang baik:
+
+> “Bagian mana yang menurut Anda tidak sesuai?”
+
+Mungkin mahasiswa menemukan:
+
+> assumption yang salah.
+
+Kemampuan mengadaptasi juga dinilai.
+
+---
+
+## 19. UTS Bukan Sales Contest
+
+Mahasiswa tidak dinilai berdasarkan:
+
+> siapa paling pandai membuat orang berkata “yes”.
+
+Justru komunikasi yang memaksa dapat memperoleh nilai rendah.
+
+Tujuan:
+
+> **mutually meaningful communication.**
+
+Target tetap mempunyai:
+
+> autonomy.
+
+---
+
+## 20. Struktur Performance
+
+Setiap mahasiswa melakukan performance sekitar:
+
+> **6–8 menit.**
+
+Struktur ideal:
+
+### 0–2 menit
+
+**Recognition & Discovery**
+
+Mengenali person, situation, dan problem.
+
+### 2–4 menit
+
+**Attention**
+
+Menggunakan observation/evidence dan memperoleh shared recognition.
+
+### 4–7 menit
+
+**Interest**
+
+Menghubungkan problem dengan possible solution.
+
+### Akhir
+
+**State Check**
+
+Memastikan apa yang person ingin ketahui berikutnya.
+
+---
+
+## 21. Jangan Menghafal Waktu Secara Kaku
+
+Tidak masalah jika:
+
+> Attention tercapai dalam 40 detik.
+
+Jangan tetap berbicara sampai menit ke-4.
+
+Begitu base tercapai:
+
+> **move.**
+
+Communication state lebih penting daripada timetable.
+
+---
+
+## 22. Tiga Peran dalam Performance Lab
+
+Idealnya mahasiswa bekerja dalam kelompok tiga orang.
+
+### PERSON A — COMMUNICATOR
+
+Melakukan performance.
+
+### PERSON B — TARGET PERSON
+
+Memainkan case character.
+
+### PERSON C — OBSERVER
+
+Mencatat communication process.
+
+Setelah satu round:
+
+> rotate.
+
+Semua mahasiswa mengalami ketiga perspective.
+
+---
+
+## 23. Mengapa Menjadi Target Person Juga Penting?
+
+Ketika mahasiswa memainkan target, ia belajar:
+
+> bagaimana rasanya ketika communicator terlalu banyak bicara,
+
+> bagaimana rasanya ketika benar-benar didengarkan,
+
+> bagaimana sebuah pitch terasa relevant,
+
+> bagaimana jargon membuat conversation sulit,
+
+> bagaimana pressure terasa manipulatif.
+
+Ini juga bagian penting dari pembelajaran.
+
+---
+
+## 24. Mengapa Menjadi Observer Penting?
+
+Observer belajar melihat:
+
+> communication sebagai system.
+
+Ia tidak hanya mendengar content.
+
+Ia mengamati:
+
+- kapan Attention tercapai,
+- kapan Interest muncul,
+- kapan communicator tidak mendengar,
+- kapan language mismatch terjadi,
+- kapan trust meningkat atau turun.
+
+---
+
+## 25. Case Design
+
+Case harus sederhana dan dekat dengan mahasiswa tingkat 2.
+
+Tidak perlu:
+
+> merger perusahaan bernilai triliunan rupiah.
+
+Kita ingin menilai communication competence.
+
+Bukan pengalaman corporate.
+
+Contoh:
+
+- project kelompok,
+- kantin kampus,
+- organisasi mahasiswa,
+- sistem absensi,
+- library,
+- small business,
+- event kampus,
+- student service.
+
+---
+
+## 26. CASE 1 — PROJECT GROUP
+
+### Target Person
+
+Ketua kelompok project.
+
+### Situation
+
+Beberapa anggota terlambat karena dependency task tidak terlihat.
+
+### Target Initial Position
+
+> “Menurut saya masalahnya hanya karena anggota kurang disiplin.”
+
+### Possible Evidence
+
+Tiga dari empat keterlambatan terjadi karena task menunggu output anggota lain.
+
+### Student Objective
+
+Membawa target ke:
+
+> “Mungkin visibility dependency memang menjadi problem.”
+
+Kemudian:
+
+> “Saya tertarik melihat cara membuat dependency lebih visible.”
+
+---
+
+## 27. CASE 2 — CAMPUS CANTEEN
+
+### Target Person
+
+Pemilik tenant kantin.
+
+### Situation
+
+Antrean makan siang panjang.
+
+### Initial Position
+
+> “Antrean panjang wajar karena memang ramai.”
+
+### Evidence
+
+Beberapa potential customer meninggalkan antrean.
+
+### Possible Solution
+
+Memindahkan sebagian ordering sebelum customer mencapai kasir.
+
+### Interest Signal
+
+> “Bagaimana caranya tanpa membuat staff tambah repot?”
+
+---
+
+## 28. CASE 3 — STUDENT ORGANIZATION
+
+### Target Person
+
+Ketua organisasi.
+
+### Situation
+
+Attendance rapat menurun.
+
+### Initial Belief
+
+> “Mahasiswa sekarang kurang commitment.”
+
+### Evidence
+
+Feedback anggota menunjukkan meeting panjang dan sering tidak menghasilkan keputusan.
+
+### Possible Solution
+
+Agenda pendek + decision tracking + asynchronous update.
+
+### Interest Signal
+
+> “Kalau update rutin pindah ke asynchronous, meeting-nya seperti apa?”
+
+---
+
+## 29. CASE 4 — SMALL BUSINESS
+
+### Target Person
+
+Pemilik toko kecil.
+
+### Situation
+
+Pemilik menjawab pertanyaan customer yang sama berulang kali melalui chat.
+
+### Initial Position
+
+> “Ya memang bagian dari pelayanan.”
+
+### Evidence
+
+Sekitar dua jam per hari digunakan untuk pertanyaan jam buka, stok, lokasi, dan delivery.
+
+### Possible Solution
+
+Automated FAQ assistant dengan escalation ke manusia.
+
+### Interest Signal
+
+> “Kalau pertanyaannya tidak ada di FAQ bagaimana?”
+
+---
+
+## 30. CASE 5 — STUDENT LEARNING
+
+### Target Person
+
+Mahasiswa.
+
+### Situation
+
+Sering kehilangan overview terhadap beberapa deadline.
+
+### Initial Position
+
+> “Saya sebenarnya punya calendar.”
+
+### Evidence
+
+Calendar hanya menyimpan deadline tetapi tidak menunjukkan workload dan priority.
+
+### Possible Solution
+
+Integrated workload planner.
+
+### Interest Signal
+
+> “Bisa tahu tugas mana yang harus mulai dulu?”
+
+---
+
+## 31. Hidden Information
+
+Untuk menjaga performance interactive, target person dapat memperoleh **hidden information**.
+
+Contoh:
+
+> Customer sebenarnya bukan keberatan terhadap teknologi.
+
+Concern utamanya adalah:
+
+> staff sudah kewalahan belajar sistem baru.
+
+Communicator baru mengetahuinya jika:
+
+> bertanya dan mendengarkan.
+
+---
+
+## 32. Hidden Information Tidak Boleh Ditebak
+
+Mahasiswa tidak dinilai tinggi karena:
+
+> kebetulan menebak.
+
+Mahasiswa harus menunjukkan:
+
+> questioning.
+
+Contoh:
+
+> “Apa kekhawatiran utama kalau workflow diubah?”
+
+Target:
+
+> “Staff kami sudah harus belajar dua sistem baru semester ini.”
+
+Sekarang communicator memperoleh information baru.
+
+---
+
+## 33. Response Adaptation
+
+Awalnya student hendak berkata:
+
+> “Kita bisa menggunakan aplikasi baru.”
+
+Setelah mendengar concern:
+
+> “Kalau aplikasi baru justru menambah learning burden, mungkin kita perlu solusi yang bekerja di tool yang sudah digunakan staff.”
+
+Itu adalah:
+
+> **adaptation.**
+
+Nilainya tinggi karena mahasiswa:
+
+> mendengar,
+
+> memperbarui understanding,
+
+> mengubah pitch.
+
+---
+
+## 34. Communication Repertoire yang Boleh Digunakan
+
+Mahasiswa dapat menggunakan:
+
+- listening,
+- questioning,
+- paraphrasing,
+- observation,
+- data,
+- story,
+- analogy,
+- drawing,
+- simple prototype,
+- demonstration,
+- comparison.
+
+Tidak diwajibkan menggunakan semuanya.
+
+Good communicator memilih:
+
+> repertoire yang tepat.
+
+---
+
+## 35. Slides Tidak Wajib
+
+Karena ini conversation performance:
+
+> slides tidak diwajibkan.
+
+Jika mahasiswa menggunakan slide:
+
+> maksimum beberapa visual sederhana.
+
+Slide tidak boleh menjadi:
+
+> tempat bersembunyi dari interaction.
+
+Yang dinilai tetap:
+
+> **person-to-person communication.**
+
+---
+
+## 36. Prototype Boleh Digunakan
+
+Prototype sederhana boleh digunakan jika membantu Interest.
+
+Misalnya:
+
+> mock-up task board.
+
+Tetapi mahasiswa harus mampu menjelaskan:
+
+> relevance-nya.
+
+Prototype yang cantik tetapi tidak menyelesaikan problem:
+
+> tidak memperoleh nilai tinggi.
+
+---
+
+## 37. AI dalam Persiapan UTS
+
+AI boleh digunakan sebelum performance.
+
+AI dapat menjadi:
+
+### CHARACTER SIMULATOR
+
+> “Berperanlah sebagai pemilik kantin yang merasa antrean panjang itu normal.”
+
+### QUESTION COACH
+
+> “Pertanyaan apa yang dapat membantu saya memahami concern pemilik?”
+
+### LANGUAGE REVIEWER
+
+> “Apakah pitch ini terlalu technical?”
+
+### ADVERSARIAL PARTNER
+
+> “Jangan langsung setuju. Berikan objection yang realistic.”
+
+---
+
+## 38. AI Tidak Boleh Menjadi Script Dependency
+
+Mahasiswa sebaiknya tidak:
+
+> membuat full script dengan AI,
+
+> menghafalkannya,
+
+> lalu membacakan.
+
+Mengapa?
+
+Karena target akan:
+
+> merespons secara tidak terduga.
+
+Mahasiswa harus belajar:
+
+> **communicate, not recite.**
+
+---
+
+## 39. Persiapan Lebih Baik daripada Script
+
+Siapkan:
+
+### OBJECTIVE
+
+Apa yang ingin dicapai?
+
+### TARGET PERSON
+
+Siapa?
+
+### POSSIBLE PROBLEM
+
+Apa hypothesis kita?
+
+### EVIDENCE
+
+Apa yang tersedia?
+
+### QUESTIONS
+
+Apa yang perlu diketahui?
+
+### POSSIBLE SOLUTION
+
+Apa relevant possibility?
+
+### STATE SIGNALS
+
+Apa tanda Attention dan Interest?
+
+Bukan:
+
+> setiap kalimat yang akan diucapkan.
+
+---
+
+## 40. AI Saat Performance
+
+Untuk UTS dasar, AI sebaiknya tidak memberi jawaban real-time kepada mahasiswa selama performance.
+
+Tujuannya adalah menguji:
+
+> human communication competence.
+
+AI dapat dipakai:
+
+> sebelum,
+
+dan:
+
+> setelah
+
+performance.
+
+Pada minggu-minggu berikutnya baru dapat dilakukan latihan lebih eksplisit mengenai:
+
+> AI copilot during communication.
+
+---
+
+## 41. AI Setelah Performance
+
+Jika performance direkam atau ditranskrip, mahasiswa dapat meminta AI membantu menganalisis:
+
+- talking/listening balance,
+- solution jumping,
+- jargon,
+- question quality,
+- state transitions,
+- missed cues,
+- agreement.
+
+Tetapi mahasiswa harus menilai:
+
+> apakah analisis AI benar.
+
+---
+
+## 42. Academic Integrity
+
+AI diperbolehkan sebagai:
+
+> preparation coach.
+
+Tetapi mahasiswa wajib:
+
+> melakukan performance sendiri.
+
+AI tidak menggantikan:
+
+- listening,
+- judgment,
+- response,
+- adaptation,
+- relationship ownership.
+
+Prinsip:
+
+> **AI may prepare the communicator. The person must communicate.**
+
+---
+
+## 43. Rubrik UTS
+
+UTS dinilai menggunakan lima dimensi yang konsisten dengan mata kuliah.
+
+| Dimensi | Bobot |
+|---|---:|
+| **1. Person & Character Recognition** | 20% |
+| **2. Problem, Objective & State Recognition** | 20% |
+| **3. Repertoire & Language** | 20% |
+| **4. Response & Adaptation** | 20% |
+| **5. State Progress & Relationship Quality** | 20% |
+
+---
+
+## 44. Dimensi 1 — Person & Character Recognition
+
+Pertanyaan:
+
+> Apakah mahasiswa memahami siapa yang dihadapi?
+
+Nilai tinggi jika mahasiswa:
+
+- tidak memperlakukan target sebagai category,
+- memahami character,
+- menunjukkan curiosity,
+- memperhatikan relationship dan context.
+
+Nilai rendah jika:
+
+> menggunakan pitch generik yang sama kepada semua orang.
+
+---
+
+## 45. Dimensi 2 — Problem, Objective & State Recognition
+
+Mahasiswa harus tahu:
+
+> masalah apa yang sedang dibicarakan,
+
+> objective komunikasi,
+
+> target sedang berada di base mana.
+
+Nilai tinggi jika student mengetahui kapan:
+
+> Attention tercapai,
+
+dan kapan:
+
+> Interest mulai terbentuk.
+
+---
+
+## 46. Dimensi 3 — Repertoire & Language
+
+Apakah student:
+
+- listening?
+- questioning?
+- explaining?
+- menggunakan evidence?
+- analogy?
+- demo?
+
+Apakah language sesuai dengan person?
+
+Nilai rendah jika:
+
+> jargon-heavy,
+
+> terlalu panjang,
+
+> terlalu abstrak.
+
+---
+
+## 47. Dimensi 4 — Response & Adaptation
+
+Ini salah satu bagian paling penting.
+
+Apakah student:
+
+> benar-benar mendengarkan?
+
+Jika target mengatakan:
+
+> “Masalah utama saya sebenarnya bukan itu…”
+
+apakah student tetap menjalankan script?
+
+Atau:
+
+> menyesuaikan?
+
+Communication competence terlihat dari:
+
+> **adaptation.**
+
+---
+
+## 48. Dimensi 5 — State Progress & Relationship
+
+Dua outcome dinilai:
+
+### STATE
+
+Apakah terjadi:
+
+> Target → Attention → Interest?
+
+### RELATIONSHIP
+
+Apakah communication:
+
+- respectful,
+- non-manipulative,
+- credible,
+- trust-preserving?
+
+Maka:
+
+\[
+\boxed{
+Effective\ Communication =
+State\ Progress + Healthy\ Relationship
+}
+\]
+
+---
+
+## 49. Contoh Nilai Sangat Baik
+
+Mahasiswa:
+
+1. membuka conversation sederhana;
+2. bertanya tentang situation;
+3. menemukan bahwa initial assumption kurang tepat;
+4. memperbaiki problem framing;
+5. menggunakan satu data relevan;
+6. memperoleh agreement mengenai problem;
+7. menawarkan solution mechanism sederhana;
+8. target mengajukan concern;
+9. student menjawab concern tanpa defensif;
+10. target mengatakan:
+
+> “Kalau begitu saya tertarik melihat demonya.”
+
+Performance tidak harus:
+
+> sempurna.
+
+Tetapi communication:
+
+> bekerja.
+
+---
+
+## 50. Contoh Nilai Sedang
+
+Mahasiswa:
+
+- memahami problem,
+- language cukup jelas,
+- solution relevant,
+
+tetapi:
+
+- terlalu banyak berbicara,
+- tidak cukup mendengar,
+- tidak mengecek state,
+- tidak menanggapi objection secara baik.
+
+Problem-solusi cukup baik.
+
+Communication loop belum matang.
+
+---
+
+## 51. Contoh Nilai Rendah
+
+Mahasiswa:
+
+> langsung menjelaskan produk.
+
+Tidak bertanya.
+
+Tidak tahu apakah target melihat problem.
+
+Feature dumping.
+
+Menggunakan jargon.
+
+Ketika target keberatan:
+
+> terus membaca pitch.
+
+Mungkin speaking-nya lancar.
+
+Tetapi:
+
+> communication-nya tidak bekerja.
+
+---
+
+## 52. Observer Sheet
+
+Observer dapat menggunakan tabel:
+
+| Stage | Evidence |
+|---|---|
+| Person recognized | |
+| Character recognized | |
+| Problem discovered | |
+| Attention signal | |
+| Solution introduced | |
+| Interest signal | |
+| Important question asked | |
+| Important response heard | |
+| Adaptation made | |
+| Relationship effect | |
+
+---
+
+## 53. Self-Assessment
+
+Setelah performance mahasiswa menilai dirinya sendiri sebelum melihat feedback dosen.
+
+Gunakan lima pertanyaan:
+
+### 1.
+
+Siapa sebenarnya person yang saya hadapi?
+
+### 2.
+
+Apa initial assumption saya yang berubah?
+
+### 3.
+
+Kapan Attention tercapai?
+
+### 4.
+
+Apa evidence bahwa Interest tercapai atau tidak?
+
+### 5.
+
+Apa satu communication behavior yang akan saya ubah?
+
+---
+
+## 54. Peer Feedback
+
+Peer tidak mengatakan:
+
+> “Bagus.”
+
+atau:
+
+> “Kurang percaya diri.”
+
+Gunakan evidence.
+
+Contoh:
+
+> “Ketika target mengatakan staff takut tool baru, kamu langsung kembali menjelaskan fitur tanpa menanggapi concern tersebut.”
+
+atau:
+
+> “Ketika kamu paraphrase problem customer, dia langsung mengatakan ‘ya, tepat’. Itu menurut saya titik Attention tercapai.”
+
+Feedback harus:
+
+> **observable.**
+
+---
+
+## 55. Dari Judgment menuju Evidence
+
+Buruk:
+
+> “Kamu kurang persuasive.”
+
+Lebih baik:
+
+> “Target bertanya dua kali mengenai biaya tetapi pitch tidak pernah menjawab concern tersebut.”
+
+Buruk:
+
+> “Bahasamu bagus.”
+
+Lebih baik:
+
+> “Kamu mengganti istilah ‘database synchronization’ menjadi ‘memastikan dua laporan menggunakan data yang sama’, sehingga target langsung memahami.”
+
+---
+
+## 56. Reflection Loop
+
+Setelah performance:
+
+> **PERFORM**  
+> ↓  
+> **OBSERVE**  
+> ↓  
+> **GET FEEDBACK**  
+> ↓  
+> **REFLECT**  
+> ↓  
+> **RETRY**
+
+Jika waktu memungkinkan mahasiswa melakukan:
+
+> **second attempt.**
+
+Tujuan kuliah adalah:
+
+> improvement.
+
+Bukan hanya:
+
+> measurement.
+
+---
+
+## 57. Replay Performance
+
+Mahasiswa dapat mengulang bagian yang gagal.
+
+Contoh:
+
+First attempt:
+
+> solution dumping.
+
+Feedback:
+
+> terlalu cepat.
+
+Second attempt:
+
+> bertanya lebih dahulu.
+
+Kita dapat membandingkan:
+
+> **Version 1 vs Version 2.**
+
+Pendekatan comparative performance ini konsisten dengan rancangan awal mata kuliah yang membandingkan *unlearned communication default* dan *learned communication performance* melalui roleplay dan reflection.
+
+---
+
+## 58. The Unlearned Default
+
+Beberapa default mahasiswa:
+
+### Default 1
+
+> Saya tahu solusinya → saya langsung menjelaskan.
+
+### Default 2
+
+> Saya gugup → saya bicara terus.
+
+### Default 3
+
+> Target keberatan → saya membela solution.
+
+### Default 4
+
+> Target tidak memahami → saya mengulang kalimat yang sama.
+
+### Default 5
+
+> Saya harus membuat target setuju.
+
+Performance Lab membantu mahasiswa melihat:
+
+> default mereka sendiri.
+
+---
+
+## 59. The Learned Communicator
+
+Learned communicator:
+
+> Recognize.
+
+> Ask.
+
+> Listen.
+
+> Frame.
+
+> Pitch.
+
+> Observe.
+
+> Adapt.
+
+> Confirm.
+
+Ringkas:
+
+> **RALF-POAC** tidak perlu dihafalkan sebagai akronim.
+
+Yang harus menjadi kebiasaan adalah:
+
+> **communication loop.**
+
+---
+
+## 60. Communication is Not a Straight Line
+
+Bisa saja:
+
+> Target → Attention → kembali tidak yakin.
+
+Atau:
+
+> Interest → menemukan problem baru → kembali ke discovery.
+
+Itu normal.
+
+Human communication tidak selalu:
+
+> linear.
+
+TAIDA membantu memberikan:
+
+> **orientation,**
+
+bukan:
+
+> rigid algorithm.
+
+---
+
+## 61. Example Integrated Conversation
+
+### Student
+
+> “Saya lihat laporan kegiatan kalian minggu lalu membutuhkan hampir dua hari untuk selesai. Bagian mana yang paling banyak memakan waktu?”
+
+### Target
+
+> “Mengumpulkan data dari masing-masing divisi.”
+
+### Student
+
+> “Jadi masalah utamanya bukan menulis laporan, tetapi format data dari tiap divisi berbeda?”
+
+### Target
+
+> “Ya, benar.”
+
+**Attention achieved.**
+
+### Student
+
+> “Kalau setiap divisi memasukkan data ke template yang sama sejak awal, laporan akhir bisa mengambil data dari satu format. Staff tidak perlu menggabungkan ulang.”
+
+### Target
+
+> “Tapi apakah semua orang harus belajar software baru?”
+
+### Student
+
+> “Belum tentu. Kita bisa mulai dengan spreadsheet yang sekarang sudah digunakan. Perubahannya terutama pada template dan cara submit.”
+
+### Target
+
+> “Kalau begitu menarik. Bisa tunjukkan contoh templatenya?”
+
+**Interest achieved.**
+
+---
+
+## 62. Mengapa Conversation Itu Berhasil?
+
+Karena student:
+
+- tidak langsung menawarkan software;
+- melakukan question;
+- menemukan actual problem;
+- paraphrase;
+- memperoleh problem agreement;
+- menawarkan mechanism sederhana;
+- mendengar concern;
+- mengadaptasi solution;
+- menghasilkan Interest.
+
+Bukan karena:
+
+> student berbicara sangat indah.
+
+---
+
+## 63. Relationship Outcome
+
+Target kemungkinan merasa:
+
+> didengarkan.
+
+Itu penting.
+
+Jika student berhasil membuat target tertarik tetapi target merasa:
+
+> ditekan,
+
+maka relationship cost terlalu tinggi.
+
+Remember:
+
+> **Short-term conversion can damage long-term relationship.**
+
+---
+
+## 64. Persiapan Mahasiswa Sebelum Kelas
+
+Mahasiswa membaca ulang:
+
+- Week 1 Person–Personality–Character;
+- Week 4 Language;
+- Week 5 Discovery;
+- Week 6 Target–Attention;
+- Week 7 Attention–Interest.
+
+Kemudian membuat:
+
+> **one-page Performance Card**
+
+berisi:
+
+### TARGET
+
+Siapa?
+
+### CHARACTER
+
+Sebagai siapa?
+
+### INITIAL PROBLEM HYPOTHESIS
+
+Apa?
+
+### EVIDENCE
+
+Apa yang diketahui?
+
+### QUESTIONS
+
+Apa yang perlu ditemukan?
+
+### POSSIBLE SOLUTION
+
+Apa?
+
+### ATTENTION SIGNAL
+
+Seperti apa?
+
+### INTEREST SIGNAL
+
+Seperti apa?
+
+---
+
+## 65. Performance Card Bukan Script
+
+Dilarang membuat card menjadi:
+
+> seluruh conversation word-for-word.
+
+Card adalah:
+
+> map.
+
+Student tetap harus:
+
+> navigate.
+
+---
+
+## 66. Format Kelas 2 Jam
+
+### 0–15 menit — Briefing
+
+Review:
+
+> Target → Attention → Interest.
+
+Jelaskan rubric dan performance rules.
+
+---
+
+### 15–30 menit — Warm-Up Demonstration
+
+Dosen/assistant melakukan:
+
+> bad performance
+
+dan:
+
+> improved performance.
+
+Mahasiswa mengidentifikasi perbedaannya.
+
+---
+
+### 30–80 menit — Performance Round 1
+
+Kelompok tiga:
+
+> Communicator → Target → Observer.
+
+Rotate.
+
+---
+
+### 80–95 menit — Feedback & AI Reflection
+
+Mahasiswa membaca peer feedback.
+
+Bila transcript tersedia, AI membantu reflection.
+
+---
+
+### 95–115 menit — Replay / Improvement Round
+
+Mahasiswa mengulang satu bagian communication yang paling perlu diperbaiki.
+
+---
+
+### 115–120 menit — Closing Reflection
+
+Tuliskan:
+
+> **One communication habit I need to unlearn.**
+
+dan:
+
+> **One communication behavior I will practice.**
+
+---
+
+## 67. Tugas UTS — Performance Evidence Package
+
+Selain live performance, mahasiswa menyerahkan package sederhana.
+
+Maksimum:
+
+> **3 halaman**, selain video jika digunakan.
+
+---
+
+## 68. Bagian A — PERFORMANCE CONTEXT
+
+Tuliskan:
+
+- person,
+- character,
+- relationship,
+- situation,
+- communication objective.
+
+---
+
+## 69. Bagian B — INITIAL STATE
+
+Di mana target berada sebelum communication?
+
+> Target?
+
+> Already aware?
+
+Berikan alasan.
+
+---
+
+## 70. Bagian C — ATTENTION
+
+Apa pitch / interaction yang digunakan?
+
+Apa response yang menjadi evidence bahwa:
+
+> Attention tercapai atau belum?
+
+---
+
+## 71. Bagian D — INTEREST
+
+Apa relevant solution possibility yang ditawarkan?
+
+Apa response yang menjadi evidence:
+
+> Interest?
+
+---
+
+## 72. Bagian E — ADAPTATION
+
+Tuliskan satu contoh:
+
+> apa yang Anda rencanakan,
+
+> apa yang sebenarnya terjadi,
+
+> bagaimana Anda menyesuaikan communication.
+
+Ini bagian penting.
+
+---
+
+## 73. Bagian F — RELATIONSHIP
+
+Menurut Anda:
+
+> apakah trust meningkat, tetap, atau menurun?
+
+Apa evidence-nya?
+
+---
+
+## 74. Bagian G — AI REFLECTION
+
+Gunakan AI setelah performance.
+
+Berikan transcript atau summary yang telah dianonimkan.
+
+Minta:
+
+> 1. identifikasi kemungkinan state transition;
+> 2. tunjukkan satu missed cue;
+> 3. tunjukkan satu strong communication move;
+> 4. usulkan satu alternative response.
+
+Mahasiswa kemudian menjawab:
+
+> Apakah saya setuju dengan analisis AI?
+
+> Mengapa?
+
+---
+
+## 75. Bagian H — SELF-IMPROVEMENT
+
+Lengkapi:
+
+> **“Pada performance berikutnya saya akan…”**
+
+Harus berupa behavior yang observable.
+
+Buruk:
+
+> “Saya akan lebih baik.”
+
+Baik:
+
+> “Saya akan berhenti menjelaskan solution setelah maksimal dua kalimat dan meminta target merespons sebelum melanjutkan.”
+
+---
+
+## 76. Penilaian Akhir UTS
+
+Nilai UTS berasal dari:
+
+### Live / Recorded Performance — 70%
+
+Menggunakan rubric lima dimensi.
+
+### Performance Evidence & Reflection — 30%
+
+Melihat:
+
+- state evidence,
+- adaptation,
+- reflection,
+- critical use of AI.
+
+UTS menjadi:
+
+> **20% dari nilai akhir mata kuliah**, sesuai struktur assessment semester yang telah dirancang.
+
+---
+
+## 77. Apa yang Tidak Dinilai?
+
+Tidak dinilai berdasarkan:
+
+- extrovert atau introvert;
+- accent;
+- suara paling keras;
+- acting paling dramatis;
+- produk paling canggih;
+- kemampuan menggunakan vocabulary bisnis.
+
+Yang dinilai adalah:
+
+> **communication competence.**
+
+---
+
+## 78. Introvert Bisa Mendapat Nilai Tinggi
+
+Mahasiswa yang tenang dapat sangat baik dalam:
+
+- listening,
+- questioning,
+- reading response,
+- explaining clearly,
+- adapting.
+
+Communication competence:
+
+> **bukan personality contest.**
+
+Ini kembali pada prinsip awal:
+
+> Personality provides tendencies.
+
+> Character and learned repertoire provide intentional action.
+
+---
+
+## 79. Tidak Harus Berhasil Mencapai Interest
+
+Ada kemungkinan setelah performance target tetap mengatakan:
+
+> “Saya tidak tertarik.”
+
+Mahasiswa masih dapat memperoleh nilai baik jika ia:
+
+- memahami alasan target;
+- membaca response dengan benar;
+- tidak memanipulasi;
+- mengadaptasi;
+- menyimpulkan secara tepat bahwa solution tidak fit.
+
+Karena:
+
+> **accurate shared understanding is itself valuable.**
+
+---
+
+## 80. Ethical Rule
+
+Selama performance:
+
+> **Target always has the right to disagree.**
+
+Communication tidak bertujuan:
+
+> mengalahkan resistance.
+
+Tujuannya:
+
+> memahami resistance.
+
+Kemudian:
+
+- memperbaiki pitch,
+- memperbaiki solution,
+- atau menerima bahwa solution tidak sesuai.
+
+---
+
+## 81. AI Ethical Rule
+
+AI boleh membantu mahasiswa:
+
+> memahami,
+
+> mempersiapkan,
+
+> merefleksikan.
+
+AI tidak boleh digunakan untuk:
+
+> menemukan psychological weakness target agar lebih mudah dipersuasi.
+
+Prinsip:
+
+> **Personalization for understanding and mutual value, never exploitation.**
+
+---
+
+## 82. Integrasi Tujuh Minggu Pertama
+
+UTS menunjukkan bahwa seluruh konsep sebenarnya merupakan satu system:
+
+> **PERSON**
+
+Siapa?
+
+↓
+
+> **PERSONALITY**
+
+Apa kecenderungannya?
+
+↓
+
+> **CHARACTER**
+
+Sebagai siapa ia hadir?
+
+↓
+
+> **RELATIONSHIP**
+
+Apa hubungan kami?
+
+↓
+
+> **OBJECTIVE**
+
+Apa yang ingin kami capai?
+
+↓
+
+> **LANGUAGE & REPERTOIRE**
+
+Bagaimana meaning dikomunikasikan?
+
+↓
+
+> **TARGET**
+
+Apakah ini person yang tepat?
+
+↓
+
+> **ATTENTION**
+
+Apakah ia melihat relevance?
+
+↓
+
+> **INTEREST**
+
+Apakah ia ingin mengetahui possible solution?
+
+---
+
+## 83. Formula Mid-Semester
+
+\[
+\boxed{
+Effective\ Communication =
+Person\ Recognition
++
+Relevant\ Language
++
+State\ Awareness
++
+Adaptive\ Interaction
+}
+\]
+
+yang harus menghasilkan:
+
+\[
+\boxed{
+Shared\ Understanding
++
+State\ Progress
++
+Healthy\ Relationship
+}
+\]
+
+---
+
+## 84. Communication as Control Loop
+
+Kita dapat menggambarkan:
+
+\[
+Person\ State_t
+\xrightarrow{Communication}
+Response
+\xrightarrow{Observation}
+Updated\ Understanding
+\xrightarrow{Adaptation}
+Person\ State_{t+1}
+\]
+
+Tetapi berbeda dari machine control:
+
+> person bukan object yang kita kontrol.
+
+Person mempunyai:
+
+- autonomy,
+- intention,
+- judgment,
+- freedom.
+
+Jadi communication bukan:
+
+> controlling the person.
+
+Melainkan:
+
+> **coordinating understanding between autonomous persons.**
+
+---
+
+## 85. Dari UTS Menuju Paruh Kedua Semester
+
+Setelah UTS mahasiswa sudah dapat:
+
+> mengenali person,
+
+> memahami problem,
+
+> memperoleh Attention,
+
+> membangun Interest.
+
+Tetapi:
+
+> **Interest belum menghasilkan Action.**
+
+Masih ada beberapa pertanyaan:
+
+> Apakah solution benar-benar desirable?
+
+> Bagaimana sebenarnya solution bekerja?
+
+> Apa risiko dan benefit?
+
+> Apakah feasible?
+
+> Apakah kedua pihak dapat menemukan acceptable agreement?
+
+Itulah materi paruh kedua semester.
+
+---
+
+## 86. Preview Minggu 9
+
+Minggu berikutnya:
+
+> **BASE 3 — DESIRE**
+
+Pertanyaannya:
+
+> **Bagaimana seseorang bergerak dari “Ini menarik” menjadi “Saya menginginkan outcome ini”?**
+
+Kita akan belajar:
+
+- future state,
+- value,
+- benefit,
+- evidence,
+- demonstration,
+- risk,
+- trust.
+
+Pitch ketiga:
+
+> **“This is how it works, and this is what it can do for you.”**
+
+---
+
+## 87. Preview Minggu 10
+
+Setelah Desire:
+
+> **HOME BASE — ACTION**
+
+Pertanyaannya:
+
+> **Bagaimana komunikasi menghasilkan commitment?**
+
+Kita akan membahas:
+
+- feasibility,
+- affordability,
+- request,
+- commitment,
+- agreement,
+- next action.
+
+Pitch keempat:
+
+> **“This is feasible. Shall we proceed?”**
+
+---
+
+## 88. Take-Home Messages
+
+Jika hanya mengingat delapan hal dari Minggu 8:
+
+### 1.
+
+> **Communication competence must be performed, not merely described.**
+
+### 2.
+
+> **UTS integrates Person, Character, Relationship, Objective, Language, Target, Attention, and Interest.**
+
+### 3.
+
+> **Listen before pitching.**
+
+### 4.
+
+> **Do not solve a problem before confirming that you understand it.**
+
+### 5.
+
+> **Do not pitch a solution unless you can connect it directly to the person's problem.**
+
+### 6.
+
+> **Response is feedback; adapt your communication.**
+
+### 7.
+
+> **Success is not forcing agreement—it is achieving appropriate state progress while preserving autonomy and relationship.**
+
+### 8.
+
+> **AI may coach and reflect, but the student remains the communicator.**
+
+---
+
+## 89. One-Minute Summary
+
+UTS Minggu 8 menguji perjalanan:
+
+> **WHO IS THE PERSON?**
+
+↓
+
+> **WHO AM I IN THIS COMMUNICATION?**
+
+↓
+
+> **WHAT IS THE PROBLEM?**
+
+↓
+
+> **DO WE UNDERSTAND IT THE SAME WAY?**
+
+↓
+
+> **ATTENTION**
+
+> “Ya, ini memang relevan bagi saya.”
+
+↓
+
+> **DO I HAVE SOMETHING THAT MAY HELP?**
+
+↓
+
+> **INTEREST**
+
+> “Menarik. Saya ingin tahu lebih jauh.”
+
+Mahasiswa dianggap berhasil bukan ketika ia:
+
+> berbicara paling banyak,
+
+melainkan ketika ia dapat:
+
+> **recognize → listen → understand → communicate → observe → adapt.**
+
+Dengan demikian UTS menilai perubahan dari:
+
+> **Unlearned Communication**
+
+yang cenderung:
+
+> speak → explain → push,
+
+menjadi:
+
+> **Learned Person-Centered Communication**
+
+yang bekerja melalui:
+
+> **recognize person → understand problem → speak relevant language → listen to response → adapt → move state → preserve relationship.**
+
+Minggu 8 menjadi titik tengah semester: mahasiswa telah membangun fondasi komunikasi person-centered dan mulai dapat menunjukkan bahwa komunikasi bukan sekadar penyampaian message, tetapi **kemampuan menggerakkan shared understanding dan relationship secara efektif menuju kemungkinan coordinated action**.

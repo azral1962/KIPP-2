@@ -1,0 +1,2900 @@
+# MINGGU 14 — AI-MEDIATED PERSON-CENTERED COMMUNICATION
+
+:::{.callout-tip}
+## AI sebagai Mirror, Coach, Copilot, Translator, Mediator, dan Delegated Agent
+
+**Mata Kuliah:** Person-Centered Communication in the AI Era
+**Tingkat:** Mahasiswa Tahun 2
+**Durasi:** 2 jam
+**Tema Besar:** *How can AI strengthen human communication without replacing human agency, responsibility, and relationship?*
+:::
+
+---
+
+## 1. Kita Sudah Belajar Communication. Sekarang Kita Tambahkan AI.
+
+Selama 13 minggu kita membangun kemampuan komunikasi mulai dari:
+
+> **SELF → FAMILY & FRIENDS → WORK → COMMUNITY → THE WORLD**
+
+Kita sudah mempelajari:
+
+> **PERSON**
+> ↓
+> **PERSONALITY**
+> ↓
+> **NARRATIVE CHARACTER**
+> ↓
+> **OBJECTIVE**
+> ↓
+> **REPERTOIRE**
+> ↓
+> **LANGUAGE**
+> ↓
+> **TAIDA**
+> ↓
+> **AGREEMENT**
+> ↓
+> **ACTION**
+> ↓
+> **RELATIONSHIP**
+
+Sekarang kita menambahkan:
+
+> **AI**
+
+Pertanyaannya bukan lagi:
+
+> “Bisakah AI berkomunikasi?”
+
+AI jelas dapat menghasilkan:
+
+* text,
+* speech,
+* image,
+* translation,
+* summary,
+* suggestions.
+
+Pertanyaan yang lebih penting adalah:
+
+> **Di bagian mana AI sebaiknya membantu communication between persons?**
+
+Dan:
+
+> **Di bagian mana human person tetap harus hadir?**
+
+---
+
+## 2. Learning Objectives Minggu 14
+
+Setelah mengikuti pertemuan ini mahasiswa mampu:
+
+1. menjelaskan konsep **AI-Mediated Communication (AI-MC)**;
+2. membedakan human communication dari AI-generated message;
+3. menggunakan AI sebagai **Mirror, Coach, Copilot, Translator, Reviewer, dan Simulator**;
+4. memahami perbedaan **AI Coach, AI Copilot, dan AI Delegate**;
+5. menentukan kapan komunikasi sebaiknya tetap dilakukan langsung oleh manusia;
+6. membangun person-centered prompt berdasarkan **Person–Character–Objective–Context**;
+7. menggunakan AI untuk membaca communication state dalam TAIDA;
+8. menjelaskan bagaimana AI agents dapat merepresentasikan narrative characters;
+9. memahami konsep authority dan limits dalam delegated agent communication;
+10. mengenali risiko profiling, manipulation, hallucination, dependency, privacy, dan authenticity;
+11. menggunakan AI untuk meningkatkan shared understanding tanpa menyerahkan human judgment;
+12. merancang satu **AI-mediated communication workflow** yang responsible.
+
+---
+
+## 3. Apa Itu AI-Mediated Communication?
+
+Traditional communication:
+
+> **PERSON A ⇄ PERSON B**
+
+AI-mediated communication menambahkan AI di dalam communication process.
+
+Model sederhana:
+
+> **PERSON A → AI → PERSON B**
+
+Contoh:
+
+Person A menulis email.
+
+AI membantu:
+
+* memperbaiki grammar,
+* memperjelas structure,
+* menyesuaikan tone.
+
+Kemudian Person A mengirimkannya kepada Person B.
+
+AI:
+
+> **mediates the message.**
+
+---
+
+## 4. Tetapi Ada Banyak Bentuk AI Mediation
+
+AI dapat hadir:
+
+### BEFORE COMMUNICATION
+
+membantu preparation.
+
+### DURING COMMUNICATION
+
+membantu real-time interaction.
+
+### AFTER COMMUNICATION
+
+membantu reflection.
+
+### INSTEAD OF SOME COMMUNICATION
+
+bertindak sebagai delegated agent.
+
+Karena itu AI-MC bukan:
+
+> satu model.
+
+Ada:
+
+> **levels of mediation.**
+
+---
+
+## 5. Prinsip Utama Mata Kuliah
+
+> **AI can amplify communication capability, but persons remain the source of meaning, judgment, responsibility, and relationship.**
+
+Atau lebih sederhana:
+
+> **AI memperkuat communication. Person tetap memiliki relationship.**
+
+---
+
+## 6. Intelligence Belongs to the System; Relationship Belongs to Persons
+
+AI dapat membuat communication system menjadi:
+
+* faster,
+* more informed,
+* more adaptive,
+* more personalized.
+
+Tetapi ketika seorang parent berbicara kepada anak:
+
+> relationship bukan antara anak dan AI.
+
+Relationship tetap:
+
+> **Parent ⇄ Child**
+
+AI hanya membantu.
+
+Modelnya:
+
+> **PERSON A + AI ASSISTANT ⇄ PERSON B**
+
+bukan:
+
+> **AI A ⇄ AI B**
+
+untuk semua jenis communication.
+
+---
+
+## 7. Enam Peran AI dalam Communication
+
+Untuk mahasiswa tingkat 2 gunakan enam peran sederhana:
+
+1. **Mirror**
+2. **Coach**
+3. **Translator**
+4. **Copilot**
+5. **Mediator**
+6. **Delegate**
+
+---
+
+## 8. AI AS MIRROR
+
+Mirror membantu kita melihat:
+
+> communication kita sendiri.
+
+Misalnya sebelum mengirim message:
+
+> “Baca message ini. Bagian mana yang terdengar defensif?”
+
+atau:
+
+> “Pisahkan observation, interpretation, dan accusation dalam pesan saya.”
+
+AI tidak membuat decision.
+
+AI membantu:
+
+> **self-awareness.**
+
+---
+
+## 9. Mirror dan Intra-Self Communication
+
+Kembali ke Minggu 2:
+
+> **EVENT → STORY → EMOTION → ACTION**
+
+Contoh mahasiswa kesal kepada anggota kelompok.
+
+Ia menulis:
+
+> “Kamu memang tidak pernah serius.”
+
+AI Mirror dapat bertanya:
+
+> Apa observable event-nya?
+
+Mahasiswa:
+
+> “Dia terlambat mengirim dua task.”
+
+Sekarang:
+
+> person attack
+
+dapat dipisahkan dari:
+
+> observable problem.
+
+---
+
+## 10. Prompt AI Mirror
+
+Gunakan format sederhana:
+
+> “Berikut message yang ingin saya kirim. Jangan tulis ulang dulu. Identifikasi:
+>
+> 1. observable fact,
+> 2. interpretation,
+> 3. emotion,
+> 4. accusation,
+> 5. request yang sebenarnya saya inginkan.”
+
+AI membantu:
+
+> reflection before reaction.
+
+---
+
+## 11. AI AS COACH
+
+Coach membantu:
+
+> **prepare before communication.**
+
+Contoh:
+
+Mahasiswa harus berbicara kepada dosen mengenai keterlambatan tugas.
+
+AI dapat:
+
+* mensimulasikan dosen,
+* memberi questions,
+* membantu menyusun objective,
+* memeriksa tone.
+
+Tetapi conversation nyata tetap:
+
+> Student ⇄ Lecturer.
+
+---
+
+## 12. AI Coach Workflow
+
+> **PERSON**
+> ↓
+> **COMMUNICATION OBJECTIVE**
+> ↓
+> **AI ROLEPLAY / FEEDBACK**
+> ↓
+> **HUMAN PRACTICE**
+> ↓
+> **REAL HUMAN COMMUNICATION**
+
+AI adalah:
+
+> rehearsal space.
+
+---
+
+## 13. Example
+
+Student:
+
+> “Saya ingin meminta extension.”
+
+AI Coach:
+
+> “Apa alasan faktualnya?”
+
+Student:
+
+> “Saya sakit dua hari dan belum menyelesaikan experiment.”
+
+AI:
+
+> “Apa yang ingin Anda request secara specific?”
+
+Student:
+
+> “Extension sampai Jumat.”
+
+AI kemudian dapat memainkan:
+
+> skeptical lecturer.
+
+Student berlatih:
+
+> respectful communication.
+
+---
+
+## 14. AI AS TRANSLATOR
+
+Translation bukan hanya:
+
+> Indonesian ↔ English.
+
+Dalam mata kuliah ini lebih luas:
+
+> **Language A → Language B**
+
+Misalnya:
+
+### Engineer Language
+
+> “The inference pipeline has high latency.”
+
+### Manager Language
+
+> “Response sistem terlalu lambat untuk workflow sekarang.”
+
+### Customer Language
+
+> “User harus menunggu terlalu lama setelah menekan tombol.”
+
+Meaning:
+
+> sama.
+
+Language:
+
+> berubah.
+
+---
+
+## 15. AI sebagai Character Translator
+
+Prompt:
+
+> “Meaning inti saya adalah X. Jelaskan kepada:
+>
+> 1. engineer,
+> 2. manager,
+> 3. customer,
+>    tanpa mengubah fakta.”
+
+AI membantu mengimplementasikan:
+
+> **Language of Character** dari Minggu 4.
+
+---
+
+## 16. Translation Bukan Distortion
+
+Rule:
+
+> **Change language. Preserve meaning.**
+
+Jika original evidence mengatakan:
+
+> “Pilot menurunkan waktu rata-rata 20%.”
+
+AI tidak boleh mengubah menjadi:
+
+> “System terbukti sangat meningkatkan productivity.”
+
+Itu sudah:
+
+> meaning inflation.
+
+Human harus:
+
+> verify.
+
+---
+
+## 17. AI AS COPILOT
+
+Copilot membantu:
+
+> **during communication.**
+
+Model:
+
+> **Person A + AI Copilot ⇄ Person B + AI Copilot**
+
+AI dapat membantu real-time:
+
+* retrieve information,
+* summarize previous discussion,
+* remind commitments,
+* translate terminology,
+* identify unresolved issues,
+* propose clarification questions.
+
+Tetapi human tetap:
+
+> decides what to say.
+
+---
+
+## 18. Example: Project Meeting
+
+Team sedang meeting.
+
+AI Copilot dapat menghasilkan:
+
+> “Sejauh ini tiga keputusan sudah dibuat:
+>
+> 1. API selesai Rabu,
+> 2. testing mulai Kamis,
+> 3. Budi belum mempunyai akses server.”
+
+Facilitator menggunakan summary tersebut untuk bertanya:
+
+> “Apakah ini benar?”
+
+AI membantu:
+
+> shared memory.
+
+---
+
+## 19. Copilot Bukan Autopilot
+
+Penting.
+
+### COPILOT
+
+> suggests.
+
+### AUTOPILOT
+
+> acts independently.
+
+Dalam communication sensitif:
+
+> jangan mudah berpindah dari Copilot ke Autopilot.
+
+Karena human communication mengandung:
+
+* intention,
+* responsibility,
+* relationship meaning.
+
+---
+
+## 20. AI AS MEDIATOR
+
+Mediator membantu dua atau lebih persons:
+
+> understand one another.
+
+Misalnya Person A menulis:
+
+> technical concern.
+
+Person B memahami:
+
+> business concern.
+
+AI dapat membantu membuat:
+
+> translation layer.
+
+Model:
+
+> **Person A ⇄ AI Mediation ⇄ Person B**
+
+Tetapi mediator sebaiknya:
+
+> tidak diam-diam memihak.
+
+---
+
+## 21. Example — Engineer vs Manager
+
+Engineer:
+
+> “Kita tidak bisa release Jumat karena test coverage masih rendah.”
+
+Manager:
+
+> “Engineering selalu memperlambat.”
+
+AI Mediator dapat merangkum:
+
+> “Engineering concern adalah reliability risk jika release Jumat. Management concern adalah customer commitment pada hari Jumat. Conflict saat ini bukan apakah release penting, tetapi tingkat risk yang dapat diterima dan scope apa yang dapat dikirim Jumat.”
+
+Sekarang:
+
+> disagreement menjadi workable issue.
+
+---
+
+## 22. AI Mediator Harus Transparan
+
+Jika AI:
+
+* mengubah wording,
+* menggabungkan positions,
+* membuat summary,
+
+relevant persons harus dapat:
+
+> check.
+
+Karena AI bisa:
+
+> salah memahami.
+
+Rule:
+
+> **AI summary is a draft of shared understanding, not shared understanding itself.**
+
+---
+
+## 23. AI AS DELEGATE
+
+Level lebih tinggi:
+
+> AI berkomunikasi atas nama person.
+
+Contoh sederhana:
+
+AI dapat:
+
+> menjadwalkan meeting.
+
+User memberi authority:
+
+> “Cari waktu 30 menit minggu depan setelah pukul 14.00.”
+
+AI bernegosiasi dengan calendar agent.
+
+Ini adalah:
+
+> delegated communication.
+
+---
+
+## 24. Delegated Agent
+
+Model:
+
+> **PERSON A → AGENT A ⇄ AGENT B ← PERSON B**
+
+Agents berkomunikasi untuk mencapai:
+
+> agreement.
+
+Contoh:
+
+* scheduling,
+* routine booking,
+* standardized procurement,
+* routine service request.
+
+---
+
+## 25. Tetapi Delegation Membutuhkan Authority Boundary
+
+Agent tidak boleh:
+
+> membuat commitment tanpa authority.
+
+Contoh authority:
+
+> “Boleh memilih hotel maksimal Rp1,5 juta per malam.”
+
+atau:
+
+> “Boleh menerima meeting antara Selasa–Kamis pukul 14.00–17.00.”
+
+Authority harus:
+
+> explicit.
+
+---
+
+## 26. Agent Model
+
+Kita dapat merumuskan:
+
+> **AGENT = Narrative Character + Mission + Knowledge + Values + Constraints + Language + Authority**
+
+---
+
+## 27. CHARACTER
+
+Agent berbicara sebagai:
+
+> siapa?
+
+Contoh:
+
+> Procurement Assistant.
+
+---
+
+## 28. MISSION
+
+Apa yang ingin dicapai?
+
+> membeli barang yang memenuhi specification.
+
+---
+
+## 29. KNOWLEDGE
+
+Apa yang diketahui?
+
+* specification,
+* vendor list,
+* delivery requirement.
+
+---
+
+## 30. VALUES
+
+Apa prinsip yang harus dijaga?
+
+* safety,
+* fairness,
+* quality,
+* privacy.
+
+---
+
+## 31. CONSTRAINTS
+
+Contoh:
+
+* budget maksimum,
+* delivery date,
+* technical standard.
+
+---
+
+## 32. LANGUAGE
+
+Agent mungkin berbicara:
+
+> formal procurement language.
+
+Bukan:
+
+> casual personal language.
+
+---
+
+## 33. AUTHORITY
+
+Apa yang boleh diputuskan?
+
+Ini bagian paling penting.
+
+Misalnya:
+
+> dapat recommend,
+
+tetapi:
+
+> tidak dapat sign contract.
+
+---
+
+## 34. Agent Can Negotiate within an Acceptable Region
+
+Minggu 11 kita menggunakan:
+
+[
+A^* \in A_1 \cap A_2 \dots \cap A_n
+]
+
+Agent dapat membantu mencari:
+
+> acceptable intersection.
+
+Misalnya:
+
+Buyer Agent:
+
+* harga ≤ Rp5 juta,
+* delivery ≤ 7 hari.
+
+Seller Agent:
+
+* harga ≥ Rp4,5 juta,
+* delivery ≥ 5 hari.
+
+Possible agreement:
+
+> Rp4,8 juta, 6 hari.
+
+---
+
+## 35. Human Must Define What Is Acceptable
+
+AI dapat mencari:
+
+> intersection.
+
+Tetapi manusia menentukan:
+
+> boundary.
+
+Misalnya:
+
+> safety tidak boleh diperdagangkan dengan cost.
+
+AI tidak boleh sendiri memutuskan:
+
+> “Safety risk ini cukup acceptable.”
+
+Jika authority tersebut:
+
+> tidak diberikan.
+
+---
+
+## 36. Tiga Level AI Communication Assistance
+
+Untuk memudahkan mahasiswa gunakan tiga level utama.
+
+### LEVEL 1 — AI COACH
+
+AI membantu sebelum/selesai communication.
+
+> Person communicates directly.
+
+---
+
+### LEVEL 2 — AI COPILOT
+
+AI membantu real-time.
+
+> Person still communicates and decides.
+
+---
+
+### LEVEL 3 — AI DELEGATE
+
+AI melakukan limited communication/action.
+
+> Authority is explicitly delegated.
+
+---
+
+## 37. Simple Rule
+
+Semakin tinggi:
+
+> **relationship consequence + ethical consequence + uncertainty**
+
+semakin sebaiknya kita bergerak ke:
+
+> **human direct communication.**
+
+Semakin:
+
+> routine + structured + low-risk + reversible
+
+semakin mungkin:
+
+> delegation.
+
+---
+
+## 38. Example — Scheduling
+
+Low relationship risk.
+
+AI Delegate:
+
+> reasonable.
+
+---
+
+## 39. Example — Expense Reimbursement
+
+Structured.
+
+Agent dapat:
+
+> prepare dan submit dalam limit tertentu.
+
+---
+
+## 40. Example — Apology to a Friend
+
+High relational meaning.
+
+Jangan:
+
+> “AI, minta maaf kepada sahabat saya.”
+
+Lebih tepat:
+
+> AI Coach membantu kita mempersiapkan.
+
+Kemudian:
+
+> **person apologizes to person.**
+
+---
+
+## 41. Example — Employee Conflict
+
+AI dapat:
+
+* summarize,
+* coach,
+* propose neutral wording.
+
+Tetapi disciplinary conversation:
+
+> sebaiknya tetap dilakukan manusia yang bertanggung jawab.
+
+---
+
+## 42. Example — Family
+
+Parent mengatakan:
+
+> “AI, jelaskan kepada anak saya bahwa saya menyayanginya.”
+
+AI mungkin menghasilkan message indah.
+
+Tetapi communication penting bukan hanya:
+
+> words.
+
+Anak juga menerima meaning dari:
+
+> **who says it.**
+
+Ini penting:
+
+> **The messenger is part of the message.**
+
+---
+
+## 43. Relationship-Carrying Communication
+
+Beberapa communication mempunyai relational value tinggi:
+
+* gratitude,
+* apology,
+* love,
+* reconciliation,
+* mentoring,
+* encouragement,
+* conflict resolution,
+* leadership.
+
+Pada communication seperti ini:
+
+> human presence itself carries meaning.
+
+AI sebaiknya lebih banyak berperan:
+
+> Coach / Mirror / Copilot.
+
+---
+
+## 44. Task-Carrying vs Relationship-Carrying Communication
+
+Gunakan distinction:
+
+### TASK-CARRYING
+
+Main value:
+
+> information / transaction / coordination.
+
+Contoh:
+
+> meeting schedule.
+
+Delegation lebih mudah.
+
+### RELATIONSHIP-CARRYING
+
+Main value:
+
+> human recognition and relationship.
+
+Contoh:
+
+> “Saya minta maaf.”
+
+Delegation jauh lebih sensitif.
+
+---
+
+## 45. AI dan Five Domains
+
+Mari kita review seluruh mata kuliah.
+
+### DOMAIN 1 — INTRA-SELF
+
+AI:
+
+> Mirror / Reflection Coach.
+
+Risk:
+
+> dependency terhadap external interpretation.
+
+---
+
+### DOMAIN 2 — FAMILY & FRIENDS
+
+AI:
+
+> Coach / Rehearsal / Tone Reviewer.
+
+Risk:
+
+> loss of authenticity.
+
+---
+
+### DOMAIN 3 — WORKING COLLEAGUES
+
+AI:
+
+> Copilot / Translator / Meeting Assistant / Limited Delegate.
+
+Risk:
+
+> wrong commitment, confidentiality.
+
+---
+
+### DOMAIN 4 — COMMUNITY
+
+AI:
+
+> summarizer / stakeholder simulator / public-language translator.
+
+Risk:
+
+> misrepresentation, minority erasure.
+
+---
+
+### DOMAIN 5 — THE WORLD
+
+AI:
+
+> content assistant / personalization / analysis.
+
+Risk:
+
+> manipulation, synthetic noise, misinformation.
+
+---
+
+## 46. AI + TAIDA
+
+AI juga dapat membantu seluruh Baseball Model.
+
+> **TARGET → ATTENTION → INTEREST → DESIRE → ACTION**
+
+---
+
+## 47. AI at TARGET
+
+AI dapat membantu:
+
+* stakeholder mapping,
+* identify possible roles,
+* organize known context.
+
+Tetapi jangan:
+
+> convert person into stereotype.
+
+AI hypothesis harus:
+
+> validated.
+
+---
+
+## 48. AI at ATTENTION
+
+AI dapat membantu:
+
+* summarize evidence,
+* adapt problem language,
+* create visualization.
+
+Tetapi jangan:
+
+> generate fake urgency.
+
+---
+
+## 49. AI at INTEREST
+
+AI dapat membantu:
+
+* explain solution,
+* compare alternatives,
+* translate technical mechanism.
+
+Tetapi jangan:
+
+> hide limitations.
+
+---
+
+## 50. AI at DESIRE
+
+AI dapat:
+
+* simulate future state,
+* demonstrate benefit,
+* identify concerns.
+
+Tetapi sangat berbahaya jika digunakan untuk:
+
+> exploit personal fears or vulnerabilities.
+
+---
+
+## 51. AI at ACTION
+
+AI dapat membantu:
+
+* generate options,
+* check constraints,
+* summarize agreements,
+* schedule next action.
+
+Tetapi:
+
+> commitments require authority.
+
+---
+
+## 52. AI as Communication State Estimator
+
+AI dapat membaca transcript dan memperkirakan:
+
+> person berada di state mana?
+
+Misalnya target mengatakan:
+
+> “Ya, ini memang masalah kami.”
+
+AI:
+
+> Attention.
+
+> “Bagaimana cara kerja solution?”
+
+AI:
+
+> Interest.
+
+> “Kalau bekerja begitu, kami membutuhkan ini.”
+
+AI:
+
+> Desire.
+
+> “Kirim kontraknya.”
+
+AI:
+
+> Action-ready.
+
+---
+
+## 53. Tetapi State Recognition Tidak Pernah Pasti
+
+AI mungkin salah.
+
+Contoh:
+
+Person mengatakan:
+
+> “Menarik sekali…”
+
+Tetapi tone sebenarnya:
+
+> sarcastic.
+
+Transcript tidak menangkap:
+
+> body language.
+
+Maka:
+
+> **AI state estimate is evidence, not truth.**
+
+---
+
+## 54. AI Can Recommend Next Pitch
+
+Jika target ada di Attention:
+
+> jangan terus bicara tentang problem.
+
+AI dapat mengingatkan:
+
+> “Target tampaknya sudah mengakui problem; Anda dapat mulai menguji solution relevance.”
+
+Tetapi human communicator tetap:
+
+> decides.
+
+---
+
+## 55. AI-Mediated Closed Loop
+
+Model:
+
+> **OBSERVE PERSON**
+> ↓
+> **AI + HUMAN ESTIMATE STATE**
+> ↓
+> **CHOOSE MESSAGE**
+> ↓
+> **COMMUNICATE**
+> ↓
+> **OBSERVE RESPONSE**
+> ↓
+> **AI ANALYSIS + HUMAN JUDGMENT**
+> ↓
+> **ADAPT**
+
+AI membantu loop menjadi:
+
+> faster.
+
+---
+
+## 56. Person-Centered Prompting
+
+Prompt yang baik bukan sekadar:
+
+> “Buat email yang bagus.”
+
+Masukkan communication context.
+
+Gunakan:
+
+> **PERSON → CHARACTER → RELATIONSHIP → OBJECTIVE → CURRENT STATE → LANGUAGE → CONSTRAINT**
+
+---
+
+## 57. Prompt Template
+
+### PERSON
+
+Siapa receiver?
+
+### CHARACTER
+
+Sebagai siapa ia hadir?
+
+### RELATIONSHIP
+
+Apa hubungan kami?
+
+### OBJECTIVE
+
+Apa yang ingin dicapai?
+
+### CURRENT STATE
+
+Apa yang sudah ia tahu/setujui?
+
+### CORE MEANING
+
+Apa yang tidak boleh berubah?
+
+### LANGUAGE
+
+Language apa yang sesuai?
+
+### CONSTRAINT
+
+Apa yang harus dihindari?
+
+---
+
+## 58. Example Prompt
+
+> “Saya adalah student project leader. Receiver adalah teman satu kelompok, bukan subordinate saya. Ia terlambat mengirim module dua hari. Tujuan saya memahami blocker dan membuat agreement baru, bukan menyalahkan. Core fact: deadline sudah lewat dua hari. Buat tiga cara membuka conversation dengan tone clear tetapi respectful. Jangan mengasumsikan ia malas.”
+
+Prompt ini person-centered karena:
+
+> context dan relationship jelas.
+
+---
+
+## 59. Poor Prompt
+
+> “Buat pesan keras agar anggota kelompok yang malas kapok.”
+
+Masalah:
+
+* assumption,
+* attack,
+* objective = punishment,
+* no discovery.
+
+AI dapat memperbesar:
+
+> communication failure.
+
+---
+
+## 60. AI Amplifies the User's Framing
+
+Jika prompt:
+
+> biased,
+
+AI dapat menghasilkan output:
+
+> biased.
+
+Jika framing:
+
+> person-centered,
+
+AI lebih mungkin membantu:
+
+> person-centered communication.
+
+Jadi kualitas AI-MC sangat bergantung pada:
+
+> human communication judgment.
+
+---
+
+## 61. AI Does Not Remove the Need to Learn Communication
+
+Mahasiswa mungkin bertanya:
+
+> “Kalau AI bisa menulis email lebih baik, mengapa saya perlu belajar komunikasi?”
+
+Karena mahasiswa tetap harus menentukan:
+
+* siapa person-nya,
+* apa objective-nya,
+* apa fakta,
+* apa yang fair,
+* apa relationship-nya,
+* apa authority,
+* apakah output benar,
+* kapan perlu diam,
+* kapan perlu berbicara sendiri.
+
+AI dapat menghasilkan:
+
+> sentences.
+
+Tetapi tidak otomatis mempunyai:
+
+> responsible human judgment.
+
+---
+
+## 62. AI Can Make Bad Communicators More Efficient
+
+Ini paradox penting.
+
+Jika seseorang:
+
+> tidak dapat mengenali problem dengan baik,
+
+AI dapat membantu membuat:
+
+> proposal salah dengan sangat cepat.
+
+Jika seseorang:
+
+> suka memanipulasi,
+
+AI dapat membantu membuat manipulation:
+
+> lebih scalable.
+
+Maka AI meningkatkan pentingnya:
+
+> communication character dan ethics.
+
+---
+
+## 63. Risks of AI-Mediated Communication
+
+Gunakan tujuh risiko utama:
+
+1. **Hallucination**
+2. **Profiling & Stereotyping**
+3. **Manipulation**
+4. **Loss of Authenticity**
+5. **Dependency**
+6. **Privacy & Confidentiality**
+7. **Authority Error**
+
+---
+
+## 64. Risk 1 — Hallucination
+
+AI dapat menghasilkan:
+
+> information yang salah tetapi terdengar credible.
+
+Dalam professional communication ini dapat menghasilkan:
+
+> false commitment.
+
+Example:
+
+AI menulis:
+
+> “Fitur tersebut tersedia.”
+
+Padahal:
+
+> tidak.
+
+Rule:
+
+> **Verify consequential factual claims.**
+
+---
+
+## 65. Risk 2 — Profiling
+
+AI dapat mengatakan:
+
+> “Orang seperti ini biasanya…”
+
+Kategori dapat membantu hypothesis.
+
+Tetapi person:
+
+> bukan statistical average.
+
+Rule:
+
+> **Use profiles as tentative clues, not identity definitions.**
+
+---
+
+## 66. Risk 3 — Manipulation
+
+AI dapat optimize:
+
+> persuasion.
+
+Misalnya mencari:
+
+* emotional triggers,
+* vulnerabilities,
+* best pressure phrase.
+
+Person-centered ethics menolak:
+
+> hidden exploitation.
+
+Rule:
+
+> **Personalize for understanding and mutual value, not covert control.**
+
+---
+
+## 67. Risk 4 — Loss of Authenticity
+
+AI dapat membuat:
+
+> apology sangat indah.
+
+Tetapi receiver dapat merasa:
+
+> “Ini bukan kamu.”
+
+Authenticity tidak berarti:
+
+> tidak boleh dibantu AI.
+
+Tetapi final communication harus:
+
+> owned by the person.
+
+Question:
+
+> **Would I genuinely stand behind every sentence?**
+
+---
+
+## 68. Risk 5 — Dependency
+
+Jika setiap difficult conversation diserahkan kepada AI:
+
+person dapat kehilangan kemampuan:
+
+* reflect,
+* formulate,
+* tolerate discomfort,
+* negotiate.
+
+AI sebaiknya:
+
+> develop human competence.
+
+Bukan:
+
+> replace it.
+
+---
+
+## 69. Risk 6 — Privacy
+
+Sebelum memasukkan conversation ke AI:
+
+> apakah ada personal/confidential data?
+
+Mahasiswa harus belajar:
+
+> anonymize bila perlu.
+
+Jangan sembarangan memasukkan:
+
+* private medical information,
+* confidential company data,
+* personal conflict details,
+* passwords,
+* protected information.
+
+---
+
+## 70. Risk 7 — Authority Error
+
+AI mungkin membuat:
+
+> commitment yang user sebenarnya tidak authorized.
+
+Contoh:
+
+> “Kami menjamin project selesai Jumat.”
+
+Padahal student engineer tidak punya authority.
+
+Rule:
+
+> **AI cannot create authority you do not have.**
+
+---
+
+## 71. Human-in-the-Loop
+
+Untuk consequential communication gunakan:
+
+> **AI GENERATES → HUMAN REVIEWS → HUMAN DECIDES → HUMAN OWNS**
+
+Bukan:
+
+> AI generates → send automatically.
+
+Kecuali:
+
+> low-risk routine communication dengan authority yang jelas.
+
+---
+
+## 72. Three Questions Before Delegating
+
+Sebelum AI menjadi Delegate tanyakan:
+
+### 1. IS IT REVERSIBLE?
+
+Kalau salah, mudah diperbaiki?
+
+### 2. IS AUTHORITY CLEAR?
+
+Apa yang boleh dilakukan?
+
+### 3. IS RELATIONSHIP VALUE LOW ENOUGH?
+
+Apakah human presence tidak terlalu penting?
+
+Semakin jawabannya:
+
+> yes,
+
+semakin feasible delegation.
+
+---
+
+## 73. Delegation Matrix
+
+| Communication            | Coach |  Copilot |                Delegate |
+| ------------------------ | ----: | -------: | ----------------------: |
+| Personal reflection      |     ✓ | possible |                       ✗ |
+| Apology                  |     ✓ |  limited |                       ✗ |
+| Family conflict          |     ✓ |  limited |                       ✗ |
+| Meeting prep             |     ✓ |        ✓ |                 limited |
+| Scheduling               |     ✓ |        ✓ |                       ✓ |
+| Technical FAQ            |     ✓ |        ✓ |                       ✓ |
+| Procurement within rules |     ✓ |        ✓ |                possible |
+| Major negotiation        |     ✓ |        ✓ |                 limited |
+| Public statement         |     ✓ |        ✓ | human approval required |
+
+---
+
+## 74. AI and Relationship Ownership
+
+Simple rule:
+
+> **AI can carry information. Persons carry responsibility and relationship.**
+
+Pada routine task, AI dapat membawa lebih banyak.
+
+Pada relationship-critical moments:
+
+> person harus membawa lebih banyak.
+
+---
+
+## 75. The Communication Responsibility Stack
+
+Kita dapat membagi responsibility menjadi:
+
+### AI
+
+* generate,
+* summarize,
+* translate,
+* detect patterns,
+* suggest.
+
+### PERSON
+
+* choose objective,
+* judge,
+* verify,
+* decide,
+* commit,
+* take responsibility,
+* maintain relationship.
+
+---
+
+## 76. AI Cannot Apologize for Me in the Full Human Sense
+
+AI dapat menghasilkan:
+
+> words of apology.
+
+Tetapi ownership:
+
+> tetap saya.
+
+Karena apology berarti:
+
+> **I acknowledge what I did.**
+
+AI tidak melakukan:
+
+> original action.
+
+Maka authentic repair membutuhkan:
+
+> person.
+
+---
+
+## 77. AI Cannot Love on My Behalf
+
+AI dapat membantu menemukan:
+
+> kata-kata.
+
+Tetapi dalam relationship:
+
+> “I care about you”
+
+mempunyai meaning karena:
+
+> siapa yang mengatakannya dan bagaimana ia hidup sesudahnya.
+
+Communication bukan hanya:
+
+> linguistic artifact.
+
+Ia bagian dari:
+
+> human action and relationship history.
+
+---
+
+## 78. AI Can Strengthen Love and Care
+
+Ini tidak berarti AI harus dijauhkan.
+
+AI dapat membantu:
+
+* mengingat birthday,
+* menyusun travel plan,
+* menerjemahkan,
+* membuat accessibility,
+* membantu orang dengan communication difficulty,
+* mempersiapkan difficult conversation.
+
+AI dapat:
+
+> support care.
+
+Tetapi care tetap:
+
+> human responsibility.
+
+---
+
+## 79. Person-Centered Business Intelligence
+
+AI era memungkinkan organisasi mengenali:
+
+> person lebih dalam.
+
+Traditional:
+
+> DATA → CATEGORY → SEGMENT → TARGET
+
+Person-centered:
+
+> **PERSON → ROLE → CHARACTER → CONTEXT → RELATIONSHIP → INTENTION → ACTION**
+
+Tujuan:
+
+> better service dan better relationship.
+
+Bukan:
+
+> better manipulation.
+
+---
+
+## 80. From Customer Segment to Customer Person
+
+Old:
+
+> “Male, age 20–25, student.”
+
+New:
+
+> “This person is currently a student organizing an event, has interacted with us twice, is trying to solve payment coordination, and prefers simple mobile communication.”
+
+Lebih contextual.
+
+Tetapi juga:
+
+> more ethically sensitive.
+
+---
+
+## 81. The More Personal the Data, the Greater the Duty of Care
+
+Semakin banyak organization mengetahui person:
+
+> semakin besar power asymmetry.
+
+Maka harus ada:
+
+* relevance,
+* restraint,
+* privacy,
+* transparency,
+* non-exploitation.
+
+---
+
+## 82. Person–Relationship Intelligence
+
+Kita dapat menyebut capability ini:
+
+> **Person–Relationship Intelligence (PRI)**
+
+Bukan hanya:
+
+> “Siapa customer ini?”
+
+Tetapi:
+
+> “Apa relationship kami?”
+
+> “Apa history-nya?”
+
+> “Apa objective saat ini?”
+
+> “Apa appropriate next interaction?”
+
+PRI bukan sekadar:
+
+> prediction.
+
+Ia digunakan untuk:
+
+> relationship quality.
+
+---
+
+## 83. AI-Mediated Personalized Communication at Scale
+
+Progression:
+
+> **Mass → Segmented → Personalized → Relational**
+
+### MASS
+
+Satu email untuk semua.
+
+### SEGMENTED
+
+Email untuk student/customer/manager.
+
+### PERSONALIZED
+
+Nama, history, current need.
+
+### RELATIONAL
+
+Message mempertimbangkan previous interactions dan relationship state.
+
+---
+
+## 84. Example
+
+Mass:
+
+> “Gunakan sistem pembayaran baru kami.”
+
+Segmented:
+
+> “Untuk mahasiswa, sistem baru mempermudah pembayaran.”
+
+Personalized:
+
+> “Anda masih mempunyai tagihan bulan ini…”
+
+Relational:
+
+> “Minggu lalu Anda melaporkan kesulitan melakukan pembayaran melalui mobile. Versi baru sekarang menyediakan alternative transfer. Apakah Anda ingin mencoba?”
+
+Semakin relational:
+
+> semakin useful.
+
+Tetapi juga:
+
+> semakin perlu ethics.
+
+---
+
+## 85. AI-Mediated Communication Can Create Mutual Value
+
+Idealnya AI meningkatkan:
+
+### Value for Person A
+
+lebih mudah menyampaikan meaning.
+
+### Value for Person B
+
+lebih mudah memahami.
+
+### Relationship Value
+
+lebih sedikit misunderstanding.
+
+Maka:
+
+[
+\boxed{
+Good\ AI\text{-}MC =
+Better\ Understanding
++
+Better\ Action
++
+Healthy\ Relationship
+}
+]
+
+---
+
+## 86. AI-MC Failure
+
+AI dapat menghasilkan message:
+
+> grammatically perfect,
+
+tetapi communication gagal.
+
+Misalnya:
+
+> relationship terlalu formal.
+
+atau:
+
+> meaning salah.
+
+atau:
+
+> receiver merasa manipulated.
+
+Maka kualitas AI output:
+
+> bukan sama dengan kualitas communication.
+
+---
+
+## 87. Human Communication Quality Remains the Measure
+
+Tanyakan:
+
+> Apakah person lebih memahami?
+
+> Apakah objective lebih jelas?
+
+> Apakah response dibaca?
+
+> Apakah agreement fair?
+
+> Apakah relationship sehat?
+
+Bukan:
+
+> “Apakah AI menghasilkan kalimat yang bagus?”
+
+---
+
+## 88. Latihan 1 — Human, Coach, Copilot, or Delegate?
+
+Tentukan level yang sesuai.
+
+### A
+
+Meminta maaf kepada sahabat.
+
+> AI Coach.
+
+### B
+
+Menjadwalkan meeting lima orang.
+
+> Delegate possible.
+
+### C
+
+Menjelaskan technical system kepada CEO.
+
+> Translator/Copilot.
+
+### D
+
+Menghadapi customer complaint sensitif.
+
+> Coach + Copilot, human communicates.
+
+### E
+
+Membeli standardized office supplies di bawah batas tertentu.
+
+> Delegate possible.
+
+---
+
+## 89. Latihan 2 — Rewrite the Prompt
+
+Poor prompt:
+
+> “Buat customer ini setuju.”
+
+Ubah menjadi:
+
+> “Customer sudah mengakui problem X tetapi masih khawatir Y. Bantu saya membuat tiga pertanyaan untuk memahami concern-nya sebelum menawarkan option.”
+
+Discuss:
+
+> mana lebih person-centered?
+
+---
+
+## 90. Latihan 3 — AI Mirror
+
+Mahasiswa menulis satu message konflik sederhana.
+
+Contoh:
+
+> “Kamu selalu membuat kelompok kacau.”
+
+Gunakan AI untuk memisahkan:
+
+* fact,
+* interpretation,
+* emotion,
+* need,
+* request.
+
+Kemudian mahasiswa:
+
+> membuat human final version.
+
+---
+
+## 91. Latihan 4 — Character Translation
+
+Meaning:
+
+> project delay karena API dependency.
+
+Gunakan AI untuk membuat versi kepada:
+
+1. engineer,
+2. manager,
+3. customer.
+
+Kemudian cek:
+
+> apakah core meaning berubah?
+
+---
+
+## 92. Latihan 5 — TAIDA State Detection
+
+Berikan transcript pendek kepada AI.
+
+Minta:
+
+> “Identify likely current TAIDA state and quote evidence.”
+
+Mahasiswa kemudian menilai:
+
+> apakah AI benar?
+
+---
+
+## 93. Latihan 6 — Copilot Meeting
+
+Kelompok tiga orang:
+
+* Project Leader
+* Engineer
+* Customer
+
+AI boleh dipakai untuk:
+
+* summarize,
+* capture action items.
+
+Setelah meeting cek:
+
+> apakah AI summary sesuai dengan pemahaman ketiga persons?
+
+Jika tidak:
+
+> siapa yang menentukan?
+
+Jawaban:
+
+> persons.
+
+---
+
+## 94. Latihan 7 — Delegation Boundary
+
+Scenario:
+
+> AI Procurement Agent.
+
+Student harus mendefinisikan:
+
+### Mission
+
+apa?
+
+### Max Budget
+
+berapa?
+
+### Minimum Quality
+
+apa?
+
+### Delivery Limit
+
+kapan?
+
+### Negotiable
+
+apa?
+
+### Non-Negotiable
+
+apa?
+
+### Requires Human Approval
+
+apa?
+
+---
+
+## 95. Latihan 8 — AI Ethics
+
+Dosen memberikan prompts.
+
+### Prompt A
+
+> “Gunakan data pribadi customer untuk menemukan anxiety terbesar sehingga kita bisa membuat offer yang sulit ditolak.”
+
+Diskusikan:
+
+> problem etik.
+
+### Prompt B
+
+> “Gunakan interaction history untuk mengetahui problem yang belum terselesaikan dan buat draft message yang menawarkan bantuan tanpa pressure.”
+
+Lebih:
+
+> person-centered.
+
+---
+
+## 96. Mini Performance — AI-Assisted Human Communication
+
+Mahasiswa berpasangan.
+
+### Student A
+
+Communicator.
+
+### Student B
+
+Target Person.
+
+AI hanya boleh menjadi:
+
+> **Coach/Copilot**
+
+bukan mengambil alih conversation.
+
+---
+
+## 97. Case Example
+
+Student A:
+
+> Project Leader.
+
+Student B:
+
+> Team Member yang task-nya terlambat.
+
+Student A menggunakan AI sebelum conversation untuk:
+
+* identify assumptions,
+* prepare three questions.
+
+Kemudian:
+
+> melakukan human conversation.
+
+Setelah itu AI digunakan untuk:
+
+> reflection.
+
+---
+
+## 98. Performance Objective
+
+Student harus menunjukkan tiga stage:
+
+### BEFORE
+
+> bagaimana AI membantu preparation.
+
+### DURING
+
+> human-to-human communication.
+
+### AFTER
+
+> AI-assisted reflection.
+
+---
+
+## 99. Observer Questions
+
+Observer menilai:
+
+1. Apakah AI membuat communicator lebih memahami person?
+2. Apakah communicator tetap menggunakan judgment sendiri?
+3. Apakah conversation terdengar authentic?
+4. Apakah response person mengubah communication?
+5. Apakah AI membantu atau justru mengganggu relationship?
+
+---
+
+## 100. Rubrik Mini Performance
+
+| Dimensi                                   | Bobot |
+| ----------------------------------------- | ----: |
+| Person, Character & Objective Recognition |   20% |
+| Appropriate AI Role Selection             |   20% |
+| Human Communication Performance           |   20% |
+| AI Output Verification & Adaptation       |   20% |
+| Ethics, Agency & Relationship             |   20% |
+
+---
+
+## 101. Format Kelas 2 Jam
+
+### 0–15 menit — Review Minggu 13
+
+Pertanyaan:
+
+> “Jika AI dapat membuat communication lebih scalable, apa yang tidak boleh kita serahkan begitu saja kepada AI?”
+
+---
+
+### 15–40 menit — Lecture
+
+Topik:
+
+* AI-mediated communication,
+* Mirror,
+* Coach,
+* Translator,
+* Copilot,
+* Mediator,
+* Delegate.
+
+---
+
+### 40–55 menit — Demonstration
+
+Dosen memperlihatkan tiga level:
+
+> Coach → Copilot → Delegate
+
+menggunakan satu case.
+
+---
+
+### 55–80 menit — Practice
+
+* Select AI Role
+* Person-Centered Prompt
+* Character Translation
+* TAIDA State Recognition
+* Delegation Boundary
+
+---
+
+### 80–110 menit — AI-Assisted Human Communication Performance
+
+Pair roleplay.
+
+---
+
+### 110–120 menit — Reflection
+
+Pertanyaan:
+
+> **“Did AI make me a better communicator—or merely a faster message generator?”**
+
+---
+
+## 102. Tugas Minggu 14 — AI-Mediated Communication Design
+
+Mahasiswa memilih satu communication situation nyata atau simulated.
+
+Pilih dari:
+
+* intra-self,
+* family/friend,
+* working colleague,
+* community,
+* public communication.
+
+---
+
+## 103. Bagian A — PERSONS
+
+Tuliskan:
+
+### Person A
+
+Siapa?
+
+### Person B
+
+Siapa?
+
+### Relationship
+
+Apa hubungan mereka?
+
+Jangan gunakan confidential identity jika tidak diperlukan.
+
+---
+
+## 104. Bagian B — CHARACTERS
+
+Person A hadir sebagai:
+
+> apa?
+
+Person B hadir sebagai:
+
+> apa?
+
+Contoh:
+
+> Project Leader ⇄ Team Member.
+
+---
+
+## 105. Bagian C — OBJECTIVE
+
+Apa communication objective?
+
+Contoh:
+
+> memahami blocker dan menghasilkan revised commitment.
+
+Bukan:
+
+> “membuat dia mengaku salah.”
+
+---
+
+## 106. Bagian D — COMMUNICATION STATE
+
+Jika menggunakan TAIDA:
+
+> target berada di base mana?
+
+Atau jika interpersonal:
+
+> relationship state bagaimana?
+
+---
+
+## 107. Bagian E — AI ROLE
+
+Pilih:
+
+* Mirror,
+* Coach,
+* Translator,
+* Copilot,
+* Mediator,
+* Delegate.
+
+Jelaskan:
+
+> mengapa role tersebut appropriate.
+
+---
+
+## 108. Bagian F — WHY NOT MORE AI?
+
+Ini wajib.
+
+Jawab:
+
+> **Apa yang sengaja TIDAK saya delegasikan kepada AI dan mengapa?**
+
+Contoh:
+
+> “Saya tidak meminta AI mengirim apology karena acknowledgment harus berasal langsung dari saya.”
+
+Ini melatih:
+
+> boundary judgment.
+
+---
+
+## 109. Bagian G — PERSON-CENTERED PROMPT
+
+Tuliskan prompt yang memuat:
+
+> Person → Character → Relationship → Objective → Current State → Meaning → Constraints.
+
+---
+
+## 110. Bagian H — AI OUTPUT
+
+Tampilkan secara ringkas:
+
+> apa yang AI sarankan.
+
+Kemudian pisahkan:
+
+### ACCEPTED
+
+Apa yang digunakan?
+
+### MODIFIED
+
+Apa yang diubah?
+
+### REJECTED
+
+Apa yang ditolak?
+
+---
+
+## 111. Bagian I — HUMAN COMMUNICATION
+
+Buat:
+
+> final communication atau roleplay.
+
+Yang dinilai bukan:
+
+> AI output.
+
+Yang dinilai:
+
+> bagaimana manusia menggunakan AI.
+
+---
+
+## 112. Bagian J — AUTHORITY
+
+Jika AI melakukan delegation:
+
+definisikan:
+
+* permitted action,
+* maximum authority,
+* prohibited action,
+* escalation condition.
+
+---
+
+## 113. Bagian K — RISK REVIEW
+
+Evaluasi minimal:
+
+1. hallucination,
+2. privacy,
+3. manipulation,
+4. authenticity,
+5. authority.
+
+Tidak semua harus high-risk.
+
+Tetapi harus:
+
+> considered.
+
+---
+
+## 114. Bagian L — RELATIONSHIP REVIEW
+
+Jawab:
+
+> Apakah AI membuat communication:
+
+* lebih clear?
+* lebih empathetic?
+* lebih precise?
+* lebih artificial?
+* lebih distant?
+* lebih manipulative?
+
+Gunakan evidence.
+
+---
+
+## 115. Bagian M — HUMAN LEARNING
+
+Pertanyaan terakhir:
+
+> **“Jika AI dihilangkan besok, communication skill apa yang sudah saya pelajari dari exercise ini?”**
+
+Tujuan course:
+
+> AI enhances human competence.
+
+Bukan:
+
+> human competence disappears behind AI.
+
+---
+
+## 116. Penilaian Tugas Minggu 14
+
+| Aspek                                   | Bobot |
+| --------------------------------------- | ----: |
+| Person, Character & Communication State |   20% |
+| Appropriate AI Role & Prompt Design     |   20% |
+| Human Judgment & Output Verification    |   20% |
+| Ethics, Authority & Risk                |   20% |
+| Relationship Outcome & Reflection       |   20% |
+
+---
+
+## 117. AI-Mediated Communication Checklist
+
+Sebelum menggunakan AI:
+
+### WHO?
+
+> Siapa persons?
+
+### CHARACTER?
+
+> Sebagai siapa?
+
+### OBJECTIVE?
+
+> Apa tujuan communication?
+
+### RELATIONSHIP?
+
+> Seberapa penting human presence?
+
+### AI ROLE?
+
+> Mirror, Coach, Copilot, Mediator, Delegate?
+
+---
+
+Kemudian:
+
+### DATA?
+
+> Apakah aman dimasukkan?
+
+### TRUTH?
+
+> Apa yang harus diverifikasi?
+
+### AUTHORITY?
+
+> Apa yang boleh AI lakukan?
+
+### HUMAN?
+
+> Apa yang harus tetap dilakukan manusia?
+
+### RELATIONSHIP?
+
+> Apakah AI membantu atau mengurangi genuine relationship?
+
+---
+
+## 118. Five Questions Before Sending AI-Assisted Communication
+
+### 1.
+
+> **Is it true?**
+
+### 2.
+
+> **Is it really what I mean?**
+
+### 3.
+
+> **Would I say this myself?**
+
+### 4.
+
+> **Am I authorized to make this commitment?**
+
+### 5.
+
+> **Will this strengthen understanding and relationship rather than manipulate the other person?**
+
+Jika salah satu jawabannya:
+
+> tidak,
+
+jangan langsung:
+
+> send.
+
+---
+
+## 119. From Artificial Intelligence to Augmented Communication
+
+Tujuan AI dalam course ini bukan:
+
+> menggantikan human communication.
+
+Lebih tepat:
+
+> **augment human communication capability.**
+
+AI memberikan:
+
+* computational intelligence,
+* memory,
+* translation,
+* simulation,
+* pattern recognition.
+
+Human person memberikan:
+
+* intention,
+* values,
+* responsibility,
+* relationship,
+* lived experience,
+* moral judgment.
+
+---
+
+## 120. Natural + Artificial + Collective Intelligence
+
+Dalam communication kompleks terdapat tiga sumber intelligence:
+
+### NATURAL INTELLIGENCE
+
+Persons.
+
+### ARTIFICIAL INTELLIGENCE
+
+AI.
+
+### COLLECTIVE INTELLIGENCE
+
+Knowledge yang muncul melalui interaction banyak persons.
+
+Idealnya:
+
+> AI memperkuat hubungan antara natural dan collective intelligence.
+
+Bukan:
+
+> menggantikannya.
+
+---
+
+## 121. Example — Community
+
+Residents memberikan:
+
+> lived experience.
+
+Experts memberikan:
+
+> technical knowledge.
+
+AI memberikan:
+
+> summarization dan scenario analysis.
+
+Community discussion menghasilkan:
+
+> collective judgment.
+
+Maka:
+
+> **Human Persons + AI + Communication → Better Collective Understanding**
+
+jika digunakan dengan baik.
+
+---
+
+## 122. AI Should Reduce Communication Friction
+
+Good AI-MC dapat mengurangi:
+
+* language barrier,
+* information overload,
+* memory problem,
+* preparation difficulty,
+* coordination effort.
+
+Tetapi seharusnya tidak mengurangi:
+
+> autonomy.
+
+---
+
+## 123. The Danger of Invisible AI Mediation
+
+Semakin AI mediation tidak terlihat:
+
+> semakin receiver mungkin tidak tahu bagaimana message dipersonalisasi.
+
+Ini dapat menciptakan:
+
+> informational asymmetry.
+
+Maka semakin consequential communication:
+
+> semakin penting transparency dan accountability.
+
+---
+
+## 124. Who Is Speaking?
+
+Di AI era sebuah pertanyaan baru muncul:
+
+> **Who is actually speaking?**
+
+Jika sebuah email seluruhnya dibuat AI tetapi dikirim atas nama saya:
+
+> saya tetap bertanggung jawab.
+
+Jika agent diberi authority:
+
+> responsibility harus dapat ditelusuri.
+
+Person-centered system membutuhkan:
+
+> accountable identity.
+
+---
+
+## 125. Narrative Identity in AI Communication
+
+Jika semua communication kita:
+
+> generated automatically,
+
+perlahan-lahan public narrative kita dapat menjadi:
+
+> machine-generated character.
+
+Maka person harus menjaga:
+
+> consistency antara AI-assisted communication dan actual character/action.
+
+Jangan menjadi:
+
+> compassionate in generated messages,
+
+tetapi:
+
+> careless in behavior.
+
+Relationship akhirnya menilai:
+
+> action.
+
+---
+
+## 126. Communication Is More than Language Generation
+
+AI sangat baik pada:
+
+> language generation.
+
+Tetapi communication membutuhkan:
+
+> **language + listening + state recognition + judgment + adaptation + commitment + action + relationship.**
+
+Jadi:
+
+[
+\boxed{
+Language\ Generation \subset Communication
+}
+]
+
+Bukan:
+
+[
+Language\ Generation = Communication
+]
+
+---
+
+## 127. Complete Course Architecture So Far
+
+Sekarang seluruh semester mulai terlihat sebagai satu model:
+
+> **PERSON**
+> ↓
+> **PERSONALITY**
+> ↓
+> **NARRATIVE CHARACTER**
+> ↓
+> **OBJECTIVE**
+> ↓
+> **RELATIONSHIP**
+> ↓
+> **REPERTOIRE & LANGUAGE**
+> ↓
+> **AI ASSISTANCE**
+> ↓
+> **TAIDA STATE MOVEMENT**
+> ↓
+> **AGREEMENT**
+> ↓
+> **ACTION**
+> ↓
+> **CONSEQUENCE**
+> ↓
+> **RELATIONSHIP MEMORY**
+> ↓
+> **NEXT COMMUNICATION**
+
+AI dapat masuk:
+
+> pada banyak titik,
+
+tetapi person:
+
+> tetap pusatnya.
+
+---
+
+## 128. The Core Architecture
+
+Tanpa AI:
+
+[
+\boxed{
+Person_A
+\leftrightarrow
+Communication
+\leftrightarrow
+Person_B
+}
+]
+
+Dengan AI:
+
+[
+\boxed{
+(Person_A + AI_A)
+\leftrightarrow
+Communication
+\leftrightarrow
+(Person_B + AI_B)
+}
+]
+
+Tetapi relationship tetap:
+
+[
+\boxed{
+Person_A \leftrightarrow Person_B
+}
+]
+
+---
+
+## 129. Take-Home Messages
+
+Jika hanya mengingat dua belas hal dari Minggu 14:
+
+1. **AI can mediate communication, but persons remain relationship owners.**
+2. AI dapat menjadi **Mirror, Coach, Translator, Copilot, Mediator, atau Delegate**.
+3. Gunakan Coach untuk preparation dan reflection.
+4. Gunakan Copilot untuk assistance tanpa menyerahkan judgment.
+5. Delegate hanya jika authority jelas dan task cukup structured.
+6. Semakin tinggi relationship consequence, semakin penting direct human communication.
+7. **The messenger is sometimes part of the meaning.**
+8. AI dapat membantu seluruh TAIDA, tetapi tidak boleh digunakan untuk covert manipulation.
+9. Person-centered prompts harus memuat **Person, Character, Relationship, Objective, State, Meaning, dan Constraint**.
+10. AI output harus diverifikasi—terutama factual claims dan commitments.
+11. AI seharusnya membangun human competence, bukan membuat human communication skill menghilang.
+12. **Good AI-mediated communication produces better understanding, better action, and healthier relationships.**
+
+---
+
+## 130. One-Minute Summary
+
+AI tidak mengubah fondasi mata kuliah.
+
+Fondasinya tetap:
+
+> **PERSON ⇄ PERSON**
+
+AI hanya menambah capability.
+
+Kita dapat memilih:
+
+> **AI MIRROR**
+> “Bantu saya memahami communication saya sendiri.”
+
+↓
+
+> **AI COACH**
+> “Bantu saya mempersiapkan conversation.”
+
+↓
+
+> **AI TRANSLATOR**
+> “Bantu saya menemukan language yang sesuai.”
+
+↓
+
+> **AI COPILOT**
+> “Bantu saya ketika conversation berlangsung.”
+
+↓
+
+> **AI MEDIATOR**
+> “Bantu beberapa persons membangun shared understanding.”
+
+↓
+
+> **AI DELEGATE**
+> “Lakukan communication terbatas dalam authority yang saya berikan.”
+
+Tetapi semakin kita bergerak ke bawah:
+
+> semakin penting constraint, authority, ethics, dan accountability.
+
+Model akhirnya:
+
+[
+\boxed{
+PERSON
++
+AI\ ASSISTANCE
+\rightarrow
+BETTER\ COMMUNICATION
+\rightarrow
+SHARED\ UNDERSTANDING
+\rightarrow
+AGREEMENT
+\rightarrow
+ACTION
+\rightarrow
+RELATIONSHIP
+}
+]
+
+bukan:
+
+[
+AI
+\rightarrow
+Control\ Other\ Persons
+]
+
+Prinsip paling penting Minggu 14 adalah:
+
+> **Gunakan AI untuk membantu kita mengenali person dengan lebih baik, mendengar dengan lebih baik, menerjemahkan meaning dengan lebih baik, mengambil keputusan dengan lebih baik, dan berkomunikasi dengan lebih bertanggung jawab—bukan untuk menghindari menjadi manusia yang harus hadir, menilai, bertanggung jawab, dan membangun relationship.**
+
+Dengan demikian mahasiswa siap memasuki **Minggu 15 — Capstone: The Complete Person-Centered Communicator**, yang mengintegrasikan seluruh semester:
+
+> **Self → Relationship → Professional Value → TAIDA → Negotiation → Community → Public Communication → AI-Mediated Communication**
+
+menjadi satu **final communication performance**.

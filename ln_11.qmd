@@ -1,0 +1,2891 @@
+# MINGGU 11 — MULTI-PERSON NEGOTIATION
+
+:::{.callout-tip}
+## Dari Kesepakatan Dua Orang menuju Kesepakatan Banyak Stakeholder
+
+**Mata Kuliah:** Person-Centered Communication in the AI Era
+**Tingkat:** Mahasiswa Tahun 2
+**Durasi:** 2 jam
+**Domain:** Working Colleagues → Multi-Stakeholder Communication
+**Tema Besar:** *How can multiple persons with different objectives reach an acceptable agreement for coordinated action?*
+:::
+
+---
+
+## 1. Dari Two-Person Communication menuju Multi-Person Communication
+
+Sampai Minggu 10 kita banyak menggunakan model:
+
+> **PERSON A ⇄ PERSON B**
+
+Kita belajar membawa komunikasi melalui Baseball Model:
+
+> **TARGET → ATTENTION → INTEREST → DESIRE → ACTION**
+
+Pada akhirnya dua person dapat mencapai:
+
+> **Agreement → Commitment → Action**
+
+Namun kehidupan nyata jarang hanya terdiri dari dua orang.
+
+Dalam sebuah project sederhana saja dapat terdapat:
+
+* user,
+* engineer,
+* project leader,
+* finance,
+* manager,
+* vendor.
+
+Dalam masalah komunitas dapat terdapat:
+
+* warga,
+* pemerintah,
+* bisnis,
+* organisasi masyarakat,
+* ahli,
+* media.
+
+Mereka semua dapat mempunyai:
+
+> objective yang berbeda,
+
+> constraints yang berbeda,
+
+> values yang berbeda,
+
+> authority yang berbeda,
+
+> dan language yang berbeda.
+
+Maka Minggu 11 mengajukan pertanyaan:
+
+> **Bagaimana beberapa persons dengan kepentingan berbeda dapat memperoleh sufficient agreement untuk bertindak bersama?**
+
+---
+
+## 2. Learning Objectives Minggu 11
+
+Setelah mengikuti pertemuan ini mahasiswa mampu:
+
+1. membedakan **two-person** dan **multi-person communication**;
+2. mengenali stakeholders sebagai **persons playing different narrative characters**;
+3. memetakan objective, interest, constraint, value, authority, dan acceptable outcome setiap stakeholder;
+4. membedakan **position** dan **interest**;
+5. memahami bahwa agreement tidak harus berarti semua pihak mempunyai pendapat yang sama;
+6. mencari **acceptable agreement**, bukan memaksakan satu optimum kepada semua;
+7. menghasilkan beberapa options sebelum memilih solution;
+8. melakukan multi-person negotiation sederhana;
+9. mengenali konflik antara individual value dan collective value;
+10. menjaga relationship ketika kepentingan berbeda;
+11. menggunakan AI sebagai **stakeholder simulator, option generator, dan negotiation coach**;
+12. memahami batas penggunaan AI agent dalam mewakili human stakeholders.
+
+---
+
+## 3. Communication Menjadi Lebih Sulit Ketika Person Bertambah
+
+Dalam komunikasi dua orang:
+
+> Person A ⇄ Person B
+
+Jika A dan B sepakat:
+
+> action dapat dimulai.
+
+Dalam komunikasi empat orang:
+
+> Person A
+> Person B
+> Person C
+> Person D
+
+sebuah proposal mungkin:
+
+* sangat baik bagi A,
+* cukup baik bagi B,
+* buruk bagi C,
+* tidak dapat diterima oleh D.
+
+Maka:
+
+> **good solution for one person is not automatically a good agreement for the system.**
+
+---
+
+## 4. Contoh Sederhana
+
+Bayangkan kampus ingin membuat sistem pemesanan makanan digital.
+
+### Student
+
+Objective:
+
+> antrean lebih pendek.
+
+### Canteen Owner
+
+Objective:
+
+> penjualan meningkat tanpa menambah staff.
+
+### Cashier
+
+Objective:
+
+> workflow tidak menjadi lebih rumit.
+
+### IT Team
+
+Objective:
+
+> sistem reliable dan manageable.
+
+### Finance
+
+Objective:
+
+> biaya tidak terlalu besar.
+
+Solution yang disukai mahasiswa:
+
+> mobile app lengkap.
+
+Tetapi cashier mungkin mengatakan:
+
+> “Kalau harus mengoperasikan dua sistem sekaligus, pekerjaan saya justru lebih sulit.”
+
+Artinya:
+
+> satu stakeholder memperoleh value, stakeholder lain menerima cost.
+
+---
+
+## 5. Stakeholder Bukan Hanya Kotak dalam Diagram
+
+Kita sering menggambar:
+
+> Customer
+> Manager
+> Employee
+> Regulator
+
+Tetapi person-centered communication mengingatkan:
+
+> **di balik setiap kotak terdapat person.**
+
+Bukan hanya:
+
+> “Finance menolak.”
+
+Tetapi mungkin:
+
+> “Rina, yang bertanggung jawab atas anggaran semester ini, khawatir biaya operasi berulang akan melewati budget.”
+
+Ketika kita kembali melihat:
+
+> person + character + objective,
+
+communication menjadi lebih human dan lebih precise.
+
+---
+
+## 6. Stakeholder sebagai Narrative Character
+
+Dalam Minggu 11 gunakan model:
+
+> **PERSON → CHARACTER → OBJECTIVE → INTEREST → CONSTRAINT → ACCEPTABLE OUTCOME**
+
+Contoh:
+
+### Person
+
+Budi
+
+### Character
+
+Canteen Owner
+
+### Objective
+
+Mengurangi antrean tanpa menurunkan omzet.
+
+### Interest
+
+Transaksi cepat, customer tetap membeli.
+
+### Constraint
+
+Tidak dapat menambah dua cashier baru.
+
+### Acceptable Outcome
+
+Waktu antrean turun secara nyata dengan tambahan biaya yang masih manageable.
+
+---
+
+## 7. Objective Tidak Selalu Sama
+
+Beberapa stakeholder dapat mempunyai objective yang saling mendukung.
+
+Contoh:
+
+Student:
+
+> antrean singkat.
+
+Owner:
+
+> transaksi cepat.
+
+Cashier:
+
+> workflow sederhana.
+
+Ketiganya bisa memperoleh benefit dari:
+
+> faster transaction.
+
+Tetapi ada juga objective yang bertentangan.
+
+Owner:
+
+> ingin biaya minimum.
+
+Developer:
+
+> membutuhkan resource untuk membuat sistem reliable.
+
+Sekarang diperlukan:
+
+> **negotiation.**
+
+---
+
+## 8. Shared Mission Tidak Berarti Identical Objectives
+
+Dalam project, semua dapat mempunyai shared mission:
+
+> “Memperbaiki layanan kantin.”
+
+Tetapi masing-masing tetap membawa objective sendiri.
+
+Jadi:
+
+> **Shared Mission ≠ Identical Interests**
+
+Justru negotiation diperlukan karena:
+
+> persons ingin bekerja bersama tanpa kehilangan seluruh kepentingannya sendiri.
+
+---
+
+## 9. Position dan Interest — Review
+
+Minggu 10 kita membedakan:
+
+### POSITION
+
+> Apa yang diminta.
+
+### INTEREST
+
+> Mengapa hal tersebut penting.
+
+Dalam multi-person negotiation, distinction ini menjadi jauh lebih penting.
+
+---
+
+## 10. Contoh Positions
+
+Student:
+
+> “Harus ada mobile app.”
+
+Cashier:
+
+> “Saya tidak mau sistem baru.”
+
+Owner:
+
+> “Budget maksimal Rp5 juta.”
+
+Developer:
+
+> “Kami butuh dua bulan.”
+
+Jika hanya positions yang dipertukarkan:
+
+> discussion mudah menjadi battle.
+
+---
+
+## 11. Cari Interests di Baliknya
+
+Student:
+
+> “Mengapa harus mobile app?”
+
+Interest:
+
+> ingin memesan sebelum mencapai kasir.
+
+Cashier:
+
+> “Mengapa tidak mau sistem baru?”
+
+Interest:
+
+> takut workflow bertambah kompleks.
+
+Owner:
+
+> “Mengapa budget Rp5 juta?”
+
+Interest:
+
+> cash flow semester ini terbatas.
+
+Developer:
+
+> “Mengapa dua bulan?”
+
+Interest:
+
+> perlu testing agar system reliable.
+
+Sekarang kita memiliki:
+
+> ruang untuk mencari configuration alternatif.
+
+---
+
+## 12. Multi-Stakeholder Map
+
+Gunakan tabel:
+
+| Stakeholder / Character | Objective          | Interest               | Constraint      | Authority | Acceptable Outcome           |
+| ----------------------- | ------------------ | ---------------------- | --------------- | --------- | ---------------------------- |
+| Student/User            | antrean pendek     | cepat mendapat makanan | waktu terbatas  | rendah    | proses lebih cepat           |
+| Owner                   | omzet & service    | throughput tinggi      | budget          | tinggi    | benefit > cost               |
+| Cashier                 | workflow sederhana | beban kerja terkendali | kapasitas staff | sedang    | tidak menambah langkah rumit |
+| Developer               | system bekerja     | maintainability        | waktu/resource  | sedang    | scope realistis              |
+| Finance                 | cost control       | budget sustainability  | dana            | tinggi    | biaya acceptable             |
+
+Tidak perlu dibuat sangat kompleks.
+
+Tujuannya:
+
+> **make differences visible.**
+
+---
+
+## 13. Authority Juga Berbeda
+
+Tidak semua stakeholder mempunyai authority yang sama.
+
+### User
+
+Mungkin mempunyai:
+
+> experience authority.
+
+Ia tahu:
+
+> bagaimana rasanya menggunakan layanan.
+
+Tetapi tidak mempunyai:
+
+> procurement authority.
+
+### Finance
+
+Mempunyai:
+
+> budget authority.
+
+Tetapi mungkin tidak memahami:
+
+> user experience.
+
+### Engineer
+
+Mempunyai:
+
+> technical authority.
+
+Tetapi belum tentu:
+
+> business authority.
+
+Karena itu good negotiation membutuhkan:
+
+> **multiple forms of knowledge and authority.**
+
+---
+
+## 14. Jangan Mengabaikan Low-Power Stakeholder
+
+Kesalahan umum:
+
+> hanya berkomunikasi dengan orang yang mempunyai formal authority.
+
+Misalnya manager menyetujui system.
+
+Tetapi cashier yang harus menggunakannya:
+
+> tidak pernah diajak bicara.
+
+Akibatnya:
+
+> technically approved,
+
+> operationally rejected.
+
+Person-centered communication memperhatikan:
+
+> **persons affected by the action, not only persons signing the decision.**
+
+---
+
+## 15. Agreement Bukan Consensus of Thought
+
+Ini salah satu konsep terpenting minggu ini.
+
+Lima stakeholder tidak harus mengatakan:
+
+> “Saya setuju solution ini adalah solution terbaik secara teori.”
+
+Cukup jika mereka dapat mengatakan:
+
+> **“Arrangement ini cukup acceptable sehingga kita dapat melakukannya bersama.”**
+
+Maka:
+
+> **Agreement ≠ identical belief**
+
+Agreement lebih praktis:
+
+> **sufficient compatibility for coordinated action.**
+
+---
+
+## 16. Contoh
+
+Engineer:
+
+> lebih suka system A.
+
+Manager:
+
+> lebih suka system B.
+
+Mereka tidak harus sepakat system mana:
+
+> “paling elegan.”
+
+Mereka dapat sepakat:
+
+> “Kita test A dan B selama satu minggu dengan criteria yang sama, lalu memilih berdasarkan hasil.”
+
+Disagreement tetap ada.
+
+Action tetap mungkin.
+
+---
+
+## 17. Acceptable Agreement
+
+Kita dapat menggambarkan setiap stakeholder mempunyai:
+
+> **acceptable region.**
+
+Untuk Person A:
+
+[
+A_1
+]
+
+Person B:
+
+[
+A_2
+]
+
+Person C:
+
+[
+A_3
+]
+
+dan seterusnya.
+
+Agreement harus berada pada:
+
+[
+\boxed{
+A^* \in A_1 \cap A_2 \cap A_3 \dots \cap A_n
+}
+]
+
+Artinya:
+
+> sebuah configuration yang masih dapat diterima semua pihak yang diperlukan untuk action.
+
+---
+
+## 18. Kita Tidak Selalu Mencari Single Optimum
+
+Traditional optimization mungkin bertanya:
+
+> “Apa solution paling efisien?”
+
+Tetapi bagi siapa?
+
+Contoh:
+
+Mengurangi jumlah staff mungkin:
+
+> paling murah bagi finance.
+
+Tetapi:
+
+> buruk bagi service,
+
+> buruk bagi employee,
+
+> buruk bagi customer.
+
+Multi-stakeholder communication mencari:
+
+> **acceptable balance among objectives and constraints.**
+
+---
+
+## 19. Acceptable Bukan Berarti Semua Sangat Senang
+
+Misalnya:
+
+Customer ingin:
+
+> harga Rp5 juta.
+
+Provider ingin:
+
+> Rp10 juta.
+
+Agreement:
+
+> Rp7,5 juta dengan scope dikurangi.
+
+Customer mungkin tidak memperoleh:
+
+> semua fitur.
+
+Provider tidak memperoleh:
+
+> seluruh revenue.
+
+Tetapi keduanya mengatakan:
+
+> “Ini masih workable.”
+
+Itu:
+
+> acceptable agreement.
+
+---
+
+## 20. No Agreement Tetap Possible
+
+Jika tidak ada intersection:
+
+> jangan membuat fake consensus.
+
+Misalnya:
+
+Safety officer mengatakan:
+
+> solution tidak memenuhi requirement keselamatan minimum.
+
+Jika requirement tersebut non-negotiable:
+
+> tidak boleh diabaikan demi consensus.
+
+Communication harus mampu mengatakan:
+
+> **“Belum ada acceptable agreement.”**
+
+---
+
+## 21. Constraints Tidak Semuanya Bisa Dinegosiasikan
+
+Bedakan:
+
+### PREFERENCE
+
+> “Saya lebih suka selesai Jumat.”
+
+Mungkin negotiable.
+
+### CONSTRAINT
+
+> “Undang-undang mewajibkan data tertentu disimpan dengan cara tertentu.”
+
+Bisa non-negotiable.
+
+### VALUE
+
+> “Kami tidak mau membuat system yang membahayakan pengguna.”
+
+Mungkin fundamental.
+
+Communication harus mengetahui:
+
+> apa yang dapat diubah dan apa yang tidak.
+
+---
+
+## 22. Negotiation Bukan Compromise Secara Otomatis
+
+Compromise:
+
+> masing-masing mengurangi tuntutan.
+
+Tetapi negotiation yang baik kadang menemukan:
+
+> solution baru.
+
+Contoh:
+
+A:
+
+> ingin meeting pagi.
+
+B:
+
+> ingin meeting sore.
+
+Compromise sederhana:
+
+> siang.
+
+Tetapi mungkin interests:
+
+A:
+
+> butuh keputusan sebelum bekerja.
+
+B:
+
+> pagi punya kelas.
+
+Option baru:
+
+> asynchronous decision proposal malam sebelumnya + 15-minute confirmation siang.
+
+Ini bukan sekadar:
+
+> titik tengah.
+
+Ini:
+
+> **reconfiguration.**
+
+---
+
+## 23. Generate Options Before Deciding
+
+Salah satu rule Minggu 11:
+
+> **Do not negotiate only one solution. Generate options.**
+
+Jika hanya satu solution:
+
+> setiap objection terasa seperti rejection.
+
+Jika ada lima options:
+
+> kita dapat compare dan combine.
+
+---
+
+## 24. Option Generation
+
+Untuk setiap conflict tanyakan:
+
+> “Apa lagi yang mungkin?”
+
+Misalnya system implementation:
+
+### Option A
+
+Full deployment.
+
+### Option B
+
+Pilot satu team.
+
+### Option C
+
+Manual process improvement dulu.
+
+### Option D
+
+Integrate ke tool lama.
+
+### Option E
+
+Postpone sampai budget berikutnya.
+
+Baru stakeholder menilai:
+
+> acceptability.
+
+---
+
+## 25. Separate Generation from Evaluation
+
+Dalam tahap awal:
+
+> generate options.
+
+Jangan langsung mengatakan:
+
+> “Itu tidak bisa.”
+
+Setelah beberapa options terkumpul:
+
+> evaluate.
+
+Ini mencegah discussion terlalu cepat menjadi:
+
+> defense of positions.
+
+---
+
+## 26. Common Ground
+
+Cari hal yang memang sudah shared.
+
+Contoh:
+
+Semua pihak sepakat:
+
+> antrean terlalu panjang.
+
+Semua sepakat:
+
+> tidak ingin service menurun.
+
+Semua sepakat:
+
+> staff tidak boleh kewalahan.
+
+Common ground menjadi:
+
+> starting platform.
+
+Kemudian disagreement ditangani:
+
+> satu per satu.
+
+---
+
+## 27. Shared Problem Before Shared Solution
+
+Seperti Minggu 5:
+
+> jangan buru-buru solution.
+
+Dalam multi-person negotiation terlebih dahulu tanyakan:
+
+> **Do we agree what the problem actually is?**
+
+Student:
+
+> “Masalahnya antrean.”
+
+Owner:
+
+> “Masalahnya justru transaksi pembayaran lambat.”
+
+Cashier:
+
+> “Masalahnya banyak customer baru memilih menu ketika sudah di kasir.”
+
+Ternyata:
+
+> problem framing berbeda.
+
+Negotiation solution tidak akan efektif sebelum:
+
+> shared problem model cukup jelas.
+
+---
+
+## 28. Multi-Person Communication Loop
+
+Gunakan:
+
+> **MAP PERSONS**
+> ↓
+> **UNDERSTAND OBJECTIVES**
+> ↓
+> **DISCOVER INTERESTS & CONSTRAINTS**
+> ↓
+> **ESTABLISH COMMON GROUND**
+> ↓
+> **DEFINE SHARED PROBLEM**
+> ↓
+> **GENERATE OPTIONS**
+> ↓
+> **TEST ACCEPTABILITY**
+> ↓
+> **NEGOTIATE TRADE-OFFS**
+> ↓
+> **FORM AGREEMENT**
+> ↓
+> **DEFINE ACTION**
+
+---
+
+## 29. Person-Centered Listening dalam Group
+
+Dalam group discussion masalah besar adalah:
+
+> orang berbicara,
+
+tetapi tidak saling mendengar.
+
+Good facilitator dapat melakukan:
+
+> paraphrasing.
+
+Contoh:
+
+> “Saya dengar tiga concern berbeda. Owner khawatir cost, cashier khawatir complexity, dan student khawatir waiting time. Apakah itu cukup tepat?”
+
+Sekarang:
+
+> differences menjadi visible tanpa menyerang persons.
+
+---
+
+## 30. Turn Conflict into Information
+
+Cashier:
+
+> “Saya tidak mau pakai aplikasi baru.”
+
+Jangan langsung:
+
+> “Cashier menolak innovation.”
+
+Tanyakan:
+
+> “Apa yang paling dikhawatirkan dari aplikasi baru?”
+
+Cashier:
+
+> “Kami sekarang sudah harus membuka dua layar saat transaksi.”
+
+Sekarang objection menjadi:
+
+> design information.
+
+---
+
+## 31. Conflict Is Often a Signal of Missing Information
+
+Conflict dapat menunjukkan:
+
+* objective belum terlihat,
+* constraint belum diketahui,
+* definition berbeda,
+* value berbeda,
+* trust rendah,
+* authority unclear.
+
+Jadi:
+
+> **conflict is not always communication failure.**
+
+Conflict sering merupakan:
+
+> information about incompatibility that must be understood.
+
+---
+
+## 32. Language Differences Antara Stakeholders
+
+Engineer mengatakan:
+
+> latency.
+
+Manager:
+
+> service performance.
+
+Finance:
+
+> cost.
+
+Customer:
+
+> waiting time.
+
+Semua mungkin membicarakan:
+
+> fenomena yang sama.
+
+Facilitator perlu menerjemahkan.
+
+Misalnya:
+
+> “Peningkatan latency yang disebut tim teknis berarti customer sekarang menunggu rata-rata enam detik lebih lama pada checkout.”
+
+Sekarang:
+
+> shared language mulai terbentuk.
+
+---
+
+## 33. Shared Language
+
+Multi-person agreement sulit jika masing-masing menggunakan:
+
+> professional language sendiri.
+
+Tujuannya bukan menghilangkan specialized language.
+
+Tetapi membuat:
+
+> **translation layer.**
+
+Engineer tetap boleh berkata:
+
+> “latency.”
+
+Finance tetap boleh berkata:
+
+> “operating cost.”
+
+Tetapi semua harus memahami:
+
+> relationship antar-concepts tersebut.
+
+---
+
+## 34. Repertoire untuk Multi-Person Communication
+
+Useful repertoire:
+
+* listening,
+* questioning,
+* paraphrasing,
+* summarizing,
+* visual mapping,
+* stakeholder map,
+* option table,
+* trade-off matrix,
+* scenario,
+* prototype,
+* voting,
+* ranking,
+* written agreement.
+
+Semakin banyak persons:
+
+> external representation menjadi semakin penting.
+
+---
+
+## 35. Why Visual Mapping Helps
+
+Jika lima orang berbicara selama 30 menit:
+
+> working memory menjadi penuh.
+
+Gunakan board:
+
+| Issue        | Student      | Owner  | Cashier | IT     |
+| ------------ | ------------ | ------ | ------- | ------ |
+| Waiting time | high concern | high   | medium  | medium |
+| Cost         | low          | high   | low     | medium |
+| Complexity   | low          | medium | high    | high   |
+
+Sekarang group dapat melihat:
+
+> pattern.
+
+---
+
+## 36. Jangan Mengubah Matrix Menjadi Person
+
+Tabel membantu.
+
+Tetapi:
+
+> tabel bukan person.
+
+Jika matrix mengatakan:
+
+> “Cashier = high resistance”
+
+jangan berhenti di situ.
+
+Tanyakan:
+
+> “Apa pengalaman cashier sebenarnya?”
+
+Data membantu communication.
+
+Data tidak menggantikan person.
+
+---
+
+## 37. Multi-Stakeholder TAIDA
+
+TAIDA juga dapat terjadi pada group.
+
+Tetapi stakeholder tidak selalu berada di base yang sama.
+
+Contoh:
+
+Student:
+
+> sudah Desire.
+
+Owner:
+
+> baru Interest.
+
+Finance:
+
+> baru Attention.
+
+Cashier:
+
+> bahkan belum menganggap ada problem.
+
+Maka:
+
+> **one group can contain multiple communication states simultaneously.**
+
+---
+
+## 38. Jangan Memberi Pitch yang Sama kepada Semua
+
+Jika Finance masih di Attention:
+
+> ia butuh problem relevance.
+
+Jika Owner di Interest:
+
+> ia butuh relevant solution.
+
+Jika Student di Desire:
+
+> ia memikirkan implementation.
+
+Satu presentation besar yang sama:
+
+> mungkin tidak cocok untuk semua.
+
+Ini salah satu alasan multi-person communication lebih sulit.
+
+---
+
+## 39. State Map
+
+Contoh:
+
+| Stakeholder   | TAIDA State      |
+| ------------- | ---------------- |
+| Students      | Desire           |
+| Canteen Owner | Interest         |
+| Cashier       | Attention        |
+| Finance       | Target/Attention |
+| IT            | Interest         |
+
+Facilitator perlu memutuskan:
+
+> siapa membutuhkan conversation apa.
+
+---
+
+## 40. Agreement Does Not Require Equal State History
+
+Semua tidak harus melewati pitch yang identik.
+
+Yang diperlukan sebelum final Action adalah:
+
+> stakeholder yang relevan cukup memahami arrangement dan menerima commitment sesuai authority mereka.
+
+---
+
+## 41. Relationship Network
+
+Dalam multi-person setting tidak hanya ada satu relationship.
+
+Ada:
+
+> Student ⇄ Owner
+
+> Owner ⇄ Cashier
+
+> Cashier ⇄ IT
+
+> IT ⇄ Finance
+
+> Finance ⇄ Management
+
+Maka agreement yang menguntungkan satu relationship dapat:
+
+> merusak yang lain.
+
+Contoh:
+
+Owner berjanji kepada customer:
+
+> implementasi besok
+
+tanpa bicara dengan developer.
+
+Customer senang.
+
+Owner–Developer trust:
+
+> rusak.
+
+---
+
+## 42. Never Promise on Behalf of Another Person Without Authority
+
+Rule penting:
+
+> **Do not commit resources, time, or responsibility belonging to another person unless you have authority.**
+
+Contoh salah:
+
+> “IT pasti bisa selesai Jumat.”
+
+Padahal IT belum diajak bicara.
+
+Lebih baik:
+
+> “Jumat adalah target yang diinginkan. Kita perlu mengecek feasibility dengan tim IT sebelum membuat commitment.”
+
+---
+
+## 43. Agreement Requires Role Clarity
+
+Multi-person agreement sebaiknya menjawab:
+
+### WHO DECIDES?
+
+Siapa decision authority?
+
+### WHO DOES?
+
+Siapa operator?
+
+### WHO PROVIDES?
+
+Siapa memberi resource/information?
+
+### WHO RECEIVES?
+
+Siapa user/beneficiary?
+
+### WHO CHECKS?
+
+Siapa memastikan outcome?
+
+---
+
+## 44. A Simple Role Model
+
+Untuk mahasiswa, gunakan empat role sederhana:
+
+### USER
+
+Menerima/use value.
+
+### SOURCE
+
+Menyediakan resource/input.
+
+### OPERATOR
+
+Melakukan proses.
+
+### REGULATOR
+
+Menetapkan/check rules.
+
+Satu person dapat memainkan lebih dari satu role.
+
+Model ini membantu melihat:
+
+> siapa perlu berkomunikasi dengan siapa.
+
+---
+
+## 45. Contoh Kantin
+
+### USER
+
+Mahasiswa.
+
+### SOURCE
+
+Tenant menyediakan makanan dan data menu.
+
+### OPERATOR
+
+Cashier/kitchen.
+
+### REGULATOR
+
+Pengelola kampus untuk aturan pembayaran/kebersihan.
+
+Developer:
+
+> enabling service provider.
+
+Sekarang solution harus mempertimbangkan:
+
+> seluruh configuration.
+
+---
+
+## 46. Trade-Off
+
+Agreement sering membutuhkan trade-off.
+
+Contoh:
+
+### Faster Deployment
+
+mungkin menghasilkan:
+
+> fewer features.
+
+### Lower Cost
+
+mungkin menghasilkan:
+
+> smaller scope.
+
+### Higher Security
+
+mungkin menghasilkan:
+
+> more login steps.
+
+### More Automation
+
+mungkin menghasilkan:
+
+> higher implementation effort.
+
+Good communication membuat trade-off:
+
+> explicit.
+
+---
+
+## 47. Hidden Trade-Off Is Dangerous
+
+Buruk:
+
+> “Kita bisa membuatnya lebih aman dan lebih mudah dan lebih murah dan lebih cepat.”
+
+Mungkin tidak realistis.
+
+Lebih professional:
+
+> “Option A lebih murah tetapi masih membutuhkan input manual. Option B lebih otomatis tetapi biaya implementasi lebih tinggi.”
+
+Sekarang stakeholder dapat:
+
+> make informed choice.
+
+---
+
+## 48. Option Table
+
+| Option             | Benefit   | Cost   | Effort | Risk   |
+| ------------------ | --------- | ------ | ------ | ------ |
+| A — Process only   | medium    | low    | low    | low    |
+| B — Simple digital | high      | medium | medium | medium |
+| C — Full system    | very high | high   | high   | medium |
+
+Tidak untuk menemukan:
+
+> formula ajaib.
+
+Tetapi membantu:
+
+> structured conversation.
+
+---
+
+## 49. Negotiating Trade-Offs
+
+Tanyakan:
+
+> “Dimensi mana yang tidak boleh dikorbankan?”
+
+Finance:
+
+> cost ceiling.
+
+IT:
+
+> minimum security.
+
+User:
+
+> usability.
+
+Sekarang group dapat mencari:
+
+> configuration yang memenuhi minimum constraints tersebut.
+
+---
+
+## 50. Minimum Acceptable Conditions
+
+Setiap stakeholder dapat memiliki:
+
+> **must-have**
+
+dan:
+
+> **nice-to-have.**
+
+Contoh:
+
+### Cashier
+
+Must-have:
+
+> tidak perlu input order dua kali.
+
+Nice-to-have:
+
+> tampilan lebih modern.
+
+### Finance
+
+Must-have:
+
+> biaya < budget ceiling.
+
+Nice-to-have:
+
+> monthly report otomatis.
+
+Negotiation menjadi lebih mudah ketika:
+
+> priorities jelas.
+
+---
+
+## 51. Agreement Ladder
+
+Sebuah group dapat membangun agreement sedikit demi sedikit.
+
+### Agreement 1
+
+> “Kita sepakat antrean adalah problem.”
+
+### Agreement 2
+
+> “Kita sepakat bottleneck utama ada pada ordering.”
+
+### Agreement 3
+
+> “Kita sepakat pilot digital ordering layak diuji.”
+
+### Agreement 4
+
+> “Kita sepakat pilot satu tenant dua minggu.”
+
+### Agreement 5
+
+> “Kita sepakat responsibilities berikut…”
+
+Jangan selalu mencoba:
+
+> one giant yes.
+
+---
+
+## 52. Micro-Agreements Reduce Confusion
+
+Setelah setiap bagian:
+
+> summarize.
+
+> “Sampai di sini apakah kita sepakat bahwa…”
+
+Ini membantu menemukan disagreement:
+
+> lebih awal.
+
+---
+
+## 53. Facilitator Character
+
+Dalam multi-person communication salah satu narrative character penting adalah:
+
+> **FACILITATOR.**
+
+Objective facilitator bukan:
+
+> memenangkan proposal pribadi.
+
+Melainkan:
+
+> membantu group memperoleh shared understanding dan acceptable agreement.
+
+---
+
+## 54. Good Facilitator Behaviors
+
+Facilitator:
+
+* memberi ruang bicara,
+* meminta clarification,
+* paraphrase,
+* membedakan fact dan interpretation,
+* membuat conflict visible,
+* menemukan common ground,
+* mencegah satu person mendominasi,
+* merangkum agreement.
+
+---
+
+## 55. Facilitator Tidak Harus Netral terhadap Semua Hal
+
+Jika ada:
+
+> safety violation,
+
+> deception,
+
+> unethical proposal,
+
+facilitator tidak harus berpura-pura:
+
+> semua positions sama valid.
+
+Tetapi ia tetap dapat:
+
+> menjelaskan constraint secara transparan.
+
+Contoh:
+
+> “Kita dapat menegosiasikan jadwal, tetapi requirement keselamatan ini bukan sesuatu yang dapat kita hapus.”
+
+---
+
+## 56. Power Matters
+
+Tidak semua persons masuk negotiation dengan power yang sama.
+
+Manager mungkin dapat:
+
+> menentukan deadline.
+
+Junior employee mungkin takut:
+
+> mengatakan deadline tidak realistis.
+
+Person-centered communication harus memperhatikan:
+
+> apakah agreement benar-benar voluntary dan informed.
+
+---
+
+## 57. Silence Is Not Always Agreement
+
+Dalam meeting:
+
+> manager berkata,
+
+> “Semua setuju?”
+
+Semua diam.
+
+Jangan otomatis:
+
+> “Setuju.”
+
+Mungkin:
+
+* takut,
+* bingung,
+* tidak memperhatikan,
+* tidak punya cukup informasi.
+
+Lebih baik:
+
+> meminta explicit response dari relevant roles.
+
+---
+
+## 58. Example
+
+> “Sebelum kita finalize, saya ingin cek khusus tim IT: apakah jadwal dua minggu feasible?”
+
+IT:
+
+> “Untuk prototype ya, untuk production tidak.”
+
+Important information muncul.
+
+Tanpa explicit check:
+
+> false agreement.
+
+---
+
+## 59. Dissent Is Useful
+
+Person yang mengatakan:
+
+> “Saya tidak setuju”
+
+bukan otomatis:
+
+> obstacle.
+
+Dissent dapat menunjukkan:
+
+* missing risk,
+* hidden constraint,
+* ethical issue,
+* implementation problem.
+
+Group yang sehat mampu:
+
+> hear dissent without punishing the person.
+
+---
+
+## 60. Relationship Quality in Multi-Person Negotiation
+
+Setelah meeting, tanyakan:
+
+> Apakah persons masih bersedia bekerja bersama?
+
+Agreement hari ini yang menghasilkan:
+
+> resentment,
+
+dapat gagal besok.
+
+Maka:
+
+[
+\boxed{
+Good\ Multi\text{-}Person\ Agreement =
+Acceptable\ Action + Sustainable\ Relationship\ Network
+}
+]
+
+---
+
+## 61. Agreement Quality
+
+Gunakan tujuh criteria:
+
+1. **Relevant persons included**
+2. **Objectives understood**
+3. **Constraints visible**
+4. **Options considered**
+5. **Trade-offs explicit**
+6. **Commitments clear**
+7. **Relationships preserved**
+
+---
+
+## 62. AI sebagai Stakeholder Simulator
+
+AI sangat cocok untuk latihan.
+
+Mahasiswa dapat membuat beberapa agents:
+
+### Agent 1 — Student
+
+Objective:
+
+> faster service.
+
+### Agent 2 — Owner
+
+Objective:
+
+> revenue and low cost.
+
+### Agent 3 — Cashier
+
+Objective:
+
+> simple workflow.
+
+### Agent 4 — Finance
+
+Objective:
+
+> cost control.
+
+Kemudian mahasiswa:
+
+> memfasilitasi negotiation.
+
+---
+
+## 63. Agent Definition
+
+Sebuah simulation agent dapat dirancang sebagai:
+
+> **Agent = Character + Mission + Knowledge + Values + Constraints + Language + Authority**
+
+Contoh:
+
+### Character
+
+Finance Manager
+
+### Mission
+
+Menjaga project financially sustainable.
+
+### Knowledge
+
+Budget dan operating cost.
+
+### Values
+
+Accountability.
+
+### Constraints
+
+Budget RpX.
+
+### Language
+
+Cost, risk, return.
+
+### Authority
+
+Dapat approve sampai limit tertentu.
+
+---
+
+## 64. AI Agent Tidak Sama dengan Human Person
+
+Agent:
+
+> representation.
+
+Human:
+
+> relationship owner.
+
+Agent dapat membantu kita memahami:
+
+> possible stakeholder perspective.
+
+Tetapi AI simulation tidak membuktikan:
+
+> stakeholder nyata akan berpikir demikian.
+
+Maka:
+
+> **AI hypothesis must be validated with actual persons.**
+
+---
+
+## 65. AI sebagai Option Generator
+
+Setelah stakeholder map dibuat, AI dapat diminta:
+
+> “Buat lima configuration yang mencoba memenuhi constraint berikut tanpa menghilangkan minimum requirement masing-masing stakeholder.”
+
+Ini membantu:
+
+> expand option space.
+
+Tetapi manusia tetap mengevaluasi:
+
+> feasibility dan ethics.
+
+---
+
+## 66. AI sebagai Conflict Detector
+
+AI dapat membaca meeting notes dan menandai:
+
+* conflicting commitments,
+* unresolved assumptions,
+* stakeholder yang belum terdengar,
+* ambiguous agreement.
+
+Contoh:
+
+> Owner ingin pilot Senin.
+
+> IT mengatakan prototype baru siap Rabu.
+
+AI dapat menandai:
+
+> schedule conflict.
+
+---
+
+## 67. AI sebagai Language Translator
+
+AI dapat membantu menerjemahkan:
+
+Engineer:
+
+> “OAuth integration belum reliable.”
+
+menjadi untuk manager:
+
+> “Login dengan sistem existing belum cukup stabil untuk production.”
+
+Ini membantu:
+
+> shared language.
+
+---
+
+## 68. AI sebagai Negotiation Coach
+
+Sebelum meeting:
+
+> “Apa pertanyaan yang sebaiknya saya gunakan untuk menemukan interest di balik position Finance?”
+
+atau:
+
+> “Apa kemungkinan trade-off yang belum saya pertimbangkan?”
+
+Bagus.
+
+---
+
+## 69. AI Tidak Boleh Menentukan Human Value Secara Sepihak
+
+Tidak:
+
+> “Optimalkan keputusan dan pilih siapa yang harus dikorbankan.”
+
+AI dapat:
+
+> calculate scenarios.
+
+Tetapi pertanyaan:
+
+> fairness,
+
+> acceptable sacrifice,
+
+> relationship,
+
+> values
+
+membutuhkan:
+
+> human judgment dan dialogue.
+
+---
+
+## 70. Delegated Agent Negotiation
+
+Di masa depan atau untuk task rutin:
+
+> Agent A ⇄ Agent B
+
+dapat melakukan negotiation.
+
+Misalnya:
+
+* schedule meeting,
+* mencari slot kalender,
+* memilih shipping option,
+* membeli commodity di bawah batas harga.
+
+Tetapi authority harus eksplisit.
+
+Contoh:
+
+> “Anda boleh menerima harga maksimum Rp500.000 dan delivery paling lambat Jumat.”
+
+---
+
+## 71. Do Not Delegate Relationship-Critical Commitments Casually
+
+Untuk:
+
+* apology,
+* conflict family,
+* employee termination,
+* major partnership,
+* ethical dispute,
+
+model yang lebih aman:
+
+> **Human + AI Copilot**
+
+daripada:
+
+> AI delegate penuh.
+
+Karena:
+
+> communication itself carries relationship meaning.
+
+---
+
+## 72. Latihan 1 — Stakeholder Mapping
+
+Case:
+
+> kampus ingin menerapkan AI attendance.
+
+Identifikasi:
+
+* students,
+* lecturers,
+* administrators,
+* IT,
+* management.
+
+Untuk masing-masing:
+
+> objective, interest, constraint, authority.
+
+Diskusikan:
+
+> siapa yang mungkin belum terdengar?
+
+---
+
+## 73. Latihan 2 — Position to Interest
+
+### Student
+
+> “Saya tidak mau attendance facial recognition.”
+
+Cari possible interests:
+
+* privacy,
+* fairness,
+* false recognition,
+* autonomy.
+
+### Management
+
+> “Kami mau attendance otomatis.”
+
+Possible interests:
+
+* administrative efficiency,
+* data accuracy.
+
+Sekarang cari:
+
+> option yang tidak langsung menganggap salah satu position harus menang.
+
+---
+
+## 74. Latihan 3 — Must-Have vs Nice-to-Have
+
+Untuk setiap stakeholder, tuliskan:
+
+### MUST-HAVE
+
+Minimum acceptable.
+
+### NICE-TO-HAVE
+
+Preferred tetapi negotiable.
+
+Ini membantu menemukan:
+
+> acceptable intersection.
+
+---
+
+## 75. Latihan 4 — Generate Five Options
+
+Case:
+
+> organisasi mahasiswa attendance rapat rendah.
+
+Stakeholders:
+
+* chair,
+* active members,
+* less-active members.
+
+Jangan langsung:
+
+> “Semua wajib hadir.”
+
+Generate 5 arrangements:
+
+1. shorter meeting;
+2. hybrid meeting;
+3. asynchronous updates;
+4. meeting only for decisions;
+5. rotating schedule.
+
+Kemudian evaluate.
+
+---
+
+## 76. Latihan 5 — Trade-Off Matrix
+
+Case:
+
+> aplikasi project management.
+
+Compare:
+
+* new dedicated app,
+* existing spreadsheet,
+* chat bot,
+* shared board.
+
+Dimensions:
+
+* cost,
+* usability,
+* training,
+* visibility,
+* maintenance.
+
+Tujuan:
+
+> tidak mencari winner otomatis,
+
+tetapi:
+
+> expose trade-offs.
+
+---
+
+## 77. Latihan 6 — Facilitator Paraphrase
+
+Person A:
+
+> Finance.
+
+Person B:
+
+> Engineer.
+
+Person C:
+
+> Facilitator.
+
+Finance:
+
+> “Proposal ini terlalu mahal.”
+
+Engineer:
+
+> “Kalau murah terus ya sistemnya akan jelek.”
+
+Facilitator tidak boleh:
+
+> mengambil sisi.
+
+Ia mencoba:
+
+> “Saya dengar Finance mempunyai batas cost, sementara engineering khawatir pengurangan cost akan menurunkan reliability. Mari kita buat minimum reliability dan budget ceiling menjadi explicit.”
+
+Kemudian rotate.
+
+---
+
+## 78. Latihan 7 — False Consensus
+
+Dosen memberikan skenario:
+
+Manager:
+
+> “Berarti semua setuju implementasi dua minggu?”
+
+Group:
+
+> diam.
+
+Mahasiswa harus membuat:
+
+> explicit agreement check.
+
+Contoh:
+
+> “Saya ingin cek satu per satu. IT, dua minggu feasible untuk apa? Finance, apakah budget tersedia? User, apakah pilot tersebut workable?”
+
+---
+
+## 79. Mini Performance — Multi-Person Negotiation
+
+Kelompok:
+
+> **4–5 mahasiswa.**
+
+Setiap mahasiswa mendapatkan:
+
+> stakeholder card.
+
+Contoh case:
+
+## “Digital Ordering for Campus Canteen”
+
+Roles:
+
+1. Canteen Owner
+2. Cashier
+3. Student Representative
+4. IT Developer
+5. Finance / Campus Manager
+
+---
+
+## 80. Hidden Objectives
+
+Setiap person mempunyai informasi yang tidak diketahui yang lain.
+
+### Canteen Owner
+
+Wants:
+
+> reduce lost customers.
+
+Constraint:
+
+> no additional staff.
+
+### Cashier
+
+Wants:
+
+> fewer steps.
+
+Concern:
+
+> does not want two systems.
+
+### Student
+
+Wants:
+
+> shorter waiting time.
+
+Concern:
+
+> does not want mandatory app installation.
+
+### Developer
+
+Wants:
+
+> maintainable system.
+
+Constraint:
+
+> only two weeks available.
+
+### Finance
+
+Wants:
+
+> measurable benefit.
+
+Constraint:
+
+> limited pilot budget.
+
+---
+
+## 81. Performance Objective
+
+Kelompok harus menghasilkan:
+
+> **acceptable pilot agreement.**
+
+Tidak harus full deployment.
+
+Durasi:
+
+> **12–15 menit.**
+
+---
+
+## 82. Suggested Flow
+
+### Phase 1 — Hear the Persons
+
+Masing-masing menjelaskan:
+
+> objective dan concern.
+
+### Phase 2 — Shared Problem
+
+Group menyepakati:
+
+> problem.
+
+### Phase 3 — Generate Options
+
+Minimal:
+
+> 3 options.
+
+### Phase 4 — Negotiate
+
+Cari:
+
+> trade-offs.
+
+### Phase 5 — Agreement
+
+Tentukan:
+
+* scope,
+* responsibilities,
+* timeline,
+* evaluation.
+
+---
+
+## 83. Agreement Format
+
+Pada akhir performance group harus dapat mengatakan:
+
+> **WHO + WHAT + WHEN + CONDITIONS + EVIDENCE**
+
+Contoh:
+
+> “Kita sepakat melakukan pilot dua minggu pada satu tenant. Customer dapat pre-order melalui web tanpa install aplikasi. Cashier tetap memakai terminal yang sama. Tim IT menyiapkan prototype satu minggu. Budget pilot maksimal RpX. Success diukur melalui waktu tunggu, error order, dan feedback cashier.”
+
+---
+
+## 84. Observer Question
+
+Jika ada kelompok lain sebagai observer, mereka menilai:
+
+> Apakah ada stakeholder yang sebenarnya belum mendapat acceptable outcome tetapi diam?
+
+Ini penting.
+
+---
+
+## 85. Rubrik Mini Performance
+
+| Dimensi                             | Bobot |
+| ----------------------------------- | ----: |
+| Stakeholder / Person Recognition    |   20% |
+| Objectives, Interests & Constraints |   20% |
+| Listening, Language & Facilitation  |   20% |
+| Option Generation & Negotiation     |   20% |
+| Agreement Quality & Relationship    |   20% |
+
+---
+
+## 86. Nilai Tinggi
+
+Group:
+
+* semua stakeholder terdengar,
+* disagreement menjadi jelas,
+* position dibuka menjadi interest,
+* menghasilkan beberapa options,
+* mengakui trade-off,
+* tidak memaksakan consensus,
+* menghasilkan agreement specific,
+* relationship tetap constructive.
+
+---
+
+## 87. Nilai Rendah
+
+Group:
+
+* satu person mendominasi,
+* langsung memilih solution,
+* stakeholder lain diam,
+* concerns diabaikan,
+* agreement vague,
+* commitments dibuat tanpa authority,
+* “semua setuju” tanpa evidence.
+
+---
+
+## 88. Format Pertemuan 2 Jam
+
+### 0–15 menit — Review Minggu 10
+
+Review:
+
+> Desire → Barrier → Negotiation → Agreement → Action.
+
+Pertanyaan:
+
+> Apa yang berubah ketika bukan dua tetapi lima persons harus setuju?
+
+---
+
+### 15–40 menit — Lecture
+
+Topik:
+
+* stakeholders as persons,
+* objective / interest / constraint,
+* acceptable agreement,
+* common ground,
+* trade-off,
+* multi-state TAIDA.
+
+---
+
+### 40–55 menit — Demonstration
+
+Dosen memfasilitasi:
+
+> Owner vs Cashier vs Student.
+
+Tunjukkan:
+
+> poor debate vs facilitated negotiation.
+
+---
+
+### 55–80 menit — Practice
+
+* Stakeholder Mapping
+* Position to Interest
+* Must-Have vs Nice-to-Have
+* Option Generation
+
+---
+
+### 80–110 menit — Multi-Person Performance
+
+Negotiation roleplay.
+
+---
+
+### 110–120 menit — AI Review & Reflection
+
+AI membantu melihat:
+
+* stakeholder yang tidak terwakili,
+* unresolved conflict,
+* unclear commitments,
+* possible alternative option.
+
+---
+
+## 89. Tugas Minggu 11 — Multi-Person Negotiation Challenge
+
+Kelompok:
+
+> **4–5 mahasiswa.**
+
+Pilih satu problem yang mempunyai minimal:
+
+> **4 stakeholder characters.**
+
+Contoh:
+
+* AI attendance kampus,
+* waste management,
+* student event,
+* project software,
+* campus transport,
+* canteen service,
+* library system.
+
+---
+
+## 90. Bagian A — SHARED ISSUE
+
+Tuliskan:
+
+> problem/opportunity maksimal 150 kata.
+
+Jangan langsung:
+
+> menentukan solution.
+
+---
+
+## 91. Bagian B — STAKEHOLDER PERSON MAP
+
+Minimal empat stakeholders.
+
+| Person/Character | Objective | Interest | Constraint | Authority |
+| ---------------- | --------- | -------- | ---------- | --------- |
+
+---
+
+## 92. Bagian C — ACCEPTABILITY
+
+Untuk setiap stakeholder:
+
+### MUST-HAVE
+
+Apa minimum requirement?
+
+### NICE-TO-HAVE
+
+Apa preference?
+
+### UNACCEPTABLE
+
+Apa yang tidak dapat diterima?
+
+---
+
+## 93. Bagian D — CURRENT TAIDA STATE
+
+Untuk setiap stakeholder tentukan:
+
+* Target,
+* Attention,
+* Interest,
+* Desire,
+* Action-ready.
+
+Jelaskan evidence.
+
+---
+
+## 94. Bagian E — SHARED PROBLEM STATEMENT
+
+Buat satu problem statement yang:
+
+> cukup dapat diterima semua stakeholders.
+
+Jika belum bisa:
+
+> tuliskan perbedaan framing.
+
+Jangan berpura-pura shared jika memang belum.
+
+---
+
+## 95. Bagian F — OPTIONS
+
+Buat minimal:
+
+> **3 configurations.**
+
+Untuk setiap option tuliskan:
+
+* benefit,
+* cost,
+* effort,
+* risk,
+* stakeholder effect.
+
+---
+
+## 96. Bagian G — NEGOTIATION PERFORMANCE
+
+Lakukan roleplay.
+
+Setiap mahasiswa harus:
+
+> benar-benar mempertahankan objective dan constraint character-nya,
+
+tetapi tetap berusaha menemukan:
+
+> acceptable agreement.
+
+---
+
+## 97. Bagian H — FINAL AGREEMENT
+
+Tuliskan:
+
+### WHAT?
+
+Apa arrangement-nya?
+
+### WHO?
+
+Siapa melakukan apa?
+
+### WHEN?
+
+Timeline?
+
+### CONDITIONS?
+
+Apa constraint penting?
+
+### EVIDENCE?
+
+Bagaimana success dievaluasi?
+
+---
+
+## 98. Jika Tidak Ada Agreement
+
+Tuliskan:
+
+> mengapa acceptable intersection belum ditemukan.
+
+Kemudian tentukan:
+
+> apa information atau option tambahan yang diperlukan.
+
+Ini tetap dapat memperoleh nilai tinggi.
+
+---
+
+## 99. Bagian I — RELATIONSHIP REVIEW
+
+Untuk setiap stakeholder tanyakan:
+
+> apakah setelah negotiation mereka masih bersedia bekerja bersama?
+
+Jelaskan:
+
+* trust,
+* fairness,
+* feeling heard,
+* willingness to continue.
+
+---
+
+## 100. Bagian J — AI-ASSISTED REVIEW
+
+Berikan stakeholder map dan draft agreement kepada AI.
+
+Minta AI:
+
+1. mengidentifikasi stakeholder yang mungkin terabaikan;
+2. menemukan conflict antara commitments;
+3. menunjukkan assumption;
+4. menghasilkan satu additional option;
+5. mengidentifikasi ambiguity dalam agreement.
+
+Kemudian kelompok harus menjawab:
+
+> mana yang valid?
+
+> mana yang salah?
+
+> apa yang direvisi?
+
+---
+
+## 101. Penilaian Tugas Minggu 11
+
+| Aspek                                     | Bobot |
+| ----------------------------------------- | ----: |
+| Stakeholder & Character Mapping           |   20% |
+| Interests, Constraints & Acceptability    |   20% |
+| Communication & Negotiation Performance   |   20% |
+| Agreement Quality                         |   20% |
+| Relationship Reflection & Critical AI Use |   20% |
+
+---
+
+## 102. Multi-Person Communication Checklist
+
+Sebelum meeting:
+
+### WHO?
+
+> Siapa persons yang affected atau mempunyai authority?
+
+### AS WHO?
+
+> Character masing-masing?
+
+### WANT?
+
+> Apa objective dan interest mereka?
+
+### LIMIT?
+
+> Apa constraints?
+
+### POWER?
+
+> Authority apa yang mereka punya?
+
+### STATE?
+
+> Di mana masing-masing dalam TAIDA?
+
+---
+
+Setelah meeting:
+
+### HEARD?
+
+> Apakah relevant persons benar-benar terdengar?
+
+### SHARED?
+
+> Apa yang sudah menjadi common ground?
+
+### OPTIONS?
+
+> Apakah alternatives benar-benar dipertimbangkan?
+
+### ACCEPTABLE?
+
+> Apakah agreement berada dalam acceptable region semua essential stakeholders?
+
+### CLEAR?
+
+> Who + What + When + Evidence?
+
+---
+
+## 103. Five Questions for the Facilitator
+
+Ketika discussion mulai sulit, tanyakan:
+
+### 1.
+
+> “Apa yang sebenarnya kita semua sudah sepakati?”
+
+### 2.
+
+> “Di bagian mana kita berbeda?”
+
+### 3.
+
+> “Apa interest di balik position tersebut?”
+
+### 4.
+
+> “Apa alternative arrangement yang belum kita pertimbangkan?”
+
+### 5.
+
+> “Apa minimum yang diperlukan agar masing-masing dapat menerima arrangement ini?”
+
+---
+
+## 104. Multi-Person Communication dan Relationship
+
+Setiap participant tidak hanya bertanya:
+
+> “Did I win?”
+
+Tetapi:
+
+> “Can we still work together?”
+
+Jika negotiation menghasilkan:
+
+> winner dan humiliated loser,
+
+future cooperation sulit.
+
+Karena itu kita menilai:
+
+[
+\boxed{
+Negotiation\ Success =
+Agreement\ Quality
++
+Action\ Feasibility
++
+Relationship\ Sustainability
+}
+]
+
+---
+
+## 105. Dari Business menuju Community
+
+Konsep Minggu 11 juga menjadi jembatan ke Minggu 12.
+
+Professional project biasanya mempunyai:
+
+> beberapa stakeholders.
+
+Tetapi communities bahkan lebih kompleks:
+
+* banyak persons,
+* diversity,
+* different values,
+* limited authority,
+* voluntary participation.
+
+Di community kita mungkin tidak memperoleh:
+
+> unanimous agreement.
+
+Yang kita butuhkan sering:
+
+> **enough agreement for collective action.**
+
+---
+
+## 106. Agreement vs Consensus
+
+Gunakan distinction:
+
+### CONSENSUS
+
+> semua mempunyai acceptance yang sangat luas terhadap keputusan.
+
+### AGREEMENT
+
+> parties menerima arrangement tertentu.
+
+### COORDINATED ACTION
+
+> enough persons commit untuk membuat sesuatu terjadi.
+
+Dalam banyak real situations:
+
+> complete consensus tidak diperlukan.
+
+Tetapi action tanpa sufficient agreement juga:
+
+> tidak sustainable.
+
+---
+
+## 107. AI dan Future Multi-Agent Communication
+
+Kerangka Minggu 11 juga membuka kemungkinan:
+
+> **Person A + Agent A**
+
+⇄
+
+> **Person B + Agent B**
+
+⇄
+
+> **Person C + Agent C**
+
+Agents dapat membantu:
+
+* menyimpan objectives,
+* menjaga constraints,
+* menghasilkan options,
+* mensimulasikan consequences,
+* mencari potential agreement region.
+
+Tetapi:
+
+> persons remain accountable for consequential values and commitments.
+
+---
+
+## 108. Formula Minggu 11
+
+Framework utama:
+
+[
+\boxed{
+Person_i
+========
+
+Character_i
++
+Objective_i
++
+Interest_i
++
+Constraint_i
++
+Authority_i
+}
+]
+
+Communication kemudian mencari:
+
+[
+\boxed{
+Agreement^*
+\in
+\bigcap_{i=1}^{n} Acceptable_i
+}
+]
+
+dengan syarat:
+
+> solution feasible,
+
+> commitments clear,
+
+> relationship sustainable.
+
+---
+
+## 109. Dari Optimization menuju Acceptability
+
+Ini konsep yang sangat penting.
+
+Dalam human communication kita tidak selalu bertanya:
+
+> **“Apa satu keputusan optimal?”**
+
+Lebih realistis:
+
+> **“Apa arrangement yang cukup baik dan dapat diterima oleh persons yang harus hidup dan bekerja dengannya?”**
+
+Karena stakeholder membawa:
+
+* value,
+* experience,
+* relationship,
+* uncertainty,
+
+yang tidak selalu dapat direduksi menjadi:
+
+> satu angka objective function.
+
+---
+
+## 110. Take-Home Messages
+
+Jika hanya mengingat sepuluh hal dari Minggu 11:
+
+### 1.
+
+> **Real-world action usually involves more than two persons.**
+
+### 2.
+
+> **Stakeholders are persons playing narrative characters, not merely boxes in an organization chart.**
+
+### 3.
+
+> **Different persons can share a mission while having different objectives and interests.**
+
+### 4.
+
+> **Listen for interests behind positions.**
+
+### 5.
+
+> **Agreement does not require identical opinions.**
+
+### 6.
+
+> **Generate multiple options before deciding.**
+
+### 7.
+
+> **Make trade-offs explicit rather than hiding them.**
+
+### 8.
+
+> **An acceptable agreement must fit the critical constraints of the persons required for action.**
+
+### 9.
+
+> **AI can simulate stakeholders and expand options, but AI representations must not replace communication with real persons.**
+
+### 10.
+
+> **Good multi-person communication produces coordinated action without unnecessarily damaging the relationship network.**
+
+---
+
+## 111. One-Minute Summary
+
+Sampai Minggu 10 kita menggunakan:
+
+> **PERSON A ⇄ PERSON B**
+
+dan lengkaplah:
+
+> **TARGET → ATTENTION → INTEREST → DESIRE → ACTION**
+
+Minggu 11 memperluasnya menjadi:
+
+> **PERSON A**
+> ⇅
+> **PERSON B**
+> ⇅
+> **PERSON C**
+> ⇅
+> **PERSON D**
+
+Setiap person mempunyai:
+
+> **CHARACTER**
+> ↓
+> **OBJECTIVE**
+> ↓
+> **INTEREST**
+> ↓
+> **CONSTRAINT**
+> ↓
+> **AUTHORITY**
+> ↓
+> **ACCEPTABLE OUTCOME**
+
+Maka communication bekerja melalui:
+
+> **HEAR EACH PERSON**
+> ↓
+> **FIND COMMON GROUND**
+> ↓
+> **DEFINE SHARED PROBLEM**
+> ↓
+> **DISTINGUISH POSITIONS FROM INTERESTS**
+> ↓
+> **GENERATE OPTIONS**
+> ↓
+> **MAKE TRADE-OFFS VISIBLE**
+> ↓
+> **TEST ACCEPTABILITY**
+> ↓
+> **NEGOTIATE**
+> ↓
+> **FORM AGREEMENT**
+> ↓
+> **WHO + WHAT + WHEN + EVIDENCE**
+> ↓
+> **COORDINATED ACTION**
+
+Prinsip utamanya adalah:
+
+> **Tujuan multi-person communication bukan membuat semua orang berpikir sama, dan bukan membuat satu stakeholder memenangkan seluruh kepentingannya. Tujuannya adalah membantu autonomous persons menemukan cukup shared understanding dan suatu arrangement yang dapat mereka terima untuk memungkinkan coordinated action.**
+
+Dengan demikian kita bergerak dari:
+
+> **persuasion**
+
+menuju:
+
+> **coordination.**
+
+Dan dari:
+
+> **“How do I make you agree with me?”**
+
+menuju:
+
+> **“How can we understand one another well enough to discover what we can responsibly do together?”**
+
+**Minggu 12** kemudian memperluas kemampuan ini dari professional stakeholders menuju **Neighbors & Communities**, tempat komunikasi harus memungkinkan orang-orang dengan relationship, pengalaman, kepentingan, dan pandangan yang jauh lebih beragam mencapai **sufficient agreement for collective action**.

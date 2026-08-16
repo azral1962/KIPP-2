@@ -1,0 +1,2679 @@
+# MINGGU 13 — COMMUNICATING WITH THE WORLD
+
+:::{.callout-tip}
+## Dari Community Communication menuju Public Influence dan Contribution
+
+**Mata Kuliah:** Person-Centered Communication in the AI Era
+**Tingkat:** Mahasiswa Tahun 2
+**Durasi:** 2 jam
+**Domain:** The World
+**Tema Besar:** *How can one person communicate responsibly with many persons whom they may never meet?*
+:::
+
+---
+
+## 1. Dari Community menuju The World
+
+Pada Minggu 12 kita mempelajari:
+
+> **Neighbors & Communities**
+
+Di sana kita berkomunikasi dengan persons yang:
+
+* berbagi ruang,
+* berbagi resources,
+* saling mengenal secara langsung atau tidak langsung,
+* mempunyai relationship history,
+* perlu mencapai sufficient agreement untuk collective action.
+
+Sekarang lingkupnya menjadi jauh lebih besar:
+
+> **THE WORLD**
+
+Komunikasi dapat berlangsung antara:
+
+> **ONE PERSON → MANY PERSONS**
+
+atau:
+
+> **ONE COMMUNITY → PUBLIC**
+
+atau:
+
+> **ONE IDEA → THE WORLD**
+
+Contohnya:
+
+* mahasiswa membuat video edukasi,
+* scientist mempublikasikan penelitian,
+* entrepreneur memperkenalkan innovation,
+* citizen menyampaikan public concern,
+* artist membuat karya,
+* organization menjalankan campaign,
+* lecturer menulis buku,
+* creator berbicara melalui social media.
+
+Communication tidak lagi hanya menjangkau orang yang kita kenal.
+
+Ia dapat menjangkau:
+
+> **unknown persons in unknown contexts.**
+
+---
+
+## 2. Learning Objectives Minggu 13
+
+Setelah mengikuti pertemuan ini mahasiswa mampu:
+
+1. menjelaskan perbedaan private, community, dan public communication;
+2. memahami public sebagai kumpulan **persons**, bukan sekadar anonymous audience;
+3. mengenali narrative character seorang public communicator;
+4. menetapkan objective public communication;
+5. membuat **public narrative** yang jelas dan responsible;
+6. menerjemahkan specialized knowledge menjadi accessible public language;
+7. menggunakan TAIDA untuk public communication tanpa mengubahnya menjadi manipulation funnel;
+8. membedakan **reach, attention, engagement, adoption, action, dan impact**;
+9. memahami reputation sebagai hasil komunikasi dan action sepanjang waktu;
+10. mengenali risiko distortion ketika communication bergerak melintasi scale dan context;
+11. menggunakan AI untuk translation, personalization, simulation, editing, dan analysis;
+12. menjaga authenticity, accuracy, autonomy, dan responsibility dalam AI-mediated public communication.
+
+---
+
+## 3. Lima Domain Komunikasi
+
+Kita sekarang sudah mencapai domain kelima.
+
+### Domain 1 — Intra-Self
+
+> **ME ⇄ ME**
+
+### Domain 2 — Family & Friends
+
+> **ME ⇄ PEOPLE CLOSE TO ME**
+
+### Domain 3 — Working Colleagues
+
+> **PROFESSIONAL ⇄ PROFESSIONAL**
+
+### Domain 4 — Neighbors & Communities
+
+> **PERSON ⇄ COMMUNITY**
+
+### Domain 5 — The World
+
+> **PERSON ⇄ PUBLIC**
+
+Perjalanannya:
+
+> **SELF → FAMILY → WORK → COMMUNITY → WORLD**
+
+Tetapi model dasarnya tetap sama:
+
+> **PERSON → CHARACTER → OBJECTIVE → REPERTOIRE → LANGUAGE → ACTION → RELATIONSHIP**
+
+---
+
+## 4. Apa yang Berubah Ketika Scale Membesar?
+
+Dalam percakapan personal kita dapat melihat:
+
+* ekspresi wajah,
+* response,
+* tone,
+* misunderstanding.
+
+Kita dapat langsung berkata:
+
+> “Maksud saya bukan begitu.”
+
+Dalam public communication, message dapat:
+
+* dibaca ribuan orang,
+* dipotong,
+* dibagikan,
+* diterjemahkan,
+* dikutip di luar context,
+* disimpan bertahun-tahun.
+
+Maka semakin besar scale:
+
+> **semakin kecil direct feedback yang kita miliki terhadap setiap person.**
+
+Ini menciptakan tantangan baru.
+
+---
+
+## 5. Public Bukan “Mass”
+
+Kita sering berkata:
+
+> “massa.”
+
+Tetapi mata kuliah ini person-centered.
+
+Di balik:
+
+> 10.000 views
+
+terdapat:
+
+> persons.
+
+Masing-masing mempunyai:
+
+* experience,
+* personality,
+* values,
+* characters,
+* objectives,
+* interpretation.
+
+Karena itu:
+
+> **Public communication is communication with many persons at once, not communication with a faceless mass.**
+
+---
+
+## 6. Tetapi Kita Tidak Bisa Mengenal Semua Person
+
+Inilah tension penting.
+
+Person-centered communication mengatakan:
+
+> recognize the person.
+
+Tetapi bagaimana jika audience:
+
+> satu juta orang?
+
+Kita tidak mungkin mengenali semuanya secara individual.
+
+Maka kita menggunakan:
+
+> **layers of person recognition.**
+
+---
+
+## 7. Tiga Tingkat Person Recognition
+
+### LEVEL 1 — GENERAL PUBLIC
+
+Kita mengenali common human needs:
+
+* clarity,
+* dignity,
+* safety,
+* fairness,
+* meaning.
+
+---
+
+### LEVEL 2 — CHARACTERS / CONTEXTS
+
+Misalnya communication untuk:
+
+* students,
+* parents,
+* engineers,
+* customers,
+* citizens.
+
+Tetapi character jangan menjadi stereotype.
+
+---
+
+### LEVEL 3 — INDIVIDUAL PERSON
+
+Dengan digital systems dan AI, communication dapat dibuat:
+
+> lebih personalized.
+
+Tetapi personalization harus:
+
+> ethical.
+
+---
+
+## 8. Dari Mass Communication menuju Relational Communication
+
+Kita dapat melihat progression:
+
+> **MASS COMMUNICATION**
+
+Satu message untuk semua.
+
+↓
+
+> **SEGMENTED COMMUNICATION**
+
+Message berbeda untuk kelompok berbeda.
+
+↓
+
+> **PERSONALIZED COMMUNICATION**
+
+Message disesuaikan kepada person.
+
+↓
+
+> **RELATIONAL COMMUNICATION**
+
+Communication mempertimbangkan:
+
+* siapa person,
+* history interaction,
+* current objective,
+* relationship,
+* previous responses.
+
+AI membuat progression ini:
+
+> increasingly scalable.
+
+---
+
+## 9. Tetapi Scale Tidak Boleh Menghilangkan Humanity
+
+Masalah public communication modern adalah:
+
+> orang berubah menjadi metrics.
+
+Misalnya:
+
+* followers,
+* impressions,
+* conversion rate,
+* clicks,
+* watch time.
+
+Semua berguna.
+
+Tetapi jangan lupa:
+
+> **1 click = action by a person.**
+
+> **1 comment = expression by a person.**
+
+> **1 customer = person.**
+
+Metric membantu melihat pattern.
+
+Metric tidak menggantikan:
+
+> person.
+
+---
+
+## 10. Narrative Characters dalam The World
+
+Seorang person dapat hadir kepada public sebagai:
+
+* Author
+* Scientist
+* Engineer
+* Teacher
+* Entrepreneur
+* Artist
+* Journalist
+* Advocate
+* Public Leader
+* Creator
+* Citizen
+
+Setiap character membawa:
+
+> different responsibilities.
+
+---
+
+## 11. Scientist Character
+
+Objective:
+
+> communicate knowledge.
+
+Responsibility:
+
+> accuracy, evidence, uncertainty.
+
+Language:
+
+> academic → public translation.
+
+Public trust rusak jika scientist:
+
+> exaggerates certainty.
+
+---
+
+## 12. Entrepreneur Character
+
+Objective:
+
+> introduce value proposition.
+
+Responsibility:
+
+> truthful representation.
+
+Language:
+
+> problem, solution, value, feasibility.
+
+Risk:
+
+> hype dan overpromise.
+
+---
+
+## 13. Citizen Character
+
+Objective:
+
+> contribute to public discourse.
+
+Responsibility:
+
+> fairness, evidence, civility.
+
+Risk:
+
+> spreading misinformation atau dehumanizing others.
+
+---
+
+## 14. Creator Character
+
+Objective dapat berupa:
+
+> entertain, educate, inspire.
+
+Responsibility:
+
+> memahami possible impact ketika audience besar.
+
+Tidak berarti:
+
+> harus membuat semua orang setuju.
+
+Tetapi:
+
+> influence brings responsibility.
+
+---
+
+## 15. Public Communication Dimulai dari Objective
+
+Sebelum membuat:
+
+* post,
+* article,
+* presentation,
+* video,
+* podcast,
+* campaign,
+
+tanyakan:
+
+> **What do I want to change?**
+
+Possible objectives:
+
+### INFORM
+
+> membuat orang tahu.
+
+### UNDERSTAND
+
+> membuat orang mengerti.
+
+### REFLECT
+
+> membuat orang berpikir.
+
+### LEARN
+
+> membantu orang memperoleh capability.
+
+### ADOPT
+
+> membuat idea digunakan.
+
+### PARTICIPATE
+
+> mengajak ikut.
+
+### ACT
+
+> menghasilkan concrete action.
+
+Objective menentukan:
+
+> communication design.
+
+---
+
+## 16. Views Bukan Selalu Objective
+
+Misalnya educational video mendapat:
+
+> 100.000 views.
+
+Apakah berhasil?
+
+Jika objective:
+
+> exposure,
+
+mungkin ya.
+
+Jika objective:
+
+> mahasiswa dapat memahami probability,
+
+views belum cukup.
+
+Kita perlu melihat:
+
+> learning evidence.
+
+Maka:
+
+> **Reach is not Impact.**
+
+---
+
+## 17. Public Communication Outcome Ladder
+
+Gunakan progression:
+
+> **REACH**
+
+Apakah message sampai?
+
+↓
+
+> **ATTENTION**
+
+Apakah diperhatikan?
+
+↓
+
+> **UNDERSTANDING**
+
+Apakah meaning diterima?
+
+↓
+
+> **ENGAGEMENT**
+
+Apakah person merespons?
+
+↓
+
+> **ADOPTION / DESIRE**
+
+Apakah idea dianggap relevant?
+
+↓
+
+> **ACTION**
+
+Apakah person melakukan sesuatu?
+
+↓
+
+> **IMPACT**
+
+Apa yang berubah di dunia nyata?
+
+---
+
+## 18. TAIDA pada Public Communication
+
+Baseball Model tetap dapat digunakan:
+
+> **TARGET → ATTENTION → INTEREST → DESIRE → ACTION**
+
+Tetapi:
+
+> jangan menyamakan TAIDA dengan algoritma untuk memanipulasi public.
+
+TAIDA membantu kita memahami:
+
+> communication state.
+
+---
+
+## 19. TARGET
+
+Dalam public communication:
+
+> siapa persons yang secara reasonable perlu mendengar message ini?
+
+Contoh:
+
+Bukan:
+
+> “Semua orang.”
+
+Lebih baik:
+
+> “Mahasiswa tahun pertama yang baru mulai menggunakan generative AI untuk belajar.”
+
+Target lebih jelas.
+
+Language dapat lebih relevant.
+
+---
+
+## 20. ATTENTION
+
+Public mengatakan:
+
+> “Ini relevan bagi saya.”
+
+Contoh:
+
+> “Menggunakan AI dapat mempercepat belajar, tetapi juga dapat membuat kita merasa memahami sesuatu yang sebenarnya belum kita pahami.”
+
+Student:
+
+> “Itu saya.”
+
+Attention diperoleh melalui:
+
+> relevance.
+
+Bukan hanya:
+
+> shock.
+
+---
+
+## 21. INTEREST
+
+Public bertanya:
+
+> “Bagaimana cara menggunakannya dengan lebih baik?”
+
+Sekarang kita dapat menawarkan:
+
+> method atau idea.
+
+---
+
+## 22. DESIRE
+
+Person melihat desired future:
+
+> “Saya ingin menggunakan AI tetapi tetap benar-benar belajar.”
+
+---
+
+## 23. ACTION
+
+Call to action:
+
+> “Pada tugas berikut, jawab soal sendiri terlebih dahulu, kemudian gunakan AI untuk mengkritik jawaban Anda.”
+
+Action:
+
+> specific.
+
+---
+
+## 24. Responsible Public TAIDA
+
+Maka progression-nya:
+
+> **RELEVANT PERSON**
+> ↓
+> **RELEVANT ISSUE**
+> ↓
+> **USEFUL POSSIBILITY**
+> ↓
+> **CREDIBLE VALUE**
+> ↓
+> **VOLUNTARY ACTION**
+
+Bukan:
+
+> clickbait → fear → pressure → conversion.
+
+---
+
+## 25. Public Narrative
+
+Public communication sering membutuhkan:
+
+> **narrative.**
+
+Narrative sederhana mempunyai:
+
+### PERSON
+
+Siapa yang mengalami?
+
+### SITUATION
+
+Apa yang terjadi?
+
+### PROBLEM / OPPORTUNITY
+
+Apa yang penting?
+
+### POSSIBILITY
+
+Apa yang dapat dilakukan?
+
+### CONSEQUENCE
+
+Apa yang dapat berubah?
+
+---
+
+## 26. Example
+
+Buruk:
+
+> “Kami membuat AI learning analytics platform berbasis LLM.”
+
+Lebih narrative:
+
+> “Mahasiswa sekarang dapat memperoleh jawaban AI dalam hitungan detik, tetapi jawaban cepat belum tentu menghasilkan understanding. Kami sedang mencoba pendekatan di mana AI tidak langsung memberi jawaban, tetapi membantu mahasiswa menemukan bagian reasoning yang lemah.”
+
+Sekarang ada:
+
+* person,
+* problem,
+* tension,
+* possibility.
+
+---
+
+## 27. Story Membawa Meaning
+
+Data:
+
+> “40% mahasiswa menggunakan AI setiap hari.”
+
+Story:
+
+> “Seorang mahasiswa dapat menyelesaikan homework dengan AI dalam 10 menit, tetapi ketika ditanya menjelaskan jawabannya di kelas ia tidak mampu.”
+
+Story membuat:
+
+> problem visible.
+
+Tetapi story harus:
+
+> truthful dan appropriately represented.
+
+---
+
+## 28. Jangan Membuat Fiction sebagai Evidence
+
+Jika story hypothetical:
+
+> katakan hypothetical.
+
+Jika composite:
+
+> jelaskan bila relevan.
+
+Jika actual person:
+
+> pertimbangkan privacy.
+
+Public narrative tidak boleh mengorbankan:
+
+> dignity person
+
+demi:
+
+> dramatic communication.
+
+---
+
+## 29. Public Language
+
+Public language sebaiknya:
+
+* understandable,
+* concise,
+* relevant,
+* concrete,
+* respectful.
+
+Hindari unnecessary jargon.
+
+Misalnya:
+
+Technical:
+
+> “The model suffers from hallucination under retrieval failure.”
+
+Public:
+
+> “Ketika AI tidak menemukan informasi yang cukup, ia masih dapat menghasilkan jawaban yang terdengar meyakinkan tetapi salah.”
+
+Meaning:
+
+> dipertahankan.
+
+Language:
+
+> diterjemahkan.
+
+---
+
+## 30. Simplification ≠ Distortion
+
+Kita perlu menyederhanakan.
+
+Tetapi tidak boleh:
+
+> mengubah truth.
+
+Contoh buruk:
+
+> “AI selalu berbohong.”
+
+Lebih tepat:
+
+> “AI dapat menghasilkan jawaban salah dengan bahasa yang terdengar meyakinkan.”
+
+Simple.
+
+Tetapi lebih accurate.
+
+---
+
+## 31. Layered Public Communication
+
+Good public communication dapat mempunyai beberapa layers.
+
+### Headline
+
+> satu idea utama.
+
+### Summary
+
+> 3–5 sentences.
+
+### Explanation
+
+> lebih lengkap.
+
+### Evidence
+
+> data/source.
+
+### Technical Detail
+
+> untuk yang ingin deeper.
+
+Ini memungkinkan different persons memilih:
+
+> level sesuai kebutuhan.
+
+---
+
+## 32. One Message, Multiple Repertoires
+
+Satu meaning dapat dikomunikasikan melalui:
+
+* article,
+* presentation,
+* infographic,
+* video,
+* podcast,
+* story,
+* demonstration,
+* simulation,
+* interactive tool.
+
+Repertoire dipilih berdasarkan:
+
+> objective dan person.
+
+---
+
+## 33. Medium Changes Communication
+
+Satu message pada:
+
+> academic paper
+
+berbeda dengan:
+
+> TikTok video.
+
+Bukan hanya panjang.
+
+Medium mengubah:
+
+* tempo,
+* attention window,
+* context,
+* interaction,
+* permanence,
+* sharing behavior.
+
+Communicator harus memahami:
+
+> **medium is part of the communication system.**
+
+---
+
+## 34. Public Communication Mempunyai Context Collapse
+
+Di private conversation:
+
+> kita tahu siapa receiver.
+
+Di public media:
+
+post yang ditujukan kepada:
+
+> mahasiswa IT
+
+mungkin dibaca oleh:
+
+* parent,
+* journalist,
+* manager,
+* stranger.
+
+Ini disebut secara praktis:
+
+> **context collapse.**
+
+Message dapat keluar dari intended audience.
+
+Maka public communicator perlu bertanya:
+
+> **How might this message be interpreted outside my intended context?**
+
+---
+
+## 35. Screenshot Test
+
+Sebelum public posting, tanyakan:
+
+> “Kalau satu sentence ini di-screenshot tanpa paragraph lain, apakah meaning-nya menjadi sangat misleading?”
+
+Tidak selalu bisa dicegah.
+
+Tetapi communicator dapat:
+
+> mengurangi unnecessary ambiguity.
+
+---
+
+## 36. Permanence
+
+Percakapan personal dapat hilang.
+
+Digital public communication dapat:
+
+> tersimpan bertahun-tahun.
+
+Maka public communication juga menjadi bagian dari:
+
+> **narrative identity dan reputation.**
+
+---
+
+## 37. Reputation
+
+Reputation adalah:
+
+> bagaimana persons lain secara accumulated memahami character dan reliability kita.
+
+Reputation dibangun dari:
+
+> **Communication + Action + Consequence over Time**
+
+Secara sederhana:
+
+[
+Reputation_{t+1}
+================
+
+f(Reputation_t,\ Communication,\ Action,\ Evidence)
+]
+
+---
+
+## 38. Reputation ≠ Popularity
+
+Seseorang dapat:
+
+> sangat popular,
+
+tetapi:
+
+> tidak dipercaya.
+
+Atau:
+
+> tidak terkenal,
+
+tetapi mempunyai strong professional reputation.
+
+Reputation berkaitan dengan:
+
+* competence,
+* honesty,
+* consistency,
+* care,
+* accountability.
+
+---
+
+## 39. Public Character dan Reputation Harus Selaras
+
+Jika seseorang selalu mengatakan:
+
+> “Saya mengutamakan accuracy.”
+
+tetapi berkali-kali membagikan information tanpa checking,
+
+terjadi:
+
+> character inconsistency.
+
+Public tidak hanya mendengar:
+
+> claims.
+
+Public mengamati:
+
+> behavior.
+
+---
+
+## 40. Reputation as Relationship at Scale
+
+Dalam relationship personal kita bertanya:
+
+> “Can I trust you?”
+
+Dalam public relationship:
+
+> banyak persons bertanya pertanyaan yang sama.
+
+Maka reputation dapat dilihat sebagai:
+
+> **relationship memory at scale.**
+
+---
+
+## 41. Public Trust Mudah Rusak
+
+Satu kesalahan belum tentu menghancurkan trust.
+
+Yang lebih merusak:
+
+* menyembunyikan kesalahan,
+* menolak correction,
+* blame,
+* repeating misinformation.
+
+Jika salah:
+
+> correction itself is communication.
+
+---
+
+## 42. Public Correction
+
+Good correction dapat berbunyi:
+
+> “Dalam post sebelumnya saya mengatakan X. Setelah memeriksa kembali data, pernyataan tersebut tidak tepat. Yang benar adalah Y. Saya sudah memperbaiki materi.”
+
+Ini dapat:
+
+> meningkatkan credibility.
+
+Karena accountability terlihat.
+
+---
+
+## 43. Influence
+
+Public communication memberi kemampuan:
+
+> influence.
+
+Influence sendiri:
+
+> bukan buruk.
+
+Teacher mempengaruhi student.
+
+Scientist mempengaruhi policy.
+
+Artist mempengaruhi culture.
+
+Masalahnya adalah:
+
+> **how influence is exercised.**
+
+---
+
+## 44. Ethical Influence
+
+Ethical influence membantu person:
+
+* melihat evidence,
+* memahami issue,
+* menilai alternatives,
+* mengambil decision.
+
+Manipulative influence berusaha:
+
+* mempersempit judgment,
+* exploit fear,
+* hide information,
+* pressure identity,
+* remove autonomy.
+
+---
+
+## 45. Person-Centered Principle
+
+> **The more we know about a person, the greater our responsibility not to exploit that knowledge.**
+
+Ini menjadi sangat penting dalam:
+
+> AI-mediated personalized communication.
+
+---
+
+## 46. Personalization at Scale
+
+Bayangkan satu educational message.
+
+AI dapat menghasilkan versi untuk:
+
+* beginner,
+* expert,
+* child,
+* manager,
+* engineer.
+
+Ini powerful.
+
+Meaning dapat:
+
+> lebih accessible.
+
+Tetapi ada risiko.
+
+---
+
+## 47. Ethical Personalization
+
+Good personalization:
+
+> “Jelaskan cybersecurity kepada pemilik UMKM dengan bahasa sederhana dan contoh transaksi toko.”
+
+Tujuannya:
+
+> understanding.
+
+---
+
+## 48. Manipulative Personalization
+
+Buruk:
+
+> “Orang ini takut kehilangan pekerjaan. Buat message yang menggunakan ketakutan itu agar ia membeli.”
+
+Tujuan:
+
+> exploit vulnerability.
+
+Maka distinction utama:
+
+> **personalize for relevance, not vulnerability exploitation.**
+
+---
+
+## 49. AI-Mediated Public Communication
+
+AI dapat membantu:
+
+### RESEARCH ORGANIZATION
+
+mengatur informasi.
+
+### TRANSLATION
+
+technical → public.
+
+### LANGUAGE ADAPTATION
+
+different characters.
+
+### STORY STRUCTURE
+
+membuat narrative lebih clear.
+
+### SIMULATION
+
+menguji kemungkinan responses.
+
+### EDITING
+
+clarity dan tone.
+
+### ANALYTICS
+
+melihat response patterns.
+
+---
+
+## 50. AI sebagai Public Communication Copilot
+
+Model:
+
+> **PERSON → AI COPILOT → PUBLIC**
+
+Tetapi:
+
+> human person remains the publisher and responsible communicator.
+
+AI boleh membantu menulis.
+
+Tetapi:
+
+> “AI yang menulisnya”
+
+tidak menghapus responsibility.
+
+---
+
+## 51. AI Can Generate at Scale
+
+Satu person sekarang dapat menghasilkan:
+
+* 100 posts,
+* 50 images,
+* 20 videos,
+* 1.000 personalized emails.
+
+Kemampuan produksi meningkat drastis.
+
+Maka pertanyaan baru adalah:
+
+> **Should we communicate simply because we can generate communication?**
+
+Volume communication bukan:
+
+> communication quality.
+
+---
+
+## 52. AI Can Create Communication Pollution
+
+Jika semua orang menghasilkan:
+
+> unlimited content,
+
+public mengalami:
+
+* information overload,
+* repetitive messages,
+* synthetic noise,
+* difficulty finding trustworthy information.
+
+Maka communication competence di AI era juga berarti:
+
+> **knowing when not to communicate.**
+
+---
+
+## 53. Relevance Before Volume
+
+Public communication harus bertanya:
+
+> Apakah message ini:
+
+* necessary?
+* useful?
+* true?
+* relevant?
+* responsible?
+
+Tidak hanya:
+
+> “Bisakah saya membuatnya viral?”
+
+---
+
+## 54. AI Can Simulate Public Response
+
+Prompt:
+
+> “Berperanlah sebagai student, parent, engineer, dan public citizen. Tunjukkan bagaimana masing-masing dapat menginterpretasikan message berikut.”
+
+Ini membantu:
+
+> anticipatory reflection.
+
+Tetapi simulation bukan:
+
+> actual public response.
+
+---
+
+## 55. AI Can Help Detect Ambiguity
+
+AI dapat ditanya:
+
+> “Apa bagian message ini yang mungkin dibaca secara berbeda oleh audience yang tidak memiliki technical context?”
+
+Berguna.
+
+Tetapi human review tetap dibutuhkan.
+
+---
+
+## 56. AI Can Help with Accessibility
+
+AI dapat:
+
+* simplify text,
+* translate,
+* make captions,
+* create alternative explanations,
+* structure content.
+
+Ini dapat meningkatkan:
+
+> participation.
+
+Salah satu penggunaan AI yang paling person-centered adalah:
+
+> **making knowledge more accessible.**
+
+---
+
+## 57. AI and Authentic Voice
+
+Risiko:
+
+semua public writing menjadi:
+
+> polished,
+
+> generic,
+
+> AI-sounding.
+
+Person kehilangan:
+
+> narrative voice.
+
+Karena itu setelah AI membantu:
+
+> edit kembali.
+
+Tanyakan:
+
+> **Would I actually say this?**
+
+---
+
+## 58. Public Communication and Truth
+
+Semakin luas audience:
+
+> semakin besar potential consequence kesalahan.
+
+Maka sebelum membuat factual claim:
+
+> verify sesuai tingkat risiko dan importance.
+
+Dalam tugas kelas, mahasiswa perlu membedakan:
+
+### FACT
+
+Apa evidence?
+
+### INTERPRETATION
+
+Apa analysis?
+
+### VALUE
+
+Apa yang dianggap important?
+
+### RECOMMENDATION
+
+Apa yang diusulkan?
+
+---
+
+## 59. Do Not Hide Interpretation as Fact
+
+Buruk:
+
+> “AI destroys student creativity.”
+
+Itu claim luas.
+
+Lebih careful:
+
+> “Jika AI digunakan untuk menghasilkan seluruh pekerjaan tanpa reflection, ada risiko mahasiswa berlatih lebih sedikit dalam menghasilkan gagasannya sendiri.”
+
+Sekarang:
+
+> mechanism dan condition lebih jelas.
+
+---
+
+## 60. Public Communication dan Uncertainty
+
+Good communicator dapat mengatakan:
+
+> “Evidence saat ini belum cukup.”
+
+> “Ada beberapa interpretations.”
+
+> “Ini hypothesis.”
+
+> “Saya belum tahu.”
+
+Public communication tidak membutuhkan:
+
+> false certainty.
+
+---
+
+## 61. Confidence Language
+
+Bandingkan:
+
+> “Ini pasti terjadi.”
+
+> “Evidence menunjukkan kemungkinan…”
+
+> “Data awal menunjukkan…”
+
+> “Kami belum dapat menyimpulkan…”
+
+Pemilihan language menunjukkan:
+
+> intellectual honesty.
+
+---
+
+## 62. Communicating Complex Ideas
+
+Gunakan progression:
+
+> **WHAT?**
+
+Apa idea-nya?
+
+> **WHY?**
+
+Mengapa penting?
+
+> **HOW?**
+
+Bagaimana bekerja?
+
+> **EVIDENCE?**
+
+Apa dasarnya?
+
+> **SO WHAT?**
+
+Apa consequence?
+
+> **NOW WHAT?**
+
+Apa next action?
+
+---
+
+## 63. Public Narrative Template
+
+Mahasiswa dapat menggunakan:
+
+### 1. PERSON
+
+> Siapa yang mengalami issue?
+
+### 2. REALITY
+
+> Apa yang terjadi?
+
+### 3. TENSION
+
+> Problem/opportunity apa?
+
+### 4. POSSIBILITY
+
+> Apa yang dapat dilakukan?
+
+### 5. EVIDENCE
+
+> Mengapa kita percaya possibility tersebut?
+
+### 6. ACTION
+
+> Apa reasonable next step?
+
+---
+
+## 64. Example — AI Learning
+
+### Person
+
+Mahasiswa.
+
+### Reality
+
+AI dapat memberi jawaban dalam seconds.
+
+### Tension
+
+Jawaban cepat tidak selalu menghasilkan learning.
+
+### Possibility
+
+Gunakan AI setelah mencoba sendiri.
+
+### Evidence
+
+Bandingkan reasoning sebelum dan sesudah AI critique.
+
+### Action
+
+> “Pada satu soal minggu ini, tulis jawaban sendiri terlebih dahulu lalu minta AI mencari kelemahannya.”
+
+Public communication menjadi:
+
+> concrete.
+
+---
+
+## 65. Call to Action
+
+Call to action yang baik:
+
+* specific,
+* feasible,
+* voluntary,
+* aligned with message.
+
+Buruk:
+
+> “Mari kita ubah dunia.”
+
+Lebih actionable:
+
+> “Bawa botol minum sendiri pada tiga hari kampus minggu depan.”
+
+---
+
+## 66. One Communication, One Primary Action
+
+Public message sering terlalu banyak meminta:
+
+> subscribe, buy, share, read, download, volunteer, donate.
+
+Result:
+
+> confusion.
+
+Pilih:
+
+> **primary next action.**
+
+---
+
+## 67. Public Agreement?
+
+Dalam one-to-many communication kita tidak selalu mendapatkan agreement langsung.
+
+Response dapat berupa:
+
+* comment,
+* share,
+* participation,
+* adoption,
+* voting,
+* purchase,
+* sign-up.
+
+Maka action evidence harus disesuaikan:
+
+> objective.
+
+---
+
+## 68. Public Communication Is Not Finished at Publication
+
+Model lama:
+
+> Publish → Done.
+
+Model mata kuliah:
+
+> **PUBLISH → OBSERVE RESPONSE → LEARN → RESPOND → ADAPT**
+
+Public communication tetap:
+
+> closed loop.
+
+Hanya loop-nya:
+
+> lebih lambat dan lebih noisy.
+
+---
+
+## 69. Read Response Carefully
+
+Banyak likes:
+
+> belum tentu understanding.
+
+Banyak comments:
+
+> belum tentu agreement.
+
+Banyak shares:
+
+> bahkan dapat berarti outrage.
+
+Metric membutuhkan:
+
+> interpretation.
+
+---
+
+## 70. Quantitative + Qualitative Feedback
+
+Gunakan:
+
+### Quantitative
+
+* reach,
+* click,
+* attendance,
+* completion,
+* conversion.
+
+### Qualitative
+
+* comments,
+* questions,
+* misunderstanding,
+* stories,
+* feedback.
+
+Keduanya membantu:
+
+> understand persons behind numbers.
+
+---
+
+## 71. Virality ≠ Success
+
+Sebuah communication dapat viral karena:
+
+* useful,
+* funny,
+* shocking,
+* misleading,
+* anger.
+
+Jadi:
+
+[
+Virality \neq Communication\ Quality
+]
+
+Selalu kembali ke:
+
+> **objective + consequence + relationship.**
+
+---
+
+## 72. Public Relationship
+
+Walaupun tidak mengenal setiap audience, public dapat membangun relationship dengan communicator.
+
+Contoh:
+
+reader secara berulang mengalami seseorang sebagai:
+
+* clear,
+* reliable,
+* respectful.
+
+Lama-lama terbentuk:
+
+> trust.
+
+Maka:
+
+> **Public communication can create relational continuity at scale.**
+
+---
+
+## 73. Five Qualities of Public Trust
+
+### COMPETENCE
+
+Apakah tahu apa yang dibicarakan?
+
+### HONESTY
+
+Apakah claims dapat dipercaya?
+
+### CLARITY
+
+Apakah meaning dapat dipahami?
+
+### CARE
+
+Apakah memperhatikan persons yang terdampak?
+
+### ACCOUNTABILITY
+
+Apakah bersedia memperbaiki kesalahan?
+
+---
+
+## 74. Public Communication Failure Modes
+
+### 1. CATEGORY STEREOTYPING
+
+> “Gen Z selalu…”
+
+### 2. CLICKBAIT WITHOUT VALUE
+
+Attention tanpa substance.
+
+### 3. JARGON
+
+Meaning tidak accessible.
+
+### 4. OVERCLAIM
+
+Evidence tidak cukup.
+
+### 5. PERSONAL ATTACK
+
+Menggantikan argument.
+
+### 6. MANIPULATION
+
+Fear/guilt exploitation.
+
+### 7. METRIC OBSESSION
+
+Views dianggap impact.
+
+### 8. CONTEXT IGNORANCE
+
+Tidak mempertimbangkan audience lebih luas.
+
+---
+
+## 75. Public Apology
+
+Jika communication melukai atau salah:
+
+> acknowledgment menjadi bagian dari relationship repair.
+
+Struktur:
+
+> **What happened → What was wrong → What I am correcting → What changes next**
+
+Hindari:
+
+> “Maaf kalau ada yang tersinggung.”
+
+Jika kita memang membuat factual error:
+
+> sebutkan error.
+
+---
+
+## 76. The World Is Also Multi-Stakeholder
+
+Public communication dapat mempengaruhi:
+
+* direct audience,
+* non-target audience,
+* institutions,
+* communities,
+* future users.
+
+Maka sebelum publikasi penting:
+
+> stakeholder scan.
+
+Tanyakan:
+
+> **Who else may be affected by this communication?**
+
+---
+
+## 77. Latihan 1 — One Idea, Five Public Characters
+
+Idea:
+
+> penggunaan AI dalam pendidikan.
+
+Buat message 60 detik untuk:
+
+1. student,
+2. parent,
+3. lecturer,
+4. school manager,
+5. general public.
+
+Core meaning harus:
+
+> sama.
+
+Language dan relevance:
+
+> berubah.
+
+---
+
+## 78. Latihan 2 — Reach or Impact?
+
+Tentukan.
+
+### A
+
+Video ditonton 50.000 kali.
+
+> Reach/Attention.
+
+### B
+
+3.000 orang menyelesaikan tutorial.
+
+> Engagement.
+
+### C
+
+500 mahasiswa mengubah cara mereka menggunakan AI pada assignment.
+
+> Adoption/Action.
+
+### D
+
+Setelah semester, quality reasoning meningkat.
+
+> Impact.
+
+Tujuan:
+
+> membedakan metrics.
+
+---
+
+## 79. Latihan 3 — Jargon to Public Language
+
+Ubah:
+
+> “Model uses retrieval-augmented generation with embedding-based semantic retrieval.”
+
+menjadi:
+
+> public language.
+
+Contoh:
+
+> “Sebelum menjawab, AI mencari bagian dokumen yang paling relevan sehingga jawabannya dapat didasarkan pada informasi yang tersedia.”
+
+---
+
+## 80. Latihan 4 — Simplification or Distortion?
+
+### A
+
+> “AI dapat salah.”
+
+Simple, reasonable.
+
+### B
+
+> “AI selalu berbohong.”
+
+Distortion.
+
+### C
+
+> “Sistem mengenali pola dari data.”
+
+Simplification.
+
+### D
+
+> “AI memahami manusia seperti manusia memahami manusia.”
+
+Potential distortion.
+
+Diskusikan:
+
+> dimana simplification menjadi misleading?
+
+---
+
+## 81. Latihan 5 — Headline vs Meaning
+
+Dosen memberi article idea:
+
+> “AI dapat meningkatkan productivity tetapi juga meningkatkan information overload.”
+
+Mahasiswa membuat:
+
+### Clickbait
+
+kemudian:
+
+### Responsible Headline
+
+Bandingkan.
+
+---
+
+## 82. Latihan 6 — Context Collapse
+
+Message:
+
+> “Stop using AI to write.”
+
+Audience asli:
+
+> mahasiswa dalam latihan tertentu.
+
+Bagaimana jika message dibaca oleh:
+
+* journalist,
+* researcher,
+* professional writer?
+
+Mahasiswa memperbaiki:
+
+> context.
+
+Misalnya:
+
+> “Untuk latihan ini, tulis draft pertama tanpa AI agar kita dapat menilai kemampuan reasoning Anda sendiri.”
+
+Much clearer.
+
+---
+
+## 83. Latihan 7 — Public Narrative
+
+Buat narrative 90 detik:
+
+> Person → Reality → Tension → Possibility → Evidence → Action.
+
+Topic:
+
+* cybersecurity,
+* waste,
+* AI learning,
+* public transport,
+* mental workload,
+* campus service.
+
+---
+
+## 84. Latihan 8 — Ethical Personalization
+
+Satu message:
+
+> keamanan password.
+
+AI membuat versi untuk:
+
+* child,
+* university student,
+* small-business owner.
+
+Mahasiswa mengevaluasi:
+
+> apakah hanya language yang berubah,
+
+atau:
+
+> apakah truth juga berubah?
+
+---
+
+## 85. Mini Performance — Communicating an Idea to the World
+
+Setiap mahasiswa memilih satu idea yang benar-benar dianggap penting.
+
+Boleh berasal dari:
+
+* academic field,
+* campus issue,
+* innovation,
+* community problem,
+* public knowledge.
+
+Performance:
+
+> **3 menit public communication + 2 menit questions.**
+
+---
+
+## 86. Performance Structure
+
+Student harus menunjukkan:
+
+### WHO?
+
+Siapa intended public?
+
+### CHARACTER?
+
+Sebagai siapa ia berbicara?
+
+### OBJECTIVE?
+
+Apa yang ingin berubah?
+
+### ATTENTION?
+
+Mengapa relevant?
+
+### INTEREST?
+
+Apa idea/possibility?
+
+### DESIRE/VALUE?
+
+Apa better state?
+
+### ACTION?
+
+Apa next step?
+
+---
+
+## 87. Performance Rule
+
+Tidak boleh:
+
+> hanya melakukan technical presentation.
+
+Harus ada:
+
+> person relevance.
+
+Dan tidak boleh:
+
+> membuat claim yang tidak dapat dipertanggungjawabkan.
+
+---
+
+## 88. Example
+
+Topic:
+
+> phishing.
+
+Buruk:
+
+> “Phishing is a social-engineering cyberattack exploiting authentication vectors…”
+
+Lebih public-centered:
+
+> “Banyak serangan digital tidak dimulai dengan hacker membobol komputer. Mereka dimulai dengan seseorang menerima message yang tampak biasa dan menekan link. Sebelum klik, periksa siapa pengirimnya, alamat link, dan apakah message sedang membuat Anda tergesa-gesa.”
+
+Sekarang:
+
+> human action visible.
+
+---
+
+## 89. Observer Role
+
+Peer observer mencatat:
+
+* intended person,
+* core meaning,
+* strongest Attention move,
+* unclear statement,
+* evidence claim,
+* call to action,
+* possible unintended interpretation.
+
+---
+
+## 90. Rubrik Mini Performance
+
+| Dimensi                                  | Bobot |
+| ---------------------------------------- | ----: |
+| Public Person & Character Recognition    |   20% |
+| Objective, Narrative & Relevance         |   20% |
+| Language & Repertoire                    |   20% |
+| Evidence, Responsibility & Trust         |   20% |
+| Action, Impact Logic & Response Handling |   20% |
+
+---
+
+## 91. Format Pertemuan 2 Jam
+
+### 0–15 menit — Review Minggu 12
+
+Pertanyaan:
+
+> Apa yang berubah ketika community menjadi public yang tidak kita kenal?
+
+---
+
+### 15–40 menit — Lecture
+
+Topik:
+
+* communication at scale,
+* public character,
+* narrative,
+* TAIDA,
+* reputation,
+* ethical influence.
+
+---
+
+### 40–55 menit — Demonstration
+
+Dosen mengambil satu technical idea dan memberikan:
+
+> poor expert explanation
+
+versus:
+
+> person-centered public communication.
+
+---
+
+### 55–80 menit — Practice
+
+* One Idea Five Characters
+* Jargon Translation
+* Public Narrative
+* Context Collapse
+
+---
+
+### 80–110 menit — Mini Performance
+
+> **Communicating an Idea to the World**
+
+---
+
+### 110–120 menit — AI Reflection
+
+AI membantu menguji:
+
+* clarity,
+* overclaim,
+* alternate interpretation,
+* accessibility,
+* call to action.
+
+Mahasiswa tetap:
+
+> final reviewer.
+
+---
+
+## 92. Tugas Minggu 13 — Public Contribution Challenge
+
+Mahasiswa membuat satu **public communication artifact**.
+
+Pilihan:
+
+* video 2–3 menit,
+* article 600–800 kata,
+* infographic + explanation,
+* audio/podcast 3–5 menit,
+* slide narrative maksimal 5 slides.
+
+Topic harus:
+
+> meaningful bagi mahasiswa.
+
+---
+
+## 93. Bagian A — PERSON
+
+Definisikan intended public.
+
+Jangan:
+
+> “semua orang.”
+
+Contoh:
+
+> mahasiswa tahun pertama yang mulai memakai generative AI untuk mengerjakan tugas.
+
+---
+
+## 94. Bagian B — CHARACTER
+
+Sebagai siapa Anda berbicara?
+
+Misalnya:
+
+* fellow student,
+* engineer,
+* researcher,
+* citizen,
+* educator.
+
+Ini penting karena:
+
+> character mempengaruhi responsibility dan language.
+
+---
+
+## 95. Bagian C — OBJECTIVE
+
+Pilih satu primary objective:
+
+* understand,
+* reflect,
+* learn,
+* adopt,
+* participate,
+* act.
+
+Tuliskan:
+
+> **“After this communication I want the person to…”**
+
+---
+
+## 96. Bagian D — CORE MEANING
+
+Tuliskan satu paragraph:
+
+> Apa meaning yang tidak boleh hilang?
+
+Ini menjadi anchor agar AI atau editing tidak:
+
+> distort message.
+
+---
+
+## 97. Bagian E — TAIDA MAP
+
+### TARGET
+
+Siapa?
+
+### ATTENTION
+
+Apa relevant problem/opportunity?
+
+### INTEREST
+
+Apa idea?
+
+### DESIRE
+
+Apa desired future/value?
+
+### ACTION
+
+Apa reasonable next step?
+
+---
+
+## 98. Bagian F — EVIDENCE
+
+Identifikasi:
+
+* claims,
+* supporting evidence,
+* interpretations,
+* uncertainty.
+
+Pisahkan dengan jelas.
+
+---
+
+## 99. Bagian G — PUBLIC ARTIFACT
+
+Buat communication artifact.
+
+Kriteria:
+
+* clear,
+* person-centered,
+* responsible,
+* engaging,
+* concise.
+
+---
+
+## 100. Bagian H — AI-MEDIATED ADAPTATION
+
+Setelah version pertama dibuat sendiri:
+
+Gunakan AI untuk minimal dua fungsi:
+
+* clarity editing,
+* audience adaptation,
+* alternative headline,
+* jargon simplification,
+* objection simulation,
+* possible misinterpretation.
+
+Tetapi simpan:
+
+> original → AI suggestion → final human version.
+
+---
+
+## 101. Bagian I — CONTEXT CHECK
+
+Tanyakan:
+
+> Jika message dilihat oleh audience di luar target, apa yang mungkin disalahpahami?
+
+Perbaiki jika perlu.
+
+---
+
+## 102. Bagian J — REPUTATION TEST
+
+Jawab:
+
+> Jika komunikasi ini tetap berada di internet selama 10 tahun, apakah saya masih bersedia bertanggung jawab atas meaning-nya?
+
+Pertanyaan ini mendorong:
+
+> public responsibility.
+
+---
+
+## 103. Bagian K — RESPONSE
+
+Tunjukkan artifact kepada minimal:
+
+> 3 persons.
+
+Minta mereka menjawab:
+
+1. Apa message utama yang Anda terima?
+2. Bagian apa yang paling relevant?
+3. Apa yang membingungkan?
+4. Apa action yang menurut Anda diminta?
+
+Bandingkan dengan:
+
+> intended meaning.
+
+---
+
+## 104. Bagian L — REFLECTION
+
+Jawab:
+
+> Apakah message yang saya kirim sama dengan meaning yang diterima?
+
+Jika berbeda:
+
+> mengapa?
+
+Ini adalah inti communication.
+
+---
+
+## 105. Penilaian Tugas Minggu 13
+
+| Aspek                               | Bobot |
+| ----------------------------------- | ----: |
+| Person, Character & Objective       |   20% |
+| Public Narrative & Language         |   20% |
+| Evidence, Accuracy & Responsibility |   20% |
+| TAIDA / Action & Audience Response  |   20% |
+| Reflection & Critical AI Use        |   20% |
+
+---
+
+## 106. Public Communication Checklist
+
+Sebelum publish:
+
+### WHO?
+
+> Siapa intended person?
+
+### AS WHO?
+
+> Character saya?
+
+### WHY?
+
+> Apa objective?
+
+### TRUE?
+
+> Apa evidence?
+
+### CLEAR?
+
+> Apakah meaning accessible?
+
+### FAIR?
+
+> Apakah ada person/group yang digambarkan tidak fair?
+
+### ACTION?
+
+> Apa next step?
+
+---
+
+Setelah publish:
+
+### RECEIVED?
+
+> Apa yang sebenarnya dipahami?
+
+### RESPONSE?
+
+> Apa pertanyaan/reaction?
+
+### DISTORTED?
+
+> Apakah ada unexpected interpretation?
+
+### IMPACT?
+
+> Apa yang berubah?
+
+### REPAIR?
+
+> Adakah sesuatu yang perlu diklarifikasi atau diperbaiki?
+
+---
+
+## 107. The Public Communication Loop
+
+[
+\boxed{
+Person
+\rightarrow
+Narrative
+\rightarrow
+Public
+\rightarrow
+Response
+\rightarrow
+Learning
+\rightarrow
+Adaptation
+\rightarrow
+Reputation
+}
+]
+
+Ini menunjukkan:
+
+> public communication juga merupakan relationship process.
+
+---
+
+## 108. The AI-Mediated Public Communication Loop
+
+[
+Person
++
+AI\ Copilot
+\rightarrow
+Message
+\rightarrow
+Many\ Persons
+\rightarrow
+Responses/Data
+\rightarrow
+AI\ Analysis
++
+Human\ Judgment
+\rightarrow
+Next\ Communication
+]
+
+AI meningkatkan:
+
+> scale dan adaptability.
+
+Manusia mempertahankan:
+
+> meaning, judgment, ethics, dan accountability.
+
+---
+
+## 109. From Broadcasting to Relationship
+
+Traditional model:
+
+> **ONE → MANY**
+
+Person-centered AI era memungkinkan:
+
+> **ONE ⇄ MANY**
+
+Public dapat:
+
+* comment,
+* ask,
+* customize,
+* respond,
+* participate.
+
+Communicator juga dapat:
+
+> listen back.
+
+Maka public communication menjadi semakin:
+
+> relational.
+
+---
+
+## 110. Tetapi Relationship Tidak Boleh Menjadi Surveillance
+
+Untuk personalization kita dapat mengumpulkan:
+
+> data.
+
+Tetapi ada ethical limit.
+
+Mengetahui audience lebih baik harus:
+
+> meningkatkan service dan understanding,
+
+bukan:
+
+> membuat manipulation lebih invisible.
+
+Prinsip:
+
+> **Know enough to serve better—not to control better.**
+
+---
+
+## 111. Communication with the World as Contribution
+
+Tujuan terbesar komunikasi bukan selalu:
+
+> influence.
+
+Kadang:
+
+> contribution.
+
+Seorang scientist berkontribusi:
+
+> knowledge.
+
+Artist:
+
+> beauty.
+
+Engineer:
+
+> solution.
+
+Teacher:
+
+> understanding.
+
+Citizen:
+
+> voice.
+
+Communicator yang matang bertanya:
+
+> **What value am I adding to the world by communicating?**
+
+---
+
+## 112. Noise or Value?
+
+Sebelum membuat public message:
+
+> Apakah saya menambah:
+
+### SIGNAL?
+
+atau:
+
+### NOISE?
+
+AI membuat kita mampu memproduksi lebih banyak.
+
+Maturity membuat kita mampu memilih:
+
+> **what deserves to be communicated.**
+
+---
+
+## 113. Five Public Questions
+
+Sebelum berbicara kepada dunia:
+
+### 1. WHO NEEDS THIS?
+
+### 2. WHY DOES IT MATTER?
+
+### 3. WHAT DO I ACTUALLY KNOW?
+
+### 4. HOW CAN I MAKE IT UNDERSTANDABLE?
+
+### 5. WHAT RESPONSIBLE ACTION SHOULD FOLLOW?
+
+---
+
+## 114. Take-Home Messages
+
+Jika hanya mengingat sepuluh hal dari Minggu 13:
+
+1. **The public is made of persons, not anonymous masses.**
+2. Communication at scale reduces direct knowledge of each individual person.
+3. Public character determines communication responsibility.
+4. **Reach is not the same as impact.**
+5. Translate specialized knowledge without distorting it.
+6. Public narrative should connect person, reality, problem, possibility, evidence, and action.
+7. Reputation is relationship memory at scale.
+8. Ethical influence increases understanding and preserves autonomy.
+9. AI enables personalization and scale, but also enables unprecedented manipulation and noise.
+10. The highest purpose of public communication is not merely visibility, but **responsible contribution to persons and the world.**
+
+---
+
+## 115. One-Minute Summary
+
+Minggu 12:
+
+> **PERSON ⇄ COMMUNITY**
+
+Minggu 13:
+
+> **PERSON ⇄ THE WORLD**
+
+Tetapi dunia bukan satu anonymous audience.
+
+Ia terdiri dari:
+
+> **MANY PERSONS**
+
+dengan:
+
+* different personalities,
+* narrative characters,
+* knowledge,
+* values,
+* contexts,
+* objectives.
+
+Maka public communication bekerja melalui:
+
+> **PERSON**
+> ↓
+> **PUBLIC CHARACTER**
+> ↓
+> **OBJECTIVE**
+> ↓
+> **TARGET PERSONS**
+> ↓
+> **PUBLIC NARRATIVE**
+> ↓
+> **RELEVANT LANGUAGE & REPERTOIRE**
+> ↓
+> **ATTENTION**
+> ↓
+> **INTEREST**
+> ↓
+> **DESIRE / ADOPTION**
+> ↓
+> **ACTION**
+> ↓
+> **IMPACT**
+> ↓
+> **REPUTATION & RELATIONSHIP**
+
+Dengan AI:
+
+> **PERSON + AI COPILOT ⇄ MANY PERSONS**
+
+menjadi mungkin pada scale yang belum pernah ada sebelumnya.
+
+Tetapi semakin besar kemampuan communication kita:
+
+> semakin besar pula responsibility kita.
+
+Maka prinsip Minggu 13 adalah:
+
+> **Do not communicate merely to be seen. Communicate to add truthful, understandable, responsible value to the lives of persons you may never meet.**
+
+Pada **Minggu 14**, seluruh framework ini akan dibawa ke pusat tema mata kuliah: **AI-Mediated Person-Centered Communication**—bagaimana AI dapat menjadi *mirror, coach, copilot, translator, mediator,* dan dalam kondisi tertentu *delegated agent*, tanpa mengambil alih agency, responsibility, dan relationship yang tetap dimiliki oleh human persons.
