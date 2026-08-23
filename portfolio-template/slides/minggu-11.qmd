@@ -1,0 +1,199 @@
+---
+title: "Minggu 11 — Multi-Person Negotiation"
+subtitle: "Membangun kesepakatan di antara banyak stakeholder"
+---
+
+## Lebih banyak person berarti lebih banyak state
+
+<p class="big-idea">Satu kelompok tidak memiliki satu objective, satu constraint, atau satu posisi dalam TAIDA. Setiap person membawa kombinasi yang berbeda.</p>
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- memetakan stakeholder sebagai person dan character;
+- membedakan position, interest, constraint, dan acceptable outcome;
+- menghasilkan opsi serta trade-off;
+- memfasilitasi kesepakatan tanpa membuat false consensus.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–15 | Review agreement dua pihak |
+| 15–40 | Stakeholder map, interest, trade-off, multi-state TAIDA |
+| 40–55 | Demonstrasi debate vs facilitation |
+| 55–80 | Mapping dan option generation |
+| 80–110 | Multi-person negotiation performance |
+| 110–120 | AI review dan refleksi |
+
+## Stakeholder bukan kotak dalam diagram
+
+Untuk setiap stakeholder, kenali:
+
+- person;
+- narrative character;
+- objective;
+- interest;
+- constraint;
+- authority;
+- acceptable outcome;
+- current TAIDA state.
+
+## Shared mission, different objectives
+
+::: {.scenario}
+Digital ordering untuk kantin kampus.
+:::
+
+- Student: cepat dan pasti.
+- Cashier: beban kerja dapat dikelola.
+- Owner: revenue dan biaya.
+- IT team: reliability dan supportability.
+- Finance: kontrol dan audit.
+
+Satu proyek; ukuran keberhasilan berbeda.
+
+## Position dan interest
+
+::: {.contrast}
+::: {}
+### Position
+
+Apa yang dikatakan harus terjadi: “Tidak boleh ada cash.”
+:::
+::: {}
+### Interest
+
+Mengapa itu penting: pencatatan transaksi dan keamanan.
+:::
+:::
+
+Beberapa posisi dapat memenuhi interest yang sama.
+
+## Constraint bukan lack of commitment
+
+Constraint dapat berupa:
+
+- kebijakan;
+- kapasitas;
+- authority;
+- risiko;
+- waktu;
+- dependency;
+- kebutuhan kelompok yang kurang terlihat.
+
+Memahami constraint membuka ruang desain agreement.
+
+## Setiap person berada pada base berbeda
+
+| Stakeholder | Current state | Kebutuhan komunikasi |
+|---|---|---|
+| Student | Desire | feasibility dan action |
+| Cashier | Attention | didengar dan memahami impact |
+| Owner | Interest | evidence dan trade-off |
+| IT team | Target | dilibatkan sejak awal |
+
+Satu pitch untuk semua biasanya salah base.
+
+## Common ground cukup spesifik
+
+Common ground bukan “kita semua ingin yang terbaik”.
+
+Contoh yang dapat diuji:
+
+> Kita ingin waktu antre turun tanpa meningkatkan error transaksi atau membebani cashier di jam puncak.
+
+Ia memberi kriteria untuk menilai opsi.
+
+## Dari dua pilihan menuju option space
+
+Sebelum memilih, hasilkan sedikitnya tiga opsi yang berbeda pada:
+
+- scope;
+- timing;
+- ownership;
+- automation level;
+- cost/risk distribution;
+- pilot dan review.
+
+## Trade-off harus terlihat
+
+| Opsi | Speed | Cost | Staff effort | Reliability | Learning value |
+|---|---:|---:|---:|---:|---:|
+| Full rollout | tinggi | tinggi | tinggi | belum pasti | sedang |
+| One-counter pilot | sedang | rendah | sedang | dapat diuji | tinggi |
+| Process-only change | rendah | rendah | rendah | tinggi | rendah |
+
+Skor adalah bahan dialog, bukan kebenaran otomatis.
+
+## Agreement ladder
+
+::: {.flow .compact}
+<div>Facts</div><div>Shared problem</div><div>Evaluation criteria</div><div>Options</div><div>Trade-offs</div><div>Commitments</div><div>Review</div>
+:::
+
+Micro-agreements mencegah kelompok berdebat tentang semuanya sekaligus.
+
+## Facilitator character
+
+Facilitator:
+
+- memberi ruang yang cukup adil;
+- paraphrase posisi dan interest;
+- membuat disagreement spesifik;
+- mengungkap constraint dan power;
+- menguji apakah silence benar-benar agreement;
+- mencatat keputusan dan unresolved issue.
+
+## Power matters
+
+Tidak semua orang memiliki risiko yang sama ketika berbicara.
+
+Facilitator perlu memperhatikan:
+
+- siapa yang sering menyela;
+- siapa yang menanggung dampak tetapi tidak memutuskan;
+- siapa yang dapat menghukum dissent;
+- suara siapa yang hilang dari ruangan.
+
+## Demonstrasi: owner, cashier, student
+
+Dosen menjalankan dua versi:
+
+1. debate yang mempertahankan position;
+2. facilitation yang menemukan interest, criteria, dan pilot.
+
+Kelas menandai micro-agreement yang mengubah percakapan.
+
+## Latihan: map → interests → options
+
+::: {.activity}
+**25 menit — kelompok lima**
+
+Bangun stakeholder map, ubah position menjadi interest, tetapkan must-have/nice-to-have, lalu hasilkan lima opsi sebelum menilai.
+:::
+
+## Mini performance: multi-person negotiation
+
+Setiap person menerima hidden objective dan constraint. Facilitator memimpin 20 menit untuk menghasilkan:
+
+- shared problem statement;
+- evaluation criteria;
+- option set;
+- agreement atau specific disagreement;
+- owner dan next step.
+
+## AI sebagai simulator, bukan decision maker
+
+AI dapat membantu menghasilkan opsi, mendeteksi conflict, atau memainkan stakeholder yang hilang.
+
+AI tidak boleh menentukan nilai manusia, membuat commitment atas nama person, atau menyamakan simulation dengan consultation.
+
+## Tugas: Multi-Person Negotiation Challenge
+
+Serahkan stakeholder map, acceptability, multi-state TAIDA, shared problem, options, negotiation evidence, final agreement, relationship review, dan AI critique.
+
+## Pegangan satu menit
+
+<p class="big-idea">Map every person. Separate positions from interests. Expand options. Make trade-offs visible. Confirm real agreement.</p>

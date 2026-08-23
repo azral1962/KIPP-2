@@ -1,0 +1,20 @@
+---
+title: "Indeks Portfolio"
+sidebar: portfolio
+toc: false
+listing:
+  contents: "week-*.qmd"
+  type: table
+  sort: "week asc"
+  fields: [week, title, status, self_score, assessor_score]
+  field-display-names:
+    week: "Minggu"
+    title: "Evidence"
+    status: "Status"
+    self_score: "Self"
+    assessor_score: "Assessor"
+  page-size: 20
+---
+
+Perbarui metadata di bagian atas setiap file `week-XX.qmd`. Nilai `status` yang disarankan: `Belum dimulai`, `Draft`, `Siap dinilai`, `Perlu revisi`, atau `Tercapai`.
+

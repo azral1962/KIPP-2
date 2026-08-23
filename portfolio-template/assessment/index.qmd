@@ -1,0 +1,35 @@
+---
+title: "Assessment Pencapaian"
+sidebar: assessment
+---
+
+Assessment menilai **perilaku komunikasi yang dapat diamati**, bukan kepribadian mahasiswa. Evidence dapat berupa transcript, rekaman, artefak publik, catatan observer, agreement, atau bukti tindakan.
+
+## Siklus assessment
+
+1. Mahasiswa melakukan practice atau performance.
+2. Mahasiswa memilih evidence dan menulis analisis.
+3. Mahasiswa melakukan self-assessment dengan rubrik.
+4. Assessor memberi skor dan feedback berbasis evidence.
+5. Mahasiswa melakukan replay, revisi, atau tindakan berikutnya.
+
+## Status pencapaian
+
+| Status | Makna |
+|---|---|
+| Belum dimulai | Belum ada evidence |
+| Draft | Evidence atau refleksi belum lengkap |
+| Siap dinilai | Semua bagian wajib tersedia |
+| Perlu revisi | Ada feedback yang perlu ditindaklanjuti |
+| Tercapai | Evidence memenuhi tingkat kompeten atau lebih |
+
+## Syarat evidence yang kuat
+
+- **Specific:** menunjukkan situasi, person, dan perilaku tertentu.
+- **Observable:** pembaca dapat melihat atau mendengar apa yang dilakukan.
+- **Relevant:** terhubung pada kompetensi minggu tersebut.
+- **Authentic:** kontribusi mahasiswa dan penggunaan AI dijelaskan.
+- **Developmental:** memperlihatkan feedback, adaptation, atau perubahan.
+
+Gunakan [rubrik universal](rubric.qmd) untuk semua performance dan [indeks portfolio](../portfolio/index.qmd) untuk melihat status pencapaian mingguan.
+

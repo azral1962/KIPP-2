@@ -1,0 +1,30 @@
+---
+title: "Profil Mahasiswa"
+toc: false
+---
+
+| Field | Isi |
+|---|---|
+| Nama | {{< var student.name >}} |
+| NIM | {{< var student.id >}} |
+| Program studi | {{< var student.program >}} |
+| Angkatan | {{< var student.cohort >}} |
+| Email | {{< var student.email >}} |
+| Mata kuliah | {{< var course.code >}} — {{< var course.name >}} |
+| Dosen | {{< var course.lecturer >}} |
+| Semester | {{< var course.semester >}} |
+
+## Pernyataan portfolio
+
+Tuliskan tujuan belajar pribadi Anda untuk semester ini.
+
+> Ganti teks ini dengan pernyataan singkat tentang kompetensi komunikasi yang ingin Anda bangun dan alasan mengapa kompetensi tersebut penting.
+
+## Aturan evidence
+
+- Gunakan evidence yang memang Anda hasilkan atau ikuti.
+- Jelaskan kontribusi Anda pada pekerjaan kelompok.
+- Jangan memasukkan data pribadi pihak lain tanpa izin.
+- Nyatakan penggunaan AI dan perubahan yang Anda lakukan terhadap output AI.
+- Pertahankan feedback asli; refleksi boleh menjelaskan respons Anda terhadap feedback tersebut.
+

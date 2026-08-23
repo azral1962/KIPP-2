@@ -1,0 +1,37 @@
+---
+title: "Rubrik Universal"
+sidebar: assessment
+---
+
+## Tingkat pencapaian
+
+| Level | Nama | Deskripsi umum |
+|---:|---|---|
+| 1 | Awal | Perilaku masih didominasi asumsi, monolog, atau script |
+| 2 | Berkembang | Prinsip terlihat tetapi belum konsisten atau adaptif |
+| 3 | Kompeten | Perilaku sesuai situasi, berbasis evidence, dan mencapai outcome yang layak |
+| 4 | Lanjut | Mampu menangani complexity, uncertainty, power, dan trade-off secara reflektif |
+
+## Dimensi penilaian
+
+| Dimensi | 1 — Awal | 2 — Berkembang | 3 — Kompeten | 4 — Lanjut |
+|---|---|---|---|---|
+| Person & Character | Menggunakan kategori/stereotype | Mengenali sebagian context | Memetakan person, character, relationship | Membaca perubahan role, power, dan context |
+| Objective & State | Objective kabur; salah base | Objective ada tetapi state belum konsisten | Objective dan current state jelas | Mengelola beberapa objective/state dan uncertainty |
+| Repertoire, Language & AI | Satu cara; AI tanpa batas | Ada adaptation tetapi belum tepat | Repertoire relevan; AI proporsional | Adaptasi luwes dengan boundary dan rationale kuat |
+| Response & Adaptation | Monolog; mengabaikan response | Mendengar tetapi lambat berubah | Menggunakan response untuk beradaptasi | Mendeteksi signal lemah dan memperbaiki loop |
+| Agreement, Action & Relationship | Outcome ambigu atau merusak relasi | Ada next step tetapi belum lengkap | Agreement/action eksplisit dan relationship dijaga | Trade-off, authority, review, dan repair dikelola |
+
+## Perhitungan
+
+Jumlahkan lima dimensi. Skor maksimum adalah **20**.
+
+| Total | Interpretasi |
+|---:|---|
+| 5–8 | Awal |
+| 9–12 | Berkembang |
+| 13–16 | Kompeten |
+| 17–20 | Lanjut |
+
+Skor tidak berdiri sendiri. Assessor tetap memberikan evidence yang mendukung skor dan satu prioritas perbaikan.
+

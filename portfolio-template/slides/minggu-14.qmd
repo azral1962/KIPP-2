@@ -1,0 +1,205 @@
+---
+title: "Minggu 14 — AI-Mediated Communication"
+subtitle: "Mirror, Coach, Translator, Copilot, Mediator, dan Delegate"
+---
+
+## AI dapat memperbesar kualitas atau memperbesar kesalahan
+
+<p class="big-idea">Intelligence dapat berada dalam sistem. Relationship, authority, dan responsibility tetap berada pada persons.</p>
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- memilih peran AI yang proporsional;
+- membuat person-centered prompt;
+- menetapkan authority boundary dan human review;
+- menilai risiko privacy, profiling, manipulation, dan dependency.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–15 | Review public communication dan AI boundary |
+| 15–40 | Enam peran AI dan tiga level assistance |
+| 40–55 | Demonstrasi Coach → Copilot → Delegate |
+| 55–80 | Prompt, translation, dan delegation practice |
+| 80–110 | AI-assisted human communication performance |
+| 110–120 | Reflection |
+
+## AI mediation terjadi di beberapa waktu
+
+::: {.flow}
+<div><strong>BEFORE</strong><br>reflection dan preparation</div>
+<div><strong>DURING</strong><br>copilot dan assistance</div>
+<div><strong>AFTER</strong><br>review dan learning</div>
+<div><strong>INSTEAD OF</strong><br>delegated task</div>
+:::
+
+Semakin dekat AI menggantikan komunikasi, semakin penting authority dan relationship risk.
+
+## Enam peran AI
+
+| Peran | Fungsi | Human responsibility |
+|---|---|---|
+| Mirror | memantulkan pola | menilai accuracy |
+| Coach | melatih sebelum action | memilih dan belajar |
+| Translator | mengadaptasi language | menjaga meaning dan voice |
+| Copilot | membantu saat bekerja | mengawasi output |
+| Mediator | membantu memahami pihak | memastikan fairness |
+| Delegate | bertindak dalam batas | menetapkan authority |
+
+## Mirror
+
+AI membantu memisahkan fact, story, emotion, dan assumption; menunjukkan pola; serta mengajukan pertanyaan.
+
+AI tidak memiliki akses penuh pada sejarah, tubuh, hubungan, dan konteks kita. Reflection tetap membutuhkan human judgment.
+
+## Coach
+
+Workflow:
+
+::: {.flow .compact}
+<div>Define situation</div><div>Roleplay</div><div>Perform</div><div>Evidence-based feedback</div><div>Replay</div>
+:::
+
+Coach yang baik meningkatkan repertoire manusia, bukan membuat ketergantungan pada script.
+
+## Translator
+
+AI dapat mengubah technical language menjadi managerial, customer, emotional, atau public language.
+
+Translation harus mempertahankan:
+
+- core meaning;
+- factual accuracy;
+- uncertainty;
+- values dan intent;
+- authentic voice.
+
+## Copilot, bukan autopilot
+
+Copilot dapat menyiapkan agenda, menangkap action item, atau menyarankan wording.
+
+Human tetap:
+
+- membaca room;
+- menyelesaikan ambiguity;
+- membuat commitment;
+- memperbaiki harm;
+- bertanggung jawab atas keputusan.
+
+## Mediator
+
+AI dapat:
+
+- paraphrase dua language systems;
+- menandai points of agreement dan conflict;
+- menghasilkan opsi;
+- mengurangi beban dokumentasi.
+
+Mediation harus transparan. Pihak yang terdampak perlu tahu bagaimana AI digunakan.
+
+## Delegate
+
+Delegated agent memerlukan definisi eksplisit:
+
+::: {.flow .compact}
+<div>Character</div><div>Mission</div><div>Knowledge</div><div>Values</div><div>Constraints</div><div>Language</div><div>Authority</div>
+:::
+
+Agent hanya boleh bernegosiasi dalam acceptable region yang ditetapkan manusia.
+
+## Tiga level assistance
+
+::: {.contrast}
+::: {}
+### Low relationship risk
+
+Scheduling, formatting, routing, status reminder. Dapat didelegasikan dengan batas jelas.
+:::
+::: {}
+### High relationship risk
+
+Apology, conflict, dismissal, intimate disclosure, value judgment. Human harus membawa komunikasi.
+:::
+:::
+
+## Person-centered prompt
+
+Prompt perlu menjelaskan:
+
+- persons dan characters;
+- relationship dan history yang relevan;
+- objective dan current state;
+- facts versus assumptions;
+- desired repertoire dan language;
+- constraints, values, authority, dan privacy;
+- output serta review yang dibutuhkan.
+
+## AI + TAIDA
+
+AI dapat membantu:
+
+- **Target:** memetakan stakeholder;
+- **Attention:** menguji relevance;
+- **Interest:** mengkritik problem–solution fit;
+- **Desire:** menguji value, risk, overpromise;
+- **Action:** memeriksa ambiguity dan authority.
+
+AI tidak pernah mengetahui state dengan pasti.
+
+## Tujuh risiko
+
+1. Hallucination
+2. Profiling
+3. Manipulation
+4. Loss of authenticity
+5. Dependency
+6. Privacy leakage
+7. Authority error
+
+Risiko meningkat ketika output dikirim lebih cepat daripada human review.
+
+## Human-in-the-loop yang nyata
+
+Bukan sekadar tombol “approve”. Human perlu:
+
+- memahami input dan output;
+- memiliki waktu untuk menolak;
+- melihat uncertainty;
+- memeriksa dampak pada person;
+- bertanggung jawab dan dapat memperbaiki.
+
+## Demonstrasi: Coach → Copilot → Delegate
+
+Gunakan case penjadwalan meeting yang memiliki constraint, lalu ulangi dengan case apology kepada teman.
+
+Kelas menentukan mengapa batas delegation harus berbeda.
+
+## Latihan: choose the role and boundary
+
+::: {.activity}
+**25 menit — kelompok kecil**
+
+Untuk empat case, pilih Human-only, Coach, Copilot, atau Delegate. Tentukan data, authority, review, stop condition, dan relationship risk.
+:::
+
+## Mini performance: AI-assisted human communication
+
+Kelompok menunjukkan:
+
+1. person/character/objective map;
+2. alasan memilih satu peran AI;
+3. prompt dan output;
+4. human revision;
+5. komunikasi final kepada person;
+6. risk dan relationship review.
+
+## Tugas: AI-Mediated Communication Design
+
+Dokumentasikan persons, characters, state, AI role, alasan tidak memakai lebih banyak AI, prompt, output, human communication, authority, risks, relationship outcome, dan human learning.
+
+## Pegangan satu menit
+
+<p class="big-idea">Use AI to increase human competence. Keep authority explicit. Keep relationship-critical communication human-owned.</p>

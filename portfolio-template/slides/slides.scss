@@ -1,0 +1,305 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Aptos", "Segoe UI", Arial, sans-serif;
+$presentation-heading-font: "Aptos Display", "Segoe UI", Arial, sans-serif;
+$presentation-heading-color: #153238;
+$presentation-heading-font-weight: 700;
+$presentation-font-size-root: 36px;
+$body-bg: #f7f7f2;
+$body-color: #1c292c;
+$link-color: #216869;
+$selection-bg: #a6ce39;
+
+/*-- scss:rules --*/
+:root {
+  --ink: #153238;
+  --muted: #52676b;
+  --paper: #f7f7f2;
+  --green: #86c20e;
+  --teal: #216869;
+  --coral: #d65f4b;
+  --gold: #d89b2b;
+  --line: #cbd6d2;
+}
+
+.reveal {
+  letter-spacing: 0;
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal .slides section {
+  box-sizing: border-box;
+  padding: 36px 50px;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal p,
+.reveal li {
+  letter-spacing: 0;
+}
+
+.reveal h1 {
+  font-size: 2.05em;
+  line-height: 1.05;
+}
+
+.reveal h2 {
+  font-size: 1.42em;
+  line-height: 1.08;
+  margin-bottom: 0.5em;
+}
+
+.reveal h3 {
+  color: var(--teal);
+  font-size: 0.92em;
+}
+
+.reveal p,
+.reveal li {
+  line-height: 1.34;
+}
+
+.reveal ul,
+.reveal ol {
+  margin-left: 1.05em;
+}
+
+.reveal li + li {
+  margin-top: 0.28em;
+}
+
+.reveal blockquote {
+  width: 88%;
+  margin: 0.8em auto;
+  padding: 0.55em 0.8em;
+  border-left: 9px solid var(--green);
+  background: #ffffff;
+  color: var(--ink);
+  box-shadow: none;
+  font-size: 1.08em;
+}
+
+.reveal .title-slide {
+  background: var(--ink);
+  color: white;
+}
+
+.reveal .title-slide h1,
+.reveal .title-slide h2,
+.reveal .title-slide p {
+  color: white;
+}
+
+.reveal .title-slide h1 {
+  max-width: 1120px;
+  margin-top: 145px;
+}
+
+.reveal .title-slide .subtitle {
+  max-width: 1050px;
+  color: #d9e4e1;
+  font-size: 0.78em;
+}
+
+.reveal .title-slide .author,
+.reveal .title-slide .date {
+  color: #bfcfcb;
+  font-size: 0.55em;
+}
+
+.brand-mark {
+  position: absolute;
+  top: 54px;
+  right: 64px;
+  width: 108px;
+  height: 108px;
+  object-fit: contain;
+  background: white;
+  padding: 8px;
+}
+
+.eyebrow {
+  color: var(--teal);
+  font-size: 0.58em;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em !important;
+  margin-bottom: 0.5em;
+}
+
+.big-idea {
+  font-size: 1.55em;
+  line-height: 1.18;
+  font-weight: 700;
+  max-width: 1250px;
+  margin-top: 1.1em;
+  color: var(--ink);
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.accent {
+  color: var(--teal);
+  font-weight: 700;
+}
+
+.danger {
+  color: var(--coral);
+  font-weight: 700;
+}
+
+.flow {
+  display: flex;
+  align-items: stretch;
+  gap: 12px;
+  margin: 1.3em 0 0.6em;
+}
+
+.flow > * {
+  flex: 1 1 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 110px;
+  padding: 16px;
+  border-top: 7px solid var(--green);
+  background: #ffffff;
+  color: var(--ink);
+  font-weight: 700;
+  text-align: center;
+}
+
+.flow.compact > * {
+  min-height: 82px;
+  font-size: 0.74em;
+}
+
+.columns {
+  gap: 44px;
+}
+
+.contrast {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 44px;
+  margin-top: 0.7em;
+}
+
+.contrast > div {
+  padding: 0.4em 0.75em 0.6em;
+  border-top: 8px solid var(--line);
+}
+
+.contrast > div:first-child {
+  border-top-color: var(--coral);
+}
+
+.contrast > div:last-child {
+  border-top-color: var(--green);
+}
+
+.activity {
+  margin-top: 0.55em;
+  padding: 0.65em 0.85em;
+  border-left: 10px solid var(--gold);
+  background: #fffdf5;
+}
+
+.activity strong:first-child {
+  color: #8b5b00;
+}
+
+.scenario {
+  margin: 0.65em 0;
+  padding: 0.65em 0.85em;
+  border-left: 10px solid var(--teal);
+  background: #edf5f3;
+}
+
+.checklist li::marker {
+  color: var(--green);
+}
+
+.timeline {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.72em;
+}
+
+.timeline th {
+  background: var(--ink);
+  color: white;
+  padding: 0.52em;
+}
+
+.timeline td {
+  padding: 0.46em 0.6em;
+  border-bottom: 1px solid var(--line);
+}
+
+.timeline tr:nth-child(even) td {
+  background: #eef2ef;
+}
+
+.rubric {
+  font-size: 0.72em;
+}
+
+.rubric th {
+  background: var(--teal);
+  color: white;
+}
+
+.rubric td,
+.rubric th {
+  padding: 0.45em 0.55em;
+}
+
+.reveal .slide-number {
+  background: transparent;
+  color: var(--muted);
+  font-size: 18px;
+}
+
+.reveal .footer {
+  color: #718488;
+  font-size: 17px;
+}
+
+.reveal .progress span {
+  background: var(--green);
+}
+
+.reveal .controls {
+  color: var(--teal);
+}
+
+.reveal .small {
+  font-size: 0.7em;
+}
+
+.reveal .smaller {
+  font-size: 0.58em;
+}
+
+.reveal code {
+  color: var(--teal);
+}
+
+@media (max-width: 900px) {
+  .flow,
+  .contrast {
+    gap: 18px;
+  }
+
+  .reveal .slides section {
+    padding: 30px 38px;
+  }
+}
+

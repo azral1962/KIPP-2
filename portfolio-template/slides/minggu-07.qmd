@@ -1,0 +1,186 @@
+---
+title: "Minggu 7 — TAIDA II: Interest"
+subtitle: "Dari relevansi masalah menuju rasa ingin tahu pada solusi"
+---
+
+## Attention belum berarti interest
+
+<p class="big-idea">Setelah seseorang mengakui masalah, ia masih perlu melihat hubungan yang masuk akal antara masalah itu dan solusi yang kita tawarkan.</p>
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- membedakan attention dan interest;
+- menguji problem–solution fit;
+- menerjemahkan feature menjadi benefit dan value;
+- menyampaikan interest pitch yang singkat, kredibel, dan adaptif.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–15 | Review Target–Attention |
+| 15–40 | Interest, fit, value, evidence |
+| 40–55 | Demonstrasi feature dump vs relevant pitch |
+| 55–85 | Fit dan pitch practice |
+| 85–110 | Attention-to-Interest performance |
+| 110–120 | AI feedback dan refleksi |
+
+## Perpindahan menuju Base 2
+
+::: {.flow}
+<div><strong>ATTENTION</strong><br>“Ya, ini masalah saya.”</div>
+<div><strong>BRIDGE</strong><br>“Ada mekanisme yang relevan.”</div>
+<div><strong>INTEREST</strong><br>“Bagaimana cara kerjanya?”</div>
+:::
+
+Interest terlihat dari curiosity, bukan sekadar kesopanan.
+
+## Solution before technology
+
+Jelaskan lebih dahulu:
+
+- problem yang diselesaikan;
+- mekanisme perubahan;
+- benefit yang mungkin terjadi;
+- evidence atau batas yang diketahui.
+
+Teknologi adalah bagian dari *how*, bukan alasan universal untuk peduli.
+
+## Problem–solution fit
+
+::: {.flow}
+<div><strong>PROBLEM</strong><br>friction yang disepakati</div>
+<div><strong>MECHANISM</strong><br>apa yang berubah</div>
+<div><strong>BENEFIT</strong><br>perbaikan langsung</div>
+<div><strong>VALUE</strong><br>mengapa penting bagi person</div>
+:::
+
+Jika salah satu hubungan lemah, interest pitch menjadi klaim kosong.
+
+## Feature, benefit, value
+
+::: {.scenario}
+Feature: notifikasi otomatis ketika status pesanan berubah.
+:::
+
+- **Benefit:** pengguna tidak perlu bertanya berulang kali.
+- **Value bagi customer:** lebih pasti dan lebih sedikit waktu menunggu.
+- **Value bagi staff:** lebih sedikit interupsi saat bekerja.
+
+Feature yang sama membawa value berbeda bagi character berbeda.
+
+## Weak vs strong interest pitch
+
+::: {.contrast}
+::: {}
+### Weak
+
+“Platform kami lengkap, modern, AI-powered, dan memiliki dashboard canggih.”
+:::
+::: {}
+### Strong
+
+“Status otomatis memberi tahu mahasiswa kapan pesanan siap, sehingga cashier tidak perlu menjawab pertanyaan yang sama saat jam puncak.”
+:::
+:::
+
+## Evidence membangun credibility
+
+Gunakan bukti yang proporsional:
+
+- prototype atau demonstration;
+- pengalaman kasus yang relevan;
+- data yang dapat diperiksa;
+- analogy dengan batas yang jelas;
+- penjelasan mekanisme;
+- pengakuan atas hal yang belum diketahui.
+
+## Layered communication
+
+Jangan memindahkan semua detail sekaligus.
+
+1. Berikan core mechanism.
+2. Tunggu response atau pertanyaan.
+3. Tambahkan detail yang relevan.
+4. Periksa kembali understanding.
+
+Interest tumbuh ketika person dapat ikut menentukan kedalaman.
+
+## Interest bukan desire
+
+**Interest:** “Saya ingin tahu lebih banyak.”  
+**Desire:** “Saya menginginkan outcome itu untuk situasi saya.”
+
+Jangan langsung closing ketika target baru mulai bertanya.
+
+## Formula interest pitch
+
+> Karena Anda mengalami [problem], [solution/mechanism] dapat membantu dengan [benefit]. Untuk situasi Anda, ini berarti [value]. Bagian mana yang ingin Anda lihat lebih jauh?
+
+Pertanyaan terakhir membuka closed-loop communication.
+
+## Hidden concern berada di balik pertanyaan
+
+“Apakah sistemnya cloud?” mungkin sebenarnya berarti:
+
+- apakah datanya aman?
+- apakah butuh infrastruktur baru?
+- apakah saya kehilangan kontrol?
+- apakah biaya akan meningkat?
+
+Jawab concern, bukan hanya kata-kata pertanyaannya.
+
+## Demonstrasi: two pitches
+
+::: {.scenario}
+Solution yang sama dipresentasikan kepada owner kantin dan cashier.
+:::
+
+Kelas menandai:
+
+- problem–solution link;
+- feature, benefit, dan value;
+- evidence;
+- response yang menunjukkan interest atau belum.
+
+## Latihan 1: feature to value
+
+::: {.activity}
+**12 menit — kelompok kecil**
+
+Ambil tiga features. Untuk masing-masing, tulis mechanism, benefit, dan value bagi dua character berbeda. Hapus klaim yang tidak dapat dijelaskan.
+:::
+
+## Latihan 2: stop feature dumping
+
+::: {.activity}
+**12 menit — berpasangan**
+
+Communicator hanya boleh memberi satu lapisan informasi. Target harus bertanya untuk membuka lapisan berikutnya. Tukar peran.
+:::
+
+## Mini performance: Attention to Interest
+
+Performance 3 menit:
+
+1. konfirmasi problem;
+2. jelaskan solution mechanism;
+3. hubungkan ke benefit dan value;
+4. jawab satu concern;
+5. baca state target.
+
+## AI sebagai skeptical character
+
+> Mainkan [character] yang mengakui problem tetapi skeptis terhadap solusi. Tanyakan evidence, fit, atau constraint. Setelah dialog, bedakan signal attention, interest, dan polite response.
+
+AI membantu latihan. State nyata tetap harus dibaca dari person nyata.
+
+## Tugas: Problem–Solution Interest Pitch
+
+Sertakan target, attention evidence, problem–solution link, pitch, repertoire, performance evidence, state assessment, dan satu adaptation setelah feedback.
+
+## Pegangan satu menit
+
+<p class="big-idea">Link the solution to the agreed problem. Translate features into value. Let curiosity earn the next detail.</p>

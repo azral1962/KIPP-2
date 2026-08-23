@@ -1,0 +1,45 @@
+---
+title: "Minggu 3 — Family & Friends"
+description: "Listening, boundaries, O-F-N-R, repair, dan relationship growth."
+---
+
+::: {.week-path}
+::: {}
+Relasi perlu diperoleh, dipelihara, diperbaiki, dan ditumbuhkan. Minggu ini memusatkan latihan pada listening untuk memahami person, menyatakan kebutuhan tanpa menyerang, serta repair conversation.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Mampu menjalankan percakapan personal yang jelas sekaligus menjaga boundary dan relationship.
+:::
+:::
+
+## Hasil belajar
+
+- Membaca relationship state.
+- Membedakan understanding dari agreement dan validation dari approval.
+- Menggunakan Observation–Feeling–Need–Request.
+
+## Materi slide
+
+[Buka slide Minggu 3](../slides/minggu-03.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+Listening bergerak dari mendengar kata, memahami meaning, hingga memahami person. Solusi yang terlalu cepat sering menghentikan proses tersebut.
+
+## Quiz formatif
+
+<div class="quiz" data-quiz-id="week-03">
+<fieldset data-answer="b"><legend>1. Listening tingkat tiga berusaha memahami …</legend><label><input type="radio" name="w03q1" value="a"> Kata-kata secara literal saja.</label><label><input type="radio" name="w03q1" value="b"> Person, pengalaman, dan kebutuhannya.</label><label><input type="radio" name="w03q1" value="c"> Solusi tercepat untuk masalah.</label></fieldset>
+<fieldset data-answer="c"><legend>2. Validation berarti …</legend><label><input type="radio" name="w03q2" value="a"> Menyetujui semua tindakan.</label><label><input type="radio" name="w03q2" value="b"> Melupakan kerusakan relasi.</label><label><input type="radio" name="w03q2" value="c"> Mengakui pengalaman tanpa harus menyetujui perilaku.</label></fieldset>
+<fieldset data-answer="a"><legend>3. Repair yang bertanggung jawab mencakup …</legend><label><input type="radio" name="w03q3" value="a"> Dampak, tanggung jawab, dan tindakan perbaikan.</label><label><input type="radio" name="w03q3" value="b"> Penjelasan panjang mengenai motive baik.</label><label><input type="radio" name="w03q3" value="c"> Permintaan agar orang lain segera memaafkan.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Rekam atau transkripsikan satu relationship conversation dan analisis perubahan relationship state.
+
+[Isi evidence Minggu 3](../portfolio/week-03.qmd){.slide-link}
+

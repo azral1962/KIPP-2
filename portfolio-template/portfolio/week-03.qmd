@@ -1,0 +1,21 @@
+---
+title: "Relationship Conversation"
+week: 3
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Evidence listening, boundary, request, atau repair."
+categories: [Fondasi, Relationship]
+---
+
+## Kompetensi target
+
+Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+
+## Evidence wajib
+
+- Transcript atau catatan percakapan.
+- Evidence listening dan response.
+- Analisis relationship state sebelum dan sesudah.
+
+{{< include ../includes/evidence-template.md >}}

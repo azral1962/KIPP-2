@@ -1,0 +1,26 @@
+---
+title: "Perkuliahan"
+sidebar: course
+toc: false
+---
+
+Setiap halaman minggu berisi empat bagian: pengantar, hasil belajar, slide kuliah, dan quiz formatif. Bagian terakhir mengarahkan Anda pada evidence yang perlu dimasukkan ke portfolio.
+
+| Minggu | Topik | Bukti utama |
+|---:|---|---|
+| 1 | Communication Is About Persons | Character map |
+| 2 | Intra-Self Communication | Reflection journal |
+| 3 | Family & Friends | Relationship conversation |
+| 4 | Language of Person and Character | Translation portfolio |
+| 5 | Working Colleagues | Discovery interview |
+| 6 | TAIDA: Target & Attention | Attention pitch |
+| 7 | TAIDA: Interest | Problem–solution pitch |
+| 8 | UTS Performance Lab | Performance evidence package |
+| 9 | TAIDA: Desire | Desired-state conversation |
+| 10 | TAIDA: Action | Explicit agreement |
+| 11 | Multi-Person Negotiation | Negotiation evidence |
+| 12 | Neighbors & Communities | Deliberation evidence |
+| 13 | Communicating with the World | Public artifact |
+| 14 | AI-Mediated Communication | AI use and boundary design |
+| 15 | Capstone | Integrated performance portfolio |
+

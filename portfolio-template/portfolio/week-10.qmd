@@ -1,0 +1,21 @@
+---
+title: "Action & Agreement Challenge"
+week: 10
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Barrier, authority, negotiation, agreement, dan action evidence."
+categories: [TAIDA, Action]
+---
+
+## Kompetensi target
+
+Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.
+
+## Evidence wajib
+
+- Barrier dan authority map.
+- Options dan trade-off yang dibahas.
+- Agreement dengan owner/deadline serta bukti action atau review.
+
+{{< include ../includes/evidence-template.md >}}

@@ -1,0 +1,47 @@
+---
+title: "Minggu 9 — TAIDA III: Desire"
+description: "Current state, desired state, outcome, evidence, risk, dan barrier."
+---
+
+::: {.week-path}
+::: {}
+Interest bertanya “bagaimana solusi bekerja?” Desire bertanya “apakah saya menginginkan outcome itu untuk situasi saya?” Minggu ini membangun future state bersama person.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Mampu menghubungkan solution dengan desired outcome tanpa overpromise atau urgency palsu.
+:::
+:::
+
+## Hasil belajar
+
+- Membedakan Interest dan Desire.
+- Menemukan desired state milik person.
+- Membahas evidence, risk, dan must-keep conditions.
+
+## Materi slide
+
+[Buka slide Minggu 9](../slides/minggu-09.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+`Current State → Gap → Solution → Desired State → Risk Check`
+
+Desire yang sehat menyertakan choice dan uncertainty.
+
+## Quiz formatif
+
+<div class="quiz" data-quiz-id="week-09">
+<fieldset data-answer="c"><legend>1. Signal Desire adalah …</legend><label><input type="radio" name="w09q1" value="a"> Target mengakui masalah.</label><label><input type="radio" name="w09q1" value="b"> Target bertanya cara kerja.</label><label><input type="radio" name="w09q1" value="c"> Target menginginkan outcome bagi situasinya.</label></fieldset>
+<fieldset data-answer="a"><legend>2. Desired state sebaiknya …</legend><label><input type="radio" name="w09q2" value="a"> Dibangun bersama person dan constraint-nya.</label><label><input type="radio" name="w09q2" value="b"> Ditentukan communicator berdasarkan best practice.</label><label><input type="radio" name="w09q2" value="c"> Mengabaikan risk agar lebih menarik.</label></fieldset>
+<fieldset data-answer="b"><legend>3. Membesar-besarkan gap terutama berisiko …</legend><label><input type="radio" name="w09q3" value="a"> Mengurangi jumlah feature.</label><label><input type="radio" name="w09q3" value="b"> Merusak trust dan choice.</label><label><input type="radio" name="w09q3" value="c"> Membuat pitch terlalu singkat.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Dokumentasikan current state, desired state, value chain, evidence, risk, response, dan adaptation.
+
+[Isi evidence Minggu 9](../portfolio/week-09.qmd){.slide-link}
+

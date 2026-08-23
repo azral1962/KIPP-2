@@ -1,0 +1,47 @@
+---
+title: "Minggu 2 — Intra-Self Communication"
+description: "Event, interpretation, internal narrative, emotion, choice, dan response."
+---
+
+::: {.week-path}
+::: {}
+Sebelum menjawab orang lain, kita sudah memberi makna pada event. Minggu ini melatih kemampuan memisahkan fact dari story, mengenali internal character, dan mengubah reaction menjadi response.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Mampu menunjukkan perubahan dari narrative otomatis menuju pilihan tindakan yang bertanggung jawab.
+:::
+:::
+
+## Hasil belajar
+
+- Memisahkan event, fact, interpretation, dan story.
+- Mengenali internal narrative serta internal character.
+- Membuat internal agreement yang dapat dijalankan.
+
+## Materi slide
+
+[Buka slide Minggu 2](../slides/minggu-02.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+`Event → Perception → Internal Narrative → Emotion → Choice → Action`
+
+Tujuannya bukan positive thinking, tetapi memperluas pilihan berdasarkan evidence dan objective.
+
+## Quiz formatif
+
+<div class="quiz" data-quiz-id="week-02">
+<fieldset data-answer="c"><legend>1. “Pesan saya dibaca enam jam lalu” termasuk apa?</legend><label><input type="radio" name="w02q1" value="a"> Motive.</label><label><input type="radio" name="w02q1" value="b"> Story.</label><label><input type="radio" name="w02q1" value="c"> Fact yang dapat diamati.</label></fieldset>
+<fieldset data-answer="a"><legend>2. Tujuan memeriksa internal narrative adalah …</legend><label><input type="radio" name="w02q2" value="a"> Memperluas choice sebelum bertindak.</label><label><input type="radio" name="w02q2" value="b"> Menghilangkan semua emosi negatif.</label><label><input type="radio" name="w02q2" value="c"> Membuktikan story awal selalu salah.</label></fieldset>
+<fieldset data-answer="b"><legend>3. Internal agreement yang baik harus …</legend><label><input type="radio" name="w02q3" value="a"> Berupa afirmasi umum.</label><label><input type="radio" name="w02q3" value="b"> Menyebut action dan waktu yang jelas.</label><label><input type="radio" name="w02q3" value="c"> Menghindari semua risiko.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Dokumentasikan satu episode `event → story → emotion → character → alternative → chosen response → outcome`.
+
+[Isi evidence Minggu 2](../portfolio/week-02.qmd){.slide-link}
+

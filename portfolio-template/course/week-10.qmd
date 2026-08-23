@@ -1,0 +1,47 @@
+---
+title: "Minggu 10 — TAIDA IV: Action"
+description: "Desire–Action gap, affordability, authority, negotiation, agreement, dan action."
+---
+
+::: {.week-path}
+::: {}
+Desire belum otomatis menjadi tindakan. Minggu ini melatih discovery terhadap barrier, authority, dan affordability, lalu menyusun agreement yang eksplisit dan feasible.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Mampu mengubah intention menjadi agreement yang menyebut owner, action, waktu, dan review.
+:::
+:::
+
+## Hasil belajar
+
+- Memetakan money, time, effort, capability, risk, change, dan authority.
+- Membedakan wish, intention, commitment, agreement, dan action.
+- Menghasilkan micro-agreement ketika full action belum feasible.
+
+## Materi slide
+
+[Buka slide Minggu 10](../slides/minggu-10.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+`Desire → Barrier → Negotiation → Agreement → Action → Review`
+
+Closing yang etis menghormati “tidak” dan tidak melampaui authority.
+
+## Quiz formatif
+
+<div class="quiz" data-quiz-id="week-10">
+<fieldset data-answer="b"><legend>1. Affordability mencakup …</legend><label><input type="radio" name="w10q1" value="a"> Harga saja.</label><label><input type="radio" name="w10q1" value="b"> Uang, waktu, effort, capability, risk, dan change.</label><label><input type="radio" name="w10q1" value="c"> Keinginan communicator.</label></fieldset>
+<fieldset data-answer="a"><legend>2. Agreement operasional menjelaskan …</legend><label><input type="radio" name="w10q2" value="a"> Owner, action, deadline, dependency, dan review.</label><label><input type="radio" name="w10q2" value="b"> Bahwa semua orang berniat membantu.</label><label><input type="radio" name="w10q2" value="c"> Hanya desired outcome.</label></fieldset>
+<fieldset data-answer="c"><legend>3. Micro-agreement tepat digunakan ketika …</legend><label><input type="radio" name="w10q3" value="a"> Communicator ingin menghindari keputusan.</label><label><input type="radio" name="w10q3" value="b"> Target sudah menolak dengan jelas.</label><label><input type="radio" name="w10q3" value="c"> Langkah kecil dapat menghasilkan evidence untuk keputusan berikutnya.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Sertakan desire evidence, barrier/authority map, opsi, trade-off, agreement, dan action evidence.
+
+[Isi evidence Minggu 10](../portfolio/week-10.qmd){.slide-link}
+

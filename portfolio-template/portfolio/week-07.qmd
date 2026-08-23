@@ -1,0 +1,21 @@
+---
+title: "Problem–Solution Interest Pitch"
+week: 7
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Problem–solution fit dan signal Interest."
+categories: [TAIDA, Interest]
+---
+
+## Kompetensi target
+
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+
+## Evidence wajib
+
+- Attention evidence dan problem–solution link.
+- Interest pitch dengan evidence atau demonstration.
+- Response, state assessment, hidden concern, dan adaptation.
+
+{{< include ../includes/evidence-template.md >}}

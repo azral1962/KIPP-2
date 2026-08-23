@@ -1,0 +1,195 @@
+---
+title: "Minggu 12 — Neighbors & Communities"
+subtitle: "Berkomunikasi melintasi perbedaan untuk tindakan kolektif"
+---
+
+## Community adalah relationship system dengan memory
+
+<p class="big-idea">Perselisihan hari ini membawa sejarah, power, dan pengalaman lama. Trust menjadi infrastruktur bagi tindakan bersama.</p>
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- memetakan community sebagai persons dengan kepentingan berbeda;
+- memisahkan fact, interpretation, value, dan position;
+- memfasilitasi deliberation menuju sufficient agreement;
+- merancang collective action dan learning loop.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–15 | Review multi-person negotiation |
+| 15–40 | Community, common good, framing, power |
+| 40–55 | Demonstrasi polarized debate vs deliberation |
+| 55–80 | Listening, framing, option generation |
+| 80–110 | Community deliberation performance |
+| 110–120 | Reflection dan AI review |
+
+## Shared space, different objectives
+
+Satu ruang publik dapat berarti:
+
+- tempat bermain bagi anak;
+- rasa aman bagi orang tua;
+- akses bagi lansia;
+- penghidupan bagi pedagang;
+- ketertiban bagi pengelola;
+- tempat berkumpul bagi remaja.
+
+Tidak ada kategori yang sepenuhnya menjelaskan person.
+
+## Private interest bukan musuh
+
+Common good tidak menghapus kebutuhan pribadi. Ia mencari kondisi bersama yang:
+
+- memungkinkan hidup berdampingan;
+- membagi manfaat dan beban secara layak;
+- melindungi pihak yang mudah terdampak;
+- dapat dijalankan dan dipelajari.
+
+## Trust adalah infrastructure
+
+Community dengan trust rendah menghabiskan energi untuk:
+
+- memeriksa motive;
+- melindungi diri;
+- mengulang keputusan;
+- menolak informasi;
+- menghindari partisipasi.
+
+Trust bukan suasana; trust memengaruhi kapasitas bertindak.
+
+## Fact ≠ interpretation ≠ value ≠ position
+
+::: {.flow .compact}
+<div><strong>FACT</strong><br>yang dapat diperiksa</div>
+<div><strong>INTERPRETATION</strong><br>arti yang diberikan</div>
+<div><strong>VALUE</strong><br>yang dianggap penting</div>
+<div><strong>POSITION</strong><br>tindakan yang dituntut</div>
+:::
+
+Agreement pada fact belum berarti agreement pada meaning.
+
+## Multiple frames
+
+Masalah kebisingan dapat dibingkai sebagai:
+
+- ketertiban;
+- ruang ekspresi remaja;
+- kesehatan;
+- desain ruang;
+- jadwal penggunaan;
+- distribusi dampak.
+
+Frame yang berbeda membuka opsi yang berbeda.
+
+## Dari debate menuju deliberation
+
+::: {.contrast}
+::: {}
+### Debate
+
+Siapa yang benar? Posisi mana yang menang?
+:::
+::: {}
+### Deliberation
+
+Apa faktanya? Nilai apa yang bertemu? Opsi mana yang cukup adil dan dapat dijalankan?
+:::
+:::
+
+## Community TAIDA
+
+::: {.flow .compact}
+<div>Target persons</div><div>Attention pada shared issue</div><div>Interest pada options</div><div>Desire pada common outcome</div><div>Action kolektif</div>
+:::
+
+Stakeholder dapat berada pada base yang berbeda dan communicator juga harus belajar dari response.
+
+## Sufficient agreement
+
+Consensus penuh tidak selalu diperlukan. Sufficient agreement menjelaskan:
+
+- bagian yang disepakati;
+- dissent yang masih ada;
+- siapa yang menanggung risiko;
+- perlindungan bagi minoritas;
+- action yang dapat dicoba;
+- kapan keputusan ditinjau.
+
+## Majority belum tentu cukup
+
+Keputusan mayoritas perlu diuji:
+
+- Apakah dampak terkonsentrasi pada kelompok kecil?
+- Apakah semua pihak memiliki kesempatan bicara yang aman?
+- Apakah hak dasar dilanggar?
+- Apakah dissent memberi informasi penting?
+
+Silence bukan agreement.
+
+## Facilitator behaviors
+
+- fair paraphrasing;
+- mencari common ground yang konkret;
+- membuat disagreement spesifik;
+- membedakan fact dan story;
+- menghasilkan lebih dari dua opsi;
+- mengungkap trade-off;
+- memastikan agreement menjadi action.
+
+## Pilot adalah agreement for learning
+
+Ketika prediksi berbeda, pilot dapat menetapkan:
+
+- scope kecil;
+- durasi;
+- safeguards;
+- indikator;
+- owner;
+- review bersama;
+- kondisi stop atau scale.
+
+## Community action cycle
+
+::: {.flow}
+<div>Listen</div><div>Frame</div><div>Deliberate</div><div>Agree</div><div>Act</div><div>Measure</div><div>Repair / adapt</div>
+:::
+
+## Demonstrasi: dua forum warga
+
+::: {.scenario}
+Warga berbeda pendapat tentang penggunaan lapangan pada malam hari.
+:::
+
+Kelas membandingkan personal attack dan polarized debate dengan fact check, fair paraphrase, option generation, dan pilot agreement.
+
+## Latihan: fact, frame, common ground
+
+::: {.activity}
+**25 menit — kelompok kecil**
+
+Pisahkan fact/story/value/position, buat tiga frames, rumuskan common ground konkret, lalu hasilkan lima opsi.
+:::
+
+## Mini performance: community deliberation
+
+Kelompok memainkan residents, parents, youth, vendors, dan local management. Facilitator membawa percakapan menuju sufficient agreement atau specific disagreement.
+
+Observer menilai voice, power, framing, options, action, dan relationship.
+
+## AI membantu mendengar, bukan menggantikan konsultasi
+
+AI dapat mengelompokkan tema, meringkas argumen, menguji ambiguity, dan memainkan missing viewpoint.
+
+Simulation bukan consultation. Minority voice tidak boleh dihasilkan lalu dianggap telah didengar.
+
+## Tugas: Community Communication Challenge
+
+Serahkan community person map, fact/story/value/position, tiga frames, TAIDA map, options, deliberation evidence, agreement state, collective action, dan relationship review.
+
+## Pegangan satu menit
+
+<p class="big-idea">Persons before factions. Facts before attacks. Options before voting. Action with safeguards. Learning after action.</p>

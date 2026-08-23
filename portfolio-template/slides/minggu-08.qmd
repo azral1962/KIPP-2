@@ -1,0 +1,188 @@
+---
+title: "Minggu 8 — UTS Performance Lab"
+subtitle: "Dari mengenali person hingga membangun interest"
+---
+
+## Hari ini bukan ujian hafalan
+
+<p class="big-idea">UTS menguji kemampuan membaca person, memilih respons, dan mengubah komunikasi berdasarkan evidence saat percakapan berlangsung.</p>
+
+## Kompetensi yang diintegrasikan
+
+::: {.flow .compact}
+<div>Person</div><div>Intra-Self</div><div>Relationship</div><div>Language</div><div>Professional Value</div><div>Target</div><div>Attention</div><div>Interest</div>
+:::
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–15 | Briefing, case, dan rubric |
+| 15–30 | Warm-up demonstration |
+| 30–80 | Performance Round 1 |
+| 80–95 | Peer feedback dan AI reflection |
+| 95–115 | Replay / improvement round |
+| 115–120 | Closing reflection |
+
+## Objective UTS
+
+Communicator membawa target dari:
+
+::: {.flow}
+<div><strong>TARGET</strong><br>person dan character tepat</div>
+<div><strong>ATTENTION</strong><br>problem diakui</div>
+<div><strong>INTEREST</strong><br>solution layak dieksplorasi</div>
+:::
+
+Mencapai interest bukan satu-satunya ukuran. **Adaptasi yang tepat terhadap penolakan juga kompeten.**
+
+## Performance berbeda dari presentation
+
+::: {.contrast}
+::: {}
+### Presentation
+
+Alur terutama dikendalikan presenter; isi dapat direncanakan relatif lengkap.
+:::
+::: {}
+### Communication performance
+
+Response partner mengubah alur; communicator harus mendengar, menilai state, dan beradaptasi.
+:::
+:::
+
+## Tiga peran
+
+### Communicator
+
+Mengenali state dan memilih pitch.
+
+### Target person
+
+Memainkan character, objective, dan hidden information secara konsisten.
+
+### Observer
+
+Mencatat evidence, bukan memberi label kepribadian.
+
+## Performance card bukan script
+
+Performance card berisi:
+
+- person dan character;
+- situation dan objective;
+- initial state;
+- evidence yang tersedia;
+- repertoire yang mungkin digunakan;
+- batas etis.
+
+Kalimat harus lahir dari percakapan, bukan hafalan.
+
+## Case options
+
+1. Anggota project group tidak menyelesaikan bagian tugas.
+2. Antrean dan kesalahan pesanan di kantin kampus.
+3. Organisasi mahasiswa kesulitan merekrut volunteer.
+4. Small business kehilangan repeat customer.
+5. Mahasiswa kesulitan memahami satu mata kuliah.
+
+## Hidden information tidak boleh ditebak
+
+Target mungkin memiliki:
+
+- constraint waktu;
+- pengalaman buruk sebelumnya;
+- authority terbatas;
+- concern yang belum disampaikan;
+- objective yang berbeda.
+
+Communicator harus menemukannya melalui question dan listening.
+
+## Warm-up: bad vs improved performance
+
+Kelas membandingkan dua versi dan mencatat:
+
+- stereotype versus person recognition;
+- feature dump versus problem discovery;
+- monolog versus closed loop;
+- memaksa agreement versus membaca state;
+- menang sendiri versus menjaga relationship.
+
+## Round 1: enam menit per performance
+
+::: {.activity}
+**Kelompok tiga — rotasi peran**
+
+- 1 menit: membaca card dan menetapkan objective.
+- 4 menit: interaction.
+- 1 menit: observer menyebutkan evidence utama.
+
+Observer tidak melakukan coaching selama interaction.
+:::
+
+## Rubrik UTS
+
+| Dimensi | Evidence yang dicari |
+|---|---|
+| Person & Character | target tidak direduksi menjadi kategori |
+| Problem, Objective & State | initial state dan problem dibaca akurat |
+| Repertoire & Language | cara dan bahasa sesuai target |
+| Response & Adaptation | respons didengar dan strategi berubah |
+| Progress & Relationship | ada movement tanpa merusak relasi |
+
+## Observer sheet
+
+Catat kalimat atau tindakan yang menjadi evidence:
+
+- kapan target mengakui problem;
+- kapan curiosity muncul;
+- pertanyaan yang membuka hidden information;
+- asumsi yang tidak diuji;
+- adaptation setelah response;
+- keadaan relationship di akhir.
+
+## Feedback yang dapat digunakan
+
+Gunakan format:
+
+> Ketika Anda mengatakan/melakukan [evidence], target merespons [evidence]. Itu menunjukkan [state]. Pada replay, coba [specific behavior].
+
+Hindari “kurang percaya diri” tanpa bukti perilaku.
+
+## AI reflection
+
+Jika transcript tersedia, gunakan AI untuk menandai turn-taking, questions, assumptions, paraphrase, dan state signals.
+
+<p class="danger">AI tidak memberi nilai akhir dan tidak menggantikan evidence observer.</p>
+
+## Replay: ubah satu hal penting
+
+::: {.activity}
+**20 menit**
+
+Pilih satu titik kegagalan dari Round 1. Ulangi bagian itu dengan perubahan spesifik: target, question, evidence, language, atau response adaptation.
+:::
+
+Improvement harus terlihat, bukan hanya dijelaskan.
+
+## Performance evidence package
+
+Serahkan:
+
+- context dan initial state;
+- evidence Target, Attention, Interest;
+- satu adaptation;
+- relationship outcome;
+- peer feedback;
+- self-improvement note;
+- AI reflection yang diverifikasi.
+
+## Ethical rule
+
+<p class="big-idea">Target berhak tidak tertarik. Tugas communicator adalah menciptakan relevansi dan kejelasan secara etis, bukan memaksa movement.</p>
+
+## Refleksi penutup
+
+1. Evidence apa yang paling mengubah pembacaan saya?
+2. Pada base mana saya terlalu cepat bergerak?
+3. Perilaku apa yang akan saya bawa ke paruh kedua semester?

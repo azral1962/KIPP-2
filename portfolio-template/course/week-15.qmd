@@ -1,0 +1,45 @@
+---
+title: "Minggu 15 — Capstone"
+description: "Integrated person-centered communication performance."
+---
+
+::: {.week-path}
+::: {}
+Capstone mengintegrasikan person, character, objective, repertoire, TAIDA, negotiation, relationship, dan AI judgment. Fokusnya bukan kesempurnaan, tetapi evidence bahwa communicator dapat membaca dan beradaptasi.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Menunjukkan performance utuh yang menghasilkan agreement/action atau specific disagreement sambil menjaga relationship.
+:::
+:::
+
+## Hasil belajar
+
+- Mengelola communication sebagai closed loop.
+- Menyeimbangkan action dan relationship.
+- Menunjukkan humility, courage, care, dan accountability.
+
+## Materi slide
+
+[Buka slide Minggu 15](../slides/minggu-15.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+`Person → Character → Objective → State → Repertoire → Language → Response → Agreement → Action → Relationship`
+
+## Quiz integrasi
+
+<div class="quiz" data-quiz-id="week-15">
+<fieldset data-answer="b"><legend>1. Closed-loop communication berarti …</legend><label><input type="radio" name="w15q1" value="a"> Mengikuti script hingga selesai.</label><label><input type="radio" name="w15q1" value="b"> Menggunakan response untuk memperbarui pembacaan dan tindakan.</label><label><input type="radio" name="w15q1" value="c"> Selalu mencapai Action.</label></fieldset>
+<fieldset data-answer="c"><legend>2. “No” dapat menjadi outcome kompeten ketika …</legend><label><input type="radio" name="w15q2" value="a"> Communicator kehabisan waktu.</label><label><input type="radio" name="w15q2" value="b"> Tidak ada evidence yang dicatat.</label><label><input type="radio" name="w15q2" value="c"> Constraint jelas, choice dihormati, dan relationship dijaga.</label></fieldset>
+<fieldset data-answer="a"><legend>3. Standard akhir komunikasi yang baik menilai …</legend><label><input type="radio" name="w15q3" value="a"> Understanding, choice, agreement, action, value, dan relationship.</label><label><input type="radio" name="w15q3" value="b"> Kelancaran bicara saja.</label><label><input type="radio" name="w15q3" value="c"> Banyaknya AI yang digunakan.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Serahkan performance evidence, person/state map, adaptation, agreement/action, relationship outcome, AI critique, dan personal reflection.
+
+[Isi evidence Capstone](../portfolio/week-15.qmd){.slide-link}
+

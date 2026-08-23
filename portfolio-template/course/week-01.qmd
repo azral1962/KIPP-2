@@ -1,0 +1,47 @@
+---
+title: "Minggu 1 — Communication Is About Persons"
+description: "Person, personality, character, objective, repertoire, language, action, dan relationship."
+---
+
+::: {.week-path}
+::: {}
+Komunikasi dimulai dengan mengenali manusia yang dihadapi. Minggu ini membangun kerangka dasar untuk melihat **person**, memahami kecenderungan **personality**, dan memilih **character** yang sesuai dengan objective serta relationship.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Mampu memetakan satu episode komunikasi tanpa mereduksi orang menjadi kategori.
+:::
+:::
+
+## Hasil belajar
+
+- Membedakan person, personality, dan narrative character.
+- Menetapkan objective sebelum memilih language.
+- Menjelaskan hubungan antara repertoire, action, dan relationship.
+
+## Materi slide
+
+[Buka slide Minggu 1](../slides/minggu-01.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+`Person → Personality → Character → Objective → Repertoire → Language → Action → Relationship`
+
+Response menjadi evidence apakah komunikasi perlu dilanjutkan, diadaptasi, atau dihentikan.
+
+## Quiz formatif
+
+<div class="quiz" data-quiz-id="week-01">
+<fieldset data-answer="b"><legend>1. Manakah pendekatan yang paling person-centered?</legend><label><input type="radio" name="w01q1" value="a"> Menyesuaikan pesan hanya berdasarkan generasi.</label><label><input type="radio" name="w01q1" value="b"> Menggunakan kategori sebagai awal lalu menguji kebutuhan person.</label><label><input type="radio" name="w01q1" value="c"> Menghindari semua kategori dalam setiap situasi.</label></fieldset>
+<fieldset data-answer="c"><legend>2. Apa fungsi narrative character?</legend><label><input type="radio" name="w01q2" value="a"> Menetapkan personality permanen.</label><label><input type="radio" name="w01q2" value="b"> Menggantikan identitas person.</label><label><input type="radio" name="w01q2" value="c"> Memberi arah tindakan sesuai peran dan situasi.</label></fieldset>
+<fieldset data-answer="a"><legend>3. Pertanyaan apa yang sebaiknya datang lebih dahulu?</legend><label><input type="radio" name="w01q3" value="a"> Perubahan apa yang ingin dicapai?</label><label><input type="radio" name="w01q3" value="b"> Kalimat apa yang paling mengesankan?</label><label><input type="radio" name="w01q3" value="c"> Media apa yang paling populer?</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Buat character map yang menjelaskan lima character Anda, objective, responsibility, repertoire, dan risiko komunikasinya.
+
+[Isi evidence Minggu 1](../portfolio/week-01.qmd){.slide-link}
+

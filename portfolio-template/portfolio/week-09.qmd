@@ -1,0 +1,21 @@
+---
+title: "Desire-State Communication"
+week: 9
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Current state, desired state, value, evidence, dan risk."
+categories: [TAIDA, Desire]
+---
+
+## Kompetensi target
+
+Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.
+
+## Evidence wajib
+
+- Current dan desired state milik person.
+- Feature–benefit–value–outcome chain.
+- Risk, evidence threshold, response, dan adaptation.
+
+{{< include ../includes/evidence-template.md >}}

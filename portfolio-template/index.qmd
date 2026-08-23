@@ -1,0 +1,39 @@
+---
+title: "Portfolio Pembelajaran"
+page-layout: full
+toc: false
+---
+
+::: {.portfolio-header}
+<div class="student-name">{{< var student.name >}}</div>
+<div class="student-meta">{{< var student.id >}} · {{< var student.program >}} · {{< var student.cohort >}}</div>
+:::
+
+Portfolio ini merekam perkembangan kompetensi pada mata kuliah **{{< var course.name >}}**. Setiap klaim pencapaian harus terhubung pada evidence, feedback, refleksi, dan tindakan perbaikan.
+
+::: {.status-strip}
+<div><strong>15 minggu</strong>jalur pembelajaran</div>
+<div><strong>5 domain</strong>relasi personal hingga publik</div>
+<div><strong>1 portfolio</strong>bukti perkembangan yang dapat ditinjau</div>
+:::
+
+## Mulai dari sini
+
+1. Buka [Perkuliahan](course/index.qmd) untuk membaca pengantar, membuka slide, dan mengerjakan quiz.
+2. Isi halaman evidence pada [Portfolio](portfolio/index.qmd) setelah latihan atau performance.
+3. Gunakan [Rubrik](assessment/rubric.qmd) untuk self-assessment sebelum meminta penilaian.
+4. Perbarui status dan skor pada metadata halaman portfolio agar ringkasan otomatis ikut berubah.
+
+## Pencapaian semester
+
+| Tahap | Minggu | Fokus pencapaian |
+|---|---:|---|
+| Fondasi personal | 1–4 | person, narrative, relationship, language |
+| Value dan TAIDA | 5–10 | discovery, attention, interest, desire, action |
+| Relasi berskala | 11–14 | negotiation, community, public, AI mediation |
+| Integrasi | 15 | capstone person-centered communication |
+
+## Evidence terbaru
+
+Gunakan [indeks portfolio](portfolio/index.qmd) untuk melihat status seluruh minggu. Halaman tersebut membaca field `status`, `self_score`, dan `assessor_score` dari setiap file evidence.
+

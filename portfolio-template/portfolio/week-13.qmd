@@ -1,0 +1,21 @@
+---
+title: "Public Contribution Challenge"
+week: 13
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Public artifact, evidence, context, response, dan reputation."
+categories: [Public, Contribution]
+---
+
+## Kompetensi target
+
+Mengomunikasikan core meaning kepada public secara sederhana, benar, dan bertanggung jawab.
+
+## Evidence wajib
+
+- Public character, target, objective, dan TAIDA map.
+- Public artifact serta sumber evidence.
+- Context-collapse/reputation check, response, dan correction bila diperlukan.
+
+{{< include ../includes/evidence-template.md >}}

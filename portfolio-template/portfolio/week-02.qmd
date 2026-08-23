@@ -1,0 +1,21 @@
+---
+title: "Intra-Self Communication Journal"
+week: 2
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Evidence perubahan dari reaction menuju response."
+categories: [Fondasi, Intra-Self]
+---
+
+## Kompetensi target
+
+Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+
+## Evidence wajib
+
+- Satu episode komunikasi dengan diri sendiri.
+- Initial story dan sedikitnya dua alternative narratives.
+- Internal agreement dan bukti tindakan berikutnya.
+
+{{< include ../includes/evidence-template.md >}}

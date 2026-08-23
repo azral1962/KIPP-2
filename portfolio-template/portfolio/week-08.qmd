@@ -1,0 +1,21 @@
+---
+title: "UTS Performance Evidence Package"
+week: 8
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Integrated performance Target–Attention–Interest."
+categories: [Assessment, UTS]
+---
+
+## Kompetensi target
+
+Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.
+
+## Evidence wajib
+
+- Performance card dan initial state.
+- Rekaman/transcript serta observer sheet.
+- Feedback, replay, evidence improvement, dan reflection.
+
+{{< include ../includes/evidence-template.md >}}

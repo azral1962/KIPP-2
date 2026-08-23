@@ -1,0 +1,45 @@
+---
+title: "Minggu 11 — Multi-Person Negotiation"
+description: "Stakeholder persons, positions, interests, constraints, options, trade-offs, dan agreement."
+---
+
+::: {.week-path}
+::: {}
+Ketika lebih banyak person terlibat, tidak ada satu objective atau satu TAIDA state untuk seluruh kelompok. Minggu ini melatih stakeholder mapping dan facilitation menuju agreement yang dapat diterima.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Mampu mengubah positions menjadi interests dan memfasilitasi option space serta trade-off.
+:::
+:::
+
+## Hasil belajar
+
+- Memetakan person, character, objective, constraint, authority, dan state.
+- Membedakan position dari interest.
+- Mengidentifikasi false consensus dan power imbalance.
+
+## Materi slide
+
+[Buka slide Minggu 11](../slides/minggu-11.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+`Stakeholder Map → Interests → Common Ground → Options → Trade-offs → Agreement`
+
+## Quiz formatif
+
+<div class="quiz" data-quiz-id="week-11">
+<fieldset data-answer="a"><legend>1. “Tidak boleh ada transaksi tunai” adalah …</legend><label><input type="radio" name="w11q1" value="a"> Position.</label><label><input type="radio" name="w11q1" value="b"> Interest.</label><label><input type="radio" name="w11q1" value="c"> Shared fact.</label></fieldset>
+<fieldset data-answer="c"><legend>2. Common ground yang berguna harus …</legend><label><input type="radio" name="w11q2" value="a"> Cukup umum agar semua setuju.</label><label><input type="radio" name="w11q2" value="b"> Menghapus semua perbedaan.</label><label><input type="radio" name="w11q2" value="c"> Cukup spesifik untuk menilai options.</label></fieldset>
+<fieldset data-answer="b"><legend>3. Silence dalam negosiasi multipihak …</legend><label><input type="radio" name="w11q3" value="a"> Selalu berarti consent.</label><label><input type="radio" name="w11q3" value="b"> Perlu diperiksa karena power memengaruhi siapa yang aman berbicara.</label><label><input type="radio" name="w11q3" value="c"> Tidak relevan jika mayoritas setuju.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Serahkan stakeholder map, interest/constraint, option set, negotiation evidence, agreement state, dan relationship review.
+
+[Isi evidence Minggu 11](../portfolio/week-11.qmd){.slide-link}
+

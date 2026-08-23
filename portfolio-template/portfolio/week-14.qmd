@@ -1,0 +1,21 @@
+---
+title: "AI-Mediated Communication Design"
+week: 14
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "AI role, prompt, output, human revision, boundary, dan risk."
+categories: [AI, Ethics]
+---
+
+## Kompetensi target
+
+Memilih dan membatasi peran AI sambil menjaga human competence, authority, dan relationship.
+
+## Evidence wajib
+
+- Persons, characters, objective, dan state.
+- AI role, prompt/output, serta human revision.
+- Privacy/authority/risk review dan alasan tidak menggunakan lebih banyak AI.
+
+{{< include ../includes/evidence-template.md >}}

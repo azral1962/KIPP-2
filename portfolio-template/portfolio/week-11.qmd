@@ -1,0 +1,21 @@
+---
+title: "Multi-Person Negotiation Challenge"
+week: 11
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Stakeholder map, interests, options, trade-offs, dan agreement."
+categories: [Negotiation, Stakeholder]
+---
+
+## Kompetensi target
+
+Memfasilitasi beberapa person dengan objective, constraint, authority, dan state berbeda.
+
+## Evidence wajib
+
+- Stakeholder person map dan multi-state TAIDA.
+- Position–interest analysis, common ground, dan options.
+- Negotiation evidence, agreement/dissent, dan relationship review.
+
+{{< include ../includes/evidence-template.md >}}

@@ -1,0 +1,16 @@
+student:
+  name: "Nama Mahasiswa"
+  id: "NIM"
+  program: "Program Studi"
+  cohort: "Angkatan"
+  email: "nama@kampus.ac.id"
+
+course:
+  code: "KIPP-2"
+  name: "Komunikasi Inter Personal dan Publik"
+  lecturer: "Armein Z. R. Langi"
+  semester: "Semester / Tahun Akademik"
+
+repository:
+  url: "https://github.com/USERNAME/NAMA-REPOSITORY"
+

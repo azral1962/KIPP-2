@@ -1,0 +1,24 @@
+format:
+  revealjs:
+    theme: [default, slides.scss]
+    width: 1600
+    height: 900
+    margin: 0.06
+    slide-number: c/t
+    show-slide-number: all
+    controls: true
+    progress: true
+    hash: true
+    history: true
+    transition: fade
+    background-transition: fade
+    center: false
+    navigation-mode: linear
+    preview-links: auto
+    chalkboard: true
+    logo: cover.png
+    footer: "Komunikasi Inter Personal dan Publik"
+
+author: "Armein Z. R. Langi"
+lang: id
+

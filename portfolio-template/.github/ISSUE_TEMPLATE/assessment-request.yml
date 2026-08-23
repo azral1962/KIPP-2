@@ -1,0 +1,59 @@
+name: "Permintaan assessment"
+description: "Ajukan satu evidence portfolio untuk dinilai."
+title: "Assessment: Minggu "
+labels: [assessment]
+body:
+  - type: dropdown
+    id: week
+    attributes:
+      label: Minggu
+      options:
+        - Minggu 1
+        - Minggu 2
+        - Minggu 3
+        - Minggu 4
+        - Minggu 5
+        - Minggu 6
+        - Minggu 7
+        - Minggu 8 — UTS
+        - Minggu 9
+        - Minggu 10
+        - Minggu 11
+        - Minggu 12
+        - Minggu 13
+        - Minggu 14
+        - Minggu 15 — Capstone
+    validations:
+      required: true
+
+  - type: input
+    id: evidence
+    attributes:
+      label: Tautan evidence
+      description: Masukkan URL halaman portfolio yang siap dinilai.
+      placeholder: "https://username.github.io/repository/portfolio/week-01.html"
+    validations:
+      required: true
+
+  - type: textarea
+    id: focus
+    attributes:
+      label: Fokus feedback
+      description: Sebutkan satu bagian yang paling membutuhkan perhatian assessor.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: readiness
+    attributes:
+      label: Pemeriksaan kesiapan
+      options:
+        - label: Evidence dan kontribusi saya sudah dijelaskan.
+          required: true
+        - label: Self-assessment sudah diisi.
+          required: true
+        - label: Penggunaan AI sudah dinyatakan.
+          required: true
+        - label: Status halaman sudah diubah menjadi Siap dinilai.
+          required: true
+

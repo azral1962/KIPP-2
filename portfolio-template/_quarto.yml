@@ -1,0 +1,103 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "assets/**"
+  render:
+    - "*.qmd"
+    - "course/*.qmd"
+    - "portfolio/*.qmd"
+    - "assessment/*.qmd"
+    - "slides/*.qmd"
+
+website:
+  title: "Portfolio KIPP-2"
+  description: "Portfolio pembelajaran dan assessment Komunikasi Inter Personal dan Publik"
+  favicon: assets/logo.png
+  search: true
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar:
+    logo: assets/logo.png
+    left:
+      - href: index.qmd
+        text: Beranda
+      - href: course/index.qmd
+        text: Perkuliahan
+      - href: portfolio/index.qmd
+        text: Portfolio
+      - href: assessment/index.qmd
+        text: Assessment
+    right:
+      - href: about.qmd
+        text: Profil
+  sidebar:
+    - id: course
+      title: "Perkuliahan"
+      style: docked
+      collapse-level: 1
+      contents:
+        - course/index.qmd
+        - section: "Minggu 1–5"
+          contents:
+            - course/week-01.qmd
+            - course/week-02.qmd
+            - course/week-03.qmd
+            - course/week-04.qmd
+            - course/week-05.qmd
+        - section: "Minggu 6–10"
+          contents:
+            - course/week-06.qmd
+            - course/week-07.qmd
+            - course/week-08.qmd
+            - course/week-09.qmd
+            - course/week-10.qmd
+        - section: "Minggu 11–15"
+          contents:
+            - course/week-11.qmd
+            - course/week-12.qmd
+            - course/week-13.qmd
+            - course/week-14.qmd
+            - course/week-15.qmd
+    - id: portfolio
+      title: "Bukti Pembelajaran"
+      style: docked
+      contents:
+        - portfolio/index.qmd
+        - portfolio/week-01.qmd
+        - portfolio/week-02.qmd
+        - portfolio/week-03.qmd
+        - portfolio/week-04.qmd
+        - portfolio/week-05.qmd
+        - portfolio/week-06.qmd
+        - portfolio/week-07.qmd
+        - portfolio/week-08.qmd
+        - portfolio/week-09.qmd
+        - portfolio/week-10.qmd
+        - portfolio/week-11.qmd
+        - portfolio/week-12.qmd
+        - portfolio/week-13.qmd
+        - portfolio/week-14.qmd
+        - portfolio/week-15.qmd
+    - id: assessment
+      title: "Assessment"
+      style: docked
+      contents:
+        - assessment/index.qmd
+        - assessment/rubric.qmd
+  page-footer:
+    left: "Portfolio KIPP-2 · {{< var student.name >}}"
+    right: "Dibangun dengan Quarto"
+
+format:
+  html:
+    theme: [cosmo, assets/site.scss]
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    code-copy: true
+
+execute:
+  freeze: auto
+
+lang: id

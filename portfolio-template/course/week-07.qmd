@@ -1,0 +1,47 @@
+---
+title: "Minggu 7 — TAIDA II: Interest"
+description: "Problem–solution fit, feature, benefit, value, evidence, dan interest pitch."
+---
+
+::: {.week-path}
+::: {}
+Attention belum berarti target ingin memahami solusi. Minggu ini melatih jembatan dari problem yang diakui menuju mechanism, benefit, dan value yang menimbulkan curiosity.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Mampu memperoleh signal interest tanpa melakukan feature dumping atau overpromise.
+:::
+:::
+
+## Hasil belajar
+
+- Menguji problem–solution fit.
+- Menerjemahkan feature menjadi benefit dan value.
+- Menyampaikan informasi secara berlapis berdasarkan response.
+
+## Materi slide
+
+[Buka slide Minggu 7](../slides/minggu-07.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+`Problem → Mechanism → Benefit → Value → Curiosity`
+
+Interest terlihat ketika target ingin mengetahui *how*, evidence, atau fit terhadap situasinya.
+
+## Quiz formatif
+
+<div class="quiz" data-quiz-id="week-07">
+<fieldset data-answer="b"><legend>1. Interest berbeda dari Attention karena target …</legend><label><input type="radio" name="w07q1" value="a"> Sudah berkomitmen bertindak.</label><label><input type="radio" name="w07q1" value="b"> Mulai ingin memahami solusi atau mechanism.</label><label><input type="radio" name="w07q1" value="c"> Hanya mengakui adanya problem.</label></fieldset>
+<fieldset data-answer="c"><legend>2. Feature menjadi value ketika …</legend><label><input type="radio" name="w07q2" value="a"> Menggunakan teknologi terbaru.</label><label><input type="radio" name="w07q2" value="b"> Dapat dijelaskan panjang lebar.</label><label><input type="radio" name="w07q2" value="c"> Menghasilkan outcome yang dianggap penting oleh person.</label></fieldset>
+<fieldset data-answer="a"><legend>3. Layered communication berarti …</legend><label><input type="radio" name="w07q3" value="a"> Memberi core mechanism lalu menambah detail berdasarkan pertanyaan.</label><label><input type="radio" name="w07q3" value="b"> Menyembunyikan constraint sampai akhir.</label><label><input type="radio" name="w07q3" value="c"> Mengulang pitch yang sama beberapa kali.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Dokumentasikan problem–solution link, pitch, target response, state assessment, dan adaptation.
+
+[Isi evidence Minggu 7](../portfolio/week-07.qmd){.slide-link}
+

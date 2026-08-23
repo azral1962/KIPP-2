@@ -1,0 +1,45 @@
+---
+title: "Minggu 8 — UTS Performance Lab"
+description: "Integrated performance dari person recognition hingga Interest."
+---
+
+::: {.week-path}
+::: {}
+UTS bukan ujian hafalan atau public speaking. Performance menguji kemampuan membaca person, mengenali state, menggunakan response sebagai evidence, dan beradaptasi selama interaction.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Menunjukkan closed-loop communication dari Target menuju Attention dan Interest.
+:::
+:::
+
+## Hasil belajar
+
+- Mengintegrasikan kompetensi Minggu 1–7.
+- Memberi dan menggunakan feedback berbasis evidence.
+- Memperbaiki satu decisive moment melalui replay.
+
+## Materi slide
+
+[Buka slide Minggu 8](../slides/minggu-08.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+Performance berbeda dari presentation karena response target mengubah alur. Keberhasilan tidak mensyaratkan target harus setuju.
+
+## Quiz kesiapan
+
+<div class="quiz" data-quiz-id="week-08">
+<fieldset data-answer="a"><legend>1. Evidence adaptasi yang paling kuat adalah …</legend><label><input type="radio" name="w08q1" value="a"> Communicator mengubah pertanyaan setelah mendengar hidden concern.</label><label><input type="radio" name="w08q1" value="b"> Communicator menyelesaikan semua slide.</label><label><input type="radio" name="w08q1" value="c"> Target tetap diam.</label></fieldset>
+<fieldset data-answer="c"><legend>2. Observer sebaiknya mencatat …</legend><label><input type="radio" name="w08q2" value="a"> Apakah communicator ekstrovert.</label><label><input type="radio" name="w08q2" value="b"> Kesan umum tanpa contoh.</label><label><input type="radio" name="w08q2" value="c"> Kalimat, response, state signal, dan perubahan perilaku.</label></fieldset>
+<fieldset data-answer="b"><legend>3. Jika target menolak premise berdasarkan evidence, communicator sebaiknya …</legend><label><input type="radio" name="w08q3" value="a"> Memaksa agar performance mencapai Interest.</label><label><input type="radio" name="w08q3" value="b"> Memperbarui pembacaan dan mengadaptasi atau berhenti.</label><label><input type="radio" name="w08q3" value="c"> Mengabaikan response dan melanjutkan script.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Serahkan context, initial state, performance evidence, observer feedback, adaptation, replay, dan reflection.
+
+[Isi evidence UTS](../portfolio/week-08.qmd){.slide-link}
+

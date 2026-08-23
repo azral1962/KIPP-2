@@ -1,0 +1,47 @@
+---
+title: "Minggu 4 — Language of Person and Character"
+description: "Meaning, repertoire, jargon, code-switching, dan language adaptation."
+---
+
+::: {.week-path}
+::: {}
+Makna yang sama memerlukan bahasa berbeda ketika person, character, relationship, atau objective berubah. Minggu ini melatih translation tanpa distortion dan adaptation tanpa manipulation.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Mampu menjelaskan satu meaning kepada beberapa character dan memeriksa understanding.
+:::
+:::
+
+## Hasil belajar
+
+- Membedakan meaning dari language.
+- Memilih repertoire sesuai person dan objective.
+- Mengurangi jargon tanpa kehilangan core meaning.
+
+## Materi slide
+
+[Buka slide Minggu 4](../slides/minggu-04.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+`Meaning → Repertoire → Language → Response`
+
+Response menjadi bukti apakah translation mempertahankan makna dan mencapai objective.
+
+## Quiz formatif
+
+<div class="quiz" data-quiz-id="week-04">
+<fieldset data-answer="a"><legend>1. Kapan jargon berguna?</legend><label><input type="radio" name="w04q1" value="a"> Ketika para pihak berbagi definisi yang sama.</label><label><input type="radio" name="w04q1" value="b"> Ketika communicator ingin terlihat ahli.</label><label><input type="radio" name="w04q1" value="c"> Dalam semua public communication.</label></fieldset>
+<fieldset data-answer="c"><legend>2. Code-switching tetap autentik jika …</legend><label><input type="radio" name="w04q2" value="a"> Semua detail selalu disampaikan.</label><label><input type="radio" name="w04q2" value="b"> Communicator meniru personality lawan bicara.</label><label><input type="radio" name="w04q2" value="c"> Meaning dan values tidak dipalsukan.</label></fieldset>
+<fieldset data-answer="b"><legend>3. Langkah sebelum menerjemahkan language adalah …</legend><label><input type="radio" name="w04q3" value="a"> Memilih analogy yang paling menarik.</label><label><input type="radio" name="w04q3" value="b"> Mendengarkan knowledge, objective, dan kebutuhan person.</label><label><input type="radio" name="w04q3" value="c"> Menghilangkan semua istilah teknis.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Buat lima versi dari satu meaning untuk friend, technical peer, manager, customer, dan public.
+
+[Isi evidence Minggu 4](../portfolio/week-04.qmd){.slide-link}
+

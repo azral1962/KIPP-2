@@ -1,0 +1,45 @@
+---
+title: "Minggu 12 — Neighbors & Communities"
+description: "Shared space, common good, framing, deliberation, sufficient agreement, dan collective action."
+---
+
+::: {.week-path}
+::: {}
+Community adalah relationship system dengan memory, power, dan dampak yang tidak selalu terbagi rata. Minggu ini melatih deliberation melintasi perbedaan menuju tindakan kolektif.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Mampu memisahkan fact, interpretation, value, dan position serta menghasilkan sufficient agreement.
+:::
+:::
+
+## Hasil belajar
+
+- Memetakan community sebagai persons, bukan factions.
+- Mengembangkan beberapa frames dan options.
+- Merancang pilot serta safeguards ketika prediksi berbeda.
+
+## Materi slide
+
+[Buka slide Minggu 12](../slides/minggu-12.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+`Listen → Frame → Deliberate → Agree → Act → Measure → Repair/Adapt`
+
+## Quiz formatif
+
+<div class="quiz" data-quiz-id="week-12">
+<fieldset data-answer="c"><legend>1. Fact dan interpretation berbeda karena …</legend><label><input type="radio" name="w12q1" value="a"> Fact selalu disepakati.</label><label><input type="radio" name="w12q1" value="b"> Interpretation tidak pernah berguna.</label><label><input type="radio" name="w12q1" value="c"> Fact dapat diperiksa; interpretation memberi meaning.</label></fieldset>
+<fieldset data-answer="a"><legend>2. Sufficient agreement mencatat …</legend><label><input type="radio" name="w12q2" value="a"> Agreement, dissent, safeguard, action, dan review.</label><label><input type="radio" name="w12q2" value="b"> Hanya suara mayoritas.</label><label><input type="radio" name="w12q2" value="c"> Konsensus penuh tanpa exception.</label></fieldset>
+<fieldset data-answer="b"><legend>3. Pilot tepat ketika …</legend><label><input type="radio" name="w12q3" value="a"> Kelompok ingin menunda tanpa batas.</label><label><input type="radio" name="w12q3" value="b"> Prediksi berbeda dan action kecil dapat menghasilkan learning.</label><label><input type="radio" name="w12q3" value="c"> Minority voice ingin diabaikan.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Sertakan person map, fact/story/value/position, frames, options, deliberation evidence, action, dan relationship outcome.
+
+[Isi evidence Minggu 12](../portfolio/week-12.qmd){.slide-link}
+

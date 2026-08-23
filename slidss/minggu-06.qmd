@@ -1,0 +1,199 @@
+---
+title: "Minggu 6 — TAIDA I: Target & Attention"
+subtitle: "Menemukan person yang tepat dan membuat masalah menjadi relevan"
+---
+
+## Pesan yang baik kepada person yang salah tetap gagal
+
+<p class="big-idea">Sebelum menarik perhatian, kita harus menemukan siapa yang mengalami masalah, siapa yang peduli, dan siapa yang dapat bertindak.</p>
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- menjelaskan komunikasi sebagai state transition;
+- membuat target map berbasis person, character, dan situation;
+- menyusun attention pitch berbasis relevance dan evidence;
+- membaca response sebagai indikator state.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–15 | Review shared problem statement |
+| 15–40 | TAIDA, target, attention, evidence |
+| 40–55 | Demonstrasi pitch buruk dan baik |
+| 55–85 | Target mapping dan attention pitch |
+| 85–110 | Target-to-Attention performance |
+| 110–120 | AI feedback dan refleksi |
+
+## Baseball Model: TAIDA
+
+::: {.flow}
+<div><strong>TARGET</strong><br>person yang tepat</div>
+<div><strong>ATTENTION</strong><br>“ini relevan bagi saya”</div>
+<div><strong>INTEREST</strong><br>“jelaskan solusinya”</div>
+<div><strong>DESIRE</strong><br>“saya menginginkan hasilnya”</div>
+<div><strong>ACTION</strong><br>“kita sepakat bertindak”</div>
+:::
+
+## Communication as state transition
+
+Kita tidak mengukur keberhasilan dari seberapa lancar communicator berbicara.
+
+Kita mengukur:
+
+- state sebelum komunikasi;
+- response yang teramati;
+- state sesudah komunikasi;
+- dampak pada relationship.
+
+## Target bukan audience category
+
+::: {.contrast}
+::: {}
+### Category
+
+“Mahasiswa kampus.”
+:::
+::: {}
+### Target person
+
+Mahasiswa yang antre saat jam makan, cashier yang menangani pesanan, owner yang menanggung kesalahan, atau tim IT yang menjaga sistem.
+:::
+:::
+
+Mereka menghadapi situasi dan objective yang berbeda.
+
+## Person → Character → Situation
+
+Target recognition memerlukan tiga pertanyaan:
+
+1. **Person:** siapa yang benar-benar terdampak?
+2. **Character:** dalam kapasitas apa ia terlibat?
+3. **Situation:** apa yang sedang terjadi sekarang?
+
+Demografi saja tidak cukup untuk menjawabnya.
+
+## Target mapping
+
+| Person/character | Problem atau opportunity | Pengaruh | Authority | Current state |
+|---|---|---:|---:|---|
+| Student | antre dan salah pesanan | sedang | rendah | belum sadar |
+| Cashier | overload saat jam puncak | tinggi | sedang | sadar masalah |
+| Owner | kehilangan revenue | tinggi | tinggi | mencari opsi |
+| IT team | reliability dan support | tinggi | sedang | belum dilibatkan |
+
+## Attention bukan sekadar membuat orang melihat
+
+Attention tercapai ketika target mengenali:
+
+> “Ya, masalah atau peluang ini menyangkut saya.”
+
+Kejutan, rasa takut, atau suara keras dapat merebut perhatian sesaat, tetapi belum tentu menciptakan relevance atau trust.
+
+## Relevance membutuhkan evidence
+
+Attention dapat dibangun dengan:
+
+- observation;
+- data;
+- comparison;
+- story yang benar;
+- question;
+- demonstration.
+
+Evidence harus sesuai dengan person dan cukup untuk klaim yang dibuat.
+
+## Pitch 1: problem atau opportunity
+
+**Problem-oriented**
+
+> Kami mengamati [evidence]. Ini menyebabkan [impact] bagi [person/character]. Apakah Anda juga melihat masalah ini?
+
+**Opportunity-oriented**
+
+> Saat ini [evidence]. Ada peluang untuk [possible outcome]. Apakah hasil ini relevan bagi Anda?
+
+## Feature bukan attention
+
+::: {.contrast}
+::: {}
+### Feature-first
+
+“Aplikasi kami memakai AI dan real-time analytics.”
+:::
+::: {}
+### Relevance-first
+
+“Pada jam makan, satu dari sepuluh pesanan perlu dikoreksi. Apakah error itu juga memengaruhi operasi Anda?”
+:::
+:::
+
+## Response adalah feedback
+
+Signal attention:
+
+- target mengakui problem/opportunity;
+- target mengoreksi evidence;
+- target menambahkan pengalaman;
+- target bertanya mengapa hal itu terjadi.
+
+Silence tidak otomatis berarti agreement.
+
+## Demonstrasi: wrong base
+
+::: {.scenario}
+Communicator menjelaskan solution selama tiga menit kepada target yang belum mengakui problem.
+:::
+
+Kelas menghentikan demo ketika pitch berada di base yang salah, lalu membangun ulang Target dan Attention.
+
+## Latihan 1: find the target
+
+::: {.activity}
+**12 menit — kelompok kecil**
+
+Pilih satu problem kampus. Petakan sedikitnya empat person/character. Tentukan siapa yang mengalami, memengaruhi, memutuskan, dan menjalankan.
+:::
+
+## Latihan 2: build the attention pitch
+
+::: {.activity}
+**15 menit — berpasangan**
+
+Buat dua pitch 30 detik: satu problem-oriented dan satu opportunity-oriented. Partner merespons secara realistis, termasuk kemungkinan menolak premise.
+:::
+
+## Mini performance: Target to Attention
+
+Keberhasilan bukan target langsung setuju pada solusi. Keberhasilan adalah:
+
+- target yang dipilih tepat;
+- evidence relevan dan proporsional;
+- pitch singkat dan person-centered;
+- response dibaca dan ditanggapi;
+- relationship tetap terbuka.
+
+## AI sebagai simulator dan reviewer
+
+AI dapat memainkan character target dan memberi variasi response.
+
+> Mainkan [character] dengan objective dan constraint berikut. Jangan cepat setuju. Setelah pitch saya, jawab secara natural lalu beri evidence apakah Anda mengakui problem atau belum.
+
+Hindari profiling sensitif dan klaim psikologis tanpa evidence.
+
+## Tugas: Target–Attention Challenge
+
+Serahkan:
+
+- problem/opportunity;
+- target map dan alasan memilih satu target;
+- initial state;
+- attention pitch dan evidence;
+- response nyata/simulasi;
+- state setelah pitch dan satu adaptation.
+
+## Pegangan satu menit
+
+<p class="big-idea">Right person. Relevant evidence. Short pitch. Read the response. Earn the next conversation.</p>

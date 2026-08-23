@@ -1,0 +1,210 @@
+---
+title: "Minggu 15 — Capstone"
+subtitle: "The Complete Person-Centered Communicator"
+---
+
+## Minggu ini bukan materi baru
+
+<p class="big-idea">Capstone meminta Anda mengintegrasikan person, character, objective, TAIDA, negotiation, relationship, dan AI judgment dalam satu performance.</p>
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- membaca communication system secara utuh;
+- beradaptasi berdasarkan response;
+- membangun agreement, action, dan relationship secara seimbang;
+- menunjukkan judgment tentang kapan dan bagaimana AI digunakan.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–10 | Opening integration |
+| 10–25 | Warm-up berpasangan |
+| 25–85 | Team capstone performance |
+| 85–105 | Feedback dan replay |
+| 105–115 | Individual reflection |
+| 115–120 | Closing |
+
+## Perjalanan satu semester
+
+::: {.flow .compact}
+<div>Person</div><div>Intra-Self</div><div>Relationships</div><div>Language</div><div>Value</div><div>TAIDA</div><div>Negotiation</div><div>Community</div><div>Public</div><div>AI</div>
+:::
+
+Setiap lapisan memperluas kemampuan tanpa meninggalkan person sebagai pusat.
+
+## Complete framework
+
+::: {.flow .compact}
+<div>Person</div><div>Character</div><div>Objective</div><div>Repertoire</div><div>Language</div><div>Response</div><div>Agreement</div><div>Action</div><div>Relationship</div>
+:::
+
+**AI adalah supporting layer, bukan owner relationship.**
+
+## Communication is a closed loop
+
+Communicator yang kompeten:
+
+1. membentuk hypothesis tentang person dan state;
+2. memilih repertoire dan language;
+3. mengamati response;
+4. memperbarui hypothesis;
+5. beradaptasi atau berhenti.
+
+Persons bukan mesin; state selalu mengandung uncertainty.
+
+## TAIDA lengkap
+
+| State | Evidence utama |
+|---|---|
+| Target | person/character tepat dilibatkan |
+| Attention | issue diakui relevan |
+| Interest | curiosity pada mechanism/solution |
+| Desire | outcome diinginkan dan risk dibahas |
+| Action | commitment, authority, dan next step jelas |
+
+TAIDA dapat mundur, melompat, atau berhenti.
+
+## Agreement bukan selalu consensus
+
+Agreement yang baik dapat berupa:
+
+- “ya” dengan commitment;
+- pilot untuk belajar;
+- keputusan bersyarat;
+- specific disagreement;
+- “tidak” yang jelas dan hormat;
+- keputusan untuk melibatkan person lain.
+
+A good “no” lebih baik daripada bad “yes”.
+
+## Action dan relationship harus seimbang
+
+::: {.contrast}
+::: {}
+### Action tanpa relationship
+
+Hasil sesaat, trust turun, commitment rapuh.
+:::
+::: {}
+### Relationship tanpa action
+
+Percakapan hangat, masalah tetap ada, accountability hilang.
+:::
+:::
+
+Komunikasi yang baik menciptakan value sekaligus kapasitas bekerja bersama.
+
+## Communication character
+
+Empat traits yang dinilai sepanjang capstone:
+
+- **humility** — menguji asumsi dan mengakui uncertainty;
+- **courage** — mengangkat issue yang penting;
+- **care** — memperhatikan person dan dampak;
+- **accountability** — membuat dan memenuhi commitment.
+
+## Warm-up: habit yang berubah
+
+::: {.activity}
+**15 menit — berpasangan**
+
+Masing-masing berbicara 2 menit: “Apa satu communication habit yang paling berubah sejak Minggu 1?” Listener memberi paraphrase 1 menit dan menyebut evidence perubahan.
+:::
+
+## Capstone scenarios
+
+1. Smart campus service dengan lima stakeholder.
+2. Kebijakan penggunaan AI dalam tugas mahasiswa.
+3. Konflik pengelolaan sampah komunitas.
+4. Product delay antara tim, manager, dan customer.
+5. Pesan publik tentang penggunaan AI.
+6. Repair conversation pada relasi personal.
+
+## Performance structure
+
+Kelompok 4–5 orang:
+
+- membaca scenario dan hidden objectives;
+- menetapkan person/character/state map;
+- menjalankan interaction tanpa full script;
+- menggunakan AI hanya jika justified;
+- menghasilkan agreement/action atau specific disagreement;
+- menilai relationship outcome.
+
+## AI judgment wajib terlihat
+
+Kelompok harus dapat menjawab:
+
+- Peran AI apa yang dipilih?
+- Mengapa tidak lebih banyak atau lebih sedikit AI?
+- Data dan authority apa yang diberikan?
+- Apa yang direvisi manusia?
+- Siapa yang bertanggung jawab jika output salah?
+
+## Universal final rubric
+
+| Dimensi | Fokus |
+|---|---|
+| Person & Character Recognition | melihat manusia, role, power, relationship |
+| Objective & State Recognition | problem, intent, TAIDA state, uncertainty |
+| Repertoire, Language & AI Use | pilihan cara yang relevan dan proporsional |
+| Response, Listening & Adaptation | closed loop dan perubahan nyata |
+| Agreement, Action & Relationship | feasibility, ownership, dan trust |
+
+## Observer evidence
+
+Catat:
+
+- satu asumsi yang diuji;
+- satu hidden concern yang ditemukan;
+- satu perubahan repertoire;
+- satu moment ketika state bergerak atau mundur;
+- satu commitment yang menjadi eksplisit;
+- keadaan relationship di akhir.
+
+## Replay: improve one decisive moment
+
+::: {.activity}
+**20 menit**
+
+Pilih satu titik dengan dampak terbesar. Ulangi 3–5 menit menggunakan feedback. Perubahan harus terlihat pada perilaku dan response, bukan hanya penjelasan setelahnya.
+:::
+
+## Individual reflection
+
+Selesaikan:
+
+1. Default lama saya …
+2. Evidence perubahan saya …
+3. Character communicator yang ingin saya bangun …
+4. Satu relationship habit saya …
+5. Aturan pribadi saya untuk AI …
+
+## Final portfolio
+
+Portfolio berisi evidence performa, bukan kumpulan essay:
+
+- before/after performance;
+- observer feedback;
+- adaptation yang dilakukan;
+- agreement atau action evidence;
+- relationship review;
+- AI critique;
+- next practice commitment.
+
+## Standard akhir komunikasi yang baik
+
+<p class="big-idea">Apakah komunikasi membantu persons memahami, memilih, bersepakat, bertindak, menciptakan value, dan menjaga kemampuan untuk berelasi kembali?</p>
+
+## Pegangan satu menit
+
+`Person → Character → Objective → State → Repertoire → Language → Response → Agreement → Action → Relationship`
+
+**AI supports. Humans remain responsible.**
+
+## Closing
+
+> Communication is the primary capability through which persons acquire, maintain, repair, and grow the relationships required for personal flourishing and professional value creation.

@@ -1,0 +1,197 @@
+---
+title: "Minggu 5 — Working Colleagues"
+subtitle: "Relasi profesional dan penciptaan nilai bersama"
+---
+
+## Pekerjaan adalah sistem relasi
+
+<p class="big-idea">Keahlian menciptakan kemungkinan. Komunikasi menemukan masalah yang penting dan mengubah kemampuan menjadi nilai bersama.</p>
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- mengenali professional character dan mission;
+- membedakan problem, need, request, dan solution;
+- menjalankan discovery conversation;
+- merumuskan shared problem statement sebelum menawarkan solusi.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–15 | Review person–character–language |
+| 15–40 | Professional relationship dan value discovery |
+| 40–55 | Demonstrasi solution-first vs discovery-first |
+| 55–85 | Questioning dan blocker discovery |
+| 85–110 | Professional discovery performance |
+| 110–120 | AI review dan refleksi |
+
+## Professional relationship = person + mission
+
+Relasi profesional bukan relasi impersonal.
+
+Ia menggabungkan:
+
+- penghormatan kepada person;
+- character dan authority yang jelas;
+- mission atau value yang hendak diwujudkan;
+- agreement yang dapat dipertanggungjawabkan.
+
+## Employee dan customer tetap person
+
+Seorang employee pada satu organisasi adalah customer bagi organisasi lain.
+
+Jangan reduksi manusia menjadi:
+
+- resource;
+- ticket;
+- account;
+- segment;
+- obstacle.
+
+Kategori operasional tidak boleh menghapus pengalaman person.
+
+## Satu person, beberapa professional character
+
+- team member — berkontribusi dan berkoordinasi;
+- project leader — menyelaraskan dan memperoleh commitment;
+- expert — menjaga accuracy dan kualitas;
+- customer — menilai value, risk, dan fit;
+- vendor — memenuhi janji dan mengelola constraint.
+
+Character menentukan objective dan authority.
+
+## Value ada pada pengalaman person
+
+<p class="big-idea">Sebuah fitur belum menjadi value sampai seseorang menganggap hasilnya berguna dalam situasinya.</p>
+
+Value discovery bertanya: *Masalah apa yang cukup penting untuk diselesaikan, bagi siapa, dan mengapa sekarang?*
+
+## Problem, need, request, solution
+
+::: {.flow}
+<div><strong>PROBLEM</strong><br>gap atau friction</div>
+<div><strong>NEED</strong><br>kondisi yang diperlukan</div>
+<div><strong>REQUEST</strong><br>apa yang diminta</div>
+<div><strong>SOLUTION</strong><br>satu cara memenuhi need</div>
+:::
+
+Request pertama belum tentu solution terbaik.
+
+## Discovery before proposal
+
+Lima pertanyaan dasar:
+
+1. Apa yang sedang terjadi?
+2. Mengapa itu menjadi masalah?
+3. Siapa yang terdampak?
+4. Apa yang sudah dicoba?
+5. Seperti apa hasil yang cukup baik?
+
+## Listening before proposing
+
+::: {.contrast}
+::: {}
+### Solution jumping
+
+Mendengar kata kunci, lalu langsung menawarkan produk atau jawaban.
+:::
+::: {}
+### Discovery mindset
+
+Menguji asumsi, mencari constraint, dan membangun problem statement bersama.
+:::
+:::
+
+## Shared problem statement
+
+Format sederhana:
+
+> [Person/character] mengalami [problem yang teramati], yang menyebabkan [impact], dalam constraint [kondisi]. Kita sepakat bahwa hasil yang dibutuhkan adalah [outcome], belum menentukan solution.
+
+Persetujuan atas problem mengurangi konflik pada tahap solusi.
+
+## Dari blame menuju problem
+
+::: {.contrast}
+::: {}
+### Blame
+
+“Tim desain selalu membuat kita terlambat.”
+:::
+::: {}
+### Problem framing
+
+“Keputusan desain final tiba setelah development dimulai, sehingga terjadi rework. Di titik mana handoff kehilangan informasi?”
+:::
+:::
+
+## Professional trust
+
+Trust tumbuh ketika communicator:
+
+- mengatakan apa yang diketahui dan belum diketahui;
+- memenuhi commitment atau memberi kabar lebih awal;
+- tidak menyembunyikan constraint;
+- mendengar sebelum mengusulkan;
+- menjaga kepentingan bersama, bukan hanya posisi sendiri.
+
+## Demonstrasi: dua discovery conversation
+
+::: {.scenario}
+Pemilik kantin meminta “aplikasi pemesanan”.
+:::
+
+Versi 1 langsung menjelaskan teknologi.  
+Versi 2 menemukan antrean, kesalahan pesanan, jam puncak, kemampuan staf, dan outcome yang diharapkan.
+
+Kelas menilai kapan problem menjadi milik bersama.
+
+## Latihan 1: problem atau solution?
+
+::: {.activity}
+**10 menit — kelompok kecil**
+
+Ubah lima solution statements menjadi pertanyaan discovery. Contoh: “Kita butuh chatbot” menjadi “Interaksi mana yang berulang dan menghambat siapa?”
+:::
+
+## Latihan 2: five discovery questions
+
+::: {.activity}
+**15 menit — kelompok tiga**
+
+Client membawa problem. Discoverer bertanya dan paraphrase. Observer mencatat pertanyaan yang membuka meaning versus yang mengarahkan jawaban.
+:::
+
+## Mini performance: professional discovery
+
+Tujuan performance bukan menjual solution. Tujuannya memperoleh:
+
+- pemahaman person dan character;
+- evidence tentang problem dan impact;
+- constraint utama;
+- shared problem statement yang dikonfirmasi.
+
+## AI untuk persiapan dan review
+
+AI dapat menjadi skeptical customer, menguji pertanyaan, atau meringkas transcript.
+
+AI tidak boleh mengubah discovery menjadi profiling manipulatif atau mengklaim motive yang tidak disampaikan.
+
+> Tandai bagian ketika saya bertanya, berasumsi, memotong, paraphrase, dan menawarkan solusi. Tunjukkan evidence dari transcript.
+
+## Tugas: Professional Discovery Interview
+
+Lakukan satu wawancara nyata atau simulasi. Serahkan:
+
+- person/character map;
+- initial assumption;
+- lima pertanyaan dan apa yang didengar;
+- shared problem statement;
+- konfirmasi dari partner;
+- refleksi dan AI-assisted review.
+
+## Pegangan satu menit
+
+<p class="big-idea">Understand the person. Discover the problem. Agree on the outcome. Only then explore solutions.</p>

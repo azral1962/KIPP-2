@@ -1,0 +1,186 @@
+---
+title: "Minggu 2 — Intra-Self Communication"
+subtitle: "Sebelum menjawab orang lain, kita berbicara dengan diri sendiri"
+---
+
+## Satu kejadian dapat menghasilkan banyak respons
+
+<p class="big-idea">Yang menggerakkan emosi dan tindakan bukan hanya event, tetapi makna yang kita bangun tentang event tersebut.</p>
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- memisahkan event, fact, interpretation, dan story;
+- mengenali internal narrative dan internal character;
+- mengubah reaction menjadi response;
+- menggunakan AI sebagai reflection mirror secara kritis.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–15 | Review kerangka Person–Character–Relationship |
+| 15–40 | Event, interpretation, narrative, response |
+| 40–60 | Demonstrasi tiga narrative |
+| 60–90 | Fact-or-story dan internal-character practice |
+| 90–110 | Mini performance: Two Versions of Me |
+| 110–120 | AI reflection dan closing |
+
+## Komunikasi dimulai sebelum kita berbicara
+
+::: {.flow .compact}
+<div>Event</div><div>Perception</div><div>Internal narrative</div><div>Emotion</div><div>Choice</div><div>Action</div>
+:::
+
+Kita tidak selalu dapat mengubah event. Kita dapat memeriksa **narrative** dan memperluas **choice**.
+
+## Event bukan interpretation
+
+::: {.scenario}
+Pesan Anda sudah dibaca selama enam jam, tetapi belum dibalas.
+:::
+
+**Fact:** indikator menunjukkan pesan telah dibaca.  
+**Possible story:** ia marah; ia meremehkan saya; ia sibuk; ia belum tahu jawabannya.
+
+> Story mungkin benar, tetapi belum menjadi fact.
+
+## Fact, interpretation, dan story
+
+::: {.contrast}
+::: {}
+### Yang diketahui
+
+- dapat diamati;
+- dapat diverifikasi;
+- tidak membutuhkan tebakan motive.
+:::
+::: {}
+### Yang dibangun
+
+- arti yang kita berikan;
+- dugaan tentang motive;
+- cerita tentang diri dan orang lain.
+:::
+:::
+
+## Ini bukan sekadar positive thinking
+
+Tujuannya bukan mengganti semua pikiran negatif dengan kalimat positif.
+
+Tujuannya adalah:
+
+- melihat evidence secara jujur;
+- menyadari lebih dari satu penjelasan;
+- mengakui emosi tanpa menjadi budaknya;
+- memilih response yang sesuai objective.
+
+## Internal character memengaruhi suara batin
+
+Orang yang sama dapat berbicara kepada dirinya sebagai:
+
+- **critic** — mencari kekurangan;
+- **victim** — merasa tidak memiliki pilihan;
+- **protector** — menghindari risiko;
+- **coach** — mencari pembelajaran dan langkah berikutnya;
+- **decision maker** — menimbang fakta, nilai, dan konsekuensi.
+
+## Character harus melayani objective
+
+::: {.contrast}
+::: {}
+### Objective: belajar
+
+Character yang berguna: coach, investigator, beginner.
+:::
+::: {}
+### Objective: mengambil keputusan
+
+Character yang berguna: analyst, owner, accountable adult.
+:::
+:::
+
+Character bukan label permanen. Ia adalah pilihan tindakan.
+
+## Dari reaction menuju response
+
+::: {.flow}
+<div><strong>PAUSE</strong><br>beri jarak</div>
+<div><strong>NAME</strong><br>kenali fact, story, emotion</div>
+<div><strong>CHOOSE</strong><br>ingat objective</div>
+<div><strong>RESPOND</strong><br>ambil tindakan</div>
+:::
+
+## Empat pertanyaan refleksi
+
+1. Apa yang benar-benar terjadi?
+2. Cerita apa yang sedang saya bangun?
+3. Character apa yang sedang berbicara dalam diri saya?
+4. Response apa yang mendukung objective dan relationship?
+
+## Demonstrasi: tiga narrative
+
+::: {.scenario}
+Anda menerima nilai lebih rendah daripada yang diharapkan.
+:::
+
+- “Saya memang tidak mampu.” → menarik diri.
+- “Dosen tidak adil.” → menyerang.
+- “Saya kecewa; saya perlu memahami gap dan opsi perbaikan.” → mencari evidence.
+
+Event tetap. Pilihan tindakan berubah.
+
+## Latihan 1: fact or story?
+
+::: {.activity}
+**12 menit — kelompok kecil**
+
+Klasifikasikan enam pernyataan dari pengalaman kelompok menjadi **fact**, **interpretation**, atau **story**. Ubah dua story menjadi pertanyaan yang dapat diuji.
+:::
+
+## Latihan 2: tiga narrative
+
+::: {.activity}
+**12 menit — berpasangan**
+
+Pilih satu event. Susun tiga narrative yang masuk akal, lalu prediksi emotion dan action dari masing-masing narrative.
+:::
+
+## Mini performance: Two Versions of Me
+
+Lakukan dua versi monolog internal selama masing-masing 90 detik:
+
+1. versi reaction otomatis;
+2. versi response yang telah diperiksa.
+
+Pasangan menilai perubahan pada fact, story, character, objective, dan action.
+
+## AI sebagai reflection mirror
+
+Gunakan AI untuk memperluas alternatif, bukan menetapkan “kebenaran” tentang diri Anda.
+
+> Pisahkan deskripsi saya menjadi fact, interpretation, emotion, dan assumption. Ajukan tiga pertanyaan klarifikasi. Berikan tiga narrative alternatif tanpa menyatakan bahwa salah satunya pasti benar.
+
+Jangan masukkan data pribadi atau rahasia yang tidak perlu.
+
+## Internal agreement
+
+Komunikasi dengan diri sendiri perlu berakhir pada kesepakatan yang dapat dijalankan:
+
+- apa yang akan saya lakukan;
+- kapan saya melakukannya;
+- bantuan apa yang saya butuhkan;
+- tanda apa yang menunjukkan saya perlu meninjau ulang.
+
+## Tugas: Intra-Self Communication Journal
+
+Dokumentasikan satu episode:
+
+`Event → initial story → emotion → internal character → alternative story → chosen response → outcome`
+
+Tambahkan refleksi singkat tentang apa yang AI bantu lihat dan apa yang tetap membutuhkan judgment Anda.
+
+## Pegangan satu menit
+
+<p class="big-idea">Event bukan story. Emotion adalah informasi. Character dapat dipilih. Response dapat dipelajari.</p>

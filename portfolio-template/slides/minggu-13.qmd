@@ -1,0 +1,194 @@
+---
+title: "Minggu 13 — Communicating with the World"
+subtitle: "Public influence, trust, dan contribution"
+---
+
+## Public tetap terdiri dari persons
+
+<p class="big-idea">Scale mengurangi kedekatan, tetapi tidak menghapus tanggung jawab untuk menjaga humanity, truth, dan relationship.</p>
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- mengenali public pada beberapa tingkat;
+- memilih public character dan objective;
+- menyusun narrative dan call to action yang bertanggung jawab;
+- menilai impact, context collapse, dan reputation risk.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–15 | Review community dan perubahan scale |
+| 15–40 | Public character, narrative, TAIDA, trust |
+| 40–55 | Demonstrasi expert vs public communication |
+| 55–80 | Jargon, narrative, context-collapse practice |
+| 80–110 | Public communication performance |
+| 110–120 | AI reflection |
+
+## Tiga tingkat person recognition
+
+::: {.flow}
+<div><strong>GENERAL PUBLIC</strong><br>shared context terbatas</div>
+<div><strong>CHARACTERS</strong><br>situasi dan kebutuhan berbeda</div>
+<div><strong>INDIVIDUAL PERSON</strong><br>feedback dan relationship nyata</div>
+:::
+
+Scale membutuhkan simplification, bukan dehumanization.
+
+## Narrative character di ruang publik
+
+Communicator dapat hadir sebagai:
+
+- **scientist** — menjelaskan evidence dan uncertainty;
+- **entrepreneur** — menunjukkan opportunity dan value;
+- **citizen** — mengajak tanggung jawab bersama;
+- **creator** — memberi pengalaman dan perspektif;
+- **leader** — menetapkan arah dan accountability.
+
+Character harus selaras dengan authority dan tindakan nyata.
+
+## Objective bukan sekadar views
+
+Public communication dapat bertujuan:
+
+- awareness;
+- understanding;
+- informed discussion;
+- behavior change;
+- participation;
+- contribution;
+- trust dan accountability.
+
+Reach adalah input. Impact adalah perubahan yang relevan.
+
+## TAIDA pada public communication
+
+::: {.flow .compact}
+<div>Target public</div><div>Attention pada issue</div><div>Interest pada explanation</div><div>Desire pada outcome</div><div>Primary action</div>
+:::
+
+Satu artefak tidak harus membawa semua orang sampai Action.
+
+## Public narrative
+
+Struktur sederhana:
+
+1. **Person dan situation** — siapa mengalami apa;
+2. **tension** — mengapa hal ini penting;
+3. **evidence dan meaning** — apa yang diketahui;
+4. **possibility** — outcome yang dapat dibayangkan;
+5. **action** — apa yang dapat dilakukan sekarang.
+
+## Story bukan evidence palsu
+
+Story membawa meaning, tetapi:
+
+- composite character harus diberi label;
+- anecdote tidak mewakili semua orang;
+- emosi tidak membuktikan causality;
+- uncertainty tidak boleh disembunyikan;
+- fiction tidak boleh disajikan sebagai kejadian nyata.
+
+## Simplification bukan distortion
+
+Simplification yang bertanggung jawab:
+
+- mempertahankan core meaning;
+- menyebutkan batas penting;
+- menggunakan istilah yang dapat dipahami;
+- menyediakan lapisan detail berikutnya;
+- mengoreksi misunderstanding.
+
+## Medium mengubah komunikasi
+
+Satu meaning berubah ketika hadir sebagai:
+
+- percakapan;
+- presentasi;
+- video pendek;
+- post publik;
+- artikel;
+- visual data.
+
+Setiap medium mengubah context, permanence, feedback, dan risiko potongan informasi.
+
+## Context collapse
+
+Publik yang berbeda melihat pesan yang sama tanpa konteks asli.
+
+**Screenshot test:** Apakah satu kalimat yang dipisahkan dari thread masih cukup benar dan bertanggung jawab?
+
+Permanence membuat correction sama pentingnya dengan publication.
+
+## Reputation adalah relationship at scale
+
+Reputation bukan popularity. Ia dibangun dari pola:
+
+- competence;
+- honesty;
+- consistency;
+- care;
+- accountability.
+
+Public character yang diklaim harus sesuai dengan tindakan.
+
+## Ethical influence
+
+::: {.contrast}
+::: {}
+### Manipulation
+
+Menyembunyikan intent, memanfaatkan vulnerability, mempersonalisasi ketakutan.
+:::
+::: {}
+### Influence
+
+Membuat issue, evidence, values, choices, dan consequences lebih jelas.
+:::
+:::
+
+## Demonstrasi: technical idea to public meaning
+
+Dosen menjelaskan satu gagasan teknis dalam dua versi:
+
+1. expert explanation dengan jargon dan struktur internal;
+2. public narrative dengan evidence, analogy, limit, dan primary action.
+
+Kelas mencari meaning yang dipertahankan atau hilang.
+
+## Latihan: public narrative + context check
+
+::: {.activity}
+**25 menit — kelompok kecil**
+
+Ubah satu ide bidang Anda menjadi public narrative 90 detik. Kelompok lain menjalankan jargon test, distortion test, screenshot test, dan action test.
+:::
+
+## Mini performance: communicate an idea to the world
+
+Sampaikan artefak publik 3 menit dengan:
+
+- public character dan objective;
+- satu core meaning;
+- evidence dan uncertainty;
+- narrative atau demonstration;
+- satu primary action;
+- respons terhadap satu pertanyaan kritis.
+
+## AI dan communication pollution
+
+AI dapat membantu adaptation, accessibility, ambiguity detection, dan response simulation.
+
+AI juga dapat menghasilkan volume tanpa value, fake confidence, dan personalization manipulatif.
+
+<p class="accent">Relevance before volume. Truth before fluency.</p>
+
+## Tugas: Public Contribution Challenge
+
+Buat satu public artifact. Sertakan target public, character, objective, core meaning, TAIDA map, evidence, context/reputation checks, response, dan reflection.
+
+## Pegangan satu menit
+
+<p class="big-idea">Treat the public as persons. Simplify without distortion. Ask for one meaningful action. Stay accountable after publishing.</p>

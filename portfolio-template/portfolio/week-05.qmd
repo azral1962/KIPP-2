@@ -1,0 +1,21 @@
+---
+title: "Professional Discovery Interview"
+week: 5
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Discovery menuju shared problem statement."
+categories: [Professional, Discovery]
+---
+
+## Kompetensi target
+
+Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+
+## Evidence wajib
+
+- Initial assumption dan pertanyaan discovery.
+- Transcript/paraphrase serta problem impact dan constraint.
+- Shared problem statement yang dikonfirmasi partner.
+
+{{< include ../includes/evidence-template.md >}}

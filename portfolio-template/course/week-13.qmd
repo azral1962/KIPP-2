@@ -1,0 +1,45 @@
+---
+title: "Minggu 13 — Communicating with the World"
+description: "Public character, narrative, scale, context collapse, reputation, dan ethical influence."
+---
+
+::: {.week-path}
+::: {}
+Public tetap terdiri dari persons, walaupun kita tidak dapat mengenali semuanya secara individual. Minggu ini melatih simplification tanpa distortion dan contribution yang menjaga trust.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Mampu menghasilkan public artifact dengan core meaning, evidence, uncertainty, dan primary action.
+:::
+:::
+
+## Hasil belajar
+
+- Memilih public character dan objective.
+- Menyusun narrative yang bertanggung jawab.
+- Menguji context collapse, reputation, dan impact.
+
+## Materi slide
+
+[Buka slide Minggu 13](../slides/minggu-13.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+`Public Persons → Core Meaning → Evidence → Narrative → Primary Action → Response → Accountability`
+
+## Quiz formatif
+
+<div class="quiz" data-quiz-id="week-13">
+<fieldset data-answer="b"><legend>1. Reach berbeda dari impact karena …</legend><label><input type="radio" name="w13q1" value="a"> Reach selalu lebih penting.</label><label><input type="radio" name="w13q1" value="b"> Impact menilai perubahan yang relevan, bukan hanya exposure.</label><label><input type="radio" name="w13q1" value="c"> Impact tidak membutuhkan objective.</label></fieldset>
+<fieldset data-answer="c"><legend>2. Simplification menjadi distortion ketika …</legend><label><input type="radio" name="w13q2" value="a"> Menggunakan bahasa sehari-hari.</label><label><input type="radio" name="w13q2" value="b"> Menyediakan detail lanjutan.</label><label><input type="radio" name="w13q2" value="c"> Menghilangkan batas yang mengubah core meaning.</label></fieldset>
+<fieldset data-answer="a"><legend>3. Screenshot test menguji …</legend><label><input type="radio" name="w13q3" value="a"> Apakah potongan pesan masih cukup benar tanpa context asli.</label><label><input type="radio" name="w13q3" value="b"> Apakah visual memiliki resolusi tinggi.</label><label><input type="radio" name="w13q3" value="c"> Apakah pesan mudah viral.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Buat public artifact dan dokumentasikan target public, character, objective, evidence, context check, response, dan reflection.
+
+[Isi evidence Minggu 13](../portfolio/week-13.qmd){.slide-link}
+

@@ -1,0 +1,181 @@
+---
+title: "Minggu 10 — TAIDA IV: Action"
+subtitle: "Dari outcome yang diinginkan menuju kesepakatan yang dapat dijalankan"
+---
+
+## Desire tidak otomatis menjadi action
+
+<p class="big-idea">Orang dapat menginginkan hasilnya tetapi belum mampu, belum berwenang, atau belum siap menanggung risikonya.</p>
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- menemukan desire–action gap;
+- memetakan affordability dan authority;
+- membedakan wish, intention, commitment, agreement, dan action;
+- menutup percakapan dengan next step yang eksplisit dan etis.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–15 | Review Desire dan future state |
+| 15–40 | Barrier, affordability, authority, agreement |
+| 40–55 | Demonstrasi pressure vs person-centered closing |
+| 55–85 | Barrier discovery dan agreement practice |
+| 85–110 | Desire-to-Action performance |
+| 110–120 | AI agreement review dan refleksi |
+
+## Home base membutuhkan feasibility
+
+::: {.flow}
+<div><strong>DESIRE</strong><br>outcome diinginkan</div>
+<div><strong>BARRIER</strong><br>apa yang menghalangi</div>
+<div><strong>NEGOTIATION</strong><br>opsi dan trade-off</div>
+<div><strong>AGREEMENT</strong><br>komitmen eksplisit</div>
+<div><strong>ACTION</strong><br>dilaksanakan dan ditinjau</div>
+:::
+
+## Affordability lebih luas daripada harga
+
+Person perlu mampu menanggung:
+
+- **money** — biaya langsung dan opportunity cost;
+- **time** — durasi dan timing;
+- **effort** — energi dan perubahan kebiasaan;
+- **capability** — pengetahuan dan resource;
+- **risk** — kemungkinan kerugian;
+- **change** — dampak transisi pada sistem dan relasi.
+
+## Authority adalah constraint nyata
+
+Orang yang menginginkan outcome belum tentu dapat memutuskan.
+
+Periksa siapa yang dapat:
+
+- menyetujui anggaran;
+- memberi akses;
+- mengubah proses;
+- menanggung risiko;
+- menjalankan pekerjaan;
+- menghentikan keputusan.
+
+## Wish, intention, commitment, agreement, action
+
+::: {.flow .compact}
+<div><strong>WISH</strong><br>“bagus kalau…”</div>
+<div><strong>INTENTION</strong><br>“saya ingin…”</div>
+<div><strong>COMMITMENT</strong><br>“saya akan…”</div>
+<div><strong>AGREEMENT</strong><br>“kita sepakat…”</div>
+<div><strong>ACTION</strong><br>bukti dilakukan</div>
+:::
+
+Jangan mencatat intention sebagai commitment.
+
+## Agreement harus operasional
+
+Agreement yang dapat dijalankan menjawab:
+
+- siapa melakukan apa;
+- kapan;
+- dengan resource dan authority apa;
+- bagaimana progress diperiksa;
+- apa yang terjadi jika constraint berubah.
+
+## Closing bukan pressure
+
+::: {.contrast}
+::: {}
+### Pressure closing
+
+Mendesak jawaban, menciptakan urgency palsu, menyembunyikan risiko.
+:::
+::: {}
+### Person-centered closing
+
+Menemukan barrier, menyusun opsi, menguji feasibility, dan menghormati “tidak”.
+:::
+:::
+
+## Barrier discovery
+
+Pertanyaan yang membantu:
+
+- Apa yang membuat langkah ini belum feasible?
+- Keputusan siapa lagi yang diperlukan?
+- Risiko mana yang belum cukup kecil?
+- Resource apa yang belum tersedia?
+- Langkah terkecil apa yang dapat dipelajari bersama?
+
+## Negotiate the action, not the person
+
+Fokuskan negosiasi pada:
+
+- scope;
+- timing;
+- resource;
+- risk-sharing;
+- quality threshold;
+- review point.
+
+Jangan menyerang courage, loyalty, atau competence orang untuk memperoleh “ya”.
+
+## Micro-agreement
+
+Ketika full action belum feasible, sepakati langkah belajar:
+
+- demo;
+- pilot;
+- data check;
+- konsultasi dengan decision maker;
+- draft bersama;
+- follow-up dengan tanggal jelas.
+
+Micro-agreement bukan jawaban palsu; ia harus menghasilkan evidence baru.
+
+## Demonstrasi: poor vs person-centered closing
+
+::: {.scenario}
+Target menginginkan solusi tetapi khawatir dengan migrasi data dan belum memiliki approval anggaran.
+:::
+
+Kelas membandingkan pressure closing dengan barrier discovery dan pilot agreement.
+
+## Latihan 1: affordability map
+
+::: {.activity}
+**12 menit — kelompok kecil**
+
+Untuk satu case, petakan money, time, effort, capability, risk, change, dan authority. Tandai mana yang diketahui versus diasumsikan.
+:::
+
+## Latihan 2: explicit agreement
+
+::: {.activity}
+**12 menit — berpasangan**
+
+Ubah lima kalimat kabur seperti “nanti kita follow up” menjadi agreement yang menyebut owner, action, deadline, evidence, dan review point.
+:::
+
+## Mini performance: Desire to Action
+
+Target menginginkan outcome tetapi memiliki dua hidden barriers. Communicator harus:
+
+- menemukan barrier;
+- menawarkan lebih dari satu opsi;
+- tidak melampaui authority;
+- memperoleh agreement atau “no” yang jelas;
+- menjaga relationship.
+
+## AI agreement review
+
+> Periksa transcript ini. Bedakan wish, intention, commitment, agreement, dan action. Temukan owner, deadline, dependency, authority, risk, dan ambiguity. Jangan menganggap silence sebagai agreement.
+
+## Tugas: Action & Agreement Challenge
+
+Sertakan desire evidence, barrier map, authority map, opsi, trade-off, final agreement, action evidence, dan relationship review.
+
+## Pegangan satu menit
+
+<p class="big-idea">Discover the barrier. Respect authority. Negotiate feasibility. Make the agreement explicit. Measure action.</p>

@@ -1,0 +1,45 @@
+---
+title: "Minggu 14 — AI-Mediated Communication"
+description: "AI sebagai Mirror, Coach, Translator, Copilot, Mediator, dan Delegate."
+---
+
+::: {.week-path}
+::: {}
+AI dapat memperbesar kualitas maupun kesalahan komunikasi. Minggu ini melatih pemilihan peran AI, person-centered prompting, human review, dan authority boundary.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Mampu menggunakan AI secara proporsional sambil mempertahankan human responsibility dan relationship ownership.
+:::
+:::
+
+## Hasil belajar
+
+- Membedakan enam peran AI dalam komunikasi.
+- Menetapkan data, values, constraints, authority, dan review.
+- Menilai privacy, profiling, manipulation, dependency, dan authority error.
+
+## Materi slide
+
+[Buka slide Minggu 14](../slides/minggu-14.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+`AI supports intelligence; persons retain relationship, authority, and responsibility.`
+
+## Quiz formatif
+
+<div class="quiz" data-quiz-id="week-14">
+<fieldset data-answer="c"><legend>1. Perbedaan Copilot dan Delegate adalah …</legend><label><input type="radio" name="w14q1" value="a"> Delegate selalu lebih akurat.</label><label><input type="radio" name="w14q1" value="b"> Copilot tidak menggunakan AI.</label><label><input type="radio" name="w14q1" value="c"> Delegate bertindak dalam authority boundary; Copilot membantu human yang bertindak.</label></fieldset>
+<fieldset data-answer="a"><legend>2. Communication dengan relationship risk tinggi sebaiknya …</legend><label><input type="radio" name="w14q2" value="a"> Tetap human-owned meskipun AI membantu persiapan.</label><label><input type="radio" name="w14q2" value="b"> Didelegasikan agar lebih efisien.</label><label><input type="radio" name="w14q2" value="c"> Dikirim tanpa review untuk menjaga spontanitas.</label></fieldset>
+<fieldset data-answer="b"><legend>3. Human-in-the-loop yang nyata memerlukan …</legend><label><input type="radio" name="w14q3" value="a"> Tombol approve saja.</label><label><input type="radio" name="w14q3" value="b"> Pemahaman, waktu menolak, visibility uncertainty, dan accountability.</label><label><input type="radio" name="w14q3" value="c"> Penggunaan model terbesar.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Dokumentasikan case, AI role, prompt, output, human revision, authority boundary, risk, dan relationship review.
+
+[Isi evidence Minggu 14](../portfolio/week-14.qmd){.slide-link}
+

@@ -1,0 +1,194 @@
+---
+title: "Minggu 4 — Language of Person and Character"
+subtitle: "Makna yang sama memerlukan bahasa yang berbeda"
+---
+
+## Berbicara benar belum tentu berkomunikasi efektif
+
+<p class="big-idea">Bahasa yang menunjukkan apa yang kita tahu belum tentu membantu person lain memahami, memutuskan, atau bertindak.</p>
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- membedakan meaning dari language;
+- memilih bahasa berdasarkan person, character, relationship, dan objective;
+- menerjemahkan jargon tanpa merusak makna;
+- menggunakan AI sebagai translator dengan voice tetap milik manusia.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–15 | Review relationship dan listening |
+| 15–40 | Meaning, language, repertoire, mismatch |
+| 40–55 | Demonstrasi satu konsep untuk tiga person |
+| 55–85 | Translation dan jargon detox |
+| 85–110 | Mini performance: One Idea, Three Persons |
+| 110–120 | AI language lab dan refleksi |
+
+## Meaning bukan language
+
+::: {.flow}
+<div><strong>MEANING</strong><br>gagasan yang perlu dipahami</div>
+<div><strong>REPERTOIRE</strong><br>cara membawa meaning</div>
+<div><strong>LANGUAGE</strong><br>bentuk yang dapat diterima person</div>
+<div><strong>RESPONSE</strong><br>bukti meaning sampai atau tidak</div>
+:::
+
+## Language lebih luas daripada bahasa
+
+Kita dapat membawa meaning melalui:
+
+- istilah teknis atau bahasa sehari-hari;
+- cerita dan analogi;
+- angka dan perbandingan;
+- visual atau demonstrasi;
+- pertanyaan dan paraphrase;
+- urutan informasi dan tingkat detail.
+
+## Person → Character → Language
+
+::: {.scenario}
+Meaning: sistem baru mengurangi waktu pemrosesan dari dua hari menjadi dua jam.
+:::
+
+- **Engineer:** arsitektur, constraint, failure mode.
+- **Manager:** waktu, kapasitas, risiko implementasi.
+- **Customer:** pengalaman, kepastian, langkah yang perlu dilakukan.
+
+Meaning tetap. Relevance berubah.
+
+## Relationship juga menentukan language
+
+Kalimat yang wajar antara sahabat dapat terasa tidak profesional kepada customer. Kalimat formal kepada keluarga dapat terasa menjauhkan.
+
+Periksa:
+
+- seberapa dekat relasinya;
+- sejarah percakapan sebelumnya;
+- tingkat kepercayaan;
+- hak, kewajiban, dan power masing-masing.
+
+## Objective menentukan apa yang perlu dikatakan
+
+::: {.contrast}
+::: {}
+### Objective kabur
+
+Menjelaskan semua yang saya tahu.
+:::
+::: {}
+### Objective operasional
+
+Membantu manager memahami risiko dan memilih satu dari dua opsi.
+:::
+:::
+
+Lebih banyak informasi tidak selalu menghasilkan lebih banyak pemahaman.
+
+## Analogy menjembatani, bukan menggantikan
+
+Analogy membantu ketika:
+
+- struktur dua hal memang sebanding;
+- batas analogy dijelaskan;
+- person mengenal domain pembanding;
+- detail teknis tersedia ketika diperlukan.
+
+<p class="danger">Analogy gagal ketika kesamaan dangkal disajikan sebagai bukti.</p>
+
+## Jargon memiliki tempat
+
+Jargon efisien di antara orang yang berbagi definisi. Jargon menjadi hambatan ketika:
+
+- lawan bicara tidak mengenal istilah;
+- istilah menyembunyikan ketidakjelasan;
+- communicator menggunakannya untuk menunjukkan status;
+- keputusan membutuhkan meaning yang lebih konkret.
+
+## Code-switching dapat tetap autentik
+
+Authenticity tidak berarti berbicara dengan cara yang sama kepada semua orang.
+
+Authenticity berarti:
+
+- meaning tidak dipalsukan;
+- nilai tidak berubah diam-diam;
+- language menghormati person;
+- adaptation tidak digunakan untuk manipulasi.
+
+## Empat language mismatch
+
+1. **Complexity mismatch** — terlalu teknis atau terlalu sederhana.
+2. **Character mismatch** — salah membaca peran dan tanggung jawab.
+3. **Objective mismatch** — menjawab hal yang bukan masalah utama.
+4. **Relationship mismatch** — nada tidak cocok dengan sejarah dan kedekatan.
+
+## Listen before translating
+
+Sebelum menjelaskan, tanyakan:
+
+- Apa yang sudah Anda ketahui?
+- Bagian mana yang paling relevan bagi Anda?
+- Keputusan apa yang perlu dibuat?
+- Detail seperti apa yang membantu?
+
+Translation dimulai dari evidence tentang person, bukan asumsi.
+
+## Demonstrasi: satu konsep, tiga person
+
+Dosen menjelaskan satu konsep teknis kepada:
+
+1. technical peer;
+2. manager;
+3. calon pengguna.
+
+Kelas mengidentifikasi perubahan pada vocabulary, analogy, evidence, urutan, dan call to action.
+
+## Latihan 1: jargon detox
+
+::: {.activity}
+**12 menit — berpasangan**
+
+Pilih lima istilah dari bidang Anda. Jelaskan tanpa istilah tersebut kepada siswa SMA, lalu minta pasangan menunjukkan meaning yang hilang atau berubah.
+:::
+
+## Latihan 2: one meaning, five languages
+
+::: {.activity}
+**15 menit — kelompok kecil**
+
+Terjemahkan satu meaning untuk friend, technical peer, manager, customer, dan general public. Gunakan sedikitnya tiga repertoire berbeda.
+:::
+
+## Mini performance: One Idea, Three Persons
+
+Anda mendapat satu ide dan tiga character. Untuk masing-masing:
+
+- nyatakan objective;
+- sampaikan pitch 60–90 detik;
+- periksa understanding dengan pertanyaan;
+- adaptasi berdasarkan response.
+
+## AI sebagai communication translator
+
+Prompt yang lebih baik memberikan konteks:
+
+> Pertahankan meaning berikut. Adaptasikan untuk seorang [character] yang perlu [objective]. Hindari jargon ini. Jelaskan asumsi yang Anda buat dan tawarkan dua versi dengan tingkat detail berbeda.
+
+Anda tetap bertanggung jawab atas accuracy, voice, dan dampaknya.
+
+## Tugas: Five-Language Translation Portfolio
+
+Komunikasikan satu meaning kepada lima audience. Untuk setiap versi sertakan:
+
+- character dan objective;
+- pilihan repertoire;
+- alasan perubahan language;
+- metode checking understanding;
+- catatan perubahan setelah feedback.
+
+## Pegangan satu menit
+
+<p class="big-idea">Meaning belongs to the idea. Language must meet the person. Response tells us whether translation worked.</p>

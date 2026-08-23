@@ -1,0 +1,21 @@
+---
+title: "Target–Attention Challenge"
+week: 6
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Target map, attention pitch, response, dan state assessment."
+categories: [TAIDA, Attention]
+---
+
+## Kompetensi target
+
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+
+## Evidence wajib
+
+- Target map dan alasan memilih satu target.
+- Problem/opportunity pitch serta evidence.
+- Response, state sesudah pitch, dan adaptation.
+
+{{< include ../includes/evidence-template.md >}}

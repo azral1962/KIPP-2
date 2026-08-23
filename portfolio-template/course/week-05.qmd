@@ -1,0 +1,47 @@
+---
+title: "Minggu 5 — Working Colleagues"
+description: "Professional character, value creation, problem discovery, dan shared problem statement."
+---
+
+::: {.week-path}
+::: {}
+Pekerjaan adalah sistem relasi yang menciptakan nilai. Minggu ini memindahkan fokus dari “apa yang dapat saya buat?” menuju “problem apa yang penting bagi person dan mission?”
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Mampu menjalankan discovery conversation hingga menghasilkan shared problem statement.
+:::
+:::
+
+## Hasil belajar
+
+- Mengenali professional character dan authority.
+- Membedakan problem, need, request, dan solution.
+- Mendengar dan paraphrase sebelum proposing.
+
+## Materi slide
+
+[Buka slide Minggu 5](../slides/minggu-05.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+`Person → Problem → Need → Shared Problem Statement → Solution Options`
+
+Agreement atas problem mengurangi konflik pada tahap solusi.
+
+## Quiz formatif
+
+<div class="quiz" data-quiz-id="week-05">
+<fieldset data-answer="b"><legend>1. “Kita membutuhkan chatbot” paling tepat diklasifikasikan sebagai …</legend><label><input type="radio" name="w05q1" value="a"> Problem.</label><label><input type="radio" name="w05q1" value="b"> Solution atau request awal.</label><label><input type="radio" name="w05q1" value="c"> Evidence.</label></fieldset>
+<fieldset data-answer="a"><legend>2. Discovery mindset terutama bertujuan …</legend><label><input type="radio" name="w05q2" value="a"> Menguji asumsi dan memahami impact serta constraint.</label><label><input type="radio" name="w05q2" value="b"> Menemukan feature yang dapat dijual.</label><label><input type="radio" name="w05q2" value="c"> Membuktikan solusi awal benar.</label></fieldset>
+<fieldset data-answer="c"><legend>3. Shared problem statement sebaiknya …</legend><label><input type="radio" name="w05q3" value="a"> Sudah menetapkan teknologi.</label><label><input type="radio" name="w05q3" value="b"> Menghapus semua constraint.</label><label><input type="radio" name="w05q3" value="c"> Dikonfirmasi bersama sebelum memilih solusi.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Lakukan discovery interview dan sertakan initial assumption, pertanyaan, paraphrase, serta shared problem statement yang dikonfirmasi.
+
+[Isi evidence Minggu 5](../portfolio/week-05.qmd){.slide-link}
+

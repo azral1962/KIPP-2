@@ -1,0 +1,21 @@
+---
+title: "Five-Language Translation Portfolio"
+week: 4
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Satu meaning untuk lima person atau character."
+categories: [Fondasi, Language]
+---
+
+## Kompetensi target
+
+Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+
+## Evidence wajib
+
+- Lima versi untuk friend, technical peer, manager, customer, dan public.
+- Alasan perubahan language dan repertoire.
+- Feedback understanding dari sedikitnya satu target.
+
+{{< include ../includes/evidence-template.md >}}

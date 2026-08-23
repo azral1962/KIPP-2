@@ -1,0 +1,198 @@
+---
+title: "Minggu 1 — Communication Is About Persons"
+subtitle: "Komunikasi dimulai dari manusia, bukan dari pesan"
+---
+
+## Mengapa komunikasi sering gagal?
+
+<p class="big-idea">Kita terlalu cepat menyusun pesan sebelum sungguh-sungguh mengenali orang yang akan menerimanya.</p>
+
+> Komunikasi bukan sekadar memindahkan informasi. Komunikasi mengubah keadaan sebuah relasi.
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- membedakan **person**, **personality**, dan **narrative character**;
+- menetapkan objective komunikasi yang jelas;
+- memilih repertoire dan language yang sesuai;
+- menilai dampak komunikasi pada action dan relationship.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan | Hasil |
+|---|---|---|
+| 0–15 | Pemantik dan pengalaman pribadi | Masalah menjadi nyata |
+| 15–40 | Konsep inti | Kerangka person-centered |
+| 40–55 | Demonstrasi | Melihat character switching |
+| 55–85 | Latihan berpasangan | Mencoba beberapa repertoire |
+| 85–110 | Mini performance | Bukti kompetensi awal |
+| 110–120 | Refleksi dan AI mirror | Satu kebiasaan baru |
+
+## Kategori bukan person
+
+::: {.contrast}
+::: {}
+### Category-first
+
+“Dia mahasiswa teknik.”  
+“Dia customer.”  
+“Dia Gen Z.”
+
+Kategori memberi petunjuk awal, tetapi menyembunyikan perbedaan.
+:::
+::: {}
+### Person-first
+
+Apa pengalamannya?  
+Apa yang ia pedulikan?  
+Apa objective dan situasinya sekarang?
+:::
+:::
+
+## Tiga lapisan yang berbeda
+
+::: {.flow}
+<div><strong>PERSON</strong><br>siapa manusianya</div>
+<div><strong>PERSONALITY</strong><br>kecenderungan relatif stabil</div>
+<div><strong>CHARACTER</strong><br>peran yang dimainkan dalam situasi</div>
+:::
+
+**Personality memberi kecenderungan. Character memberi arah tindakan.**
+
+## Satu orang, beberapa character
+
+Seorang mahasiswa dapat hadir sebagai:
+
+- **sahabat** — ingin memahami dan memberi dukungan;
+- **anggota tim** — ingin menyelesaikan deliverable;
+- **project leader** — ingin memperoleh komitmen;
+- **customer** — ingin memastikan nilai dan risiko;
+- **citizen** — ingin menjaga kepentingan bersama.
+
+Bahasanya berubah karena tanggung jawabnya berubah.
+
+## Objective datang sebelum language
+
+<p class="big-idea">Jangan mulai dari “Apa yang ingin saya katakan?” Mulailah dari “Perubahan apa yang ingin kita capai?”</p>
+
+Objective yang baik menjelaskan:
+
+- state awal;
+- state yang diharapkan;
+- tindakan atau kesepakatan;
+- kualitas relasi yang perlu dijaga.
+
+## Kerangka utama mata kuliah
+
+::: {.flow .compact}
+<div>Person</div><div>Personality</div><div>Character</div><div>Objective</div><div>Repertoire</div><div>Language</div><div>Action</div><div>Relationship</div>
+:::
+
+**Response** memberi umpan balik: lanjutkan, ubah pendekatan, atau berhenti.
+
+## Lima domain komunikasi
+
+| Domain | Relasi | Tujuan utama |
+|---|---|---|
+| Intra-Self | Saya ↔ diri saya | refleksi dan regulasi |
+| Family & Friends | Saya ↔ orang dekat | percaya, peduli, memperbaiki |
+| Working Colleagues | Profesional ↔ profesional | koordinasi dan penciptaan nilai |
+| Neighbors & Communities | Person ↔ komunitas | deliberasi dan tindakan kolektif |
+| The World | Person ↔ publik | kontribusi dan pengaruh etis |
+
+## Demonstrasi: pesan sama, character berbeda
+
+::: {.scenario}
+Tugas kelompok terlambat dua hari. Orang yang dihadapi sama; character komunikator berubah.
+:::
+
+::: {.contrast}
+::: {}
+### Sebagai teman
+
+“Ada sesuatu yang membuatmu kesulitan?”
+:::
+::: {}
+### Sebagai project leader
+
+“Apa hambatannya, bantuan apa yang dibutuhkan, dan kapan bagianmu selesai?”
+:::
+:::
+
+## Latihan 1: Who am I?
+
+::: {.activity}
+**8 menit — individu lalu berpasangan**
+
+1. Tulis tiga character yang Anda mainkan minggu ini.
+2. Untuk tiap character, tulis objective dan tanggung jawabnya.
+3. Pasangan Anda mencari satu character yang masih terlalu kabur.
+:::
+
+## Latihan 2: satu person, tiga character
+
+::: {.activity}
+**15 menit — kelompok tiga**
+
+Gunakan kasus keterlambatan tugas. Sampaikan respons sebagai:
+
+1. sahabat;
+2. project leader;
+3. customer internal.
+
+Observer mencatat perubahan objective, repertoire, dan language.
+:::
+
+## Mini performance: communication failure
+
+::: {.scenario}
+Pilih satu percakapan nyata yang pernah gagal. Ulangi percakapan selama 3 menit dengan character dan objective yang lebih tepat.
+:::
+
+Observer mencari bukti:
+
+- person dikenali, bukan distereotipkan;
+- objective terlihat dari pertanyaan dan respons;
+- language cocok dengan character;
+- hubungan tidak dikorbankan demi kemenangan sesaat.
+
+## AI sebagai communication mirror
+
+AI dapat membantu Anda:
+
+- membedakan fakta dan asumsi tentang person;
+- memainkan character lawan bicara;
+- menawarkan variasi language;
+- mengulas apakah objective dan dampak relasi selaras.
+
+<p class="danger">AI tidak mengenal person tersebut secara utuh dan tidak memiliki hubungan Anda.</p>
+
+## Prompt latihan
+
+> Saya akan menjelaskan sebuah percakapan. Bantu saya memisahkan: siapa person-nya, character masing-masing, objective, repertoire, language, response, dan dampak pada relationship. Jangan menebak informasi yang tidak saya berikan.
+
+Bandingkan analisis AI dengan penilaian Anda sendiri.
+
+## Refleksi penutup
+
+Selesaikan tiga kalimat:
+
+1. Default komunikasi saya biasanya …
+2. Character yang paling sulit saya mainkan adalah …
+3. Pada percakapan berikutnya, saya akan mulai dengan …
+
+## Tugas: Personal Communication Character Map
+
+Pilih **lima character** dari domain kehidupan yang berbeda. Untuk masing-masing, jelaskan:
+
+- person dan relationship;
+- objective dan responsibility;
+- repertoire yang tersedia;
+- language yang sesuai;
+- satu risiko komunikasi;
+- satu perilaku yang akan Anda latih.
+
+## Pegangan satu menit
+
+<p class="big-idea">Person before message. Character before language. Objective before action. Relationship after every response.</p>

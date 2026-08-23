@@ -1,0 +1,47 @@
+---
+title: "Minggu 6 — TAIDA I: Target & Attention"
+description: "Target person, relevance, evidence, attention pitch, dan state recognition."
+---
+
+::: {.week-path}
+::: {}
+Pitch yang baik kepada person yang salah tetap gagal. Minggu ini memperkenalkan TAIDA sebagai state-transition model dan melatih Target–Attention melalui relevance serta evidence.
+:::
+::: {tag="aside"}
+**Capaian utama**
+
+Mampu memilih target person dan memperoleh pengakuan bahwa issue relevan baginya.
+:::
+:::
+
+## Hasil belajar
+
+- Membuat target map berbasis person, character, dan situation.
+- Menyusun attention pitch berbasis problem atau opportunity.
+- Membaca response sebagai indikator state.
+
+## Materi slide
+
+[Buka slide Minggu 6](../slides/minggu-06.html){.slide-link target="_blank"}
+
+## Konsep kunci
+
+`Target → Attention → Interest → Desire → Action`
+
+Attention tercapai ketika target mengakui: “Issue ini relevan bagi saya.”
+
+## Quiz formatif
+
+<div class="quiz" data-quiz-id="week-06">
+<fieldset data-answer="c"><legend>1. Target yang baik didefinisikan sebagai …</legend><label><input type="radio" name="w06q1" value="a"> Demographic segment terbesar.</label><label><input type="radio" name="w06q1" value="b"> Siapa pun yang dapat melihat pesan.</label><label><input type="radio" name="w06q1" value="c"> Person dan character yang mengalami, memengaruhi, atau dapat bertindak.</label></fieldset>
+<fieldset data-answer="a"><legend>2. Signal Attention yang kuat adalah …</legend><label><input type="radio" name="w06q2" value="a"> Target mengakui atau mengoreksi problem.</label><label><input type="radio" name="w06q2" value="b"> Target diam saat communicator berbicara.</label><label><input type="radio" name="w06q2" value="c"> Target melihat feature list.</label></fieldset>
+<fieldset data-answer="b"><legend>3. Attention pitch sebaiknya …</legend><label><input type="radio" name="w06q3" value="a"> Langsung menjelaskan teknologi lengkap.</label><label><input type="radio" name="w06q3" value="b"> Singkat, relevan, dan didukung evidence.</label><label><input type="radio" name="w06q3" value="c"> Menggunakan tekanan emosional.</label></fieldset>
+<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
+</div>
+
+## Evidence pencapaian
+
+Serahkan target map, attention pitch, evidence, response, state assessment, dan satu adaptation.
+
+[Isi evidence Minggu 6](../portfolio/week-06.qmd){.slide-link}
+

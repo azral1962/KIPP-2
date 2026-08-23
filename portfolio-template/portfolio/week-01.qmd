@@ -1,0 +1,21 @@
+---
+title: "Character Map"
+week: 1
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
+categories: [Fondasi, Person]
+---
+
+## Kompetensi target
+
+Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
+
+## Evidence wajib
+
+- Lima character dari sedikitnya tiga domain kehidupan.
+- Objective, responsibility, repertoire, dan risiko tiap character.
+- Satu contoh perubahan language ketika character berubah.
+
+{{< include ../includes/evidence-template.md >}}

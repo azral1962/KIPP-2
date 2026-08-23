@@ -1,0 +1,21 @@
+---
+title: "Community Communication Challenge"
+week: 12
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Framing, deliberation, sufficient agreement, dan collective action."
+categories: [Community, Deliberation]
+---
+
+## Kompetensi target
+
+Memfasilitasi community communication melintasi perbedaan dan power menuju action yang layak.
+
+## Evidence wajib
+
+- Community person map dan fact/story/value/position.
+- Sedikitnya tiga frames dan lima options.
+- Deliberation evidence, safeguard, action, dan review plan.
+
+{{< include ../includes/evidence-template.md >}}

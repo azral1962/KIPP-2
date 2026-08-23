@@ -1,0 +1,192 @@
+---
+title: "Minggu 3 — Family & Friends"
+subtitle: "Memperoleh, memelihara, memperbaiki, dan menumbuhkan relasi"
+---
+
+## Relasi tidak tumbuh dengan sendirinya
+
+<p class="big-idea">Kedekatan dibangun melalui perhatian, rasa ingin tahu, listening, batas yang sehat, dan keberanian memperbaiki kerusakan.</p>
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- membaca relationship state;
+- mendengarkan untuk memahami person, bukan sekadar kata;
+- mengungkapkan kebutuhan tanpa menyerang;
+- melakukan repair conversation yang bertanggung jawab.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–15 | Review fact–story–response |
+| 15–40 | Relationship communication |
+| 40–55 | Demonstrasi attack vs repair |
+| 55–85 | Listening, O-F-N-R, dan character practice |
+| 85–110 | Relationship conversation performance |
+| 110–120 | Refleksi dan AI coach |
+
+## Empat tugas relationship communication
+
+::: {.flow}
+<div><strong>ACQUIRE</strong><br>memulai hubungan</div>
+<div><strong>MAINTAIN</strong><br>merawat kepercayaan</div>
+<div><strong>REPAIR</strong><br>menangani kerusakan</div>
+<div><strong>GROW</strong><br>memperdalam kapasitas bersama</div>
+:::
+
+## Communication changes relationship state
+
+Setiap percakapan dapat membuat relasi:
+
+- lebih dekat atau lebih jauh;
+- lebih aman atau lebih defensif;
+- lebih jelas atau lebih ambigu;
+- lebih mampu bertindak atau lebih buntu.
+
+**Isi pesan dan keadaan relasi tidak dapat dipisahkan.**
+
+## Curiosity adalah repertoire
+
+::: {.contrast}
+::: {}
+### Interrogation
+
+Pertanyaan mengejar jawaban, mengandung tuduhan, atau memaksa pembenaran.
+:::
+::: {}
+### Curious conversation
+
+Pertanyaan membuka ruang bagi pengalaman, meaning, dan kebutuhan person.
+:::
+:::
+
+Pertanyaan baik bukan trik. Ia lahir dari keinginan sungguh-sungguh untuk memahami.
+
+## Tiga tingkat listening
+
+::: {.flow}
+<div><strong>1</strong><br>mendengar kata</div>
+<div><strong>2</strong><br>memahami meaning</div>
+<div><strong>3</strong><br>memahami person</div>
+:::
+
+Listening tingkat tiga bertanya: *Apa yang sedang dialami, dipedulikan, dan dibutuhkan orang ini?*
+
+## Jangan terlalu cepat memberi solusi
+
+::: {.scenario}
+Teman berkata, “Aku kewalahan dengan semua tugas minggu ini.”
+:::
+
+Respons cepat: “Bikin jadwal saja.”  
+Respons yang mendengar: “Bagian mana yang paling berat sekarang?”
+
+Solusi sebelum understanding sering terasa seperti penolakan terhadap pengalaman.
+
+## Understanding bukan agreement
+
+**Understanding** berarti mampu menjelaskan sudut pandang orang lain secara adil.  
+**Agreement** berarti menerima kesimpulan atau tindakan tertentu.
+
+**Validation** mengakui pengalaman dan emosi.  
+**Approval** menyetujui semua perilaku.
+
+Kita dapat memahami tanpa menyetujui.
+
+## Mengungkapkan diri dengan O-F-N-R
+
+::: {.flow}
+<div><strong>OBSERVATION</strong><br>apa yang terjadi</div>
+<div><strong>FEELING</strong><br>apa yang saya rasakan</div>
+<div><strong>NEED</strong><br>apa yang penting</div>
+<div><strong>REQUEST</strong><br>tindakan spesifik</div>
+:::
+
+Request memberi ruang untuk jawaban. Demand menghukum jawaban yang tidak diinginkan.
+
+## Boundaries menjaga kesehatan relasi
+
+Boundary menjelaskan:
+
+- apa yang dapat dan tidak dapat saya lakukan;
+- perlakuan apa yang dapat diterima;
+- konsekuensi yang berada dalam kendali saya;
+- bagaimana relasi dapat dilanjutkan dengan aman.
+
+<p class="accent">Assertive berarti jelas dan hormat. Aggressive berarti memaksa dengan mengorbankan person.</p>
+
+## Repair membutuhkan lebih dari kata “maaf”
+
+Repair conversation yang kuat:
+
+1. mengakui tindakan secara spesifik;
+2. mengakui dampaknya tanpa defensif;
+3. mengambil tanggung jawab;
+4. menawarkan perbaikan;
+5. memberi ruang pada response dan batas orang lain.
+
+## Demonstrasi: observation atau attack?
+
+::: {.contrast}
+::: {}
+### Attack
+
+“Kamu tidak pernah peduli. Kamu selalu mementingkan diri sendiri.”
+:::
+::: {}
+### Observation + request
+
+“Dua kali rencana kita berubah tanpa kabar. Saya kecewa dan butuh kepastian. Bisakah kita memberi kabar sebelum jam enam?”
+:::
+:::
+
+## Latihan 1: listening without fixing
+
+::: {.activity}
+**12 menit — kelompok tiga**
+
+Speaker bercerita 2 menit. Listener hanya bertanya dan paraphrase. Observer mencatat kapan listener memahami kata, meaning, dan person. Rotasi peran.
+:::
+
+## Latihan 2: character switching
+
+::: {.activity}
+**12 menit — berpasangan**
+
+Gunakan satu masalah personal. Coba respons sebagai **friend**, **judge**, dan **coach**. Diskusikan character mana yang paling sesuai dengan objective.
+:::
+
+## Mini performance: relationship conversation
+
+Pilih salah satu:
+
+- meminta perubahan perilaku;
+- menetapkan boundary;
+- meminta maaf dan menawarkan repair;
+- mengawali relasi baru dengan curiosity.
+
+Performance dinilai dari listening, kejelasan O-F-N-R, respons terhadap lawan bicara, dan dampak pada relationship.
+
+## AI: coach, bukan pengganti hubungan
+
+AI dapat melakukan roleplay, menguji kejelasan request, dan menunjukkan kemungkinan nada defensif.
+
+AI tidak boleh:
+
+- berbicara seolah-olah ia mengetahui motive person;
+- mengirim pesan sensitif tanpa review Anda;
+- menggantikan percakapan yang harus Anda miliki sendiri.
+
+## Tugas: Relationship Communication Episode
+
+Dokumentasikan satu percakapan nyata atau simulasi:
+
+`Persons → relationship state → characters → objective → repertoire → language → response → new relationship state`
+
+Sertakan satu hal yang akan Anda pertahankan dan satu hal yang akan Anda ubah.
+
+## Pegangan satu menit
+
+<p class="big-idea">Dengarkan person. Nyatakan pengalaman tanpa menyerang. Jaga boundary. Perbaiki kerusakan dengan tindakan.</p>

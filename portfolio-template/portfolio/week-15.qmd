@@ -1,0 +1,21 @@
+---
+title: "Capstone Performance Portfolio"
+week: 15
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Integrated person-centered communication performance."
+categories: [Assessment, Capstone]
+---
+
+## Kompetensi target
+
+Mengintegrasikan person, character, objective, state, repertoire, language, response, agreement, action, relationship, dan AI judgment.
+
+## Evidence wajib
+
+- Person/character/state map dan performance plan.
+- Rekaman/transcript, observer feedback, serta decisive adaptation.
+- Agreement/action atau specific disagreement, relationship outcome, AI critique, dan reflection.
+
+{{< include ../includes/evidence-template.md >}}

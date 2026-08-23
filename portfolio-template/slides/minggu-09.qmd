@@ -1,0 +1,176 @@
+---
+title: "Minggu 9 — TAIDA III: Desire"
+subtitle: "Dari solusi yang menarik menuju outcome yang diinginkan"
+---
+
+## Interest bertanya “bagaimana”; desire bertanya “untuk saya?”
+
+<p class="big-idea">Desire muncul ketika person dapat melihat future state yang bernilai, kredibel, dan relevan bagi kehidupannya.</p>
+
+## Hasil belajar
+
+Pada akhir sesi, Anda mampu:
+
+- membedakan interest dan desire;
+- menghubungkan current state dengan desired state;
+- membangun outcome dengan person, bukan untuk person;
+- menangani risk dan barrier tanpa overpromise.
+
+## Alur 120 menit
+
+| Waktu | Kegiatan |
+|---|---|
+| 0–15 | Review UTS dan state signals |
+| 15–40 | Desired state, value, evidence, risk |
+| 40–55 | Demonstrasi feature-heavy vs future-state pitch |
+| 55–85 | Outcome dan barrier practice |
+| 85–110 | Interest-to-Desire performance |
+| 110–120 | AI feedback dan refleksi |
+
+## Tiga state yang berbeda
+
+::: {.flow}
+<div><strong>ATTENTION</strong><br>“Masalah ini relevan.”</div>
+<div><strong>INTEREST</strong><br>“Solusi ini layak dipahami.”</div>
+<div><strong>DESIRE</strong><br>“Saya menginginkan outcome ini.”</div>
+:::
+
+## Current state dan desired state
+
+Desire pitch membantu person melihat:
+
+- keadaan sekarang;
+- friction yang tetap ada;
+- perubahan yang mungkin;
+- pengalaman setelah perubahan;
+- syarat dan risiko untuk mencapainya.
+
+## Desire gap
+
+::: {.flow}
+<div><strong>CURRENT</strong><br>apa yang dialami sekarang</div>
+<div><strong>GAP</strong><br>biaya, friction, atau opportunity</div>
+<div><strong>FUTURE</strong><br>outcome yang diinginkan</div>
+:::
+
+Gap harus nyata dan proporsional. Membesar-besarkan rasa takut merusak trust.
+
+## Desired state harus milik person
+
+Jangan mengasumsikan semua orang menginginkan:
+
+- kecepatan maksimum;
+- otomatisasi penuh;
+- fitur lebih banyak;
+- pertumbuhan tanpa batas;
+- perubahan besar.
+
+Tanyakan apa yang cukup baik menurut objective dan constraint mereka.
+
+## Future-state questions
+
+- Jika masalah ini berkurang, apa yang menjadi mungkin?
+- Perubahan mana yang paling bernilai?
+- Siapa yang akan merasakan dampaknya?
+- Apa yang tidak boleh hilang?
+- Bukti apa yang membuat outcome ini kredibel?
+
+## Feature → Benefit → Value → Outcome
+
+::: {.scenario}
+Feature: ringkasan rapat otomatis.
+:::
+
+- **Benefit:** keputusan dan action item tercatat.
+- **Value:** anggota tim mengurangi pekerjaan ulang.
+- **Outcome:** proyek bergerak dengan ownership yang lebih jelas.
+
+Outcome tetap perlu divalidasi oleh person.
+
+## Evidence dan trust
+
+Desire tanpa credibility menjadi fantasi. Gunakan:
+
+- demonstration atau prototype;
+- before/after yang dapat diperiksa;
+- pengalaman pihak relevan;
+- penjelasan mekanisme;
+- batas, uncertainty, dan trade-off.
+
+## Risk adalah bagian dari desire
+
+Person dapat menginginkan outcome sekaligus mengkhawatirkan:
+
+- biaya dan waktu;
+- kehilangan kontrol;
+- kegagalan implementasi;
+- dampak pada pihak lain;
+- reputasi atau keamanan.
+
+Mendengar risk memperkuat keputusan.
+
+## Desire bukan tekanan emosional
+
+::: {.contrast}
+::: {}
+### Manipulative
+
+Menciptakan urgensi palsu, memperbesar ketakutan, menyembunyikan batas.
+:::
+::: {}
+### Person-centered
+
+Membantu person membandingkan state, evidence, value, risk, dan choice.
+:::
+:::
+
+## Formula desire pitch
+
+> Jika [solution/mechanism] bekerja dalam constraint Anda, [current friction] dapat berubah menjadi [desired outcome]. Bagian outcome mana yang paling penting, dan concern apa yang perlu kita uji?
+
+## Demonstrasi: who owns the future?
+
+Kelas membandingkan:
+
+1. communicator mendeskripsikan future state tanpa bertanya;
+2. communicator mengajak target menyusun outcome dan risk bersama.
+
+Cari bukti kapan desire menjadi milik target.
+
+## Latihan 1: outcome ladder
+
+::: {.activity}
+**12 menit — kelompok kecil**
+
+Ambil satu feature. Bangun rantai benefit–value–outcome untuk dua character. Partner mencari lompatan logika atau klaim berlebihan.
+:::
+
+## Latihan 2: future-state interview
+
+::: {.activity}
+**12 menit — berpasangan**
+
+Gunakan hanya pertanyaan untuk menemukan desired state, must-keep conditions, risk, dan evidence threshold target.
+:::
+
+## Mini performance: Interest to Desire
+
+Dalam 4 menit:
+
+- konfirmasi interest;
+- gali desired state;
+- hubungkan solution dengan outcome;
+- akui satu risk atau limit;
+- baca signal desire tanpa memaksa action.
+
+## AI sebagai outcome critic
+
+> Tinjau pitch ini. Pisahkan feature, benefit, value, dan outcome. Tandai lompatan logika, overpromise, serta asumsi tentang apa yang diinginkan target. Ajukan pertanyaan yang perlu saya tanyakan kepada person.
+
+## Tugas: Desire-State Communication
+
+Dokumentasikan current state, desired state milik target, value chain, evidence, risk, pitch, response, dan adaptation.
+
+## Pegangan satu menit
+
+<p class="big-idea">Build the future with the person. Make value concrete. Keep evidence and risk inside the conversation.</p>
