@@ -1,0 +1,181 @@
+# TAIDA III: Dari Minat menuju Keinginan
+
+::: {.callout-tip title="Esensi Bab"}
+
+**Minat berkata, “Ini menarik.” Keinginan berkata, “Hasil itu penting bagi saya dan layak diperjuangkan.”**
+
+:::
+
+## Target Harta Karun
+
+Harta karun bab ini adalah kemampuan membantu orang membayangkan keadaan lebih baik, memahami cara kerja solusi, menilai bukti serta risiko, dan membentuk keinginan tanpa manipulasi.
+
+## Tujuan Belajar
+
+Anda mampu membedakan minat dan keinginan, menerjemahkan fitur menjadi hasil, menggunakan demonstrasi, analogi, data, dan cerita, menyatakan risiko serta ketidakpastian, menjawab keberatan, dan membuat *Demonstrasi Pembangun Keinginan*.
+
+## Kata Kunci
+
+**Keinginan**, **keadaan sekarang**, **keadaan masa depan**, **fitur**, **manfaat**, **nilai**, **hasil**, **bukti**, **kredibilitas**, **risiko**, **keberatan**, dan **kebebasan memilih**.
+
+## Persiapan: Apa yang Membuat Anda Bersedia Berjuang?
+
+Pikirkan satu kesempatan yang semula hanya menarik, kemudian menjadi sungguh Anda inginkan. Bukti, pengalaman, dukungan, atau gambaran masa depan apa yang mengubah keadaan itu?
+
+## Attention: Satu Surat Penerimaan
+
+Setelah tujuh surat penolakan, datang satu surat penerimaan dari University of Manitoba. Surat itu lebih dari informasi administratif. Ia merupakan bukti kredibel bahwa jalan studi lanjut benar-benar terbuka. Dukungan WUSC, kesediaan Professor Witold Kinsner menerima saya, dan reputasi baik rekan yang lebih dahulu belajar di sana membuat kemungkinan abstrak menjadi masa depan yang dapat diperjuangkan.
+
+::: {.callout-note title="Catatan dari Perjalanan Saya"}
+
+Impian telah lama ada, tetapi keinginan yang siap ditindaklanjuti memerlukan jembatan: kemungkinan yang jelas, dukungan yang dapat dipercaya, serta bukti bahwa langkah berikutnya masuk akal.
+
+:::
+
+## Interest: Dari Kemungkinan menuju Masa Depan yang Bernilai
+
+Minat berfokus pada solusi: “Bagaimana ini bekerja?” Keinginan berfokus pada hasil: “Apakah keadaan masa depan itu penting, dapat dipercaya, dan sesuai bagi saya?”
+
+Gunakan rangkaian:
+
+> **Fitur → Manfaat → Nilai → Hasil yang Diinginkan**
+
+Contoh:
+
+- fitur: estimasi waktu tunggu;
+- manfaat: pengguna dapat memilih waktu pengambilan;
+- nilai: kendali dan kepastian;
+- hasil: mahasiswa makan tanpa terlambat kuliah, sementara kantin mengelola kerumunan.
+
+Keinginan tidak diciptakan dari nol. Ia tumbuh dari kebutuhan, aspirasi, identitas, dan nilai yang telah dimiliki pribadi.
+
+## Desire: Menjembatani Keadaan Sekarang dan Masa Depan
+
+| Unsur | Pertanyaan |
+|---|---|
+| Keadaan sekarang | Beban, kerugian, atau peluang apa yang dialami? |
+| Keadaan masa depan | Apa yang menjadi lebih baik secara konkret? |
+| Mekanisme | Bagaimana solusi menghasilkan perubahan? |
+| Bukti | Mengapa klaim layak dipercaya? |
+| Pengorbanan | Biaya, waktu, usaha, dan perubahan apa yang diperlukan? |
+| Risiko | Apa yang dapat gagal dan bagaimana menguranginya? |
+
+### Demonstrasi
+
+Tunjukkan alur utama, bukan semua fitur. Biarkan orang mencoba dan mengajukan pertanyaan. Demonstrasi yang baik mengubah klaim menjadi pengalaman.
+
+### Analogi
+
+Analogi membuat mekanisme dapat dibayangkan. Jelaskan juga batasnya agar tidak menyesatkan.
+
+### Data dan Bukti
+
+Gunakan data yang relevan, sumber yang jelas, ukuran pembanding, dan keterbatasan. Bedakan hasil uji kecil dari kepastian skala besar.
+
+### Cerita Pengguna
+
+Cerita menghadirkan manusia, tantangan, pilihan, dan hasil. *Daya Tarik* menempatkan kisah sebagai pesan yang membuat pendengar menghubungkan pengalaman orang lain dengan hidupnya [@langi2025dayatarik]. Lindungi privasi dan jangan menggunakan kisah tunggal sebagai bukti universal.
+
+### Konsep
+
+Konsep menjelaskan “mesin abstrak” di balik solusi: sumber daya apa yang diarahkan untuk mengatasi beban apa. Misalnya, konsep “pemesanan awal” mengalihkan sebagian keputusan dari jam sibuk ke waktu sebelum kedatangan.
+
+## Kredibilitas Komunikator
+
+Kredibilitas bukan hanya percaya diri. Ia dibangun melalui kompetensi, bukti, konsistensi, kepentingan yang dinyatakan, dan keberanian mengakui batas. Kalimat “Dalam uji 20 pengguna, waktu tunggu turun; kami belum mengetahui hasil pada 500 pengguna” lebih kuat daripada “Sistem ini pasti menyelesaikan antrean.”
+
+## Keberatan adalah Informasi
+
+Kelompokkan keberatan:
+
+- **nilai:** hasil tidak cukup penting;
+- **kepercayaan:** bukti atau pihak pembawa belum meyakinkan;
+- **biaya:** pengorbanan terlalu besar;
+- **usaha:** perubahan perilaku terlalu berat;
+- **risiko:** kemungkinan dampak buruk belum dapat diterima.
+
+Jangan melawan keberatan. Dengarkan, parafrasa, periksa, lalu jawab dengan bukti atau revisi. Kadang keberatan menunjukkan solusi memang tidak cocok.
+
+## Tangga Bukti
+
+Tidak semua bukti memiliki kekuatan yang sama. Susun secara bertahap:
+
+1. klaim dan penjelasan mekanisme;
+2. contoh atau prototipe;
+3. pengalaman pengguna;
+4. data uji dengan konteks;
+5. perbandingan dengan alternatif;
+6. hasil penerapan yang dapat direplikasi.
+
+Bukti yang dibutuhkan bergantung pada besarnya keputusan dan risiko. Uji coba kegiatan mahasiswa tidak memerlukan standar yang sama dengan alat medis, tetapi keduanya tetap membutuhkan kejujuran tentang apa yang diketahui.
+
+## Satu Solusi, Beberapa Sumber Keinginan
+
+Anggota tim mungkin menginginkan berkurangnya pekerjaan berulang. Manajer menginginkan kepastian jadwal. Pengguna menginginkan kemudahan. Petugas kepatuhan menginginkan jejak audit dan perlindungan data. Jangan mengganti fakta, tetapi pilih hasil, bukti, dan risiko yang relevan bagi tanggung jawab masing-masing.
+
+Hindari stereotip kepribadian. Orang yang analitis tetap memiliki emosi; orang yang antusias tetap membutuhkan bukti. Ajukan pertanyaan, “Apa yang paling perlu Anda yakini sebelum mempertimbangkan langkah berikutnya?”
+
+## Etika Keinginan
+
+Komunikasi etis:
+
+- tidak menciptakan kelangkaan atau urgensi palsu;
+- tidak menyembunyikan biaya dan risiko material;
+- tidak mengeksploitasi ketakutan, kesepian, atau kerentanan;
+- memberi waktu dan pilihan untuk menolak;
+- membedakan harapan dari jaminan.
+
+Kemasan nonverbal dapat menguatkan kejelasan, tetapi tidak boleh menutupi isi yang lemah [@langi2025dayatarik].
+
+## AI sebagai Pengkritik Bukti
+
+AI dapat menghasilkan kemungkinan keberatan, membandingkan versi penjelasan, atau menandai klaim tanpa bukti. Mintalah AI mencari kelemahan, bukan hanya membuat bahasa lebih persuasif. Keputusan tentang nilai dan risiko tetap milik manusia.
+
+## Praktis: Empat Cara Menjelaskan Satu Solusi
+
+Pilih satu solusi dan buat:
+
+1. penjelasan teknis 100 kata;
+2. analogi beserta batasnya;
+3. demonstrasi tiga langkah;
+4. cerita pengguna 150 kata; dan
+5. tabel bukti, risiko, serta hal yang belum diketahui.
+
+Uji kepada dua peran berbeda. Catat format mana yang membantu masing-masing melihat hasil masa depan.
+
+## Perform: Demonstrasi Pembangun Keinginan
+
+Lakukan presentasi 4–5 menit:
+
+- nyatakan keadaan sekarang dan hasil yang diinginkan;
+- tunjukkan mekanisme;
+- gunakan sedikitnya dua bentuk bukti;
+- akui satu risiko atau batas;
+- tanggapi satu keberatan; dan
+- periksa keadaan pihak lain tanpa memaksa tindakan.
+
+| Kriteria | Mulai berkembang | Cakap |
+|---|---|---|
+| Hasil yang diinginkan | Generik | Spesifik dan relevan bagi peran |
+| Mekanisme | Klaim tanpa cara kerja | Hubungan sebab-akibat dapat dipahami |
+| Bukti | Hiasan atau testimoni tunggal | Proporsional dan berketerbatasan jelas |
+| Risiko | Disembunyikan | Diakui dan dimitigasi secara realistis |
+| Etika | Menekan keputusan | Kebebasan memilih dan relasi terjaga |
+
+## Refleksi
+
+1. Hasil apa yang sebenarnya diinginkan pihak lain?
+2. Bukti mana yang paling relevan, bukan paling mengesankan?
+3. Apa yang dapat gagal?
+4. Keberatan apa yang mengubah desain solusi?
+5. Apakah keinginan tumbuh dari nilai pihak lain atau tekanan saya?
+
+## Ringkasan Satu Menit
+
+Keinginan tumbuh ketika orang dapat melihat masa depan yang bernilai, memahami mekanisme, mempercayai bukti, dan menerima risiko secara sadar. Komunikator menghubungkan fitur dengan manfaat, nilai, dan hasil; menggunakan demonstrasi, analogi, data, konsep, serta cerita; dan tetap membuka kebebasan untuk menolak.
+
+> **Jangan membuat orang sekadar terpesona. Bantulah mereka menilai apakah masa depan yang ditawarkan benar-benar bernilai dan layak dipercaya.**
+
+## Rujukan dan Bacaan Lanjutan
+
+Lihat @heath2007made, @vargo2004evolving, dan @langi2025dayatarik.

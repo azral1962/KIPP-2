@@ -1,0 +1,175 @@
+# TAIDA II: Menumbuhkan Minat
+
+::: {.callout-tip title="Esensi Bab"}
+
+**Orang jarang tertarik pada kecanggihan solusi sebelum melihat hubungannya dengan persoalan yang sungguh mereka alami.**
+
+:::
+
+## Target Harta Karun
+
+Harta karun bab ini adalah kemampuan menghubungkan masalah yang telah diakui dengan kemungkinan solusi yang relevan. Keberhasilan bukan diukur dari panjangnya penjelasan, melainkan dari respons: pihak lain ingin mengetahui lebih jauh dan mulai menguji kecocokan solusi.
+
+## Tujuan Belajar
+
+Anda mampu membedakan perhatian dan minat, memetakan kecocokan masalah–solusi, mengubah fitur menjadi manfaat serta nilai, menggunakan kisah, pertanyaan, konsep, analogi, atau prototipe, dan menyampaikan *pitch* masalah–solusi selama 60 detik.
+
+## Kata Kunci
+
+**Minat**, **kecocokan masalah–solusi**, **fitur**, **manfaat**, **nilai**, **rasa ingin tahu**, **prototipe**, **komunikasi berlapis**, **kredibilitas**, dan **pitch masalah–solusi**.
+
+## Persiapan: Ketika Penjelasan Terlalu Cepat
+
+Pilih satu teknologi atau gagasan yang Anda sukai. Jelaskan dalam satu kalimat tanpa menyebut nama teknologi, fitur, atau istilah teknis. Anda hanya boleh menyatakan masalah yang dibantu dan hasil awal yang mungkin diperoleh.
+
+## Attention: Dari “Itu Masalah” menuju “Bagaimana Caranya?”
+
+Bayangkan pengelola kantin telah mengakui antrean panjang sebagai persoalan. Jika kita segera menjelaskan arsitektur aplikasi, basis data, dan integrasi pembayaran, perhatian dapat hilang. Pengelola belum meminta kuliah teknologi. Ia sedang mencari hubungan antara persoalan dan kemungkinan keadaan yang lebih baik.
+
+Pertanyaan yang menandai minat biasanya berbunyi:
+
+- “Bagaimana cara kerjanya?”
+- “Apakah ini dapat dipakai dengan proses kami?”
+- “Apa bedanya dari yang pernah dicoba?”
+- “Bisakah saya melihat contohnya?”
+
+## Interest: Perhatian Tidak Sama dengan Minat
+
+Pada tahap perhatian, orang mengakui relevansi masalah atau peluang. Pada tahap minat, ia menganggap kemungkinan solusi layak dijelajahi.
+
+> **Masalah yang diakui + kemungkinan yang relevan + mekanisme yang masuk akal → minat awal**
+
+Solusi harus “menempel” pada masalah. Gunakan peta:
+
+| Unsur | Pertanyaan |
+|---|---|
+| Masalah | Keadaan apa yang telah diakui? |
+| Hambatan | Mengapa keadaan itu terus terjadi? |
+| Mekanisme solusi | Perubahan apa yang diusulkan? |
+| Manfaat awal | Apa yang menjadi lebih mudah, cepat, aman, atau bermakna? |
+| Pemeriksaan | Apakah kemungkinan ini relevan bagi pihak tersebut? |
+
+Jika masalahnya ketidakpastian waktu tunggu, fitur “masuk dengan akun media sosial” tidak relevan. Jangan melekat pada solusi hanya karena kita telah menghabiskan waktu membuatnya.
+
+## Desire: Dari Fitur menuju Nilai
+
+### Fitur, Manfaat, dan Nilai
+
+- **Fitur:** apa yang dimiliki atau dilakukan solusi.
+- **Manfaat:** perubahan langsung yang dimungkinkan fitur.
+- **Nilai:** mengapa perubahan itu penting bagi pribadi tertentu.
+
+Contoh:
+
+| Fitur | Manfaat | Nilai bagi mahasiswa | Nilai bagi pemilik |
+|---|---|---|---|
+| Estimasi waktu tunggu | pengguna mengetahui kapan pesanan siap | dapat kembali ke kelas tepat waktu | kerumunan di kasir berkurang |
+
+Nilai bersifat relasional. Fitur sama dapat memiliki nilai berbeda bagi peran berbeda.
+
+### Pitch Minat
+
+Gunakan lima langkah:
+
+1. **Hubungkan kembali dengan masalah.**
+2. **Perkenalkan kemungkinan solusi.**
+3. **Jelaskan mekanisme secara sederhana.**
+4. **Nyatakan manfaat yang mungkin, bukan janji berlebihan.**
+5. **Undang tanggapan.**
+
+Contoh:
+
+> “Tadi Ibu menjelaskan bahwa kasir kewalahan mencatat pesanan sekaligus menjawab pertanyaan. Kita dapat mencoba papan antrean digital sederhana: pesanan diberi nomor dan statusnya diperbarui dari satu perangkat. Mahasiswa tidak perlu terus bertanya, sementara kasir dapat fokus mencatat. Apakah mekanisme ini layak kita lihat dalam contoh kecil?”
+
+## Repertoar untuk Menumbuhkan Minat
+
+Dalam *Daya Tarik*, kisah, konsep, fakta, dan opini dipakai sebagai pesan yang membangkitkan ketertarikan [@langi2025dayatarik]. Pada tahap minat:
+
+- **kisah singkat** menunjukkan seseorang dalam masalah yang serupa;
+- **fakta tidak biasa** mengubah cara melihat masalah;
+- **konsep** memberi nama pada mekanisme;
+- **opini tentatif** mengundang pengujian;
+- **analogi** menghubungkan hal baru dengan pengalaman lama;
+- **prototipe** membuat kemungkinan dapat disentuh atau dicoba;
+- **pertanyaan** mengajak pihak lain melengkapi nilai dengan bahasanya sendiri.
+
+Prototipe adalah komunikasi, bukan hanya artefak teknis. Ia membantu orang mengatakan, “Bagian ini berguna,” atau “Ini tidak cocok dengan alur kerja kami.”
+
+## Komunikasi Berlapis
+
+Berikan informasi sesuai kedalaman minat:
+
+1. satu kalimat kemungkinan;
+2. mekanisme ringkas;
+3. contoh atau demonstrasi;
+4. bukti dan rincian teknis bila diminta.
+
+Lapisan mencegah penumpukan fitur. Mengatakan “Saya belum tahu; bagian itu perlu diuji” dapat memperkuat kredibilitas karena batas pengetahuan dinyatakan jujur.
+
+## Membaca Keadaan Minat
+
+- **Belum berminat:** kembali ke masalah, periksa relevansi, atau berhenti.
+- **Berminat:** jawab pertanyaan, berikan contoh, dan minta tanggapan.
+- **Sudah menginginkan hasil:** jangan terus menjejalkan fitur; bersiap membahas bukti, risiko, dan kelayakan.
+
+Minat adalah hipotesis yang diuji melalui respons, bukan perasaan bangga komunikator.
+
+## Menyesuaikan Kedalaman, Bukan Memberi Label
+
+Orang yang cenderung analitis mungkin meminta data dan asumsi. Orang yang praktis ingin melihat langkah kerja. Orang yang melihat gambaran besar mencari hubungan dengan tujuan. Orang yang berhati-hati bertanya tentang risiko. Kecenderungan ini adalah petunjuk sementara, bukan kotak permanen. Dengarkan pertanyaan aktual dan sesuaikan.
+
+Peran juga mengubah bahasa. Insinyur menilai cara kerja, manajer menilai dampak dan sumber daya, pengguna menilai pengalaman, sedangkan keuangan menilai biaya dan risiko. Satu solusi memerlukan beberapa pintu masuk menuju makna.
+
+## Kegagalan Menumbuhkan Minat
+
+- **Pembuangan fitur:** daftar kemampuan tanpa hubungan dengan masalah.
+- **Terlalu rinci:** jawaban tingkat empat diberikan untuk pertanyaan tingkat satu.
+- **Nilai generik:** “lebih efisien” tanpa menjelaskan bagi siapa dan pada ukuran apa.
+- **Kelekatan solusi:** komunikator membela produknya ketika data menunjukkan ketidakcocokan.
+- **Menutup terlalu cepat:** minat dianggap sebagai keputusan membeli atau menyetujui.
+
+Ketika gagal, kembali ke kalimat pihak lain tentang masalah. Tanyakan, “Bagian mana yang belum terasa relevan?” Jawaban itu lebih berguna daripada mengulang pitch dengan energi lebih besar.
+
+## AI sebagai Peninjau Relevansi
+
+AI dapat menandai jargon, mengubah fitur menjadi kemungkinan manfaat, atau mensimulasikan pertanyaan skeptis. Jangan meminta AI menciptakan manfaat yang tidak didukung. Setiap klaim tetap harus diperiksa.
+
+## Praktis: Detoks Fitur
+
+Ambil deskripsi satu produk atau program. Tandai semua fitur. Untuk setiap fitur, tuliskan manfaat, nilai bagi satu peran, dan bukti yang masih diperlukan.
+
+| Fitur | Manfaat mungkin | Nilai bagi siapa? | Bukti yang diperlukan |
+|---|---|---|---|
+|  |  |  |  |
+
+Hapus fitur yang tidak terhubung dengan masalah yang telah disepakati.
+
+## Perform: Pitch Masalah–Solusi
+
+Sampaikan pitch 60 detik, kemudian jawab pertanyaan selama dua menit. Mitra memainkan pelanggan yang memiliki satu informasi tersembunyi. Anda harus mendengarkan dan menyesuaikan, bukan mempertahankan naskah.
+
+| Kriteria | Mulai berkembang | Cakap |
+|---|---|---|
+| Kecocokan | Solusi generik | Solusi menempel pada masalah yang diakui |
+| Kejelasan mekanisme | Fitur menumpuk | Cara kerja ringkas dan dapat dibayangkan |
+| Nilai | Sama bagi semua | Relevan bagi pribadi/peran tertentu |
+| Dialog | Monolog | Respons dipakai untuk menguji dan menyesuaikan |
+| Kejujuran | Janji berlebihan | Batas dan kebutuhan bukti dinyatakan |
+
+## Refleksi
+
+1. Apakah saya menjelaskan solusi atau memamerkan teknologi?
+2. Fitur mana yang tidak memberi nilai bagi pihak ini?
+3. Pertanyaan apa yang menandakan minat?
+4. Informasi apa yang belum saya ketahui?
+5. Apakah relasi menjadi lebih terbuka untuk eksplorasi?
+
+## Ringkasan Satu Menit
+
+Minat tumbuh ketika kemungkinan solusi terhubung dengan masalah yang telah diakui. Komunikator menerjemahkan fitur menjadi manfaat dan nilai, menjelaskan mekanisme secara sederhana, menggunakan repertoar yang relevan, serta mengundang tanggapan. Minat bukan izin untuk langsung menutup kesepakatan; ia adalah undangan untuk menjelajahi lebih jauh.
+
+> **Mulailah dari masalah mereka, bukan dari kecintaan Anda pada solusi.**
+
+## Rujukan dan Bacaan Lanjutan
+
+Lihat @vargo2004evolving, @heath2007made, dan @langi2025dayatarik.

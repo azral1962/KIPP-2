@@ -1,0 +1,187 @@
+# Negosiasi Banyak Pihak: Mencari Kesepakatan yang Dapat Diterima
+
+::: {.callout-tip title="Esensi Bab"}
+
+**Perbedaan tujuan tidak selalu menandakan permusuhan. Sering kali setiap pihak melihat bagian masalah yang berbeda, menanggung kendala berbeda, dan memiliki wewenang yang berbeda.**
+
+:::
+
+## Target Harta Karun
+
+Harta karun bab ini adalah kemampuan memetakan pihak, membedakan posisi dan kepentingan, mengembangkan pilihan, merundingkan pertukaran, serta menghasilkan kesepakatan yang dapat diterima tanpa membungkam pihak yang lebih lemah.
+
+## Tujuan Belajar
+
+Anda mampu menyusun peta pemangku kepentingan, membedakan posisi–kepentingan–kendala–nilai, menemukan wilayah kesepakatan, mengelola perbedaan bahasa dan kuasa, memfasilitasi simulasi banyak pihak, serta menghasilkan *Kesepakatan Negosiasi dan Refleksi*.
+
+## Kata Kunci
+
+**Negosiasi**, **pemangku kepentingan**, **posisi**, **kepentingan**, **kendala**, **alternatif**, **pertukaran**, **wilayah kesepakatan**, **kuasa**, **fasilitator**, **perbedaan pendapat**, dan **kesepakatan yang dapat diterima**.
+
+## Persiapan: Satu Masalah, Banyak Kenyataan
+
+Untuk rencana pemesanan digital di kantin, tuliskan apa yang mungkin diinginkan mahasiswa, pemilik, kasir, tim teknis, bagian keuangan, dan pihak yang tidak memakai telepon pintar. Adakah keinginan yang tampak bertentangan?
+
+## Attention: Tidak Ada Perjalanan yang Berdiri Sendiri
+
+Keberangkatan studi saya pada 1989 tampak seperti pencapaian seorang individu. Jika dilihat lebih dekat, ada banyak pihak: keluarga, ITB, PAU Mikroelektronika, program World Bank, WUSC, instruktur bahasa, universitas, profesor penerima, dan rekan yang lebih dahulu membangun reputasi. Masing-masing membawa tujuan, aturan, jadwal, serta kewenangan.
+
+Ketika keberangkatan hampir ditunda, masalahnya bukan sekadar “saya ingin berangkat”. Ada keputusan antarpihak yang perlu diselaraskan. Pengalaman itu mengingatkan bahwa tindakan profesional sering merupakan hasil jaringan relasi dan kesepakatan.
+
+## Interest: Pemangku Kepentingan adalah Pribadi
+
+Peta pemangku kepentingan membantu melihat sistem, tetapi kotak pada diagram bukan manusia. Pendekatan pemangku kepentingan menuntut organisasi memperhitungkan pihak yang dapat memengaruhi atau dipengaruhi oleh tujuan bersama [@freeman1984strategic]. Untuk setiap pihak, petakan:
+
+| Unsur | Pertanyaan |
+|---|---|
+| Pribadi/peran | Siapa hadir sebagai siapa? |
+| Tujuan | Hasil apa yang dikejar? |
+| Posisi | Usulan atau tuntutan apa yang dinyatakan? |
+| Kepentingan | Mengapa posisi itu penting? |
+| Kendala | Apa yang membatasi pilihan? |
+| Wewenang | Apa yang dapat diputuskan atau dijanjikan? |
+| Batas penerimaan | Apa yang wajib, diinginkan, dan tidak dapat diterima? |
+| Keadaan TAIDA | Sejauh mana ia memahami dan menginginkan pilihan? |
+
+Pihak yang diam belum tentu setuju. Pihak berkuasa belum tentu paling terdampak. Negosiasi yang bertanggung jawab memberi cara aman bagi informasi dari pihak berdaya rendah untuk masuk.
+
+## Desire: Posisi dan Kepentingan
+
+Pendekatan negosiasi berbasis kepentingan memisahkan tuntutan yang dinyatakan dari kebutuhan di baliknya [@fisher2011getting].
+
+- Posisi mahasiswa: “Semua transaksi harus digital.”
+- Kepentingan: kecepatan dan kepastian.
+- Posisi kasir: “Jangan gunakan sistem baru.”
+- Kepentingan: beban kerja yang dapat dikelola dan rasa aman terhadap pekerjaan.
+
+Jika hanya posisi diperdebatkan, pilihannya menang atau kalah. Ketika kepentingan terlihat, pilihan baru muncul: sistem hibrida, uji coba terbatas, pelatihan, pembagian tugas, atau antrean digital tanpa pembayaran digital.
+
+### Preferensi, Kendala, dan Nilai
+
+- **Preferensi:** pilihan yang disukai dan relatif mudah dinegosiasikan.
+- **Kendala:** batas nyata seperti hukum, anggaran, waktu, atau kapasitas.
+- **Nilai:** prinsip yang dianggap penting, seperti keselamatan, keadilan, atau privasi.
+
+Jangan menyebut preferensi sebagai kendala untuk menghindari dialog. Jangan pula menawar nilai keselamatan seolah hanya selera.
+
+## Menciptakan Pilihan sebelum Menilai
+
+Pisahkan dua kegiatan:
+
+1. **Menghasilkan:** buat sebanyak mungkin pilihan tanpa keputusan dini.
+2. **Menilai:** bandingkan manfaat, biaya, risiko, penerimaan, dan dampak.
+
+| Pilihan | Mahasiswa | Pemilik | Kasir | Teknis | Keuangan | Pihak terdampak |
+|---|---|---|---|---|---|---|
+| A |  |  |  |  |  |  |
+| B |  |  |  |  |  |  |
+
+Kompromi membagi perbedaan; penciptaan nilai mencari susunan yang memanfaatkan perbedaan. Pihak yang menghargai waktu dan pihak yang menghargai biaya dapat bertukar jadwal, ruang lingkup, atau sumber daya.
+
+## Kesepakatan yang Dapat Diterima
+
+Kesepakatan tidak mengharuskan semua pihak berpikir sama atau sangat senang. Ia perlu:
+
+- memenuhi syarat minimum setiap pihak yang sah;
+- tidak melanggar batas etik atau hukum;
+- lebih baik daripada alternatif terbaik tanpa kesepakatan;
+- menjelaskan pembagian manfaat, beban, dan risiko;
+- dapat dilaksanakan oleh pihak berwenang; dan
+- menyediakan cara meninjau serta memperbaiki.
+
+Jika wilayah penerimaan tidak bertemu, “tidak ada kesepakatan” dapat menjadi hasil yang benar. Jangan membuat janji atas nama pihak yang tidak memberi wewenang.
+
+## Pertukaran dan Dampak Distribusi
+
+Pilihan “terbaik” secara total dapat membebani satu kelompok secara tidak adil. Karena itu, evaluasi bukan hanya jumlah manfaat, tetapi distribusinya:
+
+- siapa memperoleh manfaat dan kapan;
+- siapa membayar biaya;
+- siapa menanggung risiko jika gagal;
+- siapa dapat keluar dari keputusan;
+- siapa tidak hadir tetapi terdampak.
+
+Pertukaran perlu dinyatakan terbuka. Peluncuran lebih cepat mungkin mengurangi pengujian; biaya lebih rendah mungkin menambah pekerjaan manual; keamanan lebih tinggi mungkin mengurangi kemudahan. Menyembunyikan pertukaran membuat konflik muncul setelah tindakan dimulai.
+
+## Kuasa dan Perbedaan Pendapat
+
+Kuasa berasal dari jabatan, keahlian, akses informasi, sumber daya, jaringan, atau kemampuan menolak. Fasilitator perlu mencegah keheningan dibaca sebagai persetujuan. Gunakan putaran bicara, masukan anonim bila aman, atau pertemuan terpisah untuk pihak yang sulit berbicara di ruang yang sama.
+
+Perbedaan pendapat adalah data. Ia dapat mengungkap risiko, nilai yang terabaikan, atau bahasa yang tidak dipahami. Tanyakan, “Apa yang perlu benar agar Anda dapat menerima pilihan ini?” dan “Kondisi apa yang membuat pilihan ini tidak dapat diterima?”
+
+## Bahasa Bersama dan Peran Fasilitator
+
+Tim teknis berbicara tentang integrasi; keuangan tentang biaya; pengguna tentang kemudahan; regulator tentang kepatuhan. Fasilitator menerjemahkan tanpa menghapus perbedaan.
+
+Perilaku fasilitator yang baik:
+
+- mengatur giliran dan tujuan;
+- memparafrasakan posisi serta kepentingan;
+- memisahkan pribadi dari masalah;
+- membuat konflik menjadi informasi;
+- menanyakan suara yang belum terdengar;
+- mencatat kesepakatan kecil;
+- menguji pemahaman; dan
+- tidak memaksakan solusi pribadi.
+
+Fasilitator tidak harus netral terhadap keselamatan, martabat, atau kejujuran. Ia netral dalam memberi proses yang adil, bukan netral terhadap pelanggaran.
+
+## Opini yang Terbuka untuk Berubah
+
+Dalam *Daya Tarik*, opini dipahami sebagai perpaduan informasi, persepsi, perasaan, nilai, dan budaya; opini yang matang dapat digunakan sekaligus terbuka terhadap informasi baru [@langi2025dayatarik]. Sikap ini penting dalam negosiasi. Mengubah posisi karena bukti baru bukan kekalahan. Itu tanda bahwa perundingan menghasilkan pembelajaran.
+
+## AI sebagai Simulator Pihak
+
+AI dapat mensimulasikan beberapa peran, menghasilkan alternatif, mendeteksi benturan syarat, atau menerjemahkan jargon. Tetapkan tujuan, pengetahuan, kendala, bahasa, dan wewenang tiap agen. Namun, agen AI bukan pribadi yang benar-benar menanggung akibat. Jangan menyerahkan nilai manusia, persetujuan, atau komitmen kritis kepadanya.
+
+## Praktis: Peta Banyak Pihak
+
+Lengkapi peta untuk kasus kantin:
+
+| Pihak | Posisi | Kepentingan | Kendala | Wewenang | Wajib | Diinginkan | Tidak diterima |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |
+
+Kemudian hasilkan sedikitnya lima pilihan sebelum mengevaluasi. Tandai satu pertukaran dan satu risiko distribusi yang tidak adil.
+
+## Perform: Simulasi Negosiasi Banyak Pihak
+
+Kelompok lima orang memainkan pelanggan/pengguna, penyedia, tim teknis, keuangan, dan pihak terdampak. Orang keenam menjadi fasilitator; pengamat mencatat jika kelompok lebih kecil.
+
+Alur 20 menit:
+
+1. setiap pihak menyatakan tujuan, kepentingan, kendala, dan wewenang;
+2. fasilitator merumuskan masalah bersama;
+3. kelompok menghasilkan pilihan tanpa menilai;
+4. pilihan dibandingkan dan dipertukarkan;
+5. syarat minimum diperiksa;
+6. kesepakatan atau alasan belum sepakat ditulis.
+
+Dokumen akhir memuat siapa, apa, kapan, syarat, bukti selesai, risiko, pihak yang menanggung, waktu tinjauan, dan mekanisme keberatan.
+
+| Kriteria | Mulai berkembang | Cakap |
+|---|---|---|
+| Pemetaan | Hanya pihak berkuasa | Semua pihak terdampak, termasuk suara lemah |
+| Kepentingan | Posisi diperdebatkan | Kepentingan dan kendala digali |
+| Pilihan | Satu solusi dipaksakan | Beberapa pilihan dan pertukaran dikembangkan |
+| Fasilitasi | Giliran tidak seimbang | Bahasa diterjemahkan dan perbedaan dirangkum |
+| Kesepakatan | Kabur atau semu | Dapat diterima, jelas, berwenang, dan dapat ditinjau |
+| Relasi | Pemenang–pecundang | Martabat, perbedaan, dan kerja sama berikutnya dijaga |
+
+## Refleksi
+
+1. Pihak mana yang hampir tidak terdengar?
+2. Posisi apa yang berubah setelah kepentingannya dipahami?
+3. Apakah ada “kesepakatan” dari keheningan semata?
+4. Siapa menerima manfaat dan siapa menanggung risiko?
+5. Apakah tidak sepakat lebih jujur daripada kesepakatan semu?
+
+## Ringkasan Satu Menit
+
+Negosiasi banyak pihak mempertemukan tujuan, kepentingan, kendala, nilai, kuasa, dan keadaan TAIDA yang berbeda. Komunikator memetakan pribadi, mencari kepentingan di balik posisi, menghasilkan pilihan sebelum menilai, menerjemahkan bahasa, melindungi suara berdaya rendah, dan merumuskan kesepakatan yang dapat diterima serta dilaksanakan.
+
+> **Kesepakatan terbaik bukan yang membungkam perbedaan, melainkan yang membuat perbedaan dapat bekerja bagi tindakan bersama tanpa kehilangan martabat manusia.**
+
+## Rujukan dan Bacaan Lanjutan
+
+Lihat @freeman1984strategic, @fisher2011getting, dan @langi2025dayatarik.

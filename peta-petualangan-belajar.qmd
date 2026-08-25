@@ -1,0 +1,88 @@
+# Peta Petualangan Belajar {.unnumbered}
+
+Setiap petualangan memerlukan peta. Peta tidak menggantikan perjalanan, tetapi membantu kita memahami arah, mengenali tahap yang sedang ditempuh, dan tidak kehilangan tujuan ketika jalan terasa sulit.
+
+Perjalanan dalam buku ini bergerak dari lingkar kehidupan yang paling dekat menuju lingkar yang semakin luas:
+
+> **Saya → Keluarga dan Sahabat → Rekan Kerja dan Pelanggan → Komunitas → Dunia**
+
+Kita memulai dari diri sendiri karena setiap komunikasi lahir dari cara kita memaknai peristiwa. Kita kemudian belajar hadir bagi orang-orang terdekat, bekerja dan menciptakan nilai bersama, hidup di tengah perbedaan, serta menyampaikan gagasan kepada publik. Pada setiap tahap, kecerdasan buatan dipelajari sebagai alat bantu yang harus tetap berada di bawah penilaian dan tanggung jawab manusia.
+
+## Empat Wilayah Perjalanan
+
+### Bagian I — Menemukan Diri dan Menjumpai Orang Lain
+
+Di wilayah pertama, Anda belajar bahwa komunikasi dimulai dari pribadi (*person*), bukan dari pesan. Anda akan mengenali kecenderungan diri, memilih peran naratif (*character*) yang sesuai, mendengarkan orang lain, merawat relasi dekat, dan menemukan bahasa yang dapat menjembatani makna.
+
+**Harta karun:** kesadaran diri, empati, kemampuan mendengarkan, komunikasi asertif, dan keluwesan bahasa.
+
+### Bagian II — Mengubah Komunikasi Menjadi Nilai dan Tindakan
+
+Di wilayah kedua, Anda memasuki kehidupan profesional. Anda belajar menemukan kebutuhan, memperoleh perhatian secara layak, menumbuhkan minat, menjelaskan manfaat, mencapai kesepakatan, serta bernegosiasi dengan beberapa pihak.
+
+**Harta karun:** kemampuan menciptakan nilai bersama dan mengubah percakapan menjadi tindakan yang dapat dipertanggungjawabkan.
+
+### Bagian III — Memperluas Lingkar Relasi
+
+Di wilayah ketiga, Anda berhadapan dengan orang-orang yang mungkin tidak memiliki pengalaman, kepentingan, atau nilai yang sama. Anda belajar berkomunikasi dalam komunitas, berbicara kepada publik, dan menggunakan AI tanpa kehilangan keaslian maupun tanggung jawab.
+
+**Harta karun:** kemampuan hidup di tengah perbedaan, membangun tindakan kolektif, serta memberi kontribusi kepada dunia.
+
+### Bagian IV — Memiliki Harta Karun Itu
+
+Wilayah terakhir bukan tempat untuk menambah banyak istilah baru. Di sini Anda mengintegrasikan seluruh kompetensi dalam sebuah proyek puncak (*capstone*). Anda memperlihatkan bahwa Anda dapat mengenali pribadi, memilih peran naratif, menetapkan tujuan, membaca keadaan TAIDA, memilih repertoar dan bahasa, menggunakan AI secara tepat, mencapai hasil, serta menilai dampaknya terhadap relasi.
+
+**Harta karun:** kemampuan menjadi komunikator yang utuh, adaptif, etis, dan berpusat pada manusia.
+
+## Peta Lima Belas Bab
+
+| Bab | Pertanyaan perjalanan | Harta karun | Bukti bahwa Anda telah menemukannya |
+|---:|---|---|---|
+| **1** | Siapa yang sebenarnya berkomunikasi? | Memahami pribadi, kepribadian, dan peran naratif | *Personal Communication Character Map* |
+| **2** | Bagaimana saya berkomunikasi dengan diri sendiri? | Memisahkan fakta, interpretasi, dan narasi diri | *Intra-Self Communication Journal* |
+| **3** | Bagaimana relasi dekat diperoleh, dirawat, dan diperbaiki? | Mendengarkan, menyatakan diri, dan memperbaiki relasi | *Relationship Repair Conversation* |
+| **4** | Bahasa apa yang sesuai bagi pribadi dan situasi ini? | Menjelaskan satu makna melalui beberapa bahasa | *Five-Language Translation Portfolio* |
+| **5** | Mengapa para profesional berkomunikasi? | Menemukan kebutuhan dan menciptakan nilai bersama | *Customer Problem Statement* |
+| **6** | Dengan siapa saya perlu berbicara dan bagaimana memperoleh perhatian? | Mengenali target dan membangun relevansi | *Target–Attention Pitch* |
+| **7** | Mengapa person perlu memedulikan solusi ini? | Menghubungkan masalah dengan kemungkinan solusi | *Problem–Solution Pitch* |
+| **8** | Apakah komunikasi saya sungguh bekerja? | Mengintegrasikan Target, Attention, dan Interest | Laboratorium Kinerja UTS |
+| **9** | Bagaimana minat berubah menjadi keinginan yang sadar? | Menjelaskan manfaat, bukti, cara kerja, dan risiko | *Desire-Building Demonstration* |
+| **10** | Bagaimana keinginan berubah menjadi langkah nyata? | Mencapai kesepakatan yang jelas dan layak | *Agreement Document* |
+| **11** | Bagaimana pihak yang berbeda menemukan wilayah kesepakatan? | Membedakan posisi, kepentingan, dan kendala | *Negotiated Agreement + Reflection* |
+| **12** | Bagaimana kita bertindak bersama di tengah perbedaan? | Mediasi dan kesepakatan komunitas | *Community Agreement* |
+| **13** | Bagaimana satu gagasan berbicara kepada dunia? | Komunikasi publik yang jelas, menarik, dan bertanggung jawab | *One Idea, Four Public Languages* |
+| **14** | Bagaimana AI membantu tanpa mengambil alih kemanusiaan? | Memilih peran, data, kewenangan, dan batas AI | Spesifikasi Kopilot Komunikasi |
+| **15** | Dapatkah saya mengintegrasikan seluruh kompetensi? | Komunikasi efektif, adaptif, etis, dan relasional | Proyek puncak dan portofolio akhir |
+
+## Rute TAIDA di Sepanjang Peta
+
+TAIDA adalah kompas yang digunakan berulang kali:
+
+> **Target → Attention → Interest → Desire → Action**
+
+Kompas ini membantu Anda bertanya: siapa person-nya, apa yang sedang ia pahami atau rasakan, perubahan apa yang layak dicapai, serta komunikasi apa yang diperlukan sekarang? TAIDA tidak digunakan untuk memperlakukan manusia seperti mesin yang harus digerakkan. Ia digunakan untuk membuat komunikator lebih peka terhadap keadaan orang lain dan lebih bertanggung jawab ketika mengajak mereka melangkah.
+
+## Jejak Perjalanan Penulis
+
+Saya pun tidak memperoleh seluruh harta karun ini sekaligus. Perjalanan saya dimulai dari seorang anak di Tomohon yang memandang gambar Golden Gate pada kartu pos ayahnya. Bertahun-tahun kemudian, saya lulus dari Teknik Elektro ITB, menjadi dosen, belajar di PAU Mikroelektronika, mengikuti pelatihan bahasa Inggris, menerima tujuh surat penolakan, dan akhirnya memperoleh kesempatan studi di Kanada.
+
+Di tengah perjalanan itu, saya belajar bahwa ketekunan perlu disertai kerendahan hati untuk belajar; bahwa kesempatan sering datang melalui kepercayaan dan pertolongan orang lain; serta bahwa impian tidak boleh membuat kita melupakan orang yang perlu kita dampingi. Saya pernah menunda keberangkatan untuk berada di sisi Ina ketika Gladys akan lahir. Pada 13 Desember 1989, ketika lampu-lampu Los Angeles terlihat dari jendela pesawat, saya memahami bahwa kenyataan dapat menjadi lebih indah daripada impian. Tujuh tahun kemudian, saya kembali bersama Ina, Gladys, Kezia, dan Andria. Perjalanan itu tidak lagi hanya tentang tempat yang ingin saya capai, tetapi tentang orang-orang yang membuat perjalanan tersebut bermakna.
+
+Kisah Anda tentu berbeda. Anda tidak perlu pergi ke tempat yang sama atau menghadapi tantangan yang sama. Namun, Anda juga memiliki pengalaman, relasi, kegagalan, pertanyaan, dan impian yang dapat diolah menjadi sumber belajar. Buku ini mengundang Anda menemukan maknanya.
+
+## Bekal yang Perlu Anda Bawa
+
+- **Rasa ingin tahu**, agar Anda sungguh tertarik kepada orang lain.
+- **Kejernihan**, agar makna tidak tenggelam dalam banyaknya kata.
+- **Kerendahan hati**, agar Anda bersedia mengakui bahwa pembacaan Anda dapat keliru.
+- **Keberanian**, agar percakapan penting tidak terus ditunda.
+- **Kepedulian**, agar keberhasilan tidak dibeli dengan rusaknya martabat atau relasi.
+- **Akuntabilitas**, agar Anda bertanggung jawab atas pesan, pilihan, dan penggunaan teknologi.
+
+## Tanda Bahwa Anda Telah Sampai
+
+Anda tidak perlu menjadi pembicara paling fasih di ruangan. Anda telah bergerak jauh ketika mampu mengenali siapa yang dihadapi, mendengarkan sebelum menyimpulkan, memilih bahasa yang dapat dipahami, menyesuaikan diri berdasarkan respons, mencapai kesepakatan yang layak, dan menjaga relasi tetap memiliki masa depan.
+
+> **Komunikasi yang efektif = tindakan yang berhasil + relasi yang sehat + tanggung jawab yang terpelihara.**
+
+Sekarang peta telah terbuka. Mari kita mulai perjalanan dari tempat yang paling dekat: diri kita sendiri.

@@ -1,0 +1,177 @@
+# Tetangga dan Komunitas: Bertindak Bersama di Tengah Perbedaan
+
+::: {.callout-tip title="Esensi Bab"}
+
+**Kita tidak harus sepakat tentang segala hal untuk menyepakati sesuatu yang baik, adil, dan dapat dilakukan bersama.**
+
+:::
+
+## Target Harta Karun
+
+Harta karun bab ini adalah kemampuan berkomunikasi melintasi perbedaan nilai, pengalaman, kepentingan, dan kuasa untuk menghasilkan tindakan kolektif yang dapat diterima. Keberhasilan tidak hanya diukur dari selesainya satu kegiatan, tetapi juga dari bertambahnya kapasitas komunitas untuk berbicara dan bekerja bersama pada masa depan.
+
+## Tujuan Belajar
+
+Pada akhir bab ini, Anda mampu:
+
+- membedakan peran sebagai tetangga, warga, relawan, advokat, mediator, dan pemimpin komunitas;
+- memisahkan fakta, interpretasi, nilai, dan posisi dalam konflik sosial;
+- mengubah bingkai “orang melawan orang” menjadi “orang bersama-sama menghadapi masalah”;
+- membedakan konsensus, kesepakatan, partisipasi, koeksistensi, dan tindakan kolektif;
+- memfasilitasi deliberasi yang memperhatikan suara minoritas dan perbedaan kuasa; serta
+- menyusun *Kesepakatan Komunitas* yang dapat ditinjau.
+
+## Kata Kunci
+
+**Komunitas**, **kepentingan bersama**, **kepercayaan sosial**, **deliberasi**, **mediasi**, **pembingkaian ulang**, **konsensus**, **koeksistensi**, **partisipasi**, **kuasa**, **suara minoritas**, dan **tindakan kolektif**.
+
+## Persiapan: Ruang yang Sama, Tujuan yang Berbeda
+
+Bayangkan sebuah taman lingkungan. Anak-anak ingin bermain, remaja ingin berkumpul, lansia membutuhkan ketenangan, pedagang mencari penghasilan, orang tua memikirkan keselamatan, dan pengelola menghadapi anggaran terbatas.
+
+Tuliskan satu kalimat tentang “masalah taman” dari sudut pandang setiap pihak. Apakah Anda masih yakin hanya ada satu versi masalah?
+
+## Attention: Jalan yang Tidak Ditempuh Sendirian
+
+Perjalanan studi saya sering diceritakan sebagai impian seorang anak Tomohon yang akhirnya tiba di luar negeri. Namun, jika hanya tokoh utama yang terlihat, ceritanya menjadi tidak lengkap. Ada ayah yang mengirim kartu pos, Ina yang berjalan bersama saya, keluarga yang memberi dukungan, para mentor di ITB dan PAU Mikroelektronika, instruktur bahasa, WUSC, program beasiswa, profesor yang menerima, serta rekan yang lebih dahulu membangun reputasi.
+
+Tidak seorang pun dari mereka melakukan seluruh pekerjaan. Namun, jaringan relasi membuat jalan yang tidak mungkin ditempuh sendirian menjadi terbuka.
+
+::: {.callout-note title="Catatan dari Perjalanan Saya"}
+
+Komunitas bukan latar belakang pasif bagi keberhasilan individu. Komunitas adalah kumpulan pribadi yang saling membuka kemungkinan, menanggung sebagian beban, dan mewariskan kepercayaan. Karena itu, keberhasilan pribadi membawa tanggung jawab untuk kembali menyumbang.
+
+:::
+
+## Interest: Komunitas Tetap Dimulai dari Pribadi
+
+Istilah “warga”, “masyarakat”, atau “komunitas” mudah membuat manusia menghilang di balik kategori. Padahal setiap orang hadir dalam peran dan pengalaman berbeda. Orang yang sama dapat menjadi orang tua, pemilik usaha, relawan, penyandang disabilitas, penyewa rumah, atau pengurus lingkungan.
+
+Komunitas adalah sistem relasi yang memiliki ingatan. Janji yang ditepati, pembagian bantuan yang adil, dan ruang bicara yang aman membentuk kepercayaan. Sebaliknya, keputusan tertutup dan pengalaman diabaikan menimbulkan kecurigaan yang terbawa ke persoalan berikutnya. Modal sosial—jaringan, norma timbal balik, dan kepercayaan—membantu orang bertindak bersama [@putnam2000bowling].
+
+## Desire: Dari Konflik Pribadi menuju Masalah Bersama
+
+Konflik sering menggabungkan empat lapisan:
+
+| Lapisan | Pertanyaan | Contoh |
+|---|---|---|
+| Fakta | Apa yang dapat diamati? | Musik berlangsung pukul 21.00–23.00 pada tiga malam. |
+| Interpretasi | Apa makna yang diberikan? | Pengelola tidak peduli pada warga. |
+| Nilai | Apa yang dianggap penting? | Istirahat, ekspresi anak muda, mata pencaharian. |
+| Posisi | Apa yang dituntut? | Tutup kegiatan malam. |
+
+Kesepakatan pada fakta tidak otomatis menghasilkan kesepakatan pada makna. Namun, pemisahan lapisan mencegah interpretasi diperlakukan sebagai bukti tentang watak orang lain.
+
+- Bingkai serangan: “Pedagang dan pengunjung merusak ketertiban.”
+- Bingkai masalah bersama: “Bagaimana menjaga mata pencaharian dan ruang berkumpul sambil melindungi waktu istirahat serta keselamatan warga?”
+
+Pembingkaian ulang tidak menghapus pertentangan. Ia mengubah pertentangan menjadi pertanyaan yang dapat dikerjakan bersama.
+
+## Dari Debat menuju Deliberasi
+
+Debat cenderung mencari argumen pemenang. Deliberasi mencari pemahaman yang cukup untuk memilih tindakan bersama. Dalam deliberasi, peserta:
+
+1. mendengar pengalaman sebelum membantah;
+2. menyatakan kepentingan dan batas;
+3. memeriksa fakta serta ketidakpastian;
+4. menghasilkan lebih dari dua pilihan;
+5. menilai dampak pada pihak yang berbeda; dan
+6. menetapkan cara belajar dari tindakan.
+
+Pengelolaan sumber daya bersama memerlukan aturan yang dipahami, partisipasi pihak terdampak, pemantauan, dan mekanisme penyelesaian konflik [@ostrom1990governing]. Prinsip itu berlaku lebih luas: tindakan kolektif bertahan ketika orang dapat melihat prosesnya adil dan dapat diperbaiki.
+
+## Konsensus Tidak Selalu Diperlukan
+
+- **Konsensus:** semua pihak menerima satu pandangan atau keputusan.
+- **Kesepakatan:** pihak-pihak menerima tindakan dan syarat tertentu meski alasan berbeda.
+- **Partisipasi:** seseorang terlibat dalam proses atau tindakan.
+- **Koeksistensi:** pihak yang berbeda dapat hidup berdampingan dengan batas yang jelas.
+- **Tindakan kolektif:** beberapa pihak mengoordinasikan kontribusi untuk hasil bersama.
+
+Komunitas sering membutuhkan **kesepakatan yang cukup** untuk bertindak, bukan keseragaman keyakinan. Namun, suara mayoritas tidak selalu cukup. Jika manfaat dinikmati banyak orang sementara beban berat ditanggung kelompok kecil, keadilan perlu diperiksa.
+
+## Kuasa, Keheningan, dan Partisipasi
+
+Kehadiran di rapat tidak sama dengan partisipasi; keheningan tidak sama dengan persetujuan. Perbedaan pendidikan, jabatan, bahasa, usia, akses teknologi, dan pengalaman diskriminasi memengaruhi siapa yang dapat berbicara.
+
+Fasilitator dapat:
+
+- menjelaskan tujuan dan aturan percakapan;
+- memberi giliran yang seimbang;
+- menerima masukan tertulis atau anonim;
+- memparafrasakan secara adil;
+- mengundang pihak yang belum terdengar;
+- membedakan serangan dari keberatan;
+- mencatat wilayah sepakat dan belum sepakat; serta
+- memastikan tidak ada janji dibuat tanpa kewenangan.
+
+Fasilitator menjaga proses yang adil. Ia tidak netral terhadap kekerasan, penghinaan, atau penghilangan hak.
+
+## TAIDA untuk Tindakan Komunitas
+
+- **Sasaran:** siapa terdampak, berwenang, mengerjakan, atau berpotensi terabaikan?
+- **Perhatian:** bagaimana masalah dibuat terlihat tanpa menyalahkan kelompok?
+- **Minat:** mengapa isu ini relevan bagi kepentingan yang berbeda?
+- **Keinginan:** keadaan bersama apa yang cukup bernilai bagi masing-masing pihak?
+- **Tindakan:** siapa berbuat apa, kapan, dengan sumber daya dan tinjauan apa?
+
+Tidak semua pihak berada pada keadaan yang sama. Warga mungkin siap bertindak, sedangkan pengelola baru mengakui adanya masalah. Komunikator juga harus bersedia berubah ketika mendengar informasi baru.
+
+## Pilot sebagai Kesepakatan untuk Belajar
+
+Ketika pihak berbeda memprediksi akibat yang berbeda, uji coba terbatas dapat mengubah perdebatan menjadi pembelajaran. Tetapkan durasi, ukuran keberhasilan, perlindungan risiko, pihak pemantau, dan keputusan setelah uji coba. Pilot bukan cara menyelundupkan keputusan permanen.
+
+Nilai dua hasil:
+
+- **hasil kolektif:** apakah masalah berkurang?;
+- **kapasitas relasi:** apakah komunitas lebih mampu berbicara dan bertindak bersama?
+
+## AI dalam Komunikasi Komunitas
+
+AI dapat membantu merangkum masukan, menerjemahkan bahasa, memetakan pilihan, atau meninjau rancangan kesepakatan. Simulasi AI bukan konsultasi publik. Data minoritas yang sedikit tidak berarti kebutuhannya tidak penting. Transparansikan penggunaan AI, minimalkan data pribadi, dan berikan cara manusia memeriksa serta membantah ringkasan.
+
+## Praktis: Mengubah Serangan Menjadi Masalah Bersama
+
+Ubah pernyataan berikut:
+
+> “Anak muda sekarang tidak tahu aturan dan selalu membuat lingkungan kacau.”
+
+Pisahkan fakta, interpretasi, nilai, dan posisi. Buat tiga bingkai masalah bersama. Kemudian hasilkan sedikitnya lima pilihan, termasuk satu uji coba.
+
+## Perform: Deliberasi Komunitas
+
+Simulasikan konflik penggunaan taman dengan sedikitnya empat peran dan seorang fasilitator. Hasilkan *Kesepakatan Komunitas* yang memuat:
+
+- fakta yang disepakati dan yang masih diperdebatkan;
+- kepentingan serta batas tiap pihak;
+- pilihan yang dipertimbangkan;
+- keputusan atau alasan belum sepakat;
+- tindakan, penanggung jawab, tenggat, dan sumber daya;
+- perlindungan bagi pihak yang menanggung risiko; serta
+- waktu dan ukuran evaluasi.
+
+| Kriteria | Mulai berkembang | Cakap |
+|---|---|---|
+| Pemetaan pihak | Hanya pihak dominan | Pihak terdampak dan suara minoritas terwakili |
+| Pembingkaian | Orang melawan orang | Orang bersama menghadapi masalah |
+| Deliberasi | Saling membantah | Mendengar, memeriksa, dan menghasilkan pilihan |
+| Kesepakatan | Mayoritas tanpa syarat | Dapat diterima, jelas, dan dapat ditinjau |
+| Hasil relasi | Ketegangan diabaikan | Kepercayaan dan kapasitas bersama dinilai |
+
+## Refleksi
+
+1. Suara siapa yang paling mudah saya abaikan?
+2. Interpretasi apa yang saya perlakukan sebagai fakta?
+3. Apakah “kepentingan bersama” membagi manfaat dan beban secara adil?
+4. Di mana konsensus tidak diperlukan, dan di mana persetujuan wajib diperlukan?
+5. Apakah proses ini membuat komunitas lebih mampu menghadapi persoalan berikutnya?
+
+## Ringkasan Satu Menit
+
+Komunitas adalah sistem relasi yang memiliki ingatan. Komunikasi komunitas memisahkan fakta, interpretasi, nilai, dan posisi; membingkai ulang konflik sebagai masalah bersama; mengadakan deliberasi; melindungi suara yang kurang berkuasa; serta mengubah kesepakatan menjadi tindakan yang dapat ditinjau. Kita tidak harus sepakat tentang segala hal untuk hidup berdampingan dan melakukan sesuatu yang baik bersama.
+
+> **Tindakan kolektif yang sehat menghasilkan perubahan sekaligus memperbesar kemampuan komunitas untuk saling mempercayai.**
+
+## Rujukan dan Bacaan Lanjutan
+
+Lihat @ostrom1990governing, @putnam2000bowling, @fisher2011getting, dan @langi2025dayatarik.

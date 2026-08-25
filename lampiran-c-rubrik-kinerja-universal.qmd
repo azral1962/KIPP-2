@@ -1,0 +1,66 @@
+# Rubrik Kinerja Universal
+
+Rubrik ini digunakan secara konsisten untuk tugas praktik, portofolio, dan capstone. Kelima dimensi memiliki bobot yang sama, masing-masing **20%**. Dosen dapat menyesuaikan bukti yang diminta, tetapi tidak mengubah prinsip dasarnya: komunikasi dinilai dari tindakan, relasi, dan tanggung jawab.
+
+## Tingkat Kinerja
+
+| Tingkat | Skor acuan | Makna umum |
+|---|---:|---|
+| **Unggul** | 4 | Pilihan terarah, adaptif, berbasis bukti, dan bertanggung jawab; dampak dapat dijelaskan. |
+| **Cakap** | 3 | Kompetensi utama tampak konsisten, meskipun kedalaman atau adaptasi masih dapat diperkuat. |
+| **Berkembang** | 2 | Sebagian kompetensi tampak, tetapi masih mekanis, tidak lengkap, atau kurang ditopang bukti. |
+| **Awal** | 1 | Kompetensi belum tampak memadai; keputusan bertumpu pada asumsi atau mengabaikan dampak penting. |
+
+## Rubrik Analitik
+
+| Dimensi | Unggul — 4 | Cakap — 3 | Berkembang — 2 | Awal — 1 |
+|---|---|---|---|---|
+| **1. Pengenalan pribadi dan karakter** | Mengakui keunikan, pengalaman, nilai, peran, kebebasan, dan kerentanan pihak; hipotesis tentang karakter diperiksa melalui dialog dan direvisi. | Mengenali pribadi dan peran secara relevan; menghindari stereotip; beberapa asumsi diperiksa. | Menggunakan informasi umum atau label; pengenalan pribadi terbatas dan jarang diperiksa. | Mereduksi pihak menjadi kategori, target, atau alat; stereotip dan asumsi dibiarkan menentukan tindakan. |
+| **2. Kejelasan tujuan dan pembacaan keadaan** | Tujuan pada pemahaman, tindakan, dan relasi jelas serta etis; keadaan TAIDA dan konteks dibaca dari bukti; tujuan disesuaikan saat keadaan berubah. | Tujuan jelas dan keadaan awal cukup terbaca; penyesuaian dilakukan ketika ada respons nyata. | Tujuan terlalu umum atau berpusat pada diri; pembacaan keadaan lebih banyak berdasarkan dugaan; adaptasi terbatas. | Tujuan tidak jelas, manipulatif, atau mengabaikan pilihan pihak lain; keadaan tidak dibaca. |
+| **3. Ketepatan repertoar, bahasa, dan penggunaan AI** | Memilih serta memadukan mendengarkan, pertanyaan, kisah, fakta, konsep, visual, atau negosiasi secara tepat; bahasa mudah dipahami; AI dipakai dengan batas, verifikasi, dan transparansi. | Repertoar dan bahasa sesuai; beberapa variasi digunakan; penggunaan AI cukup aman dan ditinjau manusia. | Repertoar sempit atau bahasa kurang sesuai; penggunaan AI mekanis, kurang diverifikasi, atau kurang diungkapkan. | Strategi dan bahasa tidak sesuai atau menyesatkan; AI menggantikan kepemilikan manusia, menggunakan data tanpa dasar, atau tidak diperiksa. |
+| **4. Mendengarkan respons dan beradaptasi** | Menangkap isi, emosi, kepentingan, keheningan, dan koreksi; memeriksa pemahaman; mengubah rencana secara tepat dan menjelaskan alasannya. | Mendengarkan dan merangkum dengan cukup akurat; menanggapi pertanyaan/keberatan dan melakukan penyesuaian. | Respons didengar sebagian, tetapi pembicara segera kembali pada rencana; rangkuman atau adaptasi masih dangkal. | Mengabaikan, memotong, atau menafsirkan respons tanpa pemeriksaan; tetap memaksakan naskah. |
+| **5. Kesepakatan, tindakan, relasi, dan etika** | Hasil jelas, sukarela, realistis, dapat ditinjau, dan bertanggung jawab; privasi, keadilan, serta relasi dijaga; kegagalan atau “tidak” ditutup secara sehat. | Langkah berikutnya dan tanggung jawab cukup jelas; etika serta keadaan relasi diperhatikan. | Ada hasil, tetapi tanggung jawab, ukuran, tindak lanjut, atau dampak relasional belum jelas. | Mengklaim keberhasilan tanpa kesepakatan nyata; menekan kepatuhan; mengabaikan risiko, privasi, atau kerusakan relasi. |
+
+## Menghitung Nilai
+
+Gunakan rumus:
+
+> **Nilai akhir = (jumlah skor lima dimensi ÷ 20) × 100**
+
+Contoh: skor 3 + 3 + 4 + 2 + 3 = 15. Nilai akhirnya adalah `(15 ÷ 20) × 100 = 75`.
+
+Angka tidak boleh berdiri sendiri. Setiap penilaian perlu disertai bukti perilaku dan satu prioritas perbaikan. Pada tugas berulang, kemajuan antarputaran merupakan informasi yang sama pentingnya dengan skor akhir.
+
+## Lembar Umpan Balik
+
+**Nama/identitas samaran komunikator:**  
+**Tugas dan konteks:**  
+**Tanggal:**  
+
+| Dimensi | Skor 1–4 | Bukti yang diamati | Langkah perbaikan |
+|---|---:|---|---|
+| Pribadi dan karakter |  |  |  |
+| Tujuan dan keadaan |  |  |  |
+| Repertoar, bahasa, dan AI |  |  |  |
+| Respons dan adaptasi |  |  |  |
+| Kesepakatan, tindakan, relasi, dan etika |  |  |  |
+
+**Dua kekuatan berbasis bukti:**  
+1.  
+2.  
+
+**Satu prioritas pada percobaan berikutnya:**  
+
+**Tanggapan komunikator:** Apa yang saya pahami dari umpan balik ini, dan bagian apa yang akan saya ulang?  
+
+## Prinsip Penggunaan yang Adil
+
+- Nilailah perilaku yang dapat diamati, bukan dugaan tentang kepribadian atau niat.
+- Pertimbangkan konteks, aksesibilitas, bahasa, dan kebutuhan akomodasi.
+- Jangan menyamakan gaya ekstrovert dengan kompetensi komunikasi.
+- Pisahkan kualitas hasil dari kemewahan teknologi atau produksi media.
+- Beri ruang bagi “tidak ada kesepakatan” apabila penutupan berlangsung jelas, etis, dan relasional.
+- Jangan menghukum pengungkapan penggunaan AI; nilailah ketepatan, transparansi, verifikasi, dan tanggung jawabnya.
+- Gunakan kalibrasi antarpengamat pada tugas berisiko tinggi.
+
+Rubrik ini adalah kompas percakapan belajar. Ia membantu kita menyebutkan apa yang sudah tumbuh dan apa yang perlu dilatih—bukan mengecilkan pribadi menjadi sebuah angka.

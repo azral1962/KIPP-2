@@ -3,38 +3,68 @@ project:
   output-dir: docs
 
 book:
-  title: "Komunikasi Inter Personal dan Publik"
+  title: "Komunikasi Interpersonal dan Publik"
+  subtitle: "Membangun Relasi, Kepercayaan, dan Nilai di Era Kecerdasan Buatan"
   author: "Armein Z. R. Langi"
-  date: "16/08/2026"
+  date: "2026-08-16"
   chapters:
     - index.qmd
-    - intro.qmd
-    - desain.md
-    - summary.qmd
-    - references.qmd
-    - ln_01.qmd
-    - ln_02.qmd
-    - ln_03.qmd
-    - ln_04.qmd
-    - ln_05.qmd
-    - ln_06.qmd
-    - ln_07.qmd
-    - ln_08.qmd
-    - ln_09.qmd
-    - ln_10.qmd
-    - ln_11.qmd
-    - ln_12.qmd
-    - ln_13.qmd
-    - ln_14.qmd
-    - ln_15.qmd
+    - dedikasi.qmd
+    - kata-pengantar.qmd
+    - cara-menggunakan-buku.qmd
+    - peta-petualangan-belajar.qmd
+    - pendahuluan.qmd
+    - part: "Bagian I — Menemukan Diri dan Menjumpai Orang Lain"
+      chapters:
+        - bab-01-manusia-bukan-pesan.qmd
+        - bab-02-percakapan-dengan-diri.qmd
+        - bab-03-keluarga-dan-sahabat.qmd
+        - bab-04-bahasa-menjembatani-makna.qmd
+    - part: "Bagian II — Mengubah Komunikasi Menjadi Nilai dan Tindakan"
+      chapters:
+        - bab-05-rekan-kerja-dan-pelanggan.qmd
+        - bab-06-taida-target-dan-perhatian.qmd
+        - bab-07-taida-menumbuhkan-minat.qmd
+        - bab-08-laboratorium-target-menuju-minat.qmd
+        - bab-09-taida-minat-menuju-keinginan.qmd
+        - bab-10-taida-kesepakatan-dan-tindakan.qmd
+        - bab-11-negosiasi-banyak-pihak.qmd
+    - part: "Bagian III — Memperluas Lingkar Relasi"
+      chapters:
+        - bab-12-tetangga-dan-komunitas.qmd
+        - bab-13-berkomunikasi-dengan-dunia.qmd
+        - bab-14-komunikasi-berpusat-manusia-era-ai.qmd
+    - part: "Bagian IV — Memiliki Harta Karun Itu"
+      chapters:
+        - bab-15-capstone-komunikator-utuh.qmd
+  appendices:
+    - lampiran-a-panduan-mengerjakan-tugas.qmd
+    - lampiran-b-portofolio-komunikasi.qmd
+    - lampiran-c-rubrik-kinerja-universal.qmd
+    - lampiran-d-tips-hasil-belajar-terbaik.qmd
+    - lampiran-e-etika-komunikasi-ai.qmd
+    - glosarium.qmd
+    - daftar-pustaka.qmd
+    - tentang-penulis.qmd
 
 bibliography: references.bib
 
+lang: id
+
 format:
+  typst:
+    toc: true
+    toc-title: "Daftar Isi"
+    toc-depth: 2
+    papersize: a4
+    margin:
+      x: 2cm
+      y: 2cm
+    mainfont: "Inter"
+    fontsize: 12pt
+    linestretch: 1.5
+    linkcolor: "#1a73e8"
   html:
     theme:
       - cosmo
       - brand
-
-
-

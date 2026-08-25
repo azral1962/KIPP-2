@@ -1,0 +1,190 @@
+# Rekan Kerja dan Pelanggan: Menciptakan Nilai Bersama
+
+::: {.callout-tip title="Esensi Bab"}
+
+**Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia.**
+
+:::
+
+## Target Harta Karun
+
+Harta karun bab ini adalah kemampuan melakukan percakapan profesional untuk menemukan masalah, memahami kebutuhan, mengoordinasikan pekerjaan, dan merumuskan nilai bersama. Anda berhasil apabila dapat menahan dorongan menawarkan solusi terlalu dini dan menghasilkan rumusan masalah yang diakui oleh pihak terkait.
+
+## Tujuan Belajar
+
+Pada akhir bab ini, Anda mampu:
+
+- membedakan pribadi dari peran profesionalnya;
+- menjelaskan nilai sebagai hasil yang relevan bagi pengguna atau penerima manfaat;
+- melakukan wawancara penemuan kebutuhan;
+- membedakan masalah, kebutuhan, permintaan, dan solusi;
+- membangun kepercayaan melalui kompetensi, integritas, keandalan, kepedulian, dan tanggung jawab; serta
+- menyusun *Pernyataan Masalah Pelanggan* yang terkonfirmasi.
+
+## Kata Kunci
+
+**Relasi profesional**, **rekan kerja**, **pelanggan**, **nilai bersama**, **penemuan masalah**, **kebutuhan**, **kendala**, **hasil yang diharapkan**, **kepercayaan profesional**, dan **pernyataan masalah**.
+
+## Persiapan: Solusi yang Belum Diminta
+
+Ingat satu pengalaman ketika seseorang segera memberi solusi sebelum memahami persoalan Anda. Apa yang membuat respons itu tidak membantu? Kemudian ingat saat seseorang mengajukan pertanyaan yang tepat. Apa yang berubah?
+
+## Attention: Menjadi Dosen Muda
+
+Setelah lulus Teknik Elektro ITB pada 1987, saya sempat mengikuti teman-teman melamar ke berbagai perusahaan. Namun, impian studi lanjut membawa saya memilih menjadi dosen ITB. Pada April 1988 saya bergabung dengan PAU Mikroelektronika di bawah Dr. Richard Mengko. Prof. Samaun sedang membangun pusat itu dan mempersiapkan staf untuk belajar ke luar negeri.
+
+Saya datang bukan sebagai orang yang telah mengetahui semuanya. Saya hadir sebagai dosen muda, anggota tim, pembelajar, dan calon peneliti. Ada misi lembaga, arahan mentor, persyaratan beasiswa, serta pekerjaan yang harus diselesaikan bersama. Pilihan profesional itu membuka kesempatan karena kebutuhan pribadi saya—bertumbuh dan studi lanjut—bertemu dengan kebutuhan lembaga untuk mengembangkan kompetensi.
+
+::: {.callout-note title="Catatan dari Perjalanan Saya"}
+
+Karier tidak hanya dibangun dengan bertanya, “Apa yang dapat saya peroleh?” Pertanyaan yang lebih subur ialah, “Masalah apa yang penting, nilai apa yang dapat saya sumbangkan, dan bersama siapa saya perlu belajar?”
+
+:::
+
+## Interest: Pekerjaan adalah Sistem Relasi
+
+Organisasi tidak berisi dua jenis manusia bernama “pegawai” dan “pelanggan”. Ia berisi pribadi-pribadi yang sedang menjalankan peran. Orang yang hari ini melayani pelanggan besok menjadi pelanggan layanan lain. Seorang ahli dapat menjadi pemimpin, pemasok, pengguna, atau anggota masyarakat terdampak.
+
+Peran profesional membawa misi dan tanggung jawab:
+
+| Peran | Tanggung jawab komunikasi |
+|---|---|
+| Rekan kerja | berbagi informasi, menepati komitmen, dan membantu koordinasi |
+| Anggota tim | menyumbang keahlian serta meminta bantuan ketika diperlukan |
+| Pemimpin | memperjelas arah, menyediakan dukungan, dan menjaga akuntabilitas |
+| Spesialis | menerjemahkan pengetahuan menjadi keputusan yang dapat dipahami |
+| Pelanggan/pengguna | menjelaskan kebutuhan, pengalaman, dan batas penerimaan |
+| Pemasok/mitra | menyatakan kemampuan, syarat, risiko, dan ketergantungan |
+
+Relasi profesional berbeda dari persahabatan karena dibentuk oleh misi, kewenangan, standar, dan pertukaran nilai. Namun, ia tetap berlangsung antarmanusia. Profesionalisme bukan menjadi dingin; profesionalisme ialah kepedulian yang dapat diandalkan.
+
+## Desire: Nilai Ada dalam Pengalaman Penerima
+
+Sebuah fitur belum menjadi nilai hanya karena sulit dibuat. Nilai muncul ketika sumber daya atau layanan membantu seseorang mencapai hasil yang penting. Perspektif ini sejalan dengan pandangan bahwa nilai dibentuk bersama dalam penggunaan, bukan sekadar ditanamkan oleh produsen [@vargo2004evolving].
+
+Peter Drucker mengingatkan bahwa organisasi perlu melihat keluar kepada orang yang dilayaninya [@drucker1954practice]. Karena itu, ubahlah pertanyaan:
+
+> “Apa yang dapat saya bangun?”
+
+menjadi:
+
+> **“Masalah apa yang penting bagi seseorang, dan hasil lebih baik apa yang ingin ia capai?”**
+
+### Masalah, Kebutuhan, Permintaan, dan Solusi
+
+- **Masalah:** kesenjangan antara keadaan sekarang dan keadaan yang dianggap lebih baik.
+- **Kebutuhan:** sesuatu yang diperlukan untuk mengurangi kesenjangan itu.
+- **Permintaan:** bentuk bantuan yang dinyatakan oleh seseorang.
+- **Solusi:** cara tertentu yang diusulkan untuk memenuhi kebutuhan.
+
+Permintaan belum tentu merupakan solusi terbaik. Ketika seseorang meminta “aplikasi baru”, kebutuhannya mungkin akses informasi yang lebih cepat. Solusinya dapat berupa perbaikan proses, bukan aplikasi.
+
+## Mendengarkan sebelum Menjelaskan
+
+Penemuan kebutuhan membutuhkan kerendahan hati untuk bertanya karena kita belum mengetahui jawaban [@schein2013humble]. Gunakan lima pertanyaan:
+
+1. **Apa yang sedang terjadi?** Minta contoh konkret.
+2. **Mengapa hal itu menjadi masalah?** Temukan dampaknya.
+3. **Siapa yang terdampak?** Kenali pribadi dan perannya.
+4. **Keadaan yang lebih baik seperti apa?** Rumuskan hasil, bukan fitur.
+5. **Apa kendalanya?** Periksa waktu, biaya, kebijakan, kemampuan, dan risiko.
+
+Parafrasakan jawaban dan minta koreksi. Rasio mendengarkan sebaiknya lebih besar daripada menjelaskan selama tahap penemuan.
+
+## Merumuskan Masalah Bersama
+
+Gunakan pola:
+
+> **[Pribadi/peran] mengalami [keadaan yang dapat diamati] ketika [konteks], sehingga [dampak]. Ia membutuhkan [hasil/kemampuan], dengan mempertimbangkan [kendala].**
+
+Contoh:
+
+> Mahasiswa pengguna kantin mengalami antrean yang tidak dapat diperkirakan pada jam pergantian kuliah sehingga terlambat masuk kelas. Mereka membutuhkan cara mengetahui waktu tunggu dan mengambil pesanan lebih cepat, dengan mempertimbangkan kemampuan kasir, biaya pemilik, serta akses pengguna tanpa telepon pintar.
+
+Pernyataan ini belum mengunci solusi. Ia menjadi landasan bersama untuk menjelajahi pilihan.
+
+## Kepercayaan Profesional
+
+Kepercayaan bertumbuh ketika orang melihat:
+
+- **kompetensi:** kita mampu atau mau belajar;
+- **keandalan:** ucapan dan tindakan konsisten;
+- **kejujuran:** ketidakpastian serta batas disampaikan;
+- **kepedulian:** dampak pada manusia diperhitungkan;
+- **akuntabilitas:** kesalahan diakui dan diperbaiki.
+
+Mengatakan “Saya belum tahu; saya akan memeriksa dan kembali besok pukul 10.00” lebih dapat dipercaya daripada jawaban lancar yang tidak akurat. Keamanan psikologis juga penting agar anggota tim dapat bertanya, mengakui kesalahan, dan menyampaikan risiko [@edmondson1999psychological].
+
+## Dari Menyalahkan Orang menuju Menyelesaikan Masalah
+
+Tekanan kerja mudah mengubah bahasa masalah menjadi bahasa karakter.
+
+- Menyalahkan: “Tim data memang tidak pernah serius.”
+- Berpusat pada masalah: “Dua variabel yang dibutuhkan belum tersedia sehingga analisis tertunda tiga hari.”
+
+Bahasa kedua tidak meniadakan tanggung jawab. Justru ia membuat tanggung jawab dapat dibicarakan: data apa yang hilang, siapa yang dapat menyediakannya, dukungan apa yang diperlukan, dan kapan pekerjaan dapat dilanjutkan. Kritik terhadap proses lebih mungkin menghasilkan perbaikan daripada label terhadap pribadi.
+
+## Repertoar Pertanyaan Profesional
+
+Gunakan pertanyaan sesuai kebutuhan:
+
+- **tertutup:** memastikan fakta—“Apakah laporan dikirim kemarin?”;
+- **terbuka:** menjelajahi pengalaman—“Apa yang membuat proses ini sulit?”;
+- **klarifikasi:** memeriksa istilah—“Apa yang dimaksud ‘siap’?”;
+- **dampak:** memahami akibat—“Siapa yang terhambat jika data terlambat?”;
+- **masa depan:** merumuskan hasil—“Keadaan yang lebih baik terlihat seperti apa?”
+
+Pertanyaan bertubi-tubi dapat terasa seperti interogasi. Selang-selingkan pertanyaan dengan parafrasa, pengakuan, dan keheningan. Percakapan penemuan bukan daftar yang harus dihabiskan, melainkan perjumpaan yang perlu diikuti.
+
+## AI dalam Penemuan Profesional
+
+AI dapat membantu menyusun pertanyaan, mensimulasikan wawancara, mengelompokkan catatan, atau memeriksa asumsi. Jangan memasukkan data rahasia atau membiarkan AI membuat profil psikologis pelanggan. Ringkasan AI harus dikonfirmasi kepada manusia yang diwawancarai.
+
+## Praktis: Wawancara Penemuan Kebutuhan
+
+Bekerjalah berpasangan. Pewawancara memilih satu persoalan kampus. Selama delapan menit:
+
+1. minta satu contoh peristiwa;
+2. gunakan lima pertanyaan penemuan;
+3. jangan menawarkan solusi selama enam menit pertama;
+4. parafrasa dua kali; dan
+5. minta persetujuan atas rumusan masalah.
+
+Pengamat mencatat pertanyaan terbuka, asumsi, jargon, dan momen ketika pewawancara melompat ke solusi.
+
+## Perform: Pernyataan Masalah Pelanggan
+
+Lakukan satu wawancara nyata yang etis selama 15–20 menit. Serahkan:
+
+- profil peran tanpa data pribadi yang tidak perlu;
+- asumsi awal;
+- lima pertanyaan dan ringkasan jawaban;
+- pernyataan masalah sebelum dan sesudah konfirmasi;
+- kutipan singkat dengan izin atau parafrasa;
+- kendala dan hal yang belum diketahui; serta
+- refleksi tentang perubahan pemahaman dan relasi.
+
+| Kriteria | Mulai berkembang | Cakap |
+|---|---|---|
+| Kualitas mendengarkan | Menangkap isi umum | Menangkap konteks, dampak, kebutuhan, dan kendala |
+| Rumusan masalah | Masih berupa solusi | Berpusat pada pribadi, teramati, dan terkonfirmasi |
+| Kepercayaan | Janji atau kepastian berlebihan | Jujur terhadap batas dan tindak lanjut jelas |
+| Etika | Data dikumpulkan berlebihan | Persetujuan, privasi, dan martabat terjaga |
+
+## Refleksi
+
+1. Seberapa cepat saya biasanya menawarkan solusi?
+2. Asumsi apa yang berubah setelah mendengarkan?
+3. Apakah pihak lain mengakui rumusan masalah sebagai miliknya?
+4. Nilai bersama apa yang mungkin diciptakan?
+5. Janji kecil apa yang perlu saya tepati untuk membangun kepercayaan?
+
+## Ringkasan Satu Menit
+
+Pekerjaan adalah sistem relasi tempat pribadi-pribadi menjalankan peran dan misi. Nilai tidak sama dengan fitur; nilai adalah hasil yang relevan bagi penerima. Karena itu, komunikator profesional mendengarkan sebelum mengusulkan, membedakan masalah dari solusi, merumuskan kebutuhan bersama, dan membangun kepercayaan melalui kompetensi, integritas, keandalan, kepedulian, serta tanggung jawab.
+
+> **Jangan mulai dari apa yang ingin Anda jual atau bangun. Mulailah dari manusia, masalah yang penting baginya, dan keadaan lebih baik yang ingin diwujudkan bersama.**
+
+## Rujukan dan Bacaan Lanjutan
+
+Lihat @drucker1954practice, @vargo2004evolving, @schein2013humble, @edmondson1999psychological, dan @langi2025dayatarik.

@@ -1,0 +1,116 @@
+# Glosarium {.unnumbered}
+
+Istilah dalam buku ini dipakai sebagai alat berpikir, bukan label untuk mengecilkan manusia. Padanan bahasa Inggris dicantumkan jika istilah tersebut sering muncul dalam literatur atau kerangka buku.
+
+**AI coach (pelatih AI).** Penggunaan AI untuk menyediakan skenario, latihan, pertanyaan, atau umpan balik awal; manusia tetap menguji saran pada konteks nyata.
+
+**AI mediator (mediator AI).** AI yang membantu memetakan isu, kepentingan, atau pilihan dalam konflik. Ia tidak menggantikan persetujuan, rasa aman, dan akuntabilitas mediator manusia.
+
+**Akuntabilitas.** Kesediaan menjelaskan dasar keputusan, memiliki dampak pesan, memperbaiki kesalahan, dan menerima konsekuensi yang patut.
+
+**Alih ragam (*code-switching*).** Perpindahan bahasa, ragam, atau gaya sesuai konteks dan mitra komunikasi tanpa harus kehilangan makna dan nilai inti.
+
+**Attention (perhatian).** Tahap TAIDA ketika sasaran mulai memberi sumber daya mental kepada pesan karena merasakan relevansinya.
+
+**Audiens.** Pribadi atau kelompok yang menerima, menafsirkan, merespons, dan kadang ikut membentuk pesan publik; bukan wadah pasif.
+
+**Autentisitas.** Keselarasan yang dapat dipertanggungjawabkan antara nilai, peran, tujuan, bahasa, dan tindakan—bukan kebiasaan mengatakan segala sesuatu tanpa mempertimbangkan dampak.
+
+**Bias.** Kecenderungan sistematis dalam perhatian, penilaian, data, atau sistem yang dapat menghasilkan gambaran dan keputusan tidak seimbang.
+
+**Batas (*boundary*).** Pernyataan mengenai apa yang bersedia dan tidak bersedia dilakukan seseorang untuk menjaga keselamatan, martabat, tanggung jawab, atau kesehatan relasi.
+
+**Capstone.** Kinerja puncak yang mengintegrasikan beragam kompetensi dalam satu persoalan autentik dan disertai bukti, umpan balik, perbaikan, serta refleksi.
+
+**Character (peran naratif).** Posisi atau sosok yang dijalankan seseorang dalam suatu kisah dan situasi—misalnya sahabat, pemimpin, ahli, pelanggan, warga, atau fasilitator.
+
+**Copilot (kopilot).** Peran AI yang mendampingi manusia dalam menyusun pilihan atau memeriksa pekerjaan, sementara manusia tetap memegang kendali dan keputusan akhir.
+
+**Coordinated action (tindakan terkoordinasi).** Tindakan beberapa pihak yang selaras karena tanggung jawab, urutan, waktu, sumber daya, dan cara peninjauannya telah dipahami.
+
+**Data minimal.** Jumlah dan jenis data paling sedikit yang benar-benar diperlukan untuk mencapai tujuan yang sah.
+
+**Delegate (delegasi AI).** Pelimpahan tugas tertentu kepada sistem AI berdasarkan lingkup, aturan, pengawasan, serta jalan penghentian yang jelas; hanya patut untuk tugas berisiko rendah dan terbatas.
+
+**Desire (keinginan).** Tahap TAIDA ketika seseorang melihat nilai suatu hasil dan mulai mempertimbangkan pilihan, pengorbanan, serta risiko untuk mewujudkannya.
+
+**Domain komunikasi.** Lingkar konteks tempat komunikasi terjadi, seperti diri, keluarga, persahabatan, pekerjaan, pelanggan, komunitas, dan publik.
+
+**Empati.** Upaya memahami pengalaman dari kerangka acuan orang lain sambil tetap membedakan pengalamannya dari pengalaman kita.
+
+**Episode relasi.** Satuan peristiwa komunikasi yang memiliki konteks, urutan tindakan dan respons, serta dampak pada keadaan relasi.
+
+**Fakta.** Pernyataan tentang peristiwa atau keadaan yang dapat diperiksa melalui pengamatan atau sumber; berbeda dari tafsiran dan opini.
+
+**Generative AI (AI generatif).** Sistem yang menghasilkan teks, gambar, suara, kode, atau bentuk lain berdasarkan pola data dan instruksi, tanpa menjamin kebenaran atau kepatutan keluarannya.
+
+**Interest (minat).** Tahap TAIDA ketika perhatian berkembang menjadi keterlibatan karena sasaran melihat hubungan pesan dengan masalah, kebutuhan, atau aspirasinya.
+
+**Kesepakatan (*agreement*).** Pemahaman bersama yang cukup jelas dan sukarela mengenai tujuan, tindakan, tanggung jawab, batas, waktu, atau cara meninjau kembali.
+
+**Kepentingan (*interest* dalam negosiasi).** Kebutuhan, kekhawatiran, nilai, atau alasan yang mendasari posisi yang dinyatakan pihak.
+
+**Kepribadian (*personality*).** Pola kecenderungan berpikir, merasa, dan bertindak yang relatif menetap, tetapi tetap dipengaruhi konteks dan tidak menentukan seluruh pribadi.
+
+**Keadaan relasi (*relationship state*).** Kondisi hubungan pada suatu waktu, antara lain tingkat kepercayaan, rasa aman, kejelasan, keterikatan, dan kemampuan bekerja kembali.
+
+**Kinerja autentik.** Demonstrasi kompetensi dalam situasi yang memiliki tujuan, ketidakpastian, respons nyata, dan konsekuensi bermakna.
+
+**Komunikasi asertif.** Penyampaian pengamatan, perasaan, kebutuhan, batas, atau permintaan secara jelas dengan tetap menghormati hak dan pilihan pihak lain.
+
+**Konteks runtuh (*context collapse*).** Bertemunya berbagai audiens dan norma dalam satu ruang komunikasi, terutama media digital, sehingga pesan yang dimaksudkan untuk satu kelompok dibaca kelompok lain.
+
+**Language (bahasa).** Sistem tanda verbal, visual, gestural, atau multimodal yang dipakai untuk membentuk dan menegosiasikan makna.
+
+**Makna.** Pemahaman yang dibangun melalui hubungan antara pesan, pengalaman, konteks, dan interpretasi; tidak sekadar berada di dalam kata-kata.
+
+**Mendengarkan aktif.** Perhatian yang ditunjukkan melalui keheningan yang tepat, pertanyaan, rangkuman, pemeriksaan pemahaman, dan respons terhadap isi maupun emosi.
+
+**Narasi.** Susunan peristiwa, tokoh, tujuan, konflik, dan perubahan yang memberi bentuk serta makna pada pengalaman.
+
+**Objective (tujuan).** Perubahan yang hendak diwujudkan melalui komunikasi pada pemahaman, keadaan, keputusan, tindakan, atau relasi.
+
+**Opini.** Penilaian atau pendirian yang perlu dibedakan dari fakta serta terbuka untuk diberi alasan, diuji, dan direvisi.
+
+**Otonomi.** Kemampuan dan hak seseorang untuk memahami pilihan serta memutuskan tanpa paksaan atau manipulasi yang tidak patut.
+
+**Person (pribadi).** Manusia utuh dengan sejarah, nilai, relasi, kerentanan, kebebasan, dan kemungkinan bertumbuh; selalu lebih luas daripada pesan, data, peran, atau profilnya.
+
+**Persona publik.** Cara seseorang menampilkan identitas dan peran di hadapan audiens; dapat terkurasi, tetapi seharusnya tidak menipu tentang hal yang material.
+
+**Persetujuan (*consent*).** Kesediaan yang diberikan secara sadar, spesifik, cukup informasi, dan tanpa tekanan; dapat ditarik kembali.
+
+**Portofolio komunikasi.** Kumpulan artefak terpilih yang menunjukkan konteks, kinerja, bukti, umpan balik, perbaikan, refleksi, dan perkembangan kompetensi.
+
+**Posisi.** Tuntutan atau pilihan yang dinyatakan dalam negosiasi; satu posisi dapat berakar pada beberapa kepentingan.
+
+**Profiling.** Pengelompokan atau penyimpulan karakteristik seseorang dari data untuk memprediksi perilaku; perlu dibatasi agar tidak berubah menjadi stereotip atau diskriminasi.
+
+**Publik.** Ruang dan himpunan orang yang terbentuk di sekitar isu bersama, tempat pesan dapat beredar melampaui audiens yang dibayangkan.
+
+**Refleksi dalam tindakan.** Kemampuan memperhatikan kejutan dan menyesuaikan keputusan ketika sedang bertindak, bukan hanya sesudah peristiwa selesai.
+
+**Relasi.** Pola keterhubungan yang berkembang melalui sejarah interaksi, harapan, kepercayaan, kuasa, komitmen, dan tindakan bersama.
+
+**Repertoire (repertoar).** Kumpulan cara komunikasi yang dapat dipilih, seperti bertanya, mendengarkan, bercerita, menjelaskan konsep, menyajikan data, menggunakan visual, bernegosiasi, atau berdiam dengan penuh perhatian.
+
+**Respons.** Tanggapan verbal, nonverbal, tindakan, keheningan, atau perubahan keadaan yang memberi informasi tentang bagaimana komunikasi diterima.
+
+**Sasaran (*target*).** Pribadi atau kelompok yang ingin dipahami dan dilayani dalam TAIDA; bukan objek yang boleh dikendalikan.
+
+**Stakeholder (pemangku kepentingan).** Pihak yang memengaruhi, dipengaruhi, memiliki hak, atau menanggung manfaat dan risiko dari suatu keputusan.
+
+**TAIDA.** Rute komunikasi **Target–Attention–Interest–Desire–Action** yang membantu komunikator mengenali sasaran, membaca keadaan, menciptakan relevansi dan nilai, serta memfasilitasi tindakan secara etis.
+
+**Tafsir.** Makna atau cerita yang ditarik dari fakta; perlu diperiksa karena orang dapat menafsirkan peristiwa yang sama secara berbeda.
+
+**Tindakan (*action*).** Tahap TAIDA ketika nilai diterjemahkan menjadi langkah nyata, keputusan, percobaan, komitmen, atau penolakan yang jelas.
+
+**Transparansi AI.** Keterbukaan yang proporsional mengenai keterlibatan AI, data, batas, dan tinjauan manusia ketika hal itu relevan bagi kepercayaan atau keputusan.
+
+**Umpan balik.** Informasi spesifik tentang perilaku dan dampaknya yang digunakan untuk mempertahankan kekuatan atau memperbaiki tindakan berikutnya.
+
+**Validasi.** Pengakuan bahwa pengalaman atau emosi seseorang dapat dipahami dalam konteksnya; tidak selalu berarti menyetujui semua tafsir atau tindakan.
+
+**Value (nilai/manfaat).** Perbaikan keadaan yang dianggap bermakna oleh pihak terkait dan diciptakan melalui pemahaman, pilihan, pelayanan, atau tindakan bersama.
+

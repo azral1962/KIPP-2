@@ -1,0 +1,156 @@
+# Portofolio Komunikasi
+
+Portofolio adalah kisah perkembangan yang ditopang bukti. Ia tidak hanya memamerkan hasil terbaik, tetapi memperlihatkan bagaimana Anda merencanakan, bertindak, menerima respons, memperbaiki diri, dan menjaga tanggung jawab.
+
+## Struktur Portofolio
+
+Susun portofolio dalam lima bagian:
+
+1. **Profil awal:** sasaran pertumbuhan dan peta karakter komunikasi.
+2. **Artefak inti:** hasil tugas dari lingkar diri, relasi, profesional, komunitas, publik, dan AI.
+3. **Jejak perbaikan:** versi awal, umpan balik, dan versi berikutnya.
+4. **Capstone:** rancangan, bukti kinerja, refleksi, dan tindak lanjut.
+5. **Refleksi akhir:** perubahan yang terlihat dan sasaran belajar selanjutnya.
+
+Untuk setiap artefak, sertakan konteks, tanggal, kompetensi, bukti, umpan balik, perbaikan, dan catatan etika. Gunakan nama berkas yang konsisten, misalnya `M07-pitch-taida-versi-2.pdf`. Simpan data identitas terpisah dari artefak akademik.
+
+## Template Peta Karakter Komunikasi Pribadi
+
+| Unsur | Catatan Anda |
+|---|---|
+| Nilai yang ingin tampak dalam komunikasi |  |
+| Kekuatan yang telah terlihat dalam bukti |  |
+| Pola yang sering menghambat |  |
+| Situasi yang memicu respons otomatis |  |
+| Peran yang nyaman saya jalankan |  |
+| Peran yang perlu saya latih |  |
+| Repertoar yang sudah kuat |  |
+| Repertoar yang perlu dikembangkan |  |
+| Satu sasaran perilaku terukur |  |
+| Orang yang dapat memberi umpan balik jujur |  |
+
+Kepribadian dalam peta ini adalah hipotesis kerja, bukan stempel. Perbarui berdasarkan perilaku dan umpan balik, bukan hanya berdasarkan tes atau kesan diri.
+
+## Template Jurnal Komunikasi dengan Diri Sendiri
+
+**Peristiwa:**  
+**Fakta yang dapat diamati:**  
+**Cerita atau tafsiran yang muncul:**  
+**Emosi dan kebutuhan:**  
+**Respons otomatis yang ingin saya lakukan:**  
+**Pilihan respons lain:**  
+**Nilai yang ingin saya hidupi:**  
+**Tindakan kecil berikutnya:**  
+**Pelajaran setelah tindakan:**  
+
+## Template Episode Relasi
+
+| Tahap | Isi |
+|---|---|
+| Konteks dan riwayat relasi |  |
+| Persetujuan dan batas privasi |  |
+| Tujuan percakapan |  |
+| Kebutuhan/kepentingan saya |  |
+| Kebutuhan/kepentingan pihak lain yang perlu diperiksa |  |
+| Pembukaan yang digunakan |  |
+| Pertanyaan dan rangkuman penting |  |
+| Respons yang saya amati |  |
+| Kesepakatan atau batas |  |
+| Keadaan relasi sesudahnya |  |
+| Perbaikan yang akan dicoba |  |
+
+## Template Pitch TAIDA
+
+### Target
+
+- Siapa pribadi atau kelompok yang ingin dilayani?
+- Masalah, pekerjaan, atau aspirasi apa yang relevan?
+- Apa bukti tentang keadaan awal mereka?
+
+### Attention
+
+- Pembuka apa yang relevan tanpa menakut-nakuti atau mengeksploitasi?
+- Dalam 20 detik pertama, mengapa mereka perlu memberi perhatian?
+
+### Interest
+
+- Pertanyaan apa yang menolong mereka menghubungkan pesan dengan pengalaman?
+- Fakta, kisah, konsep, atau demonstrasi apa yang membangun pemahaman?
+
+### Desire
+
+- Nilai apa yang dapat diciptakan?
+- Apa manfaat, pengorbanan, risiko, dan alternatifnya?
+- Apa yang perlu diverifikasi sebelum membuat klaim?
+
+### Action
+
+- Langkah berikutnya apa yang kecil, jelas, dan sukarela?
+- Siapa melakukan apa, kapan, dan bagaimana keberhasilannya diperiksa?
+
+**Bukti respons dan adaptasi:**  
+**Catatan etika:**  
+**Versi perbaikan:**  
+
+## Template Kesepakatan
+
+| Unsur kesepakatan | Rumusan |
+|---|---|
+| Tujuan bersama |  |
+| Lingkup dan batas |  |
+| Tanggung jawab pihak A |  |
+| Tanggung jawab pihak B |  |
+| Sumber daya/dukungan |  |
+| Tenggat dan tonggak |  |
+| Ukuran selesai |  |
+| Cara memberi kabar bila ada hambatan |  |
+| Waktu peninjauan |  |
+| Cara mengubah atau mengakhiri kesepakatan |  |
+
+Kesepakatan yang baik tidak menyembunyikan ketidakpastian. Ia menyediakan cara untuk belajar dan menyesuaikan diri ketika keadaan berubah.
+
+## Template Refleksi Negosiasi dan Komunitas
+
+1. Siapa saja pemangku kepentingan yang hadir, tidak hadir, atau kurang terdengar?
+2. Posisi apa yang dinyatakan dan kepentingan apa yang berada di baliknya?
+3. Bagaimana perbedaan kuasa memengaruhi partisipasi?
+4. Fakta apa yang disepakati dan diperdebatkan?
+5. Pilihan apa yang dikembangkan bersama?
+6. Siapa memperoleh manfaat dan siapa menanggung risiko?
+7. Apakah keputusan benar-benar dapat diterima atau hanya menghasilkan kepatuhan?
+8. Bagaimana relasi dan kemampuan bekerja bersama berubah?
+9. Mekanisme tinjauan serta pemulihan apa yang diperlukan?
+
+## Template Dokumentasi Penggunaan AI
+
+| Unsur | Catatan |
+|---|---|
+| Tanggal dan alat/model |  |
+| Tujuan penggunaan |  |
+| Peran AI: cermin, pelatih, penerjemah, kopilot, mediator, atau delegasi |  |
+| Data yang dimasukkan dan dasar izinnya |  |
+| Instruksi inti yang diberikan |  |
+| Keluaran yang dipakai/tidak dipakai |  |
+| Fakta, bias, dan risiko yang diperiksa |  |
+| Perubahan manusia setelah tinjauan |  |
+| Cara penggunaan diungkapkan |  |
+| Pemilik keputusan dan tanggung jawab akhir |  |
+
+Jangan menyalin percakapan sensitif secara utuh ke dalam portofolio. Dokumentasikan secukupnya agar proses dapat dipahami tanpa mengorbankan privasi.
+
+## Daftar Periksa Portofolio Akhir
+
+- [ ] Halaman pembuka menjelaskan sasaran pertumbuhan pribadi.
+- [ ] Artefak mewakili lebih dari satu domain komunikasi.
+- [ ] Setiap artefak memiliki konteks, bukti, dan refleksi.
+- [ ] Sedikitnya tiga artefak memperlihatkan versi sebelum dan sesudah umpan balik.
+- [ ] Ada contoh ketika respons pihak lain mengubah rencana.
+- [ ] Ada bukti kesepakatan atau penutupan yang jelas.
+- [ ] Dampak pada relasi dinilai bersama hasil tindakan.
+- [ ] Data pribadi telah disamarkan dan izin terdokumentasi.
+- [ ] Penggunaan AI dicatat secara jujur dan proporsional.
+- [ ] Capstone menunjukkan integrasi kompetensi.
+- [ ] Refleksi akhir menyebut bukti pertumbuhan serta sasaran berikutnya.
+
+Portofolio terbaik terasa hidup karena pembacanya dapat mengikuti perjalanan Anda: bukan perjalanan menuju kesempurnaan, melainkan menuju perhatian, kejernihan, keberanian, dan tanggung jawab yang lebih besar.
+

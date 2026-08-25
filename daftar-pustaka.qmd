@@ -1,0 +1,21 @@
+---
+nocite: '@*'
+---
+
+# Daftar Pustaka {.unnumbered}
+
+Rujukan buku ini menjembatani pengalaman komunikasi dengan teori dan praktik. Untuk pembacaan lanjutan, sumber-sumbernya dapat dikelompokkan sebagai berikut.
+
+- **Pribadi, identitas, dan narasi:** Goffman, McAdams, Rogers, Dweck, serta Langi.
+- **Empati, bahasa, dan mendengarkan:** Rosenberg, Clark dan Brennan, serta Schein.
+- **Pesan, persuasi, dan penciptaan nilai:** Heath dan Heath, Drucker, serta Vargo dan Lusch.
+- **Negosiasi, organisasi, dan komunitas:** Fisher, Ury, dan Patton; Edmondson; Freeman; Locke dan Latham; Ostrom; serta Putnam.
+- **Komunikasi publik dan konteks digital:** Marwick dan boyd.
+- **Belajar dari pengalaman:** Kolb dan Schön.
+- **Etika serta tata kelola AI:** UNESCO, NIST, serta Floridi dan rekan-rekan.
+
+Daftar berikut memuat seluruh rujukan yang digunakan dalam buku.
+
+::: {#refs}
+:::
+

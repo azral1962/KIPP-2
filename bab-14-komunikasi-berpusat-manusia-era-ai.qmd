@@ -1,0 +1,246 @@
+# Komunikasi Berpusat pada Manusia di Era AI
+
+::: {.callout-tip title="Esensi Bab"}
+
+**AI dapat menyusun kata, menerjemahkan, merangkum, dan menjalankan tugas terbatas. Namun, manusia tetap memiliki tujuan, relasi, kewenangan moral, serta tanggung jawab atas akibat komunikasi.**
+
+:::
+
+## Target Harta Karun
+
+Harta karun bab ini adalah kemampuan memilih peran AI yang proporsional, menetapkan batas kewenangan, melindungi privasi, memeriksa kebenaran, dan mempertahankan kepemilikan manusia atas relasi. Anda berhasil apabila dapat merancang kopilot komunikasi yang membantu tanpa menyamar, mengeksploitasi, atau mengambil keputusan yang seharusnya tetap manusiawi.
+
+## Tujuan Belajar
+
+Pada akhir bab ini, Anda mampu:
+
+- membedakan AI sebagai cermin, pelatih, penerjemah, kopilot, mediator, dan agen terdelegasi;
+- memilih tingkat keterlibatan AI sebelum, selama, atau sesudah komunikasi;
+- membedakan komunikasi pembawa tugas dari komunikasi pembawa relasi;
+- menetapkan tujuan, data, batas kewenangan, kondisi eskalasi, dan tinjauan manusia;
+- menilai risiko kekeliruan, bias, profilisasi, manipulasi, ketergantungan, privasi, dan hilangnya suara autentik; serta
+- menghasilkan spesifikasi kopilot komunikasi untuk salah satu domain kehidupan.
+
+## Kata Kunci
+
+**Komunikasi bermediasi AI**, **cermin**, **pelatih**, **penerjemah**, **kopilot**, **mediator**, **delegasi terbatas**, **kesadaran konteks**, **memori relasi**, **persetujuan**, **privasi**, **otonomi**, **bias**, **tinjauan manusia**, **batas kewenangan**, dan **akuntabilitas**.
+
+## Persiapan: Siapa yang Sebenarnya Berbicara?
+
+Bayangkan Anda menerima permintaan maaf yang sepenuhnya dibuat dan dikirim AI tanpa dibaca pengirim. Apakah kata-katanya dapat benar? Apakah permintaan maaf itu sungguh milik pengirim? Apa yang hilang?
+
+Tuliskan satu tugas komunikasi yang dengan nyaman Anda bantu menggunakan AI dan satu tugas yang tidak ingin Anda delegasikan. Jelaskan perbedaannya.
+
+## Attention: Teknologi Memperluas, Bukan Menghapus, Tanggung Jawab
+
+Sebagai orang yang tumbuh dari pendidikan teknik dan kemudian mengajar, saya tertarik pada alat yang memperluas kemampuan manusia. Bahasa Inggris pernah menjadi teknologi sosial yang membuka akses saya ke komunitas akademik yang lebih luas. Pesawat membawa saya melintasi samudra. Surat, lembaga, dan jaringan informasi menghubungkan orang-orang yang berjauhan.
+
+Namun, alat tidak menjalani relasi atas nama kita. Ketika saya memutuskan mendampingi Ina dan menunggu kelahiran Gladys, tidak ada teknologi yang dapat menggantikan kehadiran itu. Ketika orang lain mempercayai dan membantu perjalanan saya, tanggung jawab untuk menghargai kepercayaan tetap berada pada manusia.
+
+::: {.callout-note title="Catatan dari Perjalanan Saya"}
+
+Teknologi yang baik mengurangi hambatan agar manusia dapat memahami dan melayani dengan lebih baik. Ia tidak boleh menjadi alasan untuk menghilang dari percakapan yang justru menuntut kehadiran kita.
+
+:::
+
+## Interest: Kecerdasan Sistem, Relasi Milik Pribadi
+
+AI dapat menghasilkan pola bahasa yang tampak empatik, tetapi tidak memiliki sejarah relasi, tubuh yang menanggung akibat, atau komitmen moral seperti manusia. Karena itu, prinsip utama bab ini ialah:
+
+> **Kecerdasan dapat tersebar dalam sistem; relasi dan tanggung jawab tetap dimiliki pribadi.**
+
+Kerangka etika AI menekankan manfaat, pencegahan bahaya, otonomi, keadilan, dan keterjelasan [@floridi2018ai4people]. Rekomendasi UNESCO menempatkan martabat, hak asasi, keberagaman, transparansi, dan pengawasan manusia sebagai perhatian penting [@unesco2021ethics]. Dalam praktik komunikasi, prinsip tersebut perlu diterjemahkan menjadi keputusan konkret tentang data, peran, dan kewenangan.
+
+## Desire: Enam Peran AI
+
+### Cermin
+
+AI membantu memisahkan fakta dan interpretasi, menemukan asumsi, atau mengajukan pertanyaan reflektif. Cermin tidak mendiagnosis identitas dan tidak menentukan pilihan akhir.
+
+### Pelatih
+
+AI mensimulasikan percakapan, memberi umpan balik pada nada, dan menghasilkan variasi pertanyaan. Pelatih membantu berlatih; manusia tetap melakukan percakapan nyata.
+
+### Penerjemah
+
+AI menyesuaikan bahasa teknis, tingkat kerumitan, medium, atau bahasa alami. Penerjemahan harus mempertahankan fakta, risiko, serta suara penulis.
+
+### Kopilot
+
+AI membantu selama alur kerja: menyiapkan agenda, mencatat, merangkum, menandai keputusan, atau menyarankan pertanyaan. Kopilot memberi dukungan; manusia mengarahkan, memeriksa, dan menyetujui.
+
+### Mediator
+
+AI dapat merangkum posisi, mencari kesamaan, atau mengubah serangan menjadi rumusan masalah. Penggunaannya perlu transparan. AI tidak menentukan keadilan, memaksa kompromi, atau menggantikan mediator manusia pada situasi berisiko tinggi.
+
+### Agen Terdelegasi
+
+AI menjalankan tugas komunikasi dalam wilayah kewenangan yang telah ditetapkan, misalnya menawarkan slot jadwal atau menjawab pertanyaan rutin. Delegasi memerlukan batas nilai, biaya, waktu, data, gaya bahasa, kondisi berhenti, dan eskalasi.
+
+| Peran AI | Kewenangan wajar | Contoh batas |
+|---|---|---|
+| Cermin | menghasilkan pertanyaan | tidak mendiagnosis pribadi |
+| Pelatih | memberi simulasi dan umpan balik | tidak mengirim pesan |
+| Penerjemah | membuat versi bahasa | tidak mengubah risiko material |
+| Kopilot | menyarankan dan merangkum | manusia menyetujui keluaran |
+| Mediator | memetakan perbedaan | tidak menetapkan hasil adil |
+| Agen | bertindak dalam aturan | eskalasi untuk pengecualian/komitmen baru |
+
+## Tiga Tingkat Keterlibatan
+
+1. **Persiapan:** AI digunakan sebelum komunikasi. Risiko relatif lebih rendah karena keluaran dapat diperiksa.
+2. **Pendampingan:** AI hadir selama atau sesudah komunikasi. Transparansi, persetujuan, dan ketepatan ringkasan menjadi penting.
+3. **Delegasi terbatas:** AI bertindak tanpa persetujuan per pesan di dalam batas. Risiko tertinggi karena kesalahan langsung memengaruhi orang lain.
+
+Aturan sederhana: semakin sulit tindakan dibalik, semakin besar dampak relasional, semakin sensitif data, dan semakin tinggi risiko, semakin kuat kebutuhan akan keputusan manusia.
+
+## Pembawa Tugas dan Pembawa Relasi
+
+- **Komunikasi pembawa tugas:** penjadwalan, pengingat administratif, status pengiriman, atau informasi rutin.
+- **Komunikasi pembawa relasi:** permintaan maaf, ungkapan kasih, kabar duka, pemecatan, penilaian kinerja, konflik keluarga, dan keputusan yang menyentuh martabat.
+
+AI lebih mudah didelegasikan pada tugas yang dapat dibalik, beraturan jelas, dan berdampak relasional rendah. AI dapat membantu menyiapkan komunikasi pembawa relasi, tetapi manusia perlu hadir, menyatakan kepemilikan, mendengar respons, dan menanggung konsekuensi.
+
+AI tidak dapat meminta maaf dalam arti penuh atas kesalahan saya. Ia dapat membantu saya menemukan kata, tetapi saya yang perlu mengatakan, mengakui, memperbaiki, dan berubah.
+
+## AI dalam Lima Domain
+
+| Domain | Manfaat | Pagar utama |
+|---|---|---|
+| Diri | jurnal, pertanyaan, latihan | privasi dan ketergantungan |
+| Keluarga/sahabat | tinjauan nada, perspektif | keaslian dan rahasia orang lain |
+| Profesional | ringkasan, penerjemahan, koordinasi | kerahasiaan, akurasi, wewenang |
+| Komunitas | pengelompokan masukan, akses bahasa | bias representasi dan transparansi |
+| Dunia | adaptasi format, aksesibilitas, riset awal | skala kesalahan, hak cipta, kebisingan |
+
+## AI dan TAIDA
+
+AI dapat membantu memetakan sasaran, membuat pembuka, meninjau relevansi, menjelaskan manfaat, serta merumuskan langkah. Namun, prediksi keadaan TAIDA tidak pernah pasti. Tatapan, riwayat klik, atau nada pesan bukan izin untuk menyimpulkan kerentanan dan mengeksploitasinya.
+
+Pengetahuan tentang pribadi hanya boleh digunakan untuk meningkatkan pemahaman dan nilai bersama, bukan untuk menekan kelemahan. Personalisasi etis memberi manfaat yang dapat dipahami, pilihan, dan kontrol. Personalisasi manipulatif menyembunyikan cara data digunakan dan mengoptimalkan kepatuhan.
+
+## Kesadaran Konteks dan Memori Relasi
+
+AI bekerja lebih baik dengan konteks, tetapi setiap konteks tambahan menambah kewajiban perawatan. Memori relasi dapat mencegah pengulangan dan membantu kontinuitas. Ia juga dapat berubah menjadi pengawasan.
+
+Tanyakan:
+
+- data apa yang benar-benar diperlukan?;
+- siapa pemilik dan siapa yang dapat mengakses?;
+- berapa lama disimpan?;
+- dapatkah seseorang melihat, memperbaiki, dan menghapus?;
+- apakah data diperoleh dengan persetujuan yang bermakna?;
+- apa akibat jika bocor atau disalahartikan?
+
+Prinsip minimisasi: kumpulkan dan bagikan sesedikit mungkin data yang tetap memungkinkan tujuan tercapai.
+
+## Tujuh Risiko Utama
+
+1. **Kekeliruan:** keluaran lancar dapat salah atau mengarang sumber.
+2. **Bias:** pola data dapat merugikan kelompok tertentu.
+3. **Profilisasi:** dugaan tentang pribadi diperlakukan sebagai fakta.
+4. **Manipulasi:** personalisasi mengeksploitasi emosi atau kerentanan.
+5. **Hilangnya keaslian:** suara manusia diganti bahasa generik atau penyamaran.
+6. **Ketergantungan:** kemampuan bertanya, menulis, atau menghadapi konflik melemah.
+7. **Kesalahan kewenangan:** AI menjanjikan, mengungkap, atau memutuskan di luar mandat.
+
+Kerangka Manajemen Risiko AI NIST mengorganisasi pengelolaan risiko melalui fungsi tata kelola, pemetaan, pengukuran, dan pengelolaan [@nist2023airmf]. Untuk komunikasi, artinya: tentukan siapa bertanggung jawab, pahami konteks dan dampak, uji kualitas, lalu kelola serta pantau penggunaan.
+
+## Tumpukan Tanggung Jawab
+
+### AI dapat:
+
+- menghasilkan, mengelompokkan, menerjemahkan, dan menyarankan;
+- menyatakan ketidakpastian jika dirancang demikian;
+- mencatat jejak proses.
+
+### Manusia harus:
+
+- menentukan tujuan dan nilai;
+- memastikan dasar hukum serta persetujuan;
+- memeriksa fakta dan bias;
+- menetapkan kewenangan;
+- menyetujui komunikasi material;
+- menyediakan cara banding dan koreksi;
+- menanggung tanggung jawab atas akibat.
+
+“Human-in-the-loop” bukan sekadar tombol persetujuan. Peninjau harus mempunyai waktu, informasi, kompetensi, dan kewenangan nyata untuk menolak.
+
+## Prompt Berpusat pada Pribadi
+
+Sebuah prompt kerja dapat memuat:
+
+- pribadi/peran yang dihadapi tanpa data berlebihan;
+- relasi dan konteks;
+- tujuan yang bertanggung jawab;
+- keadaan komunikasi saat ini;
+- makna inti dan bukti;
+- bahasa serta medium;
+- batas, hal yang tidak boleh dilakukan, dan ketidakpastian;
+- format keluaran;
+- bagian yang wajib diperiksa manusia.
+
+Contoh:
+
+> “Bantu saya menyiapkan tiga pertanyaan untuk rekan yang terlambat menyelesaikan tugas. Tujuan saya memahami hambatan dan membuat kesepakatan. Jangan menebak kepribadian atau niatnya. Hindari bahasa menuduh. Tandai informasi yang perlu saya tanyakan langsung. Jangan mengirim pesan.”
+
+AI memperkuat bingkai pengguna. Prompt manipulatif akan menghasilkan komunikasi manipulatif yang lebih efisien. Karena itu, mutu pertanyaan manusia tetap menentukan.
+
+## Praktis: Memilih Tingkat Bantuan
+
+Untuk tiap kasus, pilih manusia saja, cermin/pelatih, kopilot, atau delegasi terbatas. Jelaskan alasan dan syarat eskalasi.
+
+1. menjadwalkan rapat rutin;
+2. meminta maaf kepada sahabat;
+3. merangkum masukan warga;
+4. menjawab keluhan pelanggan tentang keselamatan;
+5. menerjemahkan penjelasan teknis;
+6. menyepakati harga di bawah batas tertentu.
+
+## Perform: Spesifikasi Kopilot Komunikasi
+
+Rancang untuk salah satu dari lima domain. Dokumen memuat:
+
+| Unsur | Isi |
+|---|---|
+| Pribadi dan relasi |  |
+| Tujuan dan keadaan TAIDA |  |
+| Peran AI | cermin/pelatih/penerjemah/kopilot/mediator/agen |
+| Data minimum |  |
+| Sumber pengetahuan |  |
+| Kewenangan yang diberikan |  |
+| Larangan |  |
+| Risiko dan mitigasi |  |
+| Kondisi eskalasi |  |
+| Tinjauan manusia |  |
+| Retensi dan penghapusan data |  |
+| Bukti keberhasilan tugas dan relasi |  |
+
+Uji spesifikasi dengan tiga skenario: normal, ambigu, dan berisiko. Catat keluaran yang diterima, diubah, atau ditolak beserta alasannya.
+
+| Kriteria | Mulai berkembang | Cakap |
+|---|---|---|
+| Proporsionalitas | AI dipakai karena tersedia | Peran sesuai risiko dan nilai relasi |
+| Data | Semua konteks dimasukkan | Data minimum, persetujuan, dan retensi jelas |
+| Kewenangan | Kabur | Batas, larangan, dan eskalasi dapat diuji |
+| Verifikasi | Persetujuan simbolis | Peninjau kompeten dapat menolak dan memperbaiki |
+| Tanggung jawab | Kesalahan dibebankan pada AI | Pemilik keputusan dan pemulihan jelas |
+| Relasi | Hanya efisiensi | Keaslian, martabat, dan kepercayaan dinilai |
+
+## Refleksi
+
+1. Apakah AI mengurangi hambatan atau mengurangi kehadiran manusia yang dibutuhkan?
+2. Data pribadi apa yang sebenarnya tidak perlu?
+3. Siapa dirugikan jika keluaran salah?
+4. Dapatkah orang mengetahui bahwa AI terlibat dan membantah hasilnya?
+5. Kompetensi manusia apa yang tetap saya latih?
+
+## Ringkasan Satu Menit
+
+AI dapat menjadi cermin, pelatih, penerjemah, kopilot, mediator, atau agen terdelegasi. Semakin sensitif data, tidak dapat dibalik keputusan, besar dampak, dan tinggi nilai relasi, semakin kuat kebutuhan akan keterlibatan manusia. Komunikasi berpusat pada manusia menjaga tujuan, kebenaran, persetujuan, privasi, otonomi, kewenangan, dan akuntabilitas.
+
+> **Gunakan AI untuk memperbesar kemampuan manusia memahami dan melayani—bukan untuk memperkecil martabat, pilihan, dan tanggung jawab manusia.**
+
+## Rujukan dan Bacaan Lanjutan
+
+Lihat @floridi2018ai4people, @unesco2021ethics, @nist2023airmf, dan @langi2025dayatarik.

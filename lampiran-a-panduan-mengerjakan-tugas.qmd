@@ -1,0 +1,118 @@
+# Panduan Mengerjakan Tugas
+
+Lampiran ini membantu Anda mengubah pengalaman komunikasi menjadi proses belajar yang tertib, etis, dan dapat dinilai. Tujuannya bukan membuat setiap percakapan terasa seperti proyek penelitian, melainkan menolong Anda hadir dengan persiapan yang baik, bertindak dengan sadar, dan belajar dari bukti.
+
+## Memilih Kasus yang Layak
+
+Pilih kasus yang nyata, cukup penting untuk dipelajari, tetapi tetap aman bagi semua pihak. Kasus yang baik memiliki sasaran yang jelas, melibatkan respons orang lain, memberi ruang untuk memilih strategi, dan memungkinkan Anda melakukan refleksi sesudahnya.
+
+Gunakan lima pertanyaan penyaring berikut.
+
+1. **Relevan:** apakah kasus ini berhubungan dengan kompetensi bab?
+2. **Autentik:** apakah ada kebutuhan, perbedaan, atau tindakan nyata yang perlu ditangani?
+3. **Terjangkau:** dapatkah tugas diselesaikan dengan waktu dan sumber daya yang tersedia?
+4. **Aman:** apakah risiko emosional, sosial, akademik, dan profesional dapat dikelola?
+5. **Etis:** dapatkah partisipasi berlangsung secara sukarela, dengan privasi dan martabat terjaga?
+
+Jangan memilih kasus yang mengharuskan Anda membuka rahasia organisasi, merekam orang tanpa izin, mendorong seseorang membicarakan trauma, atau mengambil peran profesional yang tidak Anda miliki. Jika kasus nyata terlalu sensitif, gunakan simulasi atau kasus komposit yang telah disamarkan.
+
+## Persetujuan dan Privasi
+
+Sebelum melibatkan orang lain, jelaskan tujuan tugas, bentuk partisipasi, jenis bukti yang dikumpulkan, siapa yang akan melihatnya, dan hak mereka untuk menolak atau berhenti. Persetujuan bukan sekadar kalimat formal; persetujuan harus diberikan tanpa tekanan.
+
+Contoh permintaan persetujuan:
+
+> Saya sedang mengerjakan tugas pembelajaran komunikasi. Apakah Anda bersedia melakukan percakapan sekitar 15 menit? Dengan izin Anda, saya akan membuat catatan untuk dianalisis oleh saya dan dosen. Nama serta rincian pengenal akan saya samarkan. Anda boleh tidak menjawab pertanyaan tertentu atau menghentikan percakapan kapan saja.
+
+Jika rekaman diperlukan, mintalah izin khusus untuk merekam. Izin berbicara tidak otomatis berarti izin merekam, mengunggah, atau membagikan. Simpan hanya data yang benar-benar diperlukan dan hapus sesuai jadwal yang telah disampaikan.
+
+### Panduan Penyamaran Identitas
+
+- Ganti nama dengan kode, misalnya **Mitra A** atau **Warga 2**.
+- Hilangkan alamat, nomor identitas, nomor kontak, dan rincian unik.
+- Ubah detail periferal yang tidak memengaruhi analisis.
+- Pisahkan daftar identitas asli dari berkas tugas, jika daftar itu memang harus ada.
+- Jangan memasukkan data pribadi atau rahasia ke layanan AI tanpa dasar izin dan perlindungan yang memadai.
+
+## Siklus Pengerjaan
+
+Gunakan alur **Plan → Perform → Evidence → Reflect → Improve**.
+
+### 1. Plan — Merencanakan
+
+Tuliskan secara ringkas:
+
+| Unsur | Pertanyaan pemandu |
+|---|---|
+| Sasaran | Perubahan apa yang ingin dicapai pada pemahaman, tindakan, dan relasi? |
+| Pribadi dan peran | Siapa yang terlibat dan peran apa yang sedang dijalankan? |
+| Keadaan awal | Di tahap TAIDA mana pihak lain berada? Apa buktinya? |
+| Fakta dan asumsi | Apa yang diketahui? Apa yang masih perlu diperiksa? |
+| Repertoar | Apakah Anda perlu bertanya, mendengarkan, menjelaskan, bercerita, memvisualkan, atau bernegosiasi? |
+| Risiko | Apa yang dapat merugikan privasi, otonomi, martabat, atau relasi? |
+| Batas AI | Bagian apa yang boleh dibantu AI dan apa yang harus Anda miliki sendiri? |
+
+Rencana adalah peta, bukan naskah kaku. Sisakan ruang untuk mendengarkan dan berubah.
+
+### 2. Perform — Melakukan
+
+Laksanakan komunikasi dengan hadir penuh. Mulailah dengan izin dan konteks, dengarkan respons, periksa pemahaman, lalu sesuaikan pilihan bahasa maupun tindakan. Jika situasi berubah menjadi tidak aman atau melampaui kompetensi Anda, hentikan dengan hormat dan minta bantuan yang tepat.
+
+### 3. Evidence — Mengumpulkan Bukti
+
+Bukti yang memadai dapat berupa:
+
+- catatan observasi dengan waktu dan konteks;
+- kutipan singkat yang telah disamarkan;
+- transkrip bagian penting, bukan seluruh percakapan;
+- artefak pesan versi awal dan versi perbaikan;
+- formulir umpan balik mitra atau pengamat;
+- butir kesepakatan dan tindak lanjut;
+- rekaman yang dibuat dengan persetujuan; atau
+- catatan penggunaan AI yang menyebut tujuan, data, keluaran, dan verifikasi.
+
+Bukti yang lemah biasanya hanya berupa klaim, seperti “percakapan berjalan baik”, tanpa perilaku atau respons yang dapat diamati. Bukti yang lebih kuat berbunyi, misalnya: “Setelah saya merangkum kekhawatirannya dan bertanya apakah rangkuman itu tepat, Mitra A mengoreksi satu asumsi lalu mengusulkan jadwal baru.”
+
+### 4. Reflect — Merefleksikan
+
+Pisahkan niat dari dampak. Jawablah:
+
+1. Apa yang sungguh terjadi?
+2. Respons apa yang tidak saya perkirakan?
+3. Pilihan saya mana yang membantu atau menghambat?
+4. Apa dampaknya pada tindakan dan keadaan relasi?
+5. Asumsi apa yang dikoreksi?
+6. Apa yang tetap belum saya ketahui?
+
+Refleksi bukan pembelaan diri. Ia adalah keberanian menatap pengalaman secara jujur agar pengalaman dapat menjadi pengetahuan [@schon1983reflective].
+
+### 5. Improve — Memperbaiki
+
+Pilih satu atau dua perubahan yang spesifik. Ulangi bagian penting, revisi artefak, atau lakukan tindak lanjut jika pihak lain menyetujuinya. Tunjukkan perbedaan antara versi awal dan versi perbaikan serta alasan perubahan itu.
+
+## Format Laporan Ringkas
+
+Gunakan susunan berikut jika tugas tidak menentukan format lain.
+
+1. **Konteks dan persetujuan** — 100–150 kata.
+2. **Rencana** — sasaran, keadaan awal, repertoar, risiko, dan batas AI.
+3. **Kinerja** — deskripsi ringkas urutan komunikasi.
+4. **Bukti** — dua sampai empat bukti utama.
+5. **Refleksi** — analisis dampak pada tindakan dan relasi.
+6. **Perbaikan** — perubahan yang dilakukan atau akan diuji.
+7. **Pernyataan etika dan AI** — data yang digunakan, persetujuan, peran AI, verifikasi, dan tanggung jawab akhir.
+
+## Daftar Periksa Pengumpulan
+
+- [ ] Kasus sesuai dengan tujuan belajar dan aman untuk dikerjakan.
+- [ ] Persetujuan diperoleh dan dapat ditarik kembali.
+- [ ] Identitas serta data sensitif telah dilindungi.
+- [ ] Sasaran, peran, keadaan TAIDA, dan ukuran keberhasilan dinyatakan.
+- [ ] Bukti menunjukkan perilaku atau respons, bukan hanya kesan.
+- [ ] Niat dibedakan dari dampak.
+- [ ] Ada umpan balik dan perbaikan yang terlihat.
+- [ ] Penggunaan AI diungkapkan secara proporsional.
+- [ ] Fakta, kutipan, dan rujukan telah diperiksa.
+- [ ] Anda bersedia bertanggung jawab atas isi dan tindak lanjutnya.
+
+Tugas yang kuat tidak selalu menceritakan keberhasilan yang mulus. Kadang-kadang bukti belajar terbaik muncul ketika Anda dapat menunjukkan kesalahan, mendengarkan dampaknya, lalu mencoba kembali dengan lebih bijaksana.

@@ -1,0 +1,181 @@
+# TAIDA IV: Kesepakatan dan Tindakan
+
+::: {.callout-tip title="Esensi Bab"}
+
+**Banyak percakapan berakhir dengan “nanti kita bicarakan lagi” karena keinginan belum diterjemahkan menjadi siapa melakukan apa, kapan, dengan sumber daya apa, dan bagaimana keberhasilannya diperiksa.**
+
+:::
+
+## Target Harta Karun
+
+Harta karun bab ini adalah kemampuan mengubah keinginan menjadi kesepakatan yang layak, spesifik, dan dapat dilaksanakan sambil menghormati pilihan setiap pihak. Hasil yang sehat dapat berupa kesepakatan penuh, sebagian, penundaan dengan syarat jelas, atau “tidak” yang bertanggung jawab.
+
+## Tujuan Belajar
+
+Anda mampu membedakan keinginan, niat, komitmen, kesepakatan, dan tindakan; menemukan penghalang kelayakan; memeriksa wewenang; menyusun dokumen kesepakatan; menentukan bukti selesai; serta menjaga relasi sesudah keputusan.
+
+## Kata Kunci
+
+**Tindakan**, **kelayakan**, **komitmen**, **kesepakatan**, **wewenang**, **keterjangkauan**, **langkah berikutnya**, **definisi selesai**, **akuntabilitas**, dan **relasi pascakeputusan**.
+
+## Persiapan: Kesepakatan yang Kabur
+
+Tuliskan satu “kesepakatan” kelompok yang tidak terlaksana. Apakah pelakunya jelas? Tenggatnya ada? Sumber daya tersedia? Ukuran selesai disepakati? Sering kali masalah bukan kemauan, melainkan ketidakjelasan.
+
+## Attention: Sehari sebelum Keberangkatan
+
+Pada Desember 1989, saya bergabung dengan rombongan yang bersiap berangkat. Sehari sebelum penerbangan, muncul kabar bahwa proyek yang membiayai saya hendak menunda keberangkatan saya dan tiga rekan. Tiket, rencana, dan keinginan belum cukup; ada wewenang serta koordinasi yang harus dipastikan.
+
+Kami mendatangi kantor proyek dan memohon agar dapat berangkat. Menjelang malam, izin diberikan. Keesokan hari, tindakan nyata baru mungkin terjadi: saya menuju bandara dan menaiki pesawat.
+
+::: {.callout-note title="Catatan dari Perjalanan Saya"}
+
+Keinginan dapat sangat kuat, tetapi tindakan selalu hidup di dalam kenyataan: jadwal, otoritas, biaya, dokumen, risiko, dan komitmen banyak orang. Komunikasi membantu semua unsur itu bertemu.
+
+:::
+
+## Interest: Keinginan Tidak Otomatis Menjadi Tindakan
+
+Ada tangga keadaan:
+
+| Keadaan | Contoh |
+|---|---|
+| Keinginan | “Saya ingin program ini berjalan.” |
+| Niat | “Saya berencana ikut.” |
+| Komitmen | “Saya bersedia mengambil tanggung jawab.” |
+| Kesepakatan | “Kita menerima pembagian dan syarat ini.” |
+| Tindakan | Pekerjaan dimulai dan bukti dihasilkan. |
+
+Jangan memperlakukan antusiasme sebagai janji. Komitmen memerlukan kemampuan, wewenang, dan kesediaan menanggung konsekuensi.
+
+## Desire: Menemukan Penghalang Kelayakan
+
+Keterjangkauan lebih luas daripada harga:
+
+- **uang:** apakah anggaran tersedia?
+- **waktu:** kapan pekerjaan dapat dilakukan?
+- **kemampuan:** apakah pengetahuan dan alat cukup?
+- **usaha:** perubahan perilaku apa yang diperlukan?
+- **wewenang:** siapa yang boleh memutuskan?
+- **risiko:** kerugian apa yang mungkin terjadi?
+- **perubahan:** proses atau identitas apa yang harus ditinggalkan?
+
+Tanyakan, “Apa yang menghalangi kita bergerak?” bukan “Mengapa Anda belum setuju?” Pertanyaan pertama membuka pemecahan masalah; pertanyaan kedua mudah terdengar sebagai tuduhan.
+
+## Formula Kesepakatan
+
+Kesepakatan yang dapat dilaksanakan menjawab:
+
+> **Siapa → melakukan apa → kapan → dengan sumber daya/syarat apa → apa yang dianggap selesai → bagaimana tindak lanjutnya.**
+
+- Kabur: “Tim desain segera memperbaiki tampilan.”
+- Spesifik: “Rani mengirim prototipe tiga layar utama pada Jumat pukul 16.00 melalui repositori proyek. Dimas meninjau aksesibilitas sebelum Senin pukul 10.00. Selesai berarti semua kriteria pada daftar uji telah diberi status.”
+
+Tujuan spesifik dan menantang, bila diterima dan disertai umpan balik, membantu kinerja [@locke2002building]. Namun, kejelasan tidak boleh berubah menjadi beban yang mustahil.
+
+## Kesepakatan Bukan Keseragaman Pikiran
+
+Orang dapat berbeda pendapat tetapi menyetujui tindakan terkoordinasi. Kesepakatan juga tidak selalu berarti “ya” terhadap seluruh usulan. Hasil dapat berupa:
+
+- uji coba kecil;
+- kesepakatan sebagian;
+- keputusan menunggu data;
+- pembagian risiko;
+- atau tidak ada kesepakatan.
+
+“Tidak” yang jelas lebih berguna daripada “ya” yang tidak akan dilaksanakan. Hormati penolakan, tanyakan apakah ada syarat atau alternatif, dan jangan menghukum orang karena menyatakan batas.
+
+## Posisi dan Kepentingan dalam Menutup Kesepakatan
+
+Ketika satu pihak berkata, “Harus selesai Jumat,” Jumat adalah posisi. Kepentingannya mungkin presentasi Senin, kewajiban pelaporan, atau kebutuhan waktu untuk menguji. Jika Jumat mustahil, memahami kepentingan membuka alternatif: menyelesaikan bagian kritis, mengurangi ruang lingkup, atau menyediakan bukti sementara.
+
+Negosiasi bukan upaya membuat pihak lain menyerah. Ia mencari susunan yang layak di antara kepentingan, kendala, serta alternatif [@fisher2011getting]. Jika tidak ada irisan yang dapat diterima, nyatakan tanpa membuat komitmen palsu.
+
+## Pemeriksaan Kesepakatan
+
+Sebelum menutup percakapan, periksa:
+
+1. Apakah pihak yang berjanji memiliki wewenang?
+2. Apakah semua orang memahami istilah dengan cara yang sama?
+3. Apakah sumber daya dan ketergantungan tersedia?
+4. Apakah risiko serta syarat dinyatakan?
+5. Apakah ukuran selesai dapat diamati?
+6. Apakah langkah pertama dan waktu pemeriksaan jelas?
+
+Kirim konfirmasi tertulis singkat. Tulisan menjadi memori bersama, bukan senjata untuk saling menyalahkan.
+
+## Lingkar Komitmen
+
+Tindakan perlu dipantau melalui lingkar:
+
+> **Janji → pelaksanaan → bukti → pemeriksaan → penerimaan atau perbaikan**
+
+Penerima tidak menunggu sampai tenggat untuk menemukan kegagalan besar. Penanggung jawab juga tidak menunggu ditanya untuk melaporkan hambatan. Titik pemeriksaan yang proporsional membuat masalah terlihat ketika masih dapat diperbaiki.
+
+Setelah pekerjaan diterima, catat pelajaran dan tutup komitmen secara eksplisit. Tugas yang menggantung dalam ingatan bersama menguras kepercayaan.
+
+## Tindakan dan Relasi
+
+Nilai dua hasil:
+
+- **hasil tugas:** apakah tindakan dilakukan dan tujuan tercapai?
+- **hasil relasi:** apakah kepercayaan, rasa hormat, dan kemungkinan bekerja kembali tetap sehat?
+
+Komitmen yang dipenuhi memperkuat relasi. Jika keadaan berubah, beri kabar sebelum tenggat, jelaskan dampak, dan negosiasikan ulang.
+
+## AI sebagai Peninjau Kesepakatan
+
+AI dapat menandai pelaku, tenggat, syarat, ketergantungan, dan istilah kabur; atau merangkum rapat untuk dikonfirmasi. AI tidak otomatis memiliki wewenang untuk membuat janji. Manusia harus menyetujui catatan akhir dan bertanggung jawab atas komitmen.
+
+## Praktis: Dari Kabur Menjadi Terlaksana
+
+Perbaiki kalimat berikut:
+
+- “Nanti kita perbaiki datanya.”
+- “Bagian promosi akan segera menghubungi peserta.”
+- “Kita coba aplikasinya secepat mungkin.”
+
+Untuk masing-masing, tambahkan siapa, apa, kapan, syarat, definisi selesai, dan pemeriksaan.
+
+## Perform: Dokumen Kesepakatan
+
+Lakukan simulasi lima menit dari keadaan keinginan menuju tindakan. Satu pihak menginginkan solusi; pihak lain memegang kendala tersembunyi. Hasilkan dokumen satu halaman:
+
+| Unsur | Isi kesepakatan |
+|---|---|
+| Tujuan bersama |  |
+| Pihak dan wewenang |  |
+| Tindakan dan penanggung jawab |  |
+| Tenggat |  |
+| Sumber daya/syarat |  |
+| Risiko dan mitigasi |  |
+| Definisi selesai |  |
+| Langkah pertama |  |
+| Waktu tinjauan |  |
+| Status | penuh / sebagian / belum sepakat |
+
+| Kriteria | Mulai berkembang | Cakap |
+|---|---|---|
+| Kelayakan | Hambatan diabaikan | Uang, waktu, kemampuan, wewenang, dan risiko diperiksa |
+| Kejelasan | Banyak kata kabur | Pelaku, tindakan, tenggat, dan bukti jelas |
+| Komitmen | Diasumsikan | Dikonfirmasi oleh pihak berwenang |
+| Etika | Tekanan untuk “ya” | Penolakan dan alternatif dihormati |
+| Relasi | Berakhir transaksional | Tindak lanjut dan kepercayaan dijaga |
+
+## Refleksi
+
+1. Apakah saya menganggap keinginan sebagai komitmen?
+2. Penghalang apa yang baru terlihat setelah bertanya?
+3. Siapa sebenarnya memiliki wewenang?
+4. Apakah definisi selesai dipahami sama?
+5. Bagaimana kita akan berkomunikasi jika keadaan berubah?
+
+## Ringkasan Satu Menit
+
+Perjalanan dari keinginan menuju tindakan membutuhkan pemeriksaan kelayakan, wewenang, sumber daya, risiko, dan komitmen. Kesepakatan yang baik menyatakan siapa melakukan apa, kapan, dengan syarat apa, apa yang dianggap selesai, dan bagaimana tindak lanjut dilakukan. Tidak ada kesepakatan dapat menjadi hasil sehat apabila dinyatakan jujur.
+
+> **Kesepakatan adalah jembatan dari bahasa menuju kenyataan; tindakan yang dapat dipercaya adalah jembatan menuju relasi berikutnya.**
+
+## Rujukan dan Bacaan Lanjutan
+
+Lihat @locke2002building, @fisher2011getting, dan @langi2025dayatarik.

@@ -1,0 +1,62 @@
+Instruksi Eksekusi:
+Berdasarkan panduan buku.prompt dan mengacu pada outline-keseluruhan-buku.md, tolong buatkan front matters. Gunakan bahasa Indonesia yang baku, akademik namun tetap hangat dan personal. manfaatkan sumber informasi mengenai penulis dari buku DayaTarik.pdf yang ia tulis.
+
+Saran Penggunaan:
+Simpan kerangka di atas. Saat Anda siap untuk mulai menyusun materi, Anda cukup menyalin teks tersebut, menempelkannya ke AI, lalu mengganti bagian [Instruksi Eksekusi] di bagian paling bawah dengan bab spesifik atau materi spesifik (berdasarkan bahan dari folder proyek Anda) yang sedang ingin Anda kembangkan hari itu.
+
+Menulis buku adalah kesempatan yang unik untuk berkomunikasi dengan pembaca. Jadi, buku itu adalah pesan atau cara berkomunikasi antara penulis dengan pembaca, di mana percakapan itu berlangsung melalui proses membaca. 
+
+Buku teks atau buku ajar adalah kasus yang unik atau kasus yang khusus di mana narator atau penulisnya adalah guru yang sedang menjelaskan kepada murid, sehingga apa yang ditulis dalam buku apabila dibaca membawa peristiwa pembelajaran, dan suasana atau ruang belajar di dalam benak pembaca. 
+
+
+
+Struktur buku seperti biasa terdiri dari front matters, kemudian body text, kemudian end matters. Body text itu sendiri terdiri parts dan chapters. Chapters atau bab disusun terutama mengikuti rencana perkuliahan setiap minggunya, kecuali bab awal adalah pendahuluan tentang overview apa yang menjadi isi buku, dan bab akhir tentang kesimpulan. 
+
+Pada bagian akhir terdapat lampiran-lampiran yang menjelaskan aspek-aspek teknis proses belajar, seperti bagaimana mengerjakan tugas dan apa saja yang diperlukan untuk bisa mendapatkan nilai terbaik. 
+
+Setiap bab yang merujuk pada mata kuliah atau kuliah tertentu memiliki struktur seperti biasa, yaitu judul, kemudian semacam kalimat abstrak atau esensi yang bersifat hook sehingga menarik untuk dibaca selanjutnya, tujuan belajar, serta terdapat keywords.  
+
+Tujuan serta cara untuk berkomunikasi menyangkut membangun hubungan relasi personal. Artinya, relasi personal itu bisa menjadi tujuannya, dan pada saat yang sama, caranya adalah dengan membangun relasi personal. Relasi personal ini sangat penting karena membuat komunikasi berjalan efektif, karena ada unsur kepercayaan dan keterikatan. 
+
+Di setiap bagian proses atau materi buku, perlu secara sengaja memperkenalkan penulis, apa yang menjadi perhatiannya, aspirasinya, dan pengalamannya. Karena pada hakikatnya belajar adalah memindahkan pengalaman penulis kepada pembelajar. Dan tentu hal ini tidak lepas dari otoritas ilmiah yang dimiliki oleh penulis, yang ia wujudkan dengan merujuk kepada karya para ahli atau pakar. 
+
+Jadi proses belajar itu, apa yang dilakukan oleh pengajar adalah menceritakan pengalamannya, cara berpikirnya, dan kesimpulan yang bagi dia menarik serta penting, yang ia ingin bagikan kepada pembaca. Ada keinginan untuk membagikan apa yang ia temukan, dan temuan itu adalah harta karun. Dengan kata lain, proses belajar seperti cerita petualangan mencari harta karun, diceritakan oleh seseorang yang sudah berhasil mendapatkannya, dan ia mengajak pembaca untuk mengetahui perjalanannya serta menemukan harta karun itu sendiri. 
+
+Jadi, kita menyiapkan secara mental proses petualangan mencari harta karun. Harta karun itu ada macam‑macam: berbentuk berlian, mutiara, digital, atau relasi, menemukan satu realitas yang baru. Pada esensinya, harta itu memperkaya hidup seseorang. Kekayaan adalah satu potensi yang bisa dikonversi menjadi kebutuhan, pemenuhan atas kebutuhan. 
+
+Sebagai contoh, dalam film Avatar, tokoh utamanya adalah Jake Sully, seorang tentara yang duduk di kursi roda. Ia dikirim oleh perusahaan ke Pandora selama satu bulan dengan misi mencari harta karun. Bagi perusahaan itu, harta karun yang dicari di sana adalah semacam materi, katakanlah logam mulia, yang tertanam di dalam satu pohon besar yang menjadi sumber kehidupan suku setempat. Dan bagi tentara militer atau sekuriti yang menyertakan Jack Sully, harta karunnya adalah imbalan, gaji, atau bonus yang akan diperoleh bila logam mulia itu berhasil digali dan dibawa pulang ke bumi. Bagi Jack Sully, harta karunnya adalah kesempatan untuk operasi sehingga dia bisa berjalan lagi. Di sana ada tim riset, tim peneliti yang harta karunnya, selain gaji tentu saja, juga termasuk imbalan curiosity, penelitian tentang teknologi atau budaya setempat. Jack Suli, yang tadinya dititipkan ke dalam tim riset ini, akhirnya menemukan harta karun yang lebih besar, yaitu relasi dengan orang‑orang suku setempat, jatuh cinta, dan kemudian menikah dengan putri kepala suku setempat. Itu adalah harta karun terbesar yang Jack Suli temukan. 
+
+Buku ini pada dasarnya menyampaikan pesan kasih kepada pembaca dan menjadi platform untuk menyampaikan pesan‑pesan pembelajaran. Hal ini dilakukan dengan cara yang tulus serta peduli, sehingga pembaca merasakan diperhatikan, dimengerti, dan tentu dikasihi. Apa yang disampaikan adalah ekspresi dari kecintaan itu. 
+
+Oleh sebab itu, dalam kata pengantar kita tidak hanya memberi pengantar tentang apa yang akan dibaca, tetapi juga tentang siapa penulis, yang kemudian menjelaskan mengapa ia peduli dengan apa yang akan disampaikan, terutama kepada para pembaca. Kemudian ia menceritakan apa yang ditemukan dan berharap dapat membagikannya kepada para pembaca. 
+
+Struktur isi setiap bab mengikuti pola fase seperti 4P: persiapan, presentasi, praktis atau praktek, dan perform.  Pola 4P ini juga dipimpin oleh Pola Rute TAIDA, yaitu Target, Attention, Interest, Desire, Action.
+
+Dalam fase target, ditentukan target mahasiswa agar mau berusaha untuk menguasai kompetensi atau pengetahuan tertentu.Ini berarti merumuskan bahan ajar, metrik keberhasilan belajar, dan tujuan belajar spesifik.
+
+Setelah itu, isi buku berusaha membawa mahasiswa target ke dalam fase attention. Ini dilakukan dengan menyampaikan sebuah event, hook, anekdot yang dapat disadari atau diidentifikasi oleh mahasiswa, sehingga menarik perhatian. Tujuannya agar mahasiswa menaruh perhatian, konsentrasi pada informasi atau apa yang akan disampaikan berikutnya. 
+
+Setelah itu, isi buku berusaha menguatkan mahasiswa ke dalam fase interest. Dalam fase interest ini, apa yang disampaikan atau pengetahuan, baik informasi, diyakini memang menjadi kebutuhannya, jadi hal yang penting bagi apa yang dia aspirasikan. Di sini kita mengampaikan bahwa kita memahami apa yang jadi persoalan dan kita menawarkan solusinya. 
+
+Setelah itu, buku ini berusaha membawa mahasiswa ke fase desire, yaitu dengan menjelaskan cara solusi kita itu, serta memberikan contoh cara bekerja dari solusi yang kita sampaikan tadi. Itu kita jelaskan dengan meyakinkan, sehingga nasabah tersebut menginginkan solusi ini. 
+
+Setelah itu, buku ini berusaha membawa mahasiswa ke fase aksi, yaitu dengan menjelaskan apa yang harus mereka bayar untuk menguasai ini, dan apa yang mereka bayar itu dalam bentuk aksi, tindakan, latihan, serta pengujian kemampuan. Ini menjadi kunci di sini adalah apa yang kita minta untuk dia lakukan ada dalam jangkauannya atau ada dalam cakupan kesanggupannya. Baik dari segi waktu, skill, pengetahuan, prerequisite, serta tentu saja membawa semangat untuk mencoba. Dan tentu saja, di akhir proses ini, dia berhasil menguasai solusi itu dan memang menjadi solusi bagi permasalahannya. Ini berarti sukses dalam belajar. 
+
+
+Jadi kita perlu membuat buku petualangan mengejar harta karun. Sebagaimana harta karun itu berbeda bagi setiap orang, kita mencoba memberi harta karun kepada mahasiswa yang akan menjadi profesional atau yang akan menghidupi karir serta hidup pribadinya. Harta karun itu adalah ilmu komunikasi interpersonal dan publik. 
+
+Jadi, dalam fase mencapai tTarget, kita berusaha memformulasikan harta karun apa yang ada dalam komunikasi interpersonal dan publik ini dari perspektif mahasiswa. Kita merumuskan berapa besar nilai itu bagi pembaca. Dan tentu kita tetapakn alasan kita ingin membagi harta karun ini.
+
+Kemudian, dalam fase untuk mencapai Attention, kita berusaha menarik perhatian tentang harta karun yang akan kita ceritakan. Di sini kita merumuskan repertoar bahasa, pesan-pesan yang didesain untuk menarik perhatian akan topik yang kita hendak sampaikan. Salah satu cara yang efektif sebenarnya adalah dengan memperkenalkan diri kepada pembaca sebagai orang yang sudah kembali dari petualangan pemburuan harta karun tersebut. 
+
+Berikut, dalam fase untuk mencapai Interest, kita menjelaskan bahwa kita menyadari kebutuhan akan harta karun tersebut. Kita menjelaskan apa yang ada dalam pikirannya dan apa yang menjadi pergumulannya, serta kita peduli, sehingga menyampaikan bahwa kita juga memahami hal ini dan memiliki harta karun yang berharga bagi pembaca. 
+
+Lalu, dalam fase untuk mencapai Desire, kita menceritakan bagaimana masalah yang kita alami bisa diatasi oleh harta karun ini. Jelaskan nilai harta karun tersebut, siapa yang sangat mengejarnya, dan bagaimana ia menjadi harta karun. Terangkan bahwa harta karun ini paling sesuai untuk kebutuhan pembaca. 
+
+Terakhir, dalam fase untuk mencapai Aksi, kita menggelar peta dan melatih pembaca untuk menjalani peta kompetensi itu. Untuk peta aksi, kita lengkapi juga dengan perlengkapan peralatannya. Kemudian kita mengajarkan apa yang harus dia lakukan. Setelah itu, kita temani dia untuk menjalani peta menuju harta karun tersebut. Pada akhirnya, dia dapat mendemonstrasikan bahwa harta karun yang diperolehnya memang berharga. 
+
+
+
+
+
+

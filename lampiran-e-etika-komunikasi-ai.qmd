@@ -1,0 +1,109 @@
+# Pedoman Etika Komunikasi Berbantuan AI
+
+Kecerdasan buatan dapat memperluas repertoar komunikasi, tetapi tidak memiliki kehidupan, relasi, atau tanggung jawab moral seperti manusia. Karena itu, pertanyaan utamanya bukan hanya “Apakah AI dapat melakukannya?”, melainkan “Apakah AI patut dilibatkan, dengan data apa, dalam peran apa, dan siapa yang bertanggung jawab?” Pedoman ini sejalan dengan penekanan pada pengawasan manusia, transparansi, privasi, keadilan, serta akuntabilitas dalam kerangka etika AI [@unesco2021ethics; @nist2023airmf].
+
+## Tujuh Prinsip
+
+### 1. Persetujuan dan Transparansi
+
+Jelaskan keterlibatan AI apabila hal itu dapat memengaruhi kepercayaan, keputusan, hak, atau penilaian pihak lain. Jangan membuat seseorang percaya bahwa ia sedang berinteraksi sepenuhnya dengan manusia jika respons penting sebenarnya dihasilkan atau dikendalikan mesin.
+
+### 2. Privasi dan Minimalisasi Data
+
+Masukkan data sesedikit mungkin. Hapus nama, identitas, rahasia organisasi, data kesehatan, data finansial, dan rincian intim. Persetujuan seseorang untuk berbicara dengan Anda bukan persetujuan untuk memasukkan perkataannya ke layanan AI.
+
+### 3. Batas Kewenangan
+
+AI dapat memberi alternatif, bukan mengambil alih keputusan yang menjadi kewenangan manusia. Jangan menggunakannya untuk berpura-pura sebagai dokter, konselor, pengacara, dosen penilai, atasan, atau pejabat yang berwenang.
+
+### 4. Pemeriksaan Fakta dan Bias
+
+Periksa nama, angka, kutipan, sumber, aturan, dan klaim. Carilah siapa yang mungkin dirugikan oleh asumsi atau pola statistik. Keluaran yang lancar bukan jaminan bahwa isinya benar, adil, atau sesuai konteks.
+
+### 5. Larangan Manipulasi
+
+Jangan memakai AI untuk mengeksploitasi ketakutan, kesepian, kedukaan, ketergantungan, usia, kondisi kesehatan, kesulitan ekonomi, atau ketidaktahuan seseorang. Personalisasi yang etis membantu orang memahami dan memilih; manipulasi menyembunyikan tujuan atau mempersempit kebebasan mereka.
+
+### 6. Kepemilikan Manusia
+
+Pesan yang menyatakan kasih, permintaan maaf, komitmen, evaluasi kinerja, keputusan bernilai tinggi, atau kabar yang mengubah hidup harus dimiliki manusia. AI boleh membantu persiapan, tetapi manusia perlu memahami, menyetujui, menyampaikan, serta menanggung dampaknya.
+
+### 7. Akuntabilitas
+
+Pengguna tetap bertanggung jawab atas pesan dan tindakan yang dikirim atas namanya. Catat peran AI, verifikasi keluaran, sediakan jalan koreksi, dan tanggapi kerugian yang terjadi.
+
+## Memilih Peran AI
+
+| Peran | Penggunaan yang patut | Batas utama |
+|---|---|---|
+| **Cermin** | membantu menemukan asumsi, pola, atau pertanyaan reflektif | tidak menentukan siapa diri Anda atau menilai pihak lain sebagai diagnosis |
+| **Pelatih** | membuat simulasi, memberi variasi, dan latihan respons | umpan balik harus diuji pada manusia dan konteks nyata |
+| **Penerjemah** | membantu lintas bahasa atau tingkat keterbacaan | makna, istilah budaya, dan kerahasiaan harus diperiksa |
+| **Kopilot** | menyusun alternatif, merangkum bahan yang diizinkan, atau memeriksa konsistensi | manusia memilih, menyunting, memverifikasi, dan menyetujui hasil akhir |
+| **Mediator pendukung** | membantu memetakan kepentingan atau pilihan secara netral | tidak menggantikan persetujuan, rasa aman, fasilitator manusia, atau mekanisme pengaduan |
+| **Delegasi terbatas** | menangani pesan rutin berisiko rendah dengan aturan dan pengawasan | dilarang untuk relasi sensitif, keputusan bernilai tinggi, atau komunikasi yang memerlukan empati dan kewenangan manusia |
+
+Semakin besar dampak dan semakin pribadi sebuah komunikasi, semakin kecil kewenangan yang layak didelegasikan.
+
+## Uji Sebelum Menggunakan AI
+
+Jawablah delapan pertanyaan berikut.
+
+1. **Tujuan:** nilai apa yang hendak diciptakan?
+2. **Kebutuhan:** apakah AI sungguh diperlukan?
+3. **Data:** data minimum apa yang dibutuhkan dan boleh digunakan?
+4. **Persetujuan:** siapa yang perlu mengetahui atau menyetujui?
+5. **Risiko:** siapa yang dapat dirugikan dan bagaimana?
+6. **Verifikasi:** sumber atau orang mana yang akan memeriksa hasil?
+7. **Kendali:** dapatkah manusia mengubah, menolak, atau menghentikan proses?
+8. **Tanggung jawab:** siapa yang akan menjawab jika terjadi kesalahan?
+
+Jika satu jawaban penting belum jelas, tunda penggunaan AI.
+
+## Situasi yang Harus Tetap Dimiliki Manusia
+
+- menyampaikan cinta, dukacita, penghargaan, atau permintaan maaf yang penting;
+- memperoleh persetujuan dan menetapkan batas relasi;
+- membuat keputusan penerimaan, penolakan, sanksi, nilai, pekerjaan, kredit, kesehatan, atau hukum;
+- menangani krisis, ancaman keselamatan, kekerasan, dan kerentanan berat;
+- memberikan evaluasi personal yang berdampak pada martabat atau masa depan;
+- menandatangani komitmen dan kesepakatan; serta
+- memediasi konflik ketika ada ketimpangan kuasa atau risiko pembalasan.
+
+AI boleh membantu menyiapkan pertanyaan atau daftar periksa, tetapi kehadiran, penilaian, dan tanggung jawab tidak boleh dipalsukan.
+
+## Lampu Lalu Lintas Risiko
+
+| Tingkat | Contoh | Tindakan |
+|---|---|---|
+| **Hijau** | latihan presentasi dengan data rekaan; pemeriksaan tata bahasa teks nonrahasia | gunakan dengan tinjauan biasa dan catat jika relevan |
+| **Kuning** | merangkum catatan rapat internal; menyusun pesan untuk konflik ringan; menerjemahkan pengalaman pribadi | minimalkan data, peroleh izin, verifikasi, dan pastikan manusia menyunting |
+| **Merah** | mengunggah data rahasia; meniru suara tanpa izin; membuat keputusan hak seseorang; memanipulasi kerentanan; merespons krisis tanpa manusia | jangan gunakan; pilih proses manusia atau sistem resmi yang berwenang |
+
+## Pemeriksaan Keluaran
+
+Sebelum memakai keluaran, periksa:
+
+- **Akurasi:** adakah klaim yang harus dibuktikan?
+- **Atribusi:** apakah gagasan, kutipan, gambar, dan data diberi sumber yang layak?
+- **Keadilan:** kelompok siapa yang tidak terlihat atau direpresentasikan secara stereotip?
+- **Nada:** apakah bahasa menghormati martabat dan sesuai dengan relasi?
+- **Pilihan:** apakah penerima memiliki ruang untuk bertanya, menolak, atau mengoreksi?
+- **Keamanan:** apakah data yang tidak perlu masih tertinggal?
+- **Kepemilikan:** apakah Anda memahami dan sungguh bersedia mengucapkan pesan itu?
+
+## Pernyataan Penggunaan AI
+
+Contoh pernyataan ringkas:
+
+> Saya menggunakan [alat/model] sebagai pelatih untuk menghasilkan tiga skenario keberatan dan memeriksa keterbacaan draf. Saya tidak memasukkan data identitas atau percakapan rahasia. Seluruh fakta diperiksa pada sumber yang dicantumkan; pilihan bahasa dan keputusan akhir saya tinjau serta pertanggungjawabkan sendiri.
+
+Jika AI tidak digunakan, Anda dapat menyatakan demikian bila tugas mengharuskannya. Jangan mengada-adakan proses demi terlihat canggih.
+
+## Ketika Terjadi Kesalahan
+
+Hentikan penggunaan atau penyebaran, simpan bukti yang diperlukan secara aman, beri tahu pihak yang terdampak dan pihak berwenang sesuai konteks, koreksi informasi, hapus data jika patut, serta evaluasi penyebabnya. Jangan menjadikan “AI yang membuatnya” sebagai alasan untuk menghindari tanggung jawab.
+
+Kaidah penutupnya sederhana:
+
+> **Gunakan AI untuk memperbesar perhatian dan kemampuan manusia, bukan untuk mengecilkan pribadi, menyembunyikan tujuan, atau memindahkan tanggung jawab.**
