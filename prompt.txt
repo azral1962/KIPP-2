@@ -9,6 +9,7 @@ Menulis buku adalah kesempatan yang unik untuk berkomunikasi dengan pembaca. Jad
 Buku teks atau buku ajar adalah kasus yang unik atau kasus yang khusus di mana narator atau penulisnya adalah guru yang sedang menjelaskan kepada murid, sehingga apa yang ditulis dalam buku apabila dibaca membawa peristiwa pembelajaran, dan suasana atau ruang belajar di dalam benak pembaca. 
 
 
+Buat buku teks tentang topik ini di sebuah folder baru dengan standar atau format kuarto book project. Buku teks ini berbahasa Indonesia yang ditunjukkan bagi mahasiswa peserta mata kuliah Komunikasi Interpersonal dan Publik.  Bahan untuk buku ini tersedia di dalam proyek ini dan disusun berdasarkan topik, cakupan mata kuliah, serta dapat mengambil sumber‑sumber lain. Di akhir buku disertakan juga rujukan-rujukan yang sesuai dengan topik dalam buku ini. 
 
 Struktur buku seperti biasa terdiri dari front matters, kemudian body text, kemudian end matters. Body text itu sendiri terdiri parts dan chapters. Chapters atau bab disusun terutama mengikuti rencana perkuliahan setiap minggunya, kecuali bab awal adalah pendahuluan tentang overview apa yang menjadi isi buku, dan bab akhir tentang kesimpulan. 
 
