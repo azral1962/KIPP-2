@@ -1,0 +1,6 @@
+# Daftar Pustaka
+
+Bagian ini memuat rujukan awal yang dapat menopang pengembangan akademik buku. Daftar ini dapat diperluas pada tahap penyuntingan berikutnya, terutama ketika setiap bab mulai diberi sitasi langsung.
+
+::: {#refs}
+:::

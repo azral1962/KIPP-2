@@ -1,0 +1,150 @@
+# Panduan Latihan dan Simulasi Kelas
+
+Komunikasi dipelajari melalui tubuh, suara, telinga, pilihan kata, dan keberanian hadir. Karena itu, kelas perlu menjadi laboratorium manusiawi: tempat mahasiswa boleh mencoba, keliru, menerima umpan balik, dan memperbaiki diri tanpa dipermalukan.
+
+## Prinsip Simulasi
+
+1. Simulasi harus memiliki tujuan kompetensi yang jelas.
+2. Peserta menjaga kerahasiaan pengalaman pribadi yang sensitif.
+3. Umpan balik diberikan pada perilaku komunikasi, bukan pada martabat pribadi.
+4. Setiap latihan diakhiri dengan refleksi singkat.
+5. Dosen atau fasilitator menjaga suasana aman, tertib, dan saling menghormati.
+
+## Latihan 1: Mendengar Lima Menit
+
+**Tujuan:** Melatih mendengar aktif, parafrase, validasi, pertanyaan terbuka, dan keheningan.
+
+**Langkah:**
+
+1. Mahasiswa berpasangan.
+2. Pembicara menceritakan pengalaman akademik atau kerja kelompok selama lima menit.
+3. Pendengar tidak boleh memberi nasihat.
+4. Pendengar hanya memakai parafrase, pertanyaan terbuka, validasi, dan keheningan.
+5. Pembicara memberi umpan balik: kapan ia merasa paling didengar?
+
+**Refleksi:** Apa yang paling sulit: diam, memahami, atau menahan nasihat?
+
+## Latihan 2: Fakta, Tafsir, Perasaan, Kebutuhan
+
+**Tujuan:** Melatih kejernihan dalam membaca peristiwa komunikasi.
+
+**Langkah:**
+
+1. Mahasiswa memilih satu peristiwa komunikasi ringan.
+2. Mahasiswa mengisi empat kolom: fakta, tafsir, perasaan, kebutuhan.
+3. Mahasiswa menulis ulang respons yang lebih jernih.
+4. Dalam kelompok kecil, mahasiswa membagikan pelajaran tanpa harus membuka detail pribadi yang sensitif.
+
+**Refleksi:** Bagian mana yang paling sering tercampur dalam diri saya?
+
+## Latihan 3: Bahasa Asertif
+
+**Tujuan:** Melatih penyampaian kebutuhan tanpa menyerang pribadi.
+
+**Skenario:** Seorang anggota kelompok sering terlambat mengirim tugas sehingga pekerjaan anggota lain tertunda.
+
+**Langkah:**
+
+1. Susun kalimat dengan pola peristiwa, dampak, kebutuhan, ajakan.
+2. Latihkan secara berpasangan.
+3. Pendengar memberi umpan balik pada kejelasan dan nada.
+
+**Contoh kerangka:** "Ketika ..., dampaknya ..., saya membutuhkan ..., apakah kita bisa ...?"
+
+## Latihan 4: Umpan Balik Konstruktif
+
+**Tujuan:** Melatih kemampuan memberi masukan yang membangun.
+
+**Langkah:**
+
+1. Mahasiswa membawa paragraf, slide, atau ide singkat.
+2. Teman memberi umpan balik dengan format: kekuatan, area perbaikan, dampak, saran konkret.
+3. Penerima umpan balik hanya boleh bertanya klarifikasi, bukan membela diri.
+4. Penerima memilih satu revisi yang akan dilakukan.
+
+## Latihan 5: Rapat Sepuluh Menit
+
+**Tujuan:** Melatih komunikasi profesional, koordinasi, dan keputusan.
+
+**Peran:** Moderator, pencatat, penjaga waktu, peserta.
+
+**Output wajib:**
+
+1. Keputusan.
+2. Alasan keputusan.
+3. Penanggung jawab.
+4. Tenggat.
+5. Kanal tindak lanjut.
+
+## Latihan 6: Rancangan TAIDA
+
+**Tujuan:** Melatih desain pesan dari target sampai tindakan.
+
+**Langkah:**
+
+1. Pilih topik dan audiens.
+2. Isi tabel TAIDA.
+3. Sampaikan rancangan dalam satu menit.
+4. Teman menilai tahap yang paling kuat dan tahap yang masih kabur.
+
+| Tahap | Pertanyaan |
+|---|---|
+| Target | Perubahan apa yang diharapkan? |
+| Attention | Bagaimana membuka perhatian? |
+| Interest | Mengapa ini relevan bagi audiens? |
+| Desire | Nilai apa yang membuat audiens ingin bergerak? |
+| Action | Langkah konkret apa yang diminta? |
+
+## Latihan 7: Presentasi 3-5 Menit
+
+**Tujuan:** Melatih komunikasi publik yang terstruktur dan manusiawi.
+
+**Struktur:**
+
+1. Pembukaan: hook, konteks, janji manfaat.
+2. Isi: dua atau tiga gagasan utama.
+3. Penutupan: ringkasan dan action.
+
+**Umpan balik:** Kejelasan target, kekuatan pembukaan, struktur, bukti, visual, suara, tubuh, dan penutupan.
+
+## Latihan 8: Musyawarah Banyak Pihak
+
+**Tujuan:** Melatih fasilitasi diskusi dan negosiasi.
+
+**Skenario:** Kelompok harus memilih topik proyek, tetapi anggota memiliki kepentingan berbeda.
+
+**Peran:** Fasilitator, pencatat, peserta dengan kebutuhan berbeda.
+
+**Tugas fasilitator:**
+
+1. Menjelaskan tujuan diskusi.
+2. Memberi ruang bagi tiap pihak.
+3. Membedakan posisi dan kebutuhan.
+4. Merumuskan pilihan solusi.
+5. Menutup dengan keputusan dan tindak lanjut.
+
+## Latihan 9: Revisi Pesan Digital
+
+**Tujuan:** Melatih etika dan kejelasan komunikasi digital.
+
+**Langkah:**
+
+1. Ambil pesan yang terlalu kabur, terlalu keras, atau terlalu panjang.
+2. Revisi dengan menambahkan konteks, tujuan, tindakan, dan nada hormat.
+3. Diskusikan perubahan makna setelah revisi.
+
+## Latihan 10: AI sebagai Mitra Latihan
+
+**Tujuan:** Memakai AI secara bertanggung jawab untuk memperbaiki komunikasi.
+
+**Langkah:**
+
+1. Tulis draft pesan sendiri.
+2. Gunakan AI untuk meminta alternatif perbaikan.
+3. Periksa akurasi dan kepantasan.
+4. Revisi agar tetap memakai suara pribadi.
+5. Catat bagaimana AI membantu dan keputusan apa yang tetap Anda ambil sendiri.
+
+## Penutup
+
+Latihan komunikasi adalah latihan menjadi manusia yang lebih hadir. Simulasi bukan panggung untuk mempermalukan, melainkan ruang untuk bertumbuh bersama.

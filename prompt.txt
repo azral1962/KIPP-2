@@ -61,3 +61,11 @@ Setiap bab harus memuat elemen berikut secara berurutan, dengan menerapkan pola 
 * **Desire (Presentasi - Akhir):** Berikan solusi, nilai, dan cara kerjanya. Yakinkan mereka hingga timbul hasrat untuk menguasainya.
 * **Action (Praktis & Perform):** Gelar "peta kompetensi". Berikan instruksi latihan atau aksi nyata. Temani mereka mempraktikkannya hingga berhasil.
 
+
+
+**Instruksi Eksekusi:**
+Berdasarkan panduan karakter dan struktur di atas, tolong buatkan **[Tuliskan apa yang Anda butuhkan di sini, misal: Draf Kata Pengantar yang memperkenalkan profil penulis / Draf Bab 1 tentang Konsep Dasar Komunikasi Interpersonal]**. Gunakan bahasa Indonesia yang baku, akademik, namun tetap memiliki sentuhan *storytelling* yang hangat, reflektif, dan penuh kasih layaknya tulisan di blog "Armein Z. R. Langi in the City of Eden".
+
+---
+
+Anda tinggal menyalin *Master Prompt* ini setiap kali ingin memulai penyusunan bagian-bagian buku Anda bersama AI. Pendekatan ini memastikan gaya bahasa, kebijaksanaan, dan pengalaman unik Anda tidak akan pernah hilang dari setiap halamannya.

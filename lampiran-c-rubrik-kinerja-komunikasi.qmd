@@ -1,0 +1,83 @@
+# Rubrik Kinerja Komunikasi
+
+Rubrik ini membantu mahasiswa dan dosen menilai komunikasi sebagai gabungan kompetensi, karakter, kasih, dan keberanian. Penilaian tidak dimaksudkan untuk mengecilkan pribadi, tetapi untuk memperjelas arah pertumbuhan.
+
+## Skala Umum
+
+| Skor | Deskripsi Umum |
+|---|---|
+| 4 | Sangat baik: jelas, matang, konsisten, dan berdampak. |
+| 3 | Baik: memenuhi tujuan utama dengan beberapa area perbaikan. |
+| 2 | Berkembang: sebagian unsur tampak, tetapi belum stabil atau belum jelas. |
+| 1 | Awal: masih kabur, minim bukti, atau belum menunjukkan kompetensi yang diminta. |
+
+## Rubrik Mendengar Aktif
+
+| Kriteria | 4 | 3 | 2 | 1 |
+|---|---|---|---|---|
+| Kehadiran | Fokus penuh dan responsif | Umumnya fokus | Sering terdistraksi | Tidak hadir secara nyata |
+| Parafrase | Akurat dan menenangkan | Cukup akurat | Kadang meleset | Tidak memparafrase |
+| Pertanyaan | Terbuka dan memperdalam | Cukup membantu | Terlalu tertutup | Menginterogasi atau menghakimi |
+| Validasi | Mengakui emosi dengan tepat | Ada validasi | Validasi dangkal | Mengecilkan perasaan |
+| Keheningan | Menggunakan jeda dengan sehat | Cukup sabar | Sering terburu-buru | Memotong atau mendominasi |
+
+## Rubrik Percakapan Asertif
+
+| Kriteria | 4 | 3 | 2 | 1 |
+|---|---|---|---|---|
+| Fakta | Spesifik dan tidak menyerang | Cukup jelas | Masih bercampur tafsir | Menyerang pribadi |
+| Dampak | Dampak dijelaskan konkret | Dampak cukup jelas | Dampak kabur | Tidak menjelaskan dampak |
+| Kebutuhan | Kebutuhan dinyatakan jernih | Kebutuhan ada | Kebutuhan samar | Tidak ada kebutuhan |
+| Ajakan | Realistis dan kolaboratif | Cukup dapat dilakukan | Terlalu umum | Tidak ada ajakan |
+| Nada | Tegas dan hormat | Umumnya hormat | Kadang defensif | Agresif atau pasif |
+
+## Rubrik Rancangan TAIDA
+
+| Kriteria | 4 | 3 | 2 | 1 |
+|---|---|---|---|---|
+| Target | Spesifik, audiens jelas, terukur | Cukup spesifik | Terlalu umum | Tidak jelas |
+| Attention | Kuat, relevan, jujur | Menarik | Menarik tetapi kurang relevan | Lemah atau tidak ada |
+| Interest | Menunjukkan empati audiens | Cukup relevan | Relevansi dangkal | Tidak memahami audiens |
+| Desire | Nilai kuat dan etis | Manfaat cukup jelas | Manfaat umum | Manipulatif atau kosong |
+| Action | Konkret, realistis, terukur | Cukup jelas | Masih kabur | Tidak ada tindakan |
+
+## Rubrik Presentasi Publik
+
+| Kriteria | 4 | 3 | 2 | 1 |
+|---|---|---|---|---|
+| Struktur | Alur sangat jelas dan hidup | Alur jelas | Alur kurang rapi | Sulit diikuti |
+| Isi | Akurat, relevan, cukup bukti | Isi baik | Bukti terbatas | Isi lemah |
+| Kehadiran | Suara, tubuh, tatapan selaras | Kehadiran baik | Kurang stabil | Tidak mendukung pesan |
+| Visual | Sederhana dan membantu | Cukup membantu | Terlalu penuh | Mengganggu |
+| Penutupan | Ringkas dan memberi action | Cukup jelas | Lemah | Tidak ada penutup bermakna |
+
+## Rubrik Komunikasi Digital dan AI
+
+| Kriteria | 4 | 3 | 2 | 1 |
+|---|---|---|---|---|
+| Kejelasan | Konteks, tujuan, dan tindakan jelas | Cukup jelas | Ada bagian kabur | Membingungkan |
+| Nada | Hormat dan sesuai kanal | Umumnya tepat | Kadang kurang tepat | Kasar atau tidak pantas |
+| Akurasi | Informasi diperiksa | Cukup akurat | Perlu verifikasi | Banyak klaim tanpa dasar |
+| Etika AI | Transparan, kritis, suara pribadi terjaga | Penggunaan cukup bertanggung jawab | Terlalu bergantung | Menyerahkan tanggung jawab pada AI |
+| Jejak digital | Membangun kredibilitas | Cukup baik | Tidak konsisten | Merusak kepercayaan |
+
+## Rubrik Portofolio Akhir
+
+| Kriteria | 4 | 3 | 2 | 1 |
+|---|---|---|---|---|
+| Kelengkapan | Semua komponen lengkap dan rapi | Hampir lengkap | Beberapa bagian kurang | Banyak bagian hilang |
+| Bukti | Konkret, relevan, dapat ditelusuri | Bukti cukup | Bukti minim | Tidak ada bukti nyata |
+| Refleksi | Dalam, jujur, terhubung konsep | Refleksi baik | Refleksi deskriptif | Refleksi dangkal |
+| Integrasi | Mengaitkan seluruh bagian buku | Mengaitkan beberapa konsep | Integrasi terbatas | Terpisah-pisah |
+| Rencana tumbuh | Realistis dan terukur | Cukup jelas | Terlalu umum | Tidak ada rencana |
+
+## Cara Memberi Umpan Balik
+
+Gunakan pola:
+
+1. Satu kekuatan spesifik.
+2. Satu bagian yang perlu diperbaiki.
+3. Dampak perbaikan bagi audiens atau relasi.
+4. Saran konkret untuk langkah berikutnya.
+
+Umpan balik yang baik tidak mempermalukan. Ia menyalakan jalan.

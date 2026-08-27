@@ -1,0 +1,77 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Komunikasi Interpersonal dan Publik"
+  subtitle: "Menjadi Sosok yang Menghadirkan Kepercayaan, Ketertarikan, dan Kehidupan"
+  author: "Armein Z. R. Langi"
+  date: "2026-08-27"
+  page-navigation: true
+  reader-mode: true
+  chapters:
+    - index.qmd
+    - dedikasi.qmd
+    - kata-pengantar.qmd
+    - cara-menggunakan-buku.qmd
+    - peta-petualangan-belajar.qmd
+    - pendahuluan.qmd
+    - part: "Bagian I - Menemukan Diri di Dalam Percakapan"
+      chapters:
+        - bab-01-manusia-bukan-sekadar-pesan.qmd
+        - bab-02-cermin-ganda.qmd
+        - bab-03-mendengar-sebagai-tindakan-kasih.qmd
+        - bab-04-bahasa-yang-menjembatani-makna.qmd
+    - part: "Bagian II - Membangun Relasi yang Dipercaya"
+      chapters:
+        - bab-05-keluarga-sahabat-dan-percakapan-yang-merawat.qmd
+        - bab-06-kepercayaan-mata-uang-terdalam-komunikasi.qmd
+        - bab-07-konflik-sebagai-undangan-bertumbuh.qmd
+        - bab-08-komunikasi-di-tempat-kerja-dan-pelayanan.qmd
+    - part: "Bagian III - Dari Ketertarikan Menuju Tindakan"
+      chapters:
+        - bab-09-taida-peta-menggerakkan-hati-dan-pikiran.qmd
+        - bab-10-target-dan-attention.qmd
+        - bab-11-interest-dan-desire.qmd
+        - bab-12-action-dari-pemahaman-ke-keputusan.qmd
+    - part: "Bagian IV - Menjadi Komunikator Publik"
+      chapters:
+        - bab-13-hidup-ini-teater.qmd
+        - bab-14-berbicara-di-depan-publik.qmd
+        - bab-15-negosiasi-musyawarah-dan-komunikasi-banyak-pihak.qmd
+        - bab-16-berkomunikasi-dengan-dunia-digital-dan-ai.qmd
+    - part: "Bagian V - Menjadi Life Star"
+      chapters:
+        - bab-17-capstone-portofolio-komunikator-utuh.qmd
+  appendices:
+    - lampiran-a-panduan-refleksi-dan-jurnal-komunikasi.qmd
+    - lampiran-b-panduan-latihan-dan-simulasi-kelas.qmd
+    - lampiran-c-rubrik-kinerja-komunikasi.qmd
+    - lampiran-d-template-portofolio-komunikator-utuh.qmd
+    - lampiran-e-etika-komunikasi-manusiawi-di-era-ai.qmd
+    - glosarium.qmd
+    - daftar-pustaka.qmd
+    - tentang-penulis.qmd
+
+bibliography: references.bib
+nocite: '@*'
+
+lang: id
+
+format:
+  typst:
+    toc: true
+    toc-title: "Daftar Isi"
+    toc-depth: 2
+    papersize: iso-b5
+    margin:
+      x: 1cm
+      y: 1cm
+    mainfont: "Inter"
+    fontsize: 12pt
+    linestretch: 1.5
+    linkcolor: "#1a73e8"
+  html:
+    theme:
+      - cosmo
+      - brand
