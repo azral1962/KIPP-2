@@ -1,0 +1,158 @@
+{
+  "about.qmd": {
+    "about.html": "5dab75a5"
+  },
+  "assessment/index.qmd": {
+    "index.html": "df9aabf4"
+  },
+  "assessment/rubric.qmd": {
+    "rubric.html": "b310e8fa"
+  },
+  "course/index.qmd": {
+    "index.html": "dc2043d3"
+  },
+  "course/week-01.qmd": {
+    "week-01.html": "8d92a338"
+  },
+  "course/week-02.qmd": {
+    "week-02.html": "96eeae96"
+  },
+  "course/week-03.qmd": {
+    "week-03.html": "e098860c"
+  },
+  "course/week-04.qmd": {
+    "week-04.html": "355bcf22"
+  },
+  "course/week-05.qmd": {
+    "week-05.html": "7bfa1155"
+  },
+  "course/week-06.qmd": {
+    "week-06.html": "1bfb7745"
+  },
+  "course/week-07.qmd": {
+    "week-07.html": "300aa35a"
+  },
+  "course/week-08.qmd": {
+    "week-08.html": "ce7d0f9a"
+  },
+  "course/week-09.qmd": {
+    "week-09.html": "48e8e78d"
+  },
+  "course/week-10.qmd": {
+    "week-10.html": "b3a30241"
+  },
+  "course/week-11.qmd": {
+    "week-11.html": "7092134f"
+  },
+  "course/week-12.qmd": {
+    "week-12.html": "bf4cd9cf"
+  },
+  "course/week-13.qmd": {
+    "week-13.html": "a09d1524"
+  },
+  "course/week-14.qmd": {
+    "week-14.html": "7ad5760d"
+  },
+  "course/week-15.qmd": {
+    "week-15.html": "0da09498"
+  },
+  "includes/evidence-template.qmd": {
+    "evidence-template.html": "a7f26e8b"
+  },
+  "index.qmd": {
+    "index.html": "82b50ea4"
+  },
+  "portfolio/index.qmd": {
+    "index.html": "652423ea"
+  },
+  "portfolio/week-01.qmd": {
+    "week-01.html": "25841692"
+  },
+  "portfolio/week-02.qmd": {
+    "week-02.html": "05519e66"
+  },
+  "portfolio/week-03.qmd": {
+    "week-03.html": "1a352885"
+  },
+  "portfolio/week-04.qmd": {
+    "week-04.html": "d93cb955"
+  },
+  "portfolio/week-05.qmd": {
+    "week-05.html": "17abf4f2"
+  },
+  "portfolio/week-06.qmd": {
+    "week-06.html": "3d1d59ae"
+  },
+  "portfolio/week-07.qmd": {
+    "week-07.html": "e27d9e8f"
+  },
+  "portfolio/week-08.qmd": {
+    "week-08.html": "5bfd5df6"
+  },
+  "portfolio/week-09.qmd": {
+    "week-09.html": "04d82280"
+  },
+  "portfolio/week-10.qmd": {
+    "week-10.html": "2b9d8d4b"
+  },
+  "portfolio/week-11.qmd": {
+    "week-11.html": "686abb40"
+  },
+  "portfolio/week-12.qmd": {
+    "week-12.html": "0a21c674"
+  },
+  "portfolio/week-13.qmd": {
+    "week-13.html": "29b0d1da"
+  },
+  "portfolio/week-14.qmd": {
+    "week-14.html": "ec56a169"
+  },
+  "portfolio/week-15.qmd": {
+    "week-15.html": "d7374ccb"
+  },
+  "slides/minggu-01.qmd": {
+    "minggu-01.html": "39402847"
+  },
+  "slides/minggu-02.qmd": {
+    "minggu-02.html": "73ac0ebf"
+  },
+  "slides/minggu-03.qmd": {
+    "minggu-03.html": "4dc89f8e"
+  },
+  "slides/minggu-04.qmd": {
+    "minggu-04.html": "bc3b5366"
+  },
+  "slides/minggu-05.qmd": {
+    "minggu-05.html": "8d03dfa4"
+  },
+  "slides/minggu-06.qmd": {
+    "minggu-06.html": "c9476a97"
+  },
+  "slides/minggu-07.qmd": {
+    "minggu-07.html": "255e0409"
+  },
+  "slides/minggu-08.qmd": {
+    "minggu-08.html": "e772120c"
+  },
+  "slides/minggu-09.qmd": {
+    "minggu-09.html": "d8a69d46"
+  },
+  "slides/minggu-10.qmd": {
+    "minggu-10.html": "bccb4b5a"
+  },
+  "slides/minggu-11.qmd": {
+    "minggu-11.html": "e0df634e"
+  },
+  "slides/minggu-12.qmd": {
+    "minggu-12.html": "5e3e7ace"
+  },
+  "slides/minggu-13.qmd": {
+    "minggu-13.html": "ee34b360"
+  },
+  "slides/minggu-14.qmd": {
+    "minggu-14.html": "0ce8d7e2"
+  },
+  "slides/minggu-15.qmd": {
+    "minggu-15.html": "5b9f22d3"
+  }
+}
