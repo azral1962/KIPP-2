@@ -1,0 +1,111 @@
+---
+exported: 2026-09-07T10:03:47.548Z
+source: NotebookLM
+type: chat
+title: "Thoughts expand_moreBerikut adalah draf pitch Kuli..."
+---
+
+# Thoughts expand_moreBerikut adalah draf pitch Kuli...
+
+Exported at: 9/7/2026, 5:03:47 PM
+
+---
+
+Thoughts
+
+Berikut adalah draf **pitch Kuliah 5** yang dirancang menggunakan pendekatan **TAIDA (Target, Attention, Interest, Desire, Action)** untuk membawakan materi **Bab 5: Rekan Kerja dan Pelanggan: Menciptakan Nilai Bersama**\[1\].
+
+Anda dapat membawakan draf ini pada **10 menit pertama** kuliah kelima untuk membuka wawasan mahasiswa mengenai transisi dari komunikasi personal menuju komunikasi profesional di dunia kerja.
+
+* * *
+
+### **Draf Pitch Kuliah 5: "Menciptakan Nilai Nyata di Dunia Kerja"**
+
+**1\. TARGET (Sasaran): Memahami Siapa di Hadapan Kita**
+
+-   **Target Penerima:** Mahasiswa minggu kelima yang sedang bersiap menghadapi proyek kelompok besar, magang, atau persiapan karier pascakampus. Mereka sering kali terlalu fokus pada "kehebatan teknis" diri sendiri atau "apa yang bisa saya dapatkan" daripada memikirkan "kontribusi apa yang dibutuhkan oleh orang lain".
+-   **Keadaan TAIDA Awal:** Banyak mahasiswa mengira komunikasi profesional hanyalah urusan formalitas transaksi atau sekadar mengirim draf tugas ke rekan kerja/pelanggan tanpa memedulikan kegunaan nyata hasil kerja tersebut.
+-   **Sasaran Perubahan:** Menyadarkan mahasiswa bahwa dunia kerja adalah sebuah sistem relasi untuk memecahkan masalah nyata\[2\] dan nilai sebuah karya hanya tercipta ketika karya tersebut sungguh membantu penerimanya\[3\].
+
+* * *
+
+**2\. ATTENTION (Perhatian): Jebakan Fitur Canggih yang Sia-sia**
+
+_(Buka kelas dengan ilustrasi yang tajam dan kontras)_
+
+"Selamat pagi/siang rekan-rekan mahasiswa. Mari kita bayangkan sebuah tim pengembang teknologi yang sangat genius. Mereka menghabiskan waktu berbulan-bulan, begadang setiap malam, dan menghabiskan anggaran jutaan rupiah untuk membangun sebuah aplikasi super canggih dengan algoritma yang luar biasa rumit.
+
+Namun, begitu diluncurkan, ternyata tidak ada satu pun orang yang mengunduh atau menggunakannya karena aplikasi tersebut terlalu membingungkan dan tidak menjawab kesulitan sehari-hari siapa pun. Semua kerja keras itu berakhir di tempat sampah digital.
+
+Mengapa tragedi profesional seperti ini sangat sering terjadi?
+
+Esensi Bab 5 buku kita menuliskan sebuah tamparan keras bagi kita semua: **'Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia'**\[4\].
+
+Di awal karier saya pada tahun 1988 sebagai dosen muda di PAU Mikroelektronika ITB, saya pun belajar bahwa pekerjaan tidak pernah berjalan satu arah\[5\]. Karier dan kesempatan belajar saya tidak tumbuh dengan sekadar pamer kepintaran atau menuntut hak, melainkan ketika saya mulai bertanya: _'Masalah apa yang penting bagi lembaga ini, nilai apa yang dapat saya sumbangkan, dan bersama siapa saya perlu belajar?'_\[2\]\[6\]. Hari ini, mari kita ubah cara pandang kita tentang arti menjadi seorang profesional."
+
+* * *
+
+**3\. INTEREST (Minat): Pekerjaan adalah Sistem Relasi antar-Pribadi**
+
+_(Hubungkan masalah ini dengan realitas tempat kerja dan perspektif penciptaan nilai)_
+
+"Mengapa kita perlu mengubah cara pandang ini? Karena di dunia kerja nanti, **organisasi tidak diisi oleh robot dingin berlabel 'pegawai' atau 'pelanggan'**\[2\]. Dunia kerja adalah sebuah **sistem relasi** yang berisi pribadi-pribadi nyata yang sedang menjalankan tanggung jawab peran mereka masing-masing\[2\]\[7\].
+
+Seperti yang diingatkan oleh bapak manajemen modern, Peter Drucker, keberhasilan profesional kita sepenuhnya bergantung pada kemampuan kita melihat keluar—kepada orang yang kita layani\[3\]. **Nilai dari apa yang Anda kerjakan tidak ditentukan oleh Anda, melainkan berada dalam pengalaman penerima manfaat pekerjaan tersebut**\[3\].
+
+Di sinilah kesalahan komunikasi profesional terbesar sering kita lakukan: **kita terlalu cepat menyodorkan solusi atau membuat fitur sebelum kita benar-benar memahami masalahnya**\[4\]\[8\].
+
+Ketika seorang rekan kerja atau pelanggan meminta 'dibuatkan aplikasi baru', permintaan itu belum tentu solusi terbaik\[9\]. Kebutuhannya mungkin hanyalah akses informasi yang lebih cepat\[10\]. Jika kita langsung melompat membuat aplikasi tanpa bertanya, kita hanya sedang memuaskan ego kita sendiri, bukan menyelesaikan masalah nyata mereka\[8\]\[10\]."
+
+* * *
+
+**4\. DESIRE (Keinginan): Meraih Harta Karun "Kepercayaan Profesional"**
+
+_(Tawarkan kompetensi kunci yang akan mereka kuasai di bab ini)_
+
+"Di kuliah hari ini, Anda akan dibekali dengan instrumen penting untuk menjadi profesional yang dicari di dunia kerja:
+
+Pertama, kita akan melatih **Wawancara Penemuan Kebutuhan** menggunakan _5 Pertanyaan Penemuan_\[9\]\[11\]. Anda akan belajar bagaimana mendengarkan secara mendalam untuk membedakan mana yang merupakan **Masalah, Kebutuhan, Permintaan, dan Solusi**\[9\]\[10\].
+
+Kedua, kita akan belajar membangun **Kepercayaan Profesional** yang kokoh\[12\]. Kepercayaan beralaskan kompetensi saja tidaklah cukup. Anda membutuhkan integritas, keandalan dalam kata dan tindakan, kejujuran untuk mengakui batas kemampuan, serta kepedulian yang tulus terhadap dampak kerja Anda pada manusia lain\[13\].
+
+Dan ketiga, kita akan belajar menggeser budaya komunikasi tim kita: **dari sekadar menyalahkan orang menuju menyelesaikan masalah bersama**\[12\]\[14\]. Kita akan melatih cara mengkritik proses kerja secara jernih tanpa perlu menyerang atau melabeli karakter pribadi rekan kerja kita\[14\]."
+
+* * *
+
+**5\. ACTION (Tindakan): Wawancara dan Merumuskan Masalah**
+
+_(Ajak mahasiswa mengambil langkah praktis secara sukarela)_
+
+"Ingatlah prinsip ini sepanjang minggu: **Jangan mulai dari apa yang ingin Anda jual atau bangun. Mulailah dari manusia, masalah yang penting baginya, dan keadaan lebih baik yang ingin diwujudkan bersama**\[15\].
+
+Untuk itu, tindakan nyata kita hari ini adalah keluar dari zona nyaman akademis kita. Tugas praktis Anda minggu ini adalah melakukan **Wawancara Penemuan Kebutuhan** yang nyata kepada seseorang di lingkungan kampus\[11\]\[16\].
+
+Dari wawancara tersebut, Anda akan melatih kejernihan berpikir untuk menyusun satu paragraf presisi bernama **Pernyataan Masalah Pelanggan** (_Customer Problem Statement_) menggunakan formula terstruktur: _siapa perannya, apa masalahnya, apa dampaknya, hasil apa yang diharapkan, dan apa kendala nyatanya_\[12\]\[17\].
+
+Mari kita buka pintu komunikasi profesional kita, mulailah mendengarkan sebelum menyodorkan solusi, dan mari kita ciptakan nilai bersama."
+
+* * *
+
+💡 **Nudge**: Bagaimana jika saya siapkan rancangan **Panduan Wawancara Penemuan Kebutuhan & Formula Pernyataan Masalah Pelanggan** sebagai lembar kerja praktis mahasiswa untuk mendampingi penugasan Bab 5 ini?
+---
+
+## References
+
+[1] Komunikasi-Interpersonal-dan-Publik.pdf
+[2] Komunikasi-Interpersonal-dan-Publik.pdf
+[3] Komunikasi-Interpersonal-dan-Publik.pdf
+[4] Komunikasi-Interpersonal-dan-Publik.pdf
+[5] Komunikasi-Interpersonal-dan-Publik.pdf
+[6] Komunikasi-Interpersonal-dan-Publik.pdf
+[7] Komunikasi-Interpersonal-dan-Publik.pdf
+[8] Komunikasi-Interpersonal-dan-Publik.pdf
+[9] Komunikasi-Interpersonal-dan-Publik.pdf
+[10] Komunikasi-Interpersonal-dan-Publik.pdf
+[11] Komunikasi-Interpersonal-dan-Publik.pdf
+[12] Komunikasi-Interpersonal-dan-Publik.pdf
+[13] Komunikasi-Interpersonal-dan-Publik.pdf
+[14] Komunikasi-Interpersonal-dan-Publik.pdf
+[15] Komunikasi-Interpersonal-dan-Publik.pdf
+[16] Komunikasi-Interpersonal-dan-Publik.pdf
+[17] Komunikasi-Interpersonal-dan-Publik.pdf

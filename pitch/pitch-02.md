@@ -1,0 +1,108 @@
+---
+exported: 2026-09-07T10:01:47.869Z
+source: NotebookLM
+type: chat
+title: "Thoughts expand_moreBerikut adalah draf pitch Kuli..."
+---
+
+# Thoughts expand_moreBerikut adalah draf pitch Kuli...
+
+Exported at: 9/7/2026, 5:01:47 PM
+
+---
+
+Thoughts
+
+Berikut adalah draf **pitch Kuliah 2** yang dirancang khusus menggunakan pendekatan **TAIDA (Target, Attention, Interest, Desire, Action)** untuk materi **Bab 2: Percakapan dengan Diri Sendiri**\[1\]\[2\].
+
+Anda dapat membawakan pitch ini dalam **10 menit pertama** sesi perkuliahan kedua untuk langsung menyita perhatian mahasiswa, menyadarkan mereka akan dinamika batin mereka, dan mengajak mereka menghentikan "film horor" di kepala mereka sebelum mulai merespons suatu peristiwa\[2\].
+
+* * *
+
+### **Draf Pitch Kuliah 2: "Berhenti Membuat Film Horor di Kepala Anda"**
+
+**1\. TARGET (Sasaran): Memahami Siapa di Hadapan Kita**
+
+-   **Target Penerima:** Mahasiswa minggu kedua yang baru saja memetakan peran komunikasi mereka. Mereka sering menghadapi stres akademik, ketidakpastian masa depan, kecemasan sosial, dan memiliki kecenderungan bersikap defensif atau _overthinking_ ketika menghadapi kritik atau hambatan.
+-   **Keadaan TAIDA Awal:** Mahasiswa biasanya mengira berpikir batin adalah proses otomatis yang tidak bisa dikontrol, atau mengira kunci kedamaian batin hanyalah "berpikir positif" secara naif\[3\].
+-   **Sasaran Perubahan:** Mengajak mereka menyadari bahwa sebelum bisa berkomunikasi dengan sehat kepada dunia luar, mereka harus mampu merapikan percakapan di dalam diri mereka sendiri\[4\]\[5\].
+
+* * *
+
+**2\. ATTENTION (Perhatian): Mengusik "Film Horor" Batin**
+
+_(Buka kelas dengan ilustrasi yang sangat dekat dengan keseharian mahasiswa)_
+
+"Selamat pagi/siang rekan-rekan mahasiswa. Mari kita bayangkan sebuah situasi yang sangat akrab: Anda mengirim pesan WhatsApp penting kepada seseorang. Satu jam berlalu... dua jam... hingga lima jam, dan pesan Anda hanya dibaca tanpa dibalas, atau centang birunya bahkan tidak kunjung muncul\[6\]\[7\].
+
+Apa cerita pertama yang langsung melompat di kepala Anda?
+
+Kebanyakan dari kita akan mulai memutar 'film horor' batin kita sendiri: _'Dia sengaja mengabaikan saya,' 'Dia tidak menghargai saya,'_ atau _'Saya pasti telah berbuat salah.'_\[7\] Kita mulai merasa cemas, kesal, atau bahkan berencana membalas dengan mendiamkan dia balik.
+
+Peristiwanya sangat sederhana: _pesan belum dibalas selama lima jam_\[7\]. Namun, cerita batin yang Anda putar begitu rumit dan menakutkan\[8\]. Mengapa kita begitu mahir menyiksa diri kita sendiri dengan skenario-skenario yang belum tentu nyata?"
+
+* * *
+
+**3\. INTEREST (Minat): Menyingkap Rahasia di Balik Respons Kita**
+
+_(Hubungkan masalah batin ini dengan teori komunikasi intrapribadi dan pengalaman nyata)_
+
+"Sadar atau tidak, **kita sebenarnya tidak pernah bereaksi langsung terhadap sebuah peristiwa. Kita selalu bereaksi terhadap makna atau narasi batin yang kita bangun sendiri atas peristiwa tersebut**\[9\].
+
+Mari kita lihat kisah nyata penulis buku kita, Pak Armein, saat beliau mendaftar studi ke luar negeri. Beliau tidak ditolak oleh satu atau dua universitas, melainkan menerima **tujuh surat penolakan berturut-turut**!\[12\]\[13\] Tujuh penolakan itu nyata, dan rasa kecewa itu sangat manusiawi\[9\].
+
+Jika saat itu beliau memilih narasi korban seperti: _'Saya memang tidak layak,'_ atau _'Semua usaha saya sia-sia,'_ maka tindakan beliau akan lumpuh dan perjalanannya selesai di sana\[13\]. Namun, beliau memilih melihatnya secara analitis: _'Kualifikasi saya saat ini belum sesuai dengan kondisi universitas.'_\[13\]\[14\] Pergeseran narasi batin inilah yang menyelamatkan masa depan beliau, membawa beliau terus berikhtiar hingga akhirnya diterima oleh seorang profesor di University of Manitoba\[13\].
+
+Di dalam kepala kita masing-masing, sebenarnya ada 'ruang rapat batin' yang sangat ramai\[15\]. Di sana ada **Sang Hakim** yang gemar menyalahkan, **Sang Pencemas** yang sibuk memikirkan skenario terburuk, **Sang Pembela** yang selalu mencari-cari alasan, hingga **Sang Pembelajar** yang selalu penasaran mencari hikmah\[15\]\[16\].
+
+Masalahnya, kedewasaan komunikasi kita bukan diukur dari cara mengusir tokoh-tokoh ini, melainkan bagaimana kita memimpin 'ruang rapat' itu agar tidak dikuasai oleh satu suara yang merusak\[15\]."
+
+* * *
+
+**4\. DESIRE (Keinginan): Menawarkan "Harta Karun" Kejernihan Batin**
+
+_(Tunjukkan janji perubahan yang realistis dan berharga bagi hidup mereka)_
+
+"Harta karun yang kita cari di kuliah hari ini bukanlah cara memaksakan diri agar selalu 'berpikir positif' secara buta—karena berpikir positif yang menyangkal kenyataan pahit justru bisa melumpuhkan kita\[3\].
+
+Harta karun hari ini adalah **kejernihan batin**: kemampuan luar biasa untuk memisahkan apa yang benar-benar terjadi (fakta) dari apa yang kita tafsirkan (asumsi)\[4\]. Kita belajar memberi jeda yang menyelamatkan di antara rangsangan dan respons kita\[4\]\[10\].
+
+Ketika Anda menguasai percakapan dengan diri sendiri, Anda tidak lagi menjadi budak dari emosi sesaat atau reaksi autopilot yang merusak relasi\[8\]\[17\]. Anda memiliki kebebasan penuh untuk merancang sendiri respons terbaik Anda\[10\]\[17\]."
+
+* * *
+
+**5\. ACTION (Tindakan): Langkah Kecil Pertama**
+
+_(Ajak mahasiswa langsung mempraktikkan konsep tersebut di kelas)_
+
+"Mari kita belajar merajut kejernihan itu hari ini. Kita akan melakukan latihan praktis yang disebut **'Tiga Narasi atas Satu Peristiwa'**\[18\].
+
+Saya meminta Anda mengingat satu peristiwa sulit atau kurang menyenangkan yang baru-baru ini terjadi dalam hidup Anda\[18\]. Kita akan menuangkannya ke dalam lembar kerja untuk membedah fakta objektifnya\[18\], lalu melihat bagaimana peristiwa yang sama bisa diceritakan lewat tiga kacamata yang sangat berbeda: _Narasi Korban_, _Narasi Analitis_, dan _Narasi Pertumbuhan_\[18\]\[19\].
+
+Mari kita buka jurnal batin kita, matikan film horor yang melelahkan itu, dan mari kita mulai mengambil alih kendali atas cerita hidup kita sendiri."
+
+* * *
+
+📝 **Nudge**: Pitch ini sangat siap digunakan untuk membuka kelas dan menyadarkan mahasiswa tentang pentingnya dialog batin yang sehat! Apakah Anda ingin saya menyiapkan rancangan **Lembar Kerja Panduan Aktivitas Praktis "Tiga Narasi atas Satu Peristiwa"**\[18\]\[19\] untuk mendampingi aktivitas mandiri mahasiswa setelah pitch ini dibacakan?
+---
+
+## References
+
+[1] Komunikasi-Interpersonal-dan-Publik.pdf
+[2] Komunikasi-Interpersonal-dan-Publik.pdf
+[3] Komunikasi-Interpersonal-dan-Publik.pdf
+[4] Komunikasi-Interpersonal-dan-Publik.pdf
+[5] Komunikasi-Interpersonal-dan-Publik.pdf
+[6] Komunikasi-Interpersonal-dan-Publik.pdf
+[7] Komunikasi-Interpersonal-dan-Publik.pdf
+[8] Komunikasi-Interpersonal-dan-Publik.pdf
+[9] Komunikasi-Interpersonal-dan-Publik.pdf
+[10] Komunikasi-Interpersonal-dan-Publik.pdf
+[12] Komunikasi-Interpersonal-dan-Publik.pdf
+[13] Komunikasi-Interpersonal-dan-Publik.pdf
+[14] Komunikasi-Interpersonal-dan-Publik.pdf
+[15] Komunikasi-Interpersonal-dan-Publik.pdf
+[16] Komunikasi-Interpersonal-dan-Publik.pdf
+[17] Komunikasi-Interpersonal-dan-Publik.pdf
+[18] Komunikasi-Interpersonal-dan-Publik.pdf
+[19] Komunikasi-Interpersonal-dan-Publik.pdf

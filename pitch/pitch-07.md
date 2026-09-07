@@ -1,0 +1,92 @@
+---
+exported: 2026-09-07T10:05:15.746Z
+source: NotebookLM
+type: chat
+title: "Thoughts expand_moreBerikut adalah draf pitch Kuli..."
+---
+
+# Thoughts expand_moreBerikut adalah draf pitch Kuli...
+
+Exported at: 9/7/2026, 5:05:15 PM
+
+---
+
+Thoughts
+
+Berikut adalah draf **pitch Kuliah 7** yang dirancang menggunakan pendekatan **TAIDA (Target, Attention, Interest, Desire, Action)** untuk membawakan materi **Bab 7: Menumbuhkan Minat (TAIDA II)**.
+
+Anda dapat menyampaikan draf ini pada **10 menit pertama** perkuliahan ketujuh untuk menyadarkan mahasiswa mengenai bahaya perangkap "Pembuangan Fitur" (_Feature Dumping_) dan melatih mereka membangun kecocokan nyata antara masalah dan solusi.
+
+* * *
+
+### **Draf Pitch Kuliah 7: "Berhentilah Membuang-buang Fitur"**
+
+**1\. TARGET (Sasaran): Memahami Siapa di Hadapan Kita**
+
+-   **Target Penerima:** Mahasiswa minggu ketujuh yang sedang mempersiapkan draf solusi untuk proyek kelas mereka atau bersiap menghadapi evaluasi tengah semester. Mereka biasanya sangat mencintai solusi atau teknologi buatan mereka sendiri, sehingga cenderung tergesa-gesa memaparkan daftar fitur teknis yang rumit.
+-   **Keadaan TAIDA Awal:** Mahasiswa berasumsi bahwa begitu seseorang mengakui sebuah masalah (tahap Perhatian), orang tersebut otomatis akan tertarik pada kecanggihan solusi teknis yang mereka tawarkan.
+-   **Sasaran Perubahan:** Menggeser fokus mahasiswa dari "apa yang bisa dilakukan oleh teknologi/solusi saya" menuju "bagaimana mekanisme solusi ini menjawab secara spesifik persoalan nyata penerima manfaat."
+
+* * *
+
+**2\. ATTENTION (Perhatian): Ketika Keindahan Teknologi Justru Menidurkan Pendengar**
+
+_(Buka kelas dengan ilustrasi yang membenturkan ekspektasi mahasiswa dengan realitas)_
+
+"Selamat pagi/siang rekan-rekan mahasiswa sekalian. Mari kita bayangkan sebuah situasi yang sangat sering terjadi dalam rapat profesional.
+
+Anda telah berhasil memukau pengelola kantin kampus. Beliau mengangguk setuju dan mengakui, _'Ya, antrean panjang di jam makan siang adalah masalah besar bagi kami.'_ Anda telah sukses mendapatkan **Perhatian** (_Attention_) beliau.
+
+Lalu, karena terlalu bersemangat, Anda langsung membuka laptop, menampilkan diagram arsitektur sistem, dan menjelaskan: _'Kami menggunakan arsitektur basis data terdistribusi dengan enkripsi tingkat tinggi, integrasi API gerbang pembayaran nirkabel, dan autentikasi multi-faktor menggunakan akun media sosial!'_
+
+Di tengah penjelasan Anda, pengelola kantin tersebut mulai bersandar di kursinya, menguap diam-diam, atau kembali memeriksa tumpukan nota di mejanya. Anda baru saja kehilangan beliau.
+
+Mengapa presentasi teknologi yang begitu canggih justru membuat calon pengguna kita kehilangan ketertarikan? Karena Anda melakukan kesalahan fatal yang disebut **Pembuangan Fitur** (_Feature Dumping_). Anda lupa bahwa **orang jarang tertarik pada kecanggihan teknologi sebelum mereka melihat hubungan langsungnya dengan beban kerja atau persoalan sehari-hari yang sedang mereka hadapi**."
+
+* * *
+
+**3\. INTEREST (Minat): Perangkap Menumpuk Fitur yang Tidak Relevan**
+
+_(Hubungkan dengan konsep teoretis Bab 7 mengenai pemisahan Fitur, Manfaat, dan Nilai)_
+
+"Mengapa perhatian tidak sama dengan minat? Perhatian hanya berarti seseorang menyadari adanya masalah atau peluang. Minat baru akan tumbuh ketika mereka melihat **kemungkinan solusi yang menempel tepat pada masalah tersebut melalui mekanisme yang masuk akal** \[7.10\].
+
+Hubungan ini harus presisi. Buku ajar kita memberikan contoh yang sangat tajam: jika masalah utama pengelola kantin adalah _ketidakpastian waktu tunggu di jam sibuk_, maka fitur _'masuk sistem menggunakan akun media sosial'_ sama sekali tidak ada gunanya bagi mereka \[7.6\]. Fitur itu hanya memuaskan ego kita sebagai pembuatnya, tetapi menjadi beban bahasa yang membingungkan bagi pendengar kita.
+
+Di sinilah kita harus belajar membedakan tiga hal dasar:
+
+-   **Fitur:** apa yang dimiliki atau dilakukan oleh solusi kita \[7.7.1\].
+-   **Manfaat:** perubahan langsung yang dimungkinkan oleh fitur tersebut \[7.7.1\].
+-   **Nilai:** mengapa perubahan itu berharga bagi kehidupan nyata pribadi tertentu \[7.7.1\].
+
+Nilai itu bersifat relasional. Fitur estimasi waktu tunggu yang sama memiliki **Nilai** berupa _kepastian waktu_ agar mahasiswa tidak terlambat masuk kelas, namun bagi pemilik kantin, fiturnya bernilai _berkurangnya kerumunan di depan kasir_ \[7.7.2\]. Jangan menawarkan fitur; tawarkan nilai."
+
+* * *
+
+**4\. DESIRE (Keinginan): Menawarkan Harta Karun "Kecocokan Masalah-Solusi"**
+
+_(Sajikan kompetensi kunci yang akan mereka kuasai di sesi kuliah ini)_
+
+"Harta karun yang kita cari di kuliah hari ini adalah kemampuan mendesain **Kecocokan Masalah-Solusi** (_Problem-Solution Fit_) \[7.1\]. Kita akan melatih kekuatan berpikir kita untuk tidak sekadar menyajikan daftar kemampuan solusi, melainkan menerjemahkannya menjadi jembatan relevansi.
+
+Kita akan melatih kompetensi **Komunikasi Berlapis** (_Layered Communication_) \[7.9\]. Anda akan diajar untuk menyajikan informasi secara bertahap: mulai dari satu kalimat kemungkinan yang memikat, mekanisme ringkas yang masuk akal, demonstrasi visual atau prototipe sederhana, hingga rincian teknis mendalam jika memang diminta.
+
+Kita juga akan belajar melakukan **Detoks Fitur** (_Feature Detox_)—sebuah proses berani untuk membuang semua fitur canggih yang sebenarnya tidak menyelesaikan masalah yang telah disepakati \[7.14\]. Menunjukkan batas kemampuan sistem kita secara jujur justru akan meningkatkan kredibilitas Anda di hadapan dunia profesional \[7.8\]."
+
+* * *
+
+**5\. ACTION (Tindakan): Tantangan Detoks Fitur 60 Detik**
+
+_(Ajak mahasiswa mengambil tindakan sukarela dan menantang di kelas)_
+
+"Mari kita uji ketajaman berpikir kita sekarang juga sebelum kita terjebak dalam monolog yang membosankan. Kita akan melakukan latihan praktis bernama **'Detoks Fitur 60 Detik'** \[7.15\].
+
+Ambil satu gagasan, teknologi, atau program kelompok yang paling Anda sukai saat ini. Tuliskan deskripsinya dalam satu kalimat saja. Tantangannya: **Anda dilarang keras menyebutkan nama teknologinya, nama fiturnya, ataupun istilah teknisnya** \[7.4\]. Anda hanya boleh menyebutkan masalah apa yang dibantu oleh solusi Anda dan hasil awal apa yang nyata diperoleh oleh penggunanya.
+
+Sampaikan draf satu kalimat tersebut kepada rekan di sebelah Anda, lalu amati responsnya. Apakah matanya berbinar dan bertanya, _'Bagaimana cara kerjanya?'_—atau ia justru kebingungan?
+
+Mari kita bersihkan bahasa kita dari jargon-jargon yang memisahkan. Mari kita mulai melatih kelenturan bahasa kita untuk menumbuhkan minat yang jujur hari ini."
+
+* * *
+
+💡 **Nudge**: Karena Kuliah 7 ini adalah materi terakhir sebelum mahasiswa menghadapi **Laboratorium Kinerja I (UTS)** di minggu berikutnya, apakah Anda ingin saya menyiapkan rancangan **Lembar Aktivitas Praktis "Detoks Fitur & Pitch Masalah-Solusi 60 Detik"** agar mereka memiliki panduan latihan yang matang sebelum ujian?
