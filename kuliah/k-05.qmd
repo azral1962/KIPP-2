@@ -1,0 +1,85 @@
+---
+title: "Rekan Kerja dan Pelanggan: Menciptakan Nilai Bersama"
+subtitle: "Transkrip Kuliah Bab 05 — Alur TAIDA"
+lang: id
+---
+
+**Bahan kuliah:** [Slide deck](../slides-pdf/slides-05.pdf) · [Pitch TAIDA](../pitch/pitch-05.qmd) · [Lembar kerja](../lk/lk-05.qmd).
+
+*Naskah tutur untuk pengajar; bukan transkripsi rekaman. Nomor slide mengikuti halaman PDF, termasuk halaman judul. Penanda miring adalah petunjuk penyajian. Beri jeda pada pertanyaan untuk mendengar respons mahasiswa.*
+
+## Target — Mengenali titik berangkat
+
+*[Tampilkan slide 1](../slides-pdf/slides-05.pdf#page=1).*
+
+Kita beralih ke pekerjaan dan pelanggan. Anda mungkin sedang mengerjakan proyek, menyiapkan magang, atau menawarkan gagasan kepada organisasi. Hari ini kita belajar menemukan masalah yang benar-benar penting bagi orang yang akan memakai hasil kerja kita. Siapkan satu contoh permintaan yang pernah Anda dengar, seperti permintaan aplikasi, laporan, atau layanan baru.
+
+## Attention — Membuka perhatian
+
+*[Tampilkan slide 1–2](../slides-pdf/slides-05.pdf#page=1).*
+
+Mari kita bayangkan sebuah tim pengembang teknologi yang sangat genius. Mereka menghabiskan waktu berbulan-bulan, begadang setiap malam, dan menghabiskan anggaran jutaan rupiah untuk membangun sebuah aplikasi super canggih dengan algoritma yang luar biasa rumit.
+
+Namun, begitu diluncurkan, ternyata tidak ada satu pun orang yang mengunduh atau menggunakannya karena aplikasi tersebut terlalu membingungkan dan tidak menjawab kesulitan sehari-hari siapa pun. Semua kerja keras itu berakhir di tempat sampah digital.
+
+Mengapa tragedi profesional seperti ini sangat sering terjadi?
+
+Esensi Bab 5 buku kita menuliskan sebuah tamparan keras bagi kita semua: **'Produk yang canggih belum tentu bernilai. Nilai lahir ketika pengetahuan, pekerjaan, dan layanan sungguh-sungguh menjawab persoalan manusia'**.
+
+Di awal karier saya pada tahun 1988 sebagai dosen muda di PAU Mikroelektronika ITB, saya pun belajar bahwa pekerjaan tidak pernah berjalan satu arah. Karier dan kesempatan belajar saya tidak tumbuh dengan sekadar pamer kepintaran atau menuntut hak, melainkan ketika saya mulai bertanya: _'Masalah apa yang penting bagi lembaga ini, nilai apa yang dapat saya sumbangkan, dan bersama siapa saya perlu belajar?'_. Hari ini, mari kita ubah cara pandang kita tentang arti menjadi seorang profesional.
+
+## Interest — Memahami dan menghubungkan materi
+
+### Menemukan masalah di balik permintaan
+
+*[Tampilkan slide 2–5](../slides-pdf/slides-05.pdf#page=2).*
+
+Perhatikan irisan pada slide 2. Nilai muncul ketika kemampuan solusi bertemu kebutuhan nyata. Usaha pembuat perlu diterjemahkan menjadi perubahan yang dirasakan penerima. Slide 3 mengingatkan bahwa peran profesional membawa wewenang dan tanggung jawab; kepedulian perlu tampil sebagai sesuatu yang dapat diandalkan.
+
+Pada slide 4, pisahkan permintaan, kebutuhan, masalah, dan solusi. “Buatkan aplikasi kantin” adalah permintaan. Masalahnya mungkin ketidakpastian antrean; kebutuhannya memperoleh makanan tanpa terlambat kuliah. Aplikasi merupakan salah satu kemungkinan solusi, yang kelayakannya masih harus diuji.
+
+Slide 5 menunjukkan jebakan solusi dini. Ketika mendengar masalah, tahan dorongan membuka rancangan Anda. Coba tanyakan kejadian terakhir, dampak, dan batas situasinya. Dengan begitu, percakapan menghasilkan bahan untuk merancang sesuatu yang berguna.
+
+### Lima pertanyaan dan pernyataan masalah
+
+*[Tampilkan slide 6–8](../slides-pdf/slides-05.pdf#page=6).*
+
+Slide 6 menyediakan kompas wawancara: apa yang terjadi, mengapa berdampak, siapa yang terdampak, keadaan lebih baik seperti apa yang diinginkan, dan apa kendalanya? Mintalah contoh konkret. Pertanyaan “Apakah Anda membutuhkan aplikasi saya?” terlalu cepat mengunci arah percakapan.
+
+Pada slide 7, kita menyusun hasil temuan menjadi kalimat: pribadi atau peran mengalami keadaan tertentu dalam suatu konteks, sehingga timbul dampak; ia membutuhkan hasil tertentu dengan mempertimbangkan kendala. Kalimat ini harus dapat dikoreksi oleh narasumber.
+
+Lihat contoh kantin pada slide 8. Kepastian waktu, kemampuan kasir, biaya, serta akses tanpa telepon pintar dapat memengaruhi rancangan. Jika kita hanya mendengar kata “digital”, sebagian kebutuhan itu akan hilang. Coba rumuskan ulang permintaan awal Anda menjadi dugaan masalah, lalu tandai hal yang belum dikonfirmasi.
+
+### Kepercayaan yang terlihat dalam kerja
+
+*[Tampilkan slide 9–10](../slides-pdf/slides-05.pdf#page=9).*
+
+Slide 9 menempatkan kompetensi, keandalan, kejujuran batas keahlian, kepedulian, dan akuntabilitas sebagai penopang kepercayaan. Mengakui bahwa Anda belum tahu dapat menjadi awal kerja sama yang lebih akurat, asalkan diikuti langkah untuk mencari tahu.
+
+Pada slide 10, kritik diarahkan ke kejadian dan dampak kerja. “Dua variabel belum tersedia sehingga analisis tertunda” memungkinkan kita membahas perbaikan. Label “tim malas” membuat percakapan berpusat pada pembelaan diri. Tanggung jawab menjadi lebih jelas ketika kita menyebut pekerjaan, hambatan, dan tindakan berikutnya.
+
+## Desire — Menguatkan alasan untuk berlatih
+
+*[Tampilkan slide 9–10](../slides-pdf/slides-05.pdf#page=9).*
+
+Di kuliah hari ini, Anda akan dibekali dengan instrumen penting untuk menjadi profesional yang dicari di dunia kerja:
+
+Pertama, kita sedang melatih **Wawancara Penemuan Kebutuhan** menggunakan _5 Pertanyaan Penemuan_. Anda akan belajar bagaimana mendengarkan secara mendalam untuk membedakan mana yang merupakan **Masalah, Kebutuhan, Permintaan, dan Solusi**.
+
+Kedua, kita sedang belajar membangun **Kepercayaan Profesional** yang kokoh. Kepercayaan beralaskan kompetensi saja tidaklah cukup. Anda membutuhkan integritas, keandalan dalam kata dan tindakan, kejujuran untuk mengakui batas kemampuan, serta kepedulian yang tulus terhadap dampak kerja Anda pada manusia lain.
+
+Dan ketiga, kita sedang belajar menggeser budaya komunikasi tim kita: **dari sekadar menyalahkan orang menuju menyelesaikan masalah bersama**. Kita sedang melatih cara mengkritik proses kerja secara jernih tanpa perlu menyerang atau melabeli karakter pribadi rekan kerja kita.
+
+## Action — Mengerjakan dan mengevaluasi latihan
+
+*[Tampilkan slide 11–14](../slides-pdf/slides-05.pdf#page=11).*
+
+Buka [Lembar Kerja Bab 05](../lk/lk-05.qmd), “Wawancara Penemuan Kebutuhan dan Formula Pernyataan Masalah Pelanggan”. Kita akan menjalankan wawancara nyata selama lima belas sampai dua puluh menit. Narasumber dapat berupa staf, mahasiswa, rekan kerja, atau pelaku usaha yang mengalami persoalan terkait.
+
+Minta kesediaannya, jelaskan tujuan latihan, dan samarkan identitas pada profil. Siapkan lima pertanyaan penemuan. Sesuai slide 11, tahan tawaran solusi selama enam menit pertama dan lakukan parafrasa minimal dua kali. Saat ini kita sedang memastikan pemahaman, jadi berikan ruang lebih banyak bagi narasumber untuk bercerita.
+
+Isi log wawancara dengan kejadian, dampak, pihak terdampak, keadaan yang diinginkan, dan kendala. Jika ada informasi yang belum jelas, tandai sebagai pertanyaan lanjutan. Jangan melengkapinya dengan dugaan yang ditulis seolah-olah jawaban narasumber.
+
+Gunakan Fase 3 untuk menulis pernyataan masalah awal. Bacakan kembali kepada narasumber dan minta koreksi. Simpan draf sebelum serta sesudah konfirmasi agar perubahan pemahaman terlihat. Slide 12 mengingatkan kita menyertakan asumsi awal, ringkasan, kutipan dengan izin atau parafrasa, serta batas pengetahuan.
+
+Lengkapi refleksi seratus sampai seratus lima puluh kata dan rubrik mandiri. Jika menggunakan AI seperti pada slide 13, batasi pada latihan pertanyaan atau pengolahan catatan yang aman; konfirmasi tetap dilakukan kepada narasumber. Simpan hasil sebagai portofolio. Sekarang tulis calon narasumber dan pertanyaan pembuka yang mengundangnya menceritakan kejadian nyata.

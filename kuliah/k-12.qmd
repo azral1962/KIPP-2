@@ -1,0 +1,91 @@
+---
+title: "Tetangga dan Komunitas: Bertindak Bersama di Tengah Perbedaan"
+subtitle: "Transkrip Kuliah Bab 12 — Alur TAIDA"
+lang: id
+---
+
+**Bahan kuliah:** [Slide deck](../slides-pdf/slides-12.pdf) · [Pitch TAIDA](../pitch/pitch-12.qmd) · [Lembar kerja](../lk/lk-12.qmd).
+
+*Naskah tutur untuk pengajar; bukan transkripsi rekaman. Nomor slide mengikuti halaman PDF, termasuk halaman judul. Penanda miring adalah petunjuk penyajian. Beri jeda pada pertanyaan untuk mendengar respons mahasiswa.*
+
+**Catatan pengajar:** Slide 12 mengalokasikan 30 menit deliberasi, sedangkan LK Fase 3 menetapkan 20 menit. Naskah memakai 20 menit untuk konsistensi pelaksanaan LK. Rentang pilot mengikuti LK, yaitu 2–4 minggu; contoh 30 hari pada slide 10 tidak dijadikan tenggat tugas.
+
+## Target — Mengenali titik berangkat
+
+*[Tampilkan slide 1](../slides-pdf/slides-12.pdf#page=1).*
+
+Hari ini kita masuk ke ruang bersama: tetangga dan komunitas. Kita mungkin berbeda usia, kebutuhan, dan keyakinan, tetapi tetap berbagi fasilitas dan akibat keputusan. Tujuan kita adalah merancang tindakan bersama yang cukup adil untuk dicoba serta menjaga kemampuan komunitas bekerja sama sesudahnya.
+
+## Attention — Membuka perhatian
+
+*[Tampilkan slide 2–3](../slides-pdf/slides-12.pdf#page=2).*
+
+Selamat datang di Kuliah 12.
+
+Selama ini, perjalanan studi saya ke Kanada pada tahun 1989 sering kali diceritakan sebagai kisah kepahlawanan tunggal—seorang anak dari Tomohon yang berjuang keras dan akhirnya berhasil menggapai impian masa kecilnya. Namun, jujur saja, jika Anda hanya melihat saya sebagai tokoh utama tunggal, maka cerita itu menjadi sangat tidak lengkap dan bahkan keliru.
+
+Jalan ke Kanada itu tidak pernah saya tempuh sendirian. Di sana ada ayah saya yang tekun mengirimkan kartu pos Golden Gate; ada Ina yang mendampingi dan berjalan bersama saya; ada dukungan penuh keluarga; ada bimbingan para mentor di ITB dan PAU Mikroelektronika; ada instruktur bahasa Inggris; ada lembaga beasiswa WUSC; ada profesor di Universitas Manitoba yang membukakan pintu; hingga reputasi luar biasa dari rekan saya, Pak Budi Rahardjo, yang sudah merintis kepercayaan di sana lebih dulu.
+
+Tidak ada satu pun dari mereka yang melakukan seluruh pekerjaan, tetapi jaringan relasi inilah yang menanggung sebagian beban, mewariskan kepercayaan, dan membuka jalan yang mustahil dilewati sendirian.
+
+Pelajaran besarnya adalah: **komunitas bukanlah latar belakang pasif bagi kesuksesan individu kita. Komunitas adalah jaring penyelamat batin yang membuat kita bisa melangkah jauh. Dan keberhasilan yang kita raih hari ini membawa tanggung jawab moral untuk kembali menyumbang kepada komunitas tersebut**.
+
+## Interest — Memahami dan menghubungkan materi
+
+### Modal sosial dan lapisan konflik
+
+*[Tampilkan slide 4–5](../slides-pdf/slides-12.pdf#page=4).*
+
+Slide 4 menggambarkan modal sosial melalui jaringan, norma timbal balik, dan kepercayaan. Janji kecil yang ditepati menambah alasan untuk bekerja sama. Sebaliknya, keputusan sepihak dapat meninggalkan ingatan yang mempersulit percakapan berikutnya.
+
+Slide 5 memisahkan fakta, interpretasi, nilai, dan posisi. Dalam konflik taman, bunyi musik pada jam tertentu adalah hal yang dapat diamati. “Pengelola tidak peduli” adalah interpretasi. Ketenangan dan ruang ekspresi adalah nilai atau kebutuhan. “Tutup taman sekarang” adalah posisi.
+
+Coba pisahkan empat lapisan dari satu keluhan. Kita tidak harus menghapus perbedaan nilai untuk dapat memeriksa fakta dan membahas tindakan yang saling melindungi.
+
+### Membingkai persoalan dan menjaga partisipasi
+
+*[Tampilkan slide 6–9](../slides-pdf/slides-12.pdf#page=6).*
+
+Pada slide 6, serangan kepada pedagang diubah menjadi pertanyaan tentang menjaga nafkah sekaligus waktu istirahat warga. Perubahan bahasa itu membuka pekerjaan bersama tanpa menyangkal adanya masalah.
+
+Slide 7 membedakan debat dan deliberasi. Dalam deliberasi, kita mendengarkan untuk mengetahui fakta, kepentingan, dan kemungkinan tindakan. Slide 8 menunjukkan bahwa kesepakatan dapat berupa kerja bersama terbatas atau hidup berdampingan dengan batas yang jelas.
+
+Slide 9 menyoroti partisipasi. Kehadiran dalam rapat belum berarti seseorang mampu berbicara bebas. Fasilitator perlu membatasi dominasi, mengundang pihak yang diam, dan memisahkan serangan pribadi dari keberatan yang perlu dipertimbangkan.
+
+### Uji coba sebagai cara belajar bersama
+
+*[Tampilkan slide 10–11](../slides-pdf/slides-12.pdf#page=10).*
+
+Slide 10 menawarkan pilot dengan batas waktu, ukuran keberhasilan, dan perlindungan risiko. Ketika akibat sebuah kebijakan belum diketahui, kita dapat merancang uji terbatas yang dievaluasi bersama. Uji coba tidak boleh diam-diam menjadi keputusan permanen.
+
+Pada kasus taman slide 11, anak muda membutuhkan ruang, lansia membutuhkan ketenangan, pedagang membutuhkan penghidupan, dan pengelola memiliki batas anggaran. Usulan jadwal atau zona kegiatan perlu diperiksa terhadap semua kebutuhan itu.
+
+Tanyakan tiga hal: data apa yang akan kita amati, siapa yang menanggung risiko, dan kapan kita menghentikan atau memperbaiki percobaan? Jawaban konkret membantu mengubah dugaan yang saling bertabrakan menjadi pembelajaran bersama.
+
+## Desire — Menguatkan alasan untuk berlatih
+
+*[Tampilkan slide 10–11](../slides-pdf/slides-12.pdf#page=10).*
+
+Di kuliah hari ini, Anda akan dibekali dengan kompetensi kunci untuk menjadi penggerak komunitas yang taktis dan berpusat pada manusia:
+
+Pertama, kita sedang belajar memindahkan interaksi dari **Debat** (yang bertujuan mencari pemenang argumen) menuju **Deliberasi** (proses komunikasi untuk mencari pemahaman bersama demi tindakan kolektif).
+
+Kedua, kita akan menguasai teknik **Pembingkaian Ulang** (_Reframing_). Kita sedang melatih kelenturan bahasa kita untuk mengubah 'bingkai serangan' (_'pedagang merusak ketertiban umum'_) menjadi 'bingkai masalah bersama' yang bisa dipecahkan: _'Bagaimana kita bisa menjaga mata pencaharian pedagang sekaligus melindungi waktu istirahat dan keselamatan warga secara adil?'_.
+
+Ketiga, Anda akan belajar mendesain **Pilot sebagai Kesepakatan untuk Belajar**. Ketika semua pihak memprediksi akibat buruk yang berbeda, kita tidak perlu bertengkar tanpa akhir. Kita akan belajar menawarkan uji coba terbatas yang terukur, aman, memiliki batas waktu, dan disepakati untuk dievaluasi bersama. Ingat, kita sering kali hanya membutuhkan kesepakatan tindakan yang cukup untuk melangkah, bukan keseragaman keyakinan batin.
+
+## Action — Mengerjakan dan mengevaluasi latihan
+
+*[Tampilkan slide 12–13](../slides-pdf/slides-12.pdf#page=12).*
+
+Buka [Lembar Kerja Bab 12](../lk/lk-12.qmd), “Deliberasi Komunitas”. Gunakan kasus taman dengan empat pihak dan satu fasilitator. Slide 12 memberi gambaran tahap kerja; untuk sesi deliberasi kita memakai dua puluh menit sebagaimana petunjuk lembar kerja.
+
+Pada Fase 1, isi posisi, fakta, interpretasi, dan nilai setiap pihak. Jangan memasukkan penilaian karakter ke kolom fakta. Pada Fase 2, ubah bingkai serangan menjadi pertanyaan “Bagaimana kita bisa...” yang mengakui kebutuhan pihak-pihak terkait.
+
+Jalankan Fase 3 dengan fasilitator. Berikan kesempatan bicara, parafrasa secara netral, dan tanyakan kekhawatiran pihak yang belum terdengar. Catat siapa yang dominan, siapa yang diam, serta cara fasilitator mengundang partisipasinya. Ketidaksetujuan boleh tetap dicatat.
+
+Pada Fase 4, rancang pilot dalam rentang dua sampai empat minggu sesuai lembar kerja. Isi tanggal mulai dan selesai, penanggung jawab, tindakan, tenggat, indikator, risiko, serta kondisi penghentian jika dampaknya melampaui batas. Tentukan kapan semua pihak meninjau hasil bersama.
+
+Isi Fase 5 dengan skor tugas dan relasi disertai bukti. Pada tahap rancangan, nilai kelayakan rencana dan proses deliberasinya; hasil lapangan dievaluasi setelah pilot. Lengkapi pernyataan penggunaan AI jika ada bantuan, termasuk saran yang Anda tolak atau sunting.
+
+Simpan peta konflik, bingkai bersama, observasi, rancangan pilot, dan evaluasi. Slide 13 mengingatkan kita bahwa keputusan hari ini memengaruhi kemampuan bekerja sama besok. Mulailah dengan menuliskan kebutuhan empat pihak secara adil.

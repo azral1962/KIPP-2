@@ -1,0 +1,91 @@
+---
+title: "Berkomunikasi dengan Dunia"
+subtitle: "Transkrip Kuliah Bab 13 — Alur TAIDA"
+lang: id
+---
+
+**Bahan kuliah:** [Slide deck](../slides-pdf/slides-13.pdf) · [Pitch TAIDA](../pitch/pitch-13.qmd) · [Lembar kerja](../lk/lk-13.qmd).
+
+*Naskah tutur untuk pengajar; bukan transkripsi rekaman. Nomor slide mengikuti halaman PDF, termasuk halaman judul. Penanda miring adalah petunjuk penyajian. Beri jeda pada pertanyaan untuk mendengar respons mahasiswa.*
+
+**Catatan pengajar:** Slide 10 memakai contoh utas sosial, ringkasan, orasi, dan infografis. Keluaran tugas mengikuti pitch dan LK: pitch 30 detik, penjelasan 3 menit, ringkasan 200 kata, dan visual.
+
+## Target — Mengenali titik berangkat
+
+*[Tampilkan slide 1](../slides-pdf/slides-13.pdf#page=1).*
+
+Hari ini kita membawa gagasan ke hadapan publik yang lebih luas. Pilih satu konsep bidang studi yang menurut Anda penting dipahami masyarakat. Kita akan melatih cara menjelaskan konsep itu dalam beberapa bentuk sambil menjaga fakta, konteks, dan kemampuan pendengar untuk menilainya.
+
+## Attention — Membuka perhatian
+
+*[Tampilkan slide 2–3](../slides-pdf/slides-13.pdf#page=2).*
+
+Selamat datang di Kuliah 13.
+
+Mari kita membayangkan berada di ketinggian ribuan kaki di atas bumi pada malam tanggal 13 Desember 1989. Dari balik jendela pesawat yang perlahan turun, Anda menatap hamparan lampu kota yang berkilauan tak bertepi—itu adalah kota Los Angeles.
+
+Bagi penumpang lain, itu mungkin pemandangan malam biasa. Namun bagi saya, itu adalah saat batin saya bergetar hebat. Detik itu merupakan pertemuan nyata antara impian masa kecil seorang anak kelas dua SD di Tomohon yang hanya mengenal dunia luar lewat selembar kartu pos Golden Gate kiriman ayahnya, dengan kenyataan yang akhirnya tiba setelah perjuangan bertahun-tahun.
+
+Kisah ini sangat personal. Di dalamnya ada perjuangan TOEFL dari nilai terendah, tumpukan surat penolakan universitas, hingga keputusan batin untuk menunda keberangkatan demi keluarga. Namun, ketika kisah personal ini diceritakan dengan tepat, ia berhenti menjadi sekadar pameran diri _'lihatlah saya'_. Ia berubah menjadi kontribusi publik universal tentang impian, ketekunan, dan rasa syukur yang menyentuh batin pendengarnya.
+
+Hari ini kita belajar: **pesan kita berubah menjadi kontribusi publik yang berharga ketika ia mampu membantu orang lain melihat hidup mereka sendiri dengan cara yang baru**.
+
+## Interest — Memahami dan menghubungkan materi
+
+### Menjaga makna ketika konteks berubah
+
+*[Tampilkan slide 4–6](../slides-pdf/slides-13.pdf#page=4).*
+
+Pada slide 4, satu pesan dapat dibaca oleh keluarga, rekan profesional, atau orang asing yang tidak mengetahui konteks awal. Potongan kalimat yang berpindah tempat dapat ditafsirkan berbeda. Karena itu, pikirkan informasi minimum yang dibutuhkan agar pesan tetap dapat dipahami.
+
+Slide 5 memetakan publik umum, peran khusus, dan pribadi individual. Publik umum memerlukan akses bahasa; peran khusus membutuhkan implikasi sesuai tanggung jawabnya; percakapan lanjutan dengan individu membutuhkan perhatian pada konteks dan persetujuannya.
+
+Prisma slide 6 menuntut keseimbangan. Terlalu banyak jargon menghalangi pemahaman, tetapi penyederhanaan berlebihan dapat menghapus syarat penting. Misalnya, hasil uji dalam kondisi terbatas harus tetap disebut terbatas ketika dijelaskan kepada publik.
+
+### Menyusun lapisan penjelasan
+
+*[Tampilkan slide 7–8](../slides-pdf/slides-13.pdf#page=7).*
+
+Slide 7 membangun lima lapisan: judul, ringkasan, penjelasan, bukti, dan rincian teknis. Judul membuka perhatian secara jujur. Ringkasan menyatakan makna dan relevansi. Penjelasan memperlihatkan mekanisme, bukti memberi dasar untuk menilai, dan rincian teknis memungkinkan pemeriksaan lebih jauh.
+
+Slide 8 menawarkan kisah pengalaman, kisah berbasis fakta, konsep, dan opini. Setiap bentuk membawa pekerjaan yang berbeda. Saat bercerita, jaga privasi orang yang disebut. Saat menjelaskan konsep, nyatakan batas berlakunya. Saat beropini, tampilkan alasan dan bedakan penilaian Anda dari temuan yang sudah dibuktikan.
+
+Coba rumuskan satu kalimat inti gagasan Anda. Kalimat itu akan menjadi patokan semua versi, sehingga perubahan medium tidak mengubah kebenaran dasarnya.
+
+### Mengambil tanggung jawab atas pesan publik
+
+*[Tampilkan slide 9](../slides-pdf/slides-13.pdf#page=9).*
+
+Slide 9 mengingatkan bahwa skala pesan memperbesar tanggung jawab. Periksa sumber, beri atribusi yang tepat, dan pahami bagaimana medium memengaruhi pengalaman penerima. Diagram perlu label yang membantu pembaca; naskah lisan perlu konteks yang dapat diikuti tanpa membaca catatan teknis.
+
+Jika ada kekeliruan, sebutkan bagian yang salah, berikan perbaikannya, dan perbarui bahan yang dibagikan. Reputasi tumbuh dari cara kita menjaga ketepatan dan memperbaiki kesalahan. Sebelum membagikan karya, minta rekan menjelaskan apa yang ia pahami dan apa yang masih meragukan.
+
+## Desire — Menguatkan alasan untuk berlatih
+
+*[Tampilkan slide 7–9](../slides-pdf/slides-13.pdf#page=7).*
+
+Harta karun yang kita cari di Kuliah 13 hari ini adalah keluwesan menyajikan satu gagasan berat ke dalam **Bahasa Publik Berlapis** (_Layered Public Language_):
+
+1.  **Judul:** Menarik perhatian secara etis tanpa menipu pendengar (_no clickbait_).
+2.  **Ringkasan:** Menyajikan makna inti dan relevansi langsung dengan cepat.
+3.  **Penjelasan:** Mengupas mekanisme kerja, konteks, dan contoh konkret.
+4.  **Bukti:** Menyertakan sumber data yang akurat serta ketidakpastian solusinya.
+5.  **Rincian Teknis:** Menyediakan metode mendalam untuk verifikasi mandiri.
+
+Kita juga akan belajar mengemas gagasan kita menjadi **Empat Pesan Berdaya Tahan** yang bersumber dari buku _Daya Tarik_: **Kisah Pengalaman** yang menggugah rasa, **Kisah Inspiratif Berbasis Fakta** yang presisi, **Konsep** yang mencerdaskan pola pikir, serta **Opini Berpengaruh** yang membuka ruang diskusi secara bertanggung jawab.
+
+Anda akan melatih kelenturan bahasa Anda: **menyederhanakan bahasa demi mengurangi beban pendengar, tanpa mendistorsi atau memalsukan kerumitan kenyataan ilmiahnya**.
+
+## Action — Mengerjakan dan mengevaluasi latihan
+
+*[Tampilkan slide 10–11](../slides-pdf/slides-13.pdf#page=10).*
+
+Buka [Lembar Kerja Bab 13](../lk/lk-13.qmd), “Satu Gagasan, Empat Bahasa Publik”. Slide 10 menunjukkan prinsip satu gagasan dalam empat bentuk. Untuk format keluaran, kita mengikuti rincian lembar kerja.
+
+Pada Fase 1, pilih konsep ilmiah, tulis penjelasan awal, lalu rumuskan makna inti yang tidak boleh berubah. Fase 2 meminta detoks jargon: tandai, terjemahkan, dan uji. Pertahankan kondisi serta batas penting dari konsep itu.
+
+Pada Fase 3, susun empat keluaran. Format A adalah pitch tiga puluh detik dengan maksimal empat puluh lima kata. Format B adalah penjelasan lisan tiga menit yang memperlihatkan mekanisme. Format C adalah ringkasan profesional dua ratus kata. Format D adalah visual atau diagram yang menjelaskan struktur gagasan; sertakan deskripsi teks alternatif agar maknanya juga dapat diakses tanpa melihat gambar.
+
+Uji semua format dengan pertanyaan yang sama: apakah makna inti tetap utuh? Minta rekan menunjukkan perbedaan yang membantu pemahaman dan bagian yang justru menimbulkan tafsir keliru. Jangan menukar ketepatan dengan judul sensasional.
+
+Lengkapi Fase 4, evaluasi sejawat, dan rekomendasi perbaikan putaran kedua. Simpan empat format, hasil penilaian, dan revisi. Keberhasilan yang kita cari pada slide 11 adalah orang lain lebih mampu memahami, menilai, dan bertindak. Mulailah dengan menyepakati satu makna inti sebelum kelompok Anda membagi pekerjaan.

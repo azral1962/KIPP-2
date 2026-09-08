@@ -1,0 +1,85 @@
+---
+title: "TAIDA IV: Kesepakatan dan Tindakan"
+subtitle: "Transkrip Kuliah Bab 10 — Alur TAIDA"
+lang: id
+---
+
+**Bahan kuliah:** [Slide deck](../slides-pdf/slides-10.pdf) · [Pitch TAIDA](../pitch/pitch-10.qmd) · [Lembar kerja](../lk/lk-10.qmd).
+
+*Naskah tutur untuk pengajar; bukan transkripsi rekaman. Nomor slide mengikuti halaman PDF, termasuk halaman judul. Penanda miring adalah petunjuk penyajian. Beri jeda pada pertanyaan untuk mendengar respons mahasiswa.*
+
+## Target — Mengenali titik berangkat
+
+*[Tampilkan slide 1](../slides-pdf/slides-10.pdf#page=1).*
+
+Hari ini kita belajar mengubah keinginan menjadi komitmen yang dapat dilaksanakan. Ingat satu rapat yang berakhir dengan semangat, tetapi sesudahnya tidak jelas siapa mengerjakan apa. Kita akan memperbaiki keadaan itu melalui kesepakatan yang presisi dan cara memeriksa pelaksanaannya.
+
+## Attention — Membuka perhatian
+
+*[Tampilkan slide 2–3](../slides-pdf/slides-10.pdf#page=2).*
+
+Mari kita kembali ke tahun 1989.
+
+Bayangkan Anda berada di posisi penulis buku kita, Pak Armein, sehari sebelum penerbangan beliau untuk tugas belajar ke luar negeri. Tiket pesawat sudah di tangan, persiapan keluarga sudah matang, dan keinginan untuk berangkat sudah meluap-luap.
+
+Namun, tiba-tiba muncul kabar buruk dari kantor proyek yang membiayai studi: keberangkatan beliau dan tiga orang rekannya ditunda. Tiket dan hasrat yang besar ternyata belum cukup. Ada urusan wewenang, kelayakan administratif, dokumen penjaminan, dan koordinasi antarpihak yang belum tuntas disepakati.
+
+Menolak menyerah, mereka mendatangi kantor proyek hari itu juga, membicarakan kendala, dan bernegosiasi hingga menjelang malam hingga akhirnya izin resmi tertulis diberikan. Barulah keesokan harinya, tindakan nyata melangkah ke bandara dan menaiki pesawat benar-benar bisa terwujud.
+
+Pelajaran berharga dari kisah ini adalah: **keinginan sekuat apa pun tidak otomatis menjadi tindakan jika ia masih terhambat oleh realitas wewenang, jadwal, biaya, dokumen, dan komitmen yang kabur**. Di ruang profesional, kesepakatan yang kabur adalah pembunuh utama dari gagasan-gagasan besar.
+
+## Interest — Memahami dan menghubungkan materi
+
+### Dari niat menuju tindakan
+
+*[Tampilkan slide 3–5](../slides-pdf/slides-10.pdf#page=3).*
+
+Kalimat menggantung pada slide 3 terdengar ramah, tetapi menyisakan terlalu banyak tafsir. “Segera dibantu” belum menjawab siapa yang bertanggung jawab, hasil apa yang dibuat, dan kapan dibutuhkan.
+
+Slide 4 membedakan keinginan, niat, komitmen, kesepakatan, dan tindakan. Seseorang dapat menginginkan sebuah program tanpa memiliki wewenang menyetujuinya. Karena itu, slide 5 memeriksa uang, waktu, kemampuan, wewenang, risiko, dan perubahan yang diperlukan.
+
+Coba ubah pertanyaan “Mengapa Anda belum setuju?” menjadi “Apa yang masih menghalangi kita melangkah?” Pertanyaan kedua membantu menemukan hambatan yang bisa dibahas. Jika sumber daya belum tersedia, nyatakan syaratnya sebelum membuat janji.
+
+### Kepentingan dan kesepakatan presisi
+
+*[Tampilkan slide 6–8](../slides-pdf/slides-10.pdf#page=6).*
+
+Gunung es pada slide 6 memisahkan posisi dan kepentingan. Tuntutan “harus selesai Jumat” mungkin muncul karena pengujian diperlukan sebelum pelaporan Senin. Dengan mengetahui alasan itu, kita dapat menilai alternatif pembagian pekerjaan atau lingkup hasil.
+
+Slide 7 menunjukkan beberapa kemungkinan hasil: kesepakatan sebagian, uji coba, pembagian risiko, atau penolakan yang jelas. Semua itu perlu dinyatakan dengan jujur agar setiap pihak mengetahui apa yang telah dan belum disepakati.
+
+Gunakan enam unsur slide 8: siapa, melakukan apa, kapan, prasyarat, definisi selesai, tindak lanjut. Contoh latihan: Rani mengirim prototipe Jumat pukul 16.00 dengan akses server yang tersedia; hasil diterima setelah kriteria uji disepakati; Dimas meninjaunya Senin. Sebutkan tanggal konkret ketika Anda menulis kesepakatan sendiri.
+
+### Mengawal janji dan relasi
+
+*[Tampilkan slide 9–10](../slides-pdf/slides-10.pdf#page=9).*
+
+Lingkar komitmen pada slide 9 bergerak melalui janji, pelaksanaan, bukti, pemeriksaan, lalu penerimaan atau perbaikan. “Sudah saya kerjakan” perlu diikuti bukti yang dapat diperiksa penerima. Jika hasil belum memenuhi kriteria, sepakati perbaikannya.
+
+Slide 10 meminta evaluasi dua jalur. Jalur tugas melihat penyelesaian dan hasil. Jalur relasi melihat rasa hormat, kepercayaan, serta kesediaan bekerja kembali. Mengabarkan hambatan lebih awal dapat menjaga keduanya: tim memiliki waktu menyesuaikan rencana dan tidak merasa ditinggalkan tanpa informasi.
+
+## Desire — Menguatkan alasan untuk berlatih
+
+*[Tampilkan slide 8–10](../slides-pdf/slides-10.pdf#page=8).*
+
+Hari ini, di Kuliah 10, kita akan membekali diri kita dengan instrumen penting untuk mengubah kata-kata menjadi kenyataan:
+
+Pertama, kita sedang melatih **Formula Kesepakatan** yang spesifik dan presisi: **Siapa** → **melakukan apa** → **kapan** → **dengan sumber daya atau syarat apa** → **apa yang dianggap selesai** → **dan bagaimana tindak lanjutnya**. Kita akan membuang bahasa-bahasa kabur yang tidak jelas penanggung jawab dan tenggat waktunya.
+
+Kedua, kita akan menguasai **Lingkar Komitmen** (_Commitment Loop_). Anda akan belajar memantau janji melalui alur: _janji – pelaksanaan – bukti – pemeriksaan – hingga penerimaan_. Kita akan belajar menetapkan titik pemeriksaan (_checkpoint_) yang proporsional agar masalah dapat terdeteksi sebelum tenggat waktu terlewati, bukan baru mengetahuinya saat hari pengumpulan.
+
+Dan ketiga, kita sedang belajar menilai keberhasilan komunikasi profesional pada dua jalur sekaligus: **Hasil Tugas** (apakah tujuan tercapai?) dan **Hasil Relasi** (apakah kepercayaan, rasa hormat, dan ruang untuk bekerja sama kembali di masa depan tetap terpelihara dengan sehat?).
+
+## Action — Mengerjakan dan mengevaluasi latihan
+
+*[Tampilkan slide 11–14](../slides-pdf/slides-10.pdf#page=11).*
+
+Buka [Lembar Kerja Bab 10](../lk/lk-10.qmd), “Dokumen Kesepakatan dan Lingkar Komitmen”. Slide 11 meminta kita mengolah skenario menjadi kesepakatan, dan slide 12 memperlihatkan bagian dokumennya.
+
+Isi identitas proyek dan pihak yang terlibat. Pada Bagian 1, petakan posisi, kepentingan, serta kendala. Dengarkan alasan setiap pihak sebelum memilih tindakan. Jangan menuliskan persetujuan untuk orang yang belum menyatakan kesediaannya.
+
+Pada Bagian 2, isi tabel tindakan dengan enam unsur formula presisi. Pilih kata kerja yang dapat diamati, seperti mengirim, menguji, atau menyusun. Tuliskan penanggung jawab spesifik, tenggat, prasyarat, definisi selesai, dan tindak lanjut. Bacakan ulang kepada pihak terkait untuk memeriksa kesamaan pemahaman.
+
+Bagian 3 mengawal lingkar komitmen. Tentukan bukti pelaksanaan dan jadwal pemeriksaan; lembar kerja meminta checkpoint minimal dua hari sebelum tenggat. Pastikan jadwal tugas yang Anda pilih menyediakan ruang itu. Tuliskan cara memberi kabar ketika ada hambatan serta bagaimana perubahan kesepakatan akan dikonfirmasi.
+
+Pada Bagian 4, evaluasi tugas dan relasi secara terpisah dengan bukti. Dalam simulasi, nilai mutu rancangan serta proses percakapannya; hasil pelaksanaan nyata baru dapat dinilai setelah tindakan berlangsung. Gunakan rubrik slide 13 dan lembar kerja untuk memeriksa kelayakan, presisi, serta penghormatan kepada para pihak. Simpan dokumen dan catatan perbaikannya. Sekarang ambil satu janji yang masih kabur dan ubah menjadi tindakan yang dapat diperiksa.

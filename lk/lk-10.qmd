@@ -1,0 +1,135 @@
+---
+title: "Lembar Kerja Bab 10"
+---
+
+# Lembar Kerja Praktis: Dokumen Kesepakatan & Lingkar Komitmen
+**Bab 10: TAIDA IV — Kesepakatan dan Tindakan**
+
+---
+
+## 1. Identitas Proyek & Pihak yang Terlibat
+*   **Nama Proyek/Gagasan:** __________________________________________________
+*   **Tanggal Diskusi:** ________________________
+*   **Pihak-Pihak yang Menyusun Kesepakatan:**
+    1.  **Pihak A (Nama & Peran):** ____________________________________________
+    2.  **Pihak B (Nama & Peran):** ____________________________________________
+    3.  **Pihak Lain/Pengamat (Jika ada):** _______________________________________
+
+---
+
+## 2. Pengantar Konsep: Menjembatani Bahasa Menjadi Kenyataan
+Dalam dunia komunikasi profesional, ketertarikan (*Interest*) atau keinginan (*Desire*) yang besar terhadap suatu solusi belumlah cukup. Komunikasi baru benar-benar menghasilkan nilai nyata ketika berhasil ditutup dengan **Kesepakatan** (*Agreement*) yang menuntun pada **Tindakan** (*Action*) yang terkoordinasi secara etis.
+
+Lembar kerja ini membantu Anda dan tim melewati transisi penting tersebut melalui tiga instrumen utama:
+1.  **Pemisahan Posisi vs. Kepentingan**: Agar negosiasi tidak terjebak dalam ego masing-masing, melainkan berfokus pada kebutuhan batin dan peran nyata.
+2.  **Formula Kesepakatan Presisi**: Membuang bahasa kabur (seperti *"nanti dibantu"* atau *"secepatnya dikirim"*) dan menggantinya dengan komitmen operasional yang jelas tanggung jawab serta ukuran selesainya.
+3.  **Kontrol Lingkar Komitmen**: Memantau janji secara berkala melalui titik pemeriksaan (*checkpoint*) sebelum hari pengumpulan agar tanggung jawab tetap terpelihara bersama.
+
+---
+
+## Bagian 1: Pemetaan Negosiasi Berbasis Kepentingan
+Sebelum merumuskan tindakan, sepakati dahulu apa kebutuhan mendasar masing-masing pihak. Bedakan antara **Posisi** (apa tuntutan kaku/solusi tunggal yang diajukan) dengan **Kepentingan** (mengapa hal itu penting bagi peran dan situasi mereka).
+
+| Pihak | Posisi (Tuntutan/Solusi Kaku yang Diajukan) | Kepentingan (Kebutuhan Dasar, Dampak, atau Alasan Batin) |
+| :--- | :--- | :--- |
+| **Contoh: Pemilik Kantin** | *"Aplikasi pemesanan harus sudah online dan dipakai semua pelanggan hari Senin depan tanpa kecuali."* | *Mencegah kerumunan antrean di depan kasir pada jam 12:00-13:00 karena keterbatasan staf kasir.* |
+| **Contoh: Tim Mahasiswa** | *"Kami butuh waktu tambahan 2 minggu lagi untuk merilis fitur pembayaran nontunai secara sempurna."* | *Menjaga keamanan data transaksi serta reputasi tim agar tidak meluncurkan sistem yang rentan error.* |
+| **Pihak A** | | |
+| **Pihak B** | | |
+
+*   **Poin Temu Kepentingan Utama:**
+    *(Tuliskan 1-2 kalimat area kepentingan yang saling mendukung sebagai dasar kolaborasi)*
+    __________________________________________________________________________________________
+    __________________________________________________________________________________________
+
+---
+
+## Bagian 2: Formula Kesepakatan Presisi (The Agreement Formula)
+Gunakan rumus terstruktur ini untuk mengunci setiap rencana tindakan kelompok. **Hindari kata-kata kabur** (seperti: *membantu*, *mengoordinasikan*, *mencoba*, *segera*, *nanti*). Ganti dengan **kata kerja operasional** yang dapat diamati dan diverifikasi secara objektif.
+
+### Rumus: **SIAPA $\rightarrow$ Melakukan APA $\rightarrow$ KAPAN $\rightarrow$ Prasyarat/Sumber Daya $\rightarrow$ DEFINISI SELESAI $\rightarrow$ Tindak Lanjut**
+
+### Tabel Daftar Kesepakatan Tindakan
+
+| No | SIAPA (Peran & Nama Jelas) | Melakukan APA (Tindakan spesifik, operasional, & terukur) | KAPAN (Tenggat waktu: Hari, Tanggal, Jam) | Sumber Daya/Prasyarat (Alat, data, atau persetujuan yang dibutuhkan) | DEFINISI SELESAI (Kriteria konkret untuk menyatakan tugas tuntas) | Metode Tindak Lanjut (Melalui apa, kapan, dan kepada siapa dilaporkan) |
+| :-- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Ex** | *Budi (Developer Database)* | *Melakukan migrasi data menu kantin dari file Excel ke basis data server utama.* | *Rabu, 16 Sept 2026, Pukul 15:00 WIB.* | *Daftar menu final dalam format .xlsx dari Ibu Siti (Pemilik Kantin).* | *Data menu sukses terbaca di halaman preview aplikasi tanpa karakter aneh/error.* | *Mengirim tangkapan layar (screenshot) sukses ke grup WhatsApp Tim Teknis.* |
+| **1** | | | | | | |
+| **2** | | | | | | |
+| **3** | | | | | | |
+
+---
+
+## Bagian 3: Kontrol Lingkar Komitmen (*Commitment Loop Checklist*)
+Komunikasi lingkar tertutup (*closed-loop communication*) menuntut kita memantau janji sejak pertama kali diucapkan hingga benar-benar diserahkan dan diterima secara memuaskan oleh penerima manfaat. 
+
+Isilah matriks ini untuk melacak kesehatan komitmen setiap butir tindakan di atas:
+
+### Alur Pelacakan Janji
+
+```
+  [ Fase 1: JANJI ] ───────────► [ Fase 2: CHECKPOINT ]
+          │                                  │
+          ▼                                  ▼
+  [ Fase 4: PENERIMAAN ] ◄──────── [ Fase 3: BUKTI & PEMERIKSAAN ]
+```
+
+1.  **Butir Tindakan No: ____**
+    *   **Fase 1: Janji Terbentuk (Hari/Tanggal):** ________________________
+    *   **Fase 2: Checkpoint/Pemeriksaan Awal:**
+        *   *Kapan Checkpoint dilakukan? (Minimal 2 hari sebelum tenggat):* ________________________
+        *   *Apa kemajuan/kendala yang ditemukan saat checkpoint?* ______________________________________________________________________________________
+    *   **Fase 3: Bukti & Pemeriksaan Mandiri:**
+        *   *Bukti nyata apa yang diserahkan sebagai hasil kerja?* ________________________
+        *   *Apakah hasil tersebut sudah memenuhi "Definisi Selesai" di Bagian 2?* `[ ] Ya`  `[ ] Belum`
+    *   **Fase 4: Penerimaan Resmi:**
+        *   *Siapa penerima manfaat yang memeriksa dan menyatakan puas?* ________________________
+        *   *Catatan penerimaan:* ______________________________________________________________________________________
+
+2.  **Butir Tindakan No: ____**
+    *   **Fase 1: Janji Terbentuk (Hari/Tanggal):** ________________________
+    *   **Fase 2: Checkpoint/Pemeriksaan Awal:**
+        *   *Kapan Checkpoint dilakukan?* ________________________
+        *   *Apa kemajuan/kendala yang ditemukan saat checkpoint?* ______________________________________________________________________________________
+    *   **Fase 3: Bukti & Pemeriksaan Mandiri:**
+        *   *Bukti nyata apa yang diserahkan sebagai hasil kerja?* ________________________
+        *   *Apakah hasil tersebut sudah memenuhi "Definisi Selesai" di Bagian 2?* `[ ] Ya`  `[ ] Belum`
+    *   **Fase 4: Penerimaan Resmi:**
+        *   *Siapa penerima manfaat yang memeriksa dan menyatakan puas?* ________________________
+        *   *Catatan penerimaan:* ______________________________________________________________________________________
+
+---
+
+## Bagian 4: Evaluasi Jalur Ganda (Dual-Track Evaluation)
+Dalam komunikasi yang bertanggung jawab, keberhasilan tindakan tidak hanya dinilai dari tercapainya target pekerjaan, tetapi juga dari bagaimana relasi antar-pribadi dirawat di sepanjang proses kerja sama tersebut.
+
+### 1. Jalur Tugas (*Task Outcome*)
+*   Apakah semua target tindakan yang tertulis dalam dokumen kesepakatan ini berhasil diselesaikan sesuai tenggat waktu dan kriteria selesai? Jelaskan kendala nyata lapangan yang sempat dihadapi!
+    __________________________________________________________________________________________
+    __________________________________________________________________________________________
+    __________________________________________________________________________________________
+
+### 2. Jalur Relasi (*Relationship Outcome*)
+*   Bagaimana kualitas batin relasi, kepercayaan, dan rasa saling menghargai di antara para pihak setelah melewati proses pengerjaan tugas ini? Apakah ada ketegangan peran yang sempat terjadi, dan bagaimana Anda meredakannya secara asertif?
+    __________________________________________________________________________________________
+    __________________________________________________________________________________________
+    __________________________________________________________________________________________
+
+---
+
+## Rubrik Penilaian Mandiri & Umpan Balik Sejawat
+
+Evaluasilah kualitas Dokumen Kesepakatan yang Anda susun menggunakan skala nilai berikut:
+*   **Skor 1 (Kurang)**: Banyak bagian menggunakan istilah kabur, penanggung jawab tidak terperinci, atau mengabaikan relasi.
+*   **Skor 2 (Cukup)**: Tindakan sudah terperinci, tetapi kriteria selesai masih subjektif atau tidak menyertakan checkpoint komitmen.
+*   **Skor 3 (Sangat Baik)**: Memenuhi seluruh aspek formula presisi, memetakan kepentingan dengan empati, memiliki mekanisme pelacakan komitmen yang jelas, serta menjaga harmoni relasi secara etis.
+
+| No | Aspek Penilaian Kinerja | Skor (1-3) | Bukti Perilaku / Catatan Perbaikan Mandiri |
+| :-- | :--- | :---: | :--- |
+| **1** | **Kejelasan Kepentingan (Bukan Posisi)**:<br>Mampu melampaui ego tuntutan permukaan dan merumuskan titik temu kepentingan yang saling melayani peran masing-masing. | | |
+| **2** | **Presisi Formula Kesepakatan**:<br>Semua rencana tindakan bebas dari istilah kabur, mencantumkan penanggung jawab tunggal (*Who*), tenggat waktu yang pas (*When*), dan definisi selesai yang objektif. | | |
+| **3** | **Tanggung Jawab Pemeliharaan Komitmen**:<br>Memiliki rencana titik pemeriksaan (*checkpoint*) konkret sebagai mitigasi risiko kegagalan, bukan sekadar menunggu hari H tenggat waktu. | | |
+| **4** | **Keseimbangan Jalur Ganda**:<br>Menunjukkan kepedulian yang tulus terhadap kenyamanan relasi, hak berpendapat, serta batas kemampuan etis tim (menyediakan ruang untuk berkata "tidak" tanpa intimidasi). | | |
+
+---
+*“Bahasa mengantarkan kita pada jembatan pemahaman, tetapi kesepakatan yang berpusat pada tanggung jawab bersama adalah kendaraan yang membawa kita melintasi jembatan tersebut menuju kenyataan tindakan.”*

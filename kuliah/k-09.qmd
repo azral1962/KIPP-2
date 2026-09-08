@@ -1,0 +1,89 @@
+---
+title: "TAIDA III: Dari Minat menuju Keinginan"
+subtitle: "Transkrip Kuliah Bab 09 — Alur TAIDA"
+lang: id
+---
+
+**Bahan kuliah:** [Slide deck](../slides-pdf/slides-09.pdf) · [Pitch TAIDA](../pitch/pitch-09.qmd) · [Lembar kerja](../lk/lk-09.qmd).
+
+*Naskah tutur untuk pengajar; bukan transkripsi rekaman. Nomor slide mengikuti halaman PDF, termasuk halaman judul. Penanda miring adalah petunjuk penyajian. Beri jeda pada pertanyaan untuk mendengar respons mahasiswa.*
+
+**Catatan pengajar:** Sumber pitch menyebut “Kuliah 8”, tetapi isinya, deck, dan lembar kerja membahas Bab 09. Naskah ini menggunakan penomoran Bab 09.
+
+## Target — Mengenali titik berangkat
+
+*[Tampilkan slide 1](../slides-pdf/slides-09.pdf#page=1).*
+
+Hari ini kita mempelajari Bab 9, peralihan dari minat menuju keinginan. Bayangkan calon pengguna sudah memahami cara kerja gagasan Anda, tetapi belum yakin hasilnya layak diperjuangkan. Kita akan belajar menghubungkan hasil dengan nilai pribadi, menyediakan bukti, dan menerima keberatan sebagai informasi.
+
+## Attention — Membuka perhatian
+
+*[Tampilkan slide 2–3](../slides-pdf/slides-09.pdf#page=2).*
+
+Setelah bagian Laboratorium Kinerja pertama, kita memasuki Bab 9. Hari ini, kita memulai babak baru pasca-UTS.
+
+Mari kita kembali ke tahun 1989. Penulis buku kita, Pak Armein, baru saja menerima sebuah surat. Surat itu bukan sekadar tumpukan kertas administratif biasa, melainkan satu-satunya surat penerimaan dari University of Manitoba setelah beliau menerima tujuh surat penolakan berturut-turut dari berbagai universitas lainnya.
+
+Bayangkan perasaan beliau saat itu. Impian masa kecil untuk kuliah di luar negeri yang telah disimpan sejak kelas dua SD di Tomohon tiba-tiba terasa begitu dekat. Namun, di saat yang bersamaan, keraguan, kecemasan, dan pertanyaan besar bermunculan: _'Apakah ini benar-benar jalan yang aman bagi keluarga kecil saya? Apakah saya sanggup menghadapi tantangan akademik di sana? Pengorbanan apa saja yang harus kami bayar?'_
+
+Surat penerimaan itu adalah bukti konkret yang membuka jalan, tetapi keinginan untuk melangkah baru tumbuh ketika ada dukungan tepercaya dan kejelasan bahwa langkah berikutnya masuk akal.
+
+Banyak orang berhenti di tengah jalan bukan karena mereka tidak tertarik pada impian mereka. Mereka berhenti karena ketertarikan itu tidak pernah berubah menjadi **keinginan yang sadar untuk berjuang**. Hari ini, kita akan belajar bagaimana membangun jembatan batin tersebut.
+
+## Interest — Memahami dan menghubungkan materi
+
+### Masa depan yang bernilai bagi seseorang
+
+*[Tampilkan slide 3–6](../slides-pdf/slides-09.pdf#page=3).*
+
+Perbandingan pada slide 3 menunjukkan perubahan fokus. Pada minat, orang ingin mengetahui mekanisme. Pada keinginan, ia mulai menimbang hasil, kelayakan, dan pengorbanan. Anggukan saat demonstrasi belum cukup untuk menyimpulkan bahwa orang siap bertindak.
+
+Slide 4 menggambarkan jarak antara keadaan sekarang dan masa depan yang bernilai. Di antaranya ada biaya, usaha, risiko, serta ketidakpastian. Tugas komunikator adalah membantu pihak lain menilai penyeberangan itu secara sadar.
+
+Ikuti rantai slide 5: fitur, manfaat, nilai, hasil. Pada slide 6, sistem pemesanan yang sama dapat berarti ketepatan waktu bagi mahasiswa, pengelolaan operasi bagi manajer kantin, dan keterlacakan bagi staf TI. Periksa hasil mana yang sungguh diinginkan oleh pribadi yang Anda hadapi.
+
+### Memberi pijakan bukti
+
+*[Tampilkan slide 7–8](../slides-pdf/slides-09.pdf#page=7).*
+
+Slide 7 dan 8 meminta kita menyediakan pijakan yang sesuai dengan klaim. Penjelasan mekanisme menunjukkan logika kerja. Prototipe memperlihatkan sesuatu yang dapat dicoba. Kisah pengguna memberi konteks pengalaman. Data uji coba membantu mengukur perubahan.
+
+Setiap bentuk memiliki batas. Demonstrasi yang berjalan sekali belum membuktikan keandalan pada semua kondisi. Jika baru diuji pada dua puluh orang, nyatakan lingkup itu dan jangan mengubahnya menjadi janji untuk lima ratus orang. Angka pada slide merupakan contoh cara menyatakan batas, bukan hasil pengujian proyek Anda.
+
+Coba ambil satu klaim solusi Anda. Bukti apa yang sudah dimiliki, bukti apa yang belum tersedia, dan keputusan apa yang belum layak diminta dari calon pengguna?
+
+### Mendengarkan keberatan
+
+*[Tampilkan slide 9–10](../slides-pdf/slides-09.pdf#page=9).*
+
+Pada slide 9, keberatan membantu kita memahami sesuatu yang belum terjawab. Dengarkan, parafrasa, periksa, lalu jawab dengan bukti atau rencana revisi. Kita boleh mengetahui bahwa solusi memang belum cocok.
+
+Lima ranah slide 10 adalah nilai, kepercayaan, biaya, usaha, dan risiko. Ketika seseorang berkata “terlalu mahal”, tanyakan apakah ia mempersoalkan dana awal, biaya pemeliharaan, atau ketidakpastian manfaat. Jawaban yang berbeda membutuhkan tindak lanjut yang berbeda pula.
+
+Jangan mengganti kekhawatiran konkret dengan kalimat “tenang saja”. Jelaskan hal yang dapat dibuktikan dan bagian yang masih perlu diuji. Itulah cara memberi landasan bagi pilihan yang bertanggung jawab.
+
+## Desire — Menguatkan alasan untuk berlatih
+
+*[Tampilkan slide 11–12](../slides-pdf/slides-09.pdf#page=11).*
+
+Di kuliah hari ini, Anda akan dibekali dengan tiga kompetensi kunci untuk mematangkan draf solusi profesional Anda:
+
+Pertama, kita sedang melatih kemampuan menerjemahkan **Fitur** teknis menjadi **Manfaat**, lalu mengupasnya hingga menjadi **Nilai** dan **Hasil yang Diinginkan** oleh audiens spesifik Anda. Anda akan belajar bahwa satu solusi yang sama bisa memiliki sumber keinginan yang berbeda bagi pihak yang berbeda.
+
+Kedua, kita akan menguasai **Tangga Bukti** (_Ladder of Evidence_). Kita akan belajar menyusun bukti secara bertahap—mulai dari penjelasan mekanisme yang jernih, demonstrasi prototipe yang bisa disentuh, cerita nyata pengguna, hingga data uji coba yang jujur. Ingat, kredibilitas Anda justru meningkat ketika Anda berani mengakui batas kemampuan solusi Anda di hadapan audiens.
+
+Dan ketiga, kita sedang belajar merangkul penolakan melalui prinsip: **Keberatan adalah Informasi**. Kita tidak akan mendebat atau menyerang balik keberatan audiens mengenai biaya, usaha, atau risiko. Sebaliknya, kita sedang belajar mendengarkan, melakukan parafrasa, dan menjadikan keberatan tersebut sebagai kompas untuk memperbaiki desain solusi kita.
+
+## Action — Mengerjakan dan mengevaluasi latihan
+
+*[Tampilkan slide 13–15](../slides-pdf/slides-09.pdf#page=13).*
+
+Buka [Lembar Kerja Bab 09](../lk/lk-09.qmd), “Demonstrasi Pembangun Keinginan”. Slide 13 dan 14 mengarahkan kita pada demonstrasi berpasangan selama empat sampai lima menit.
+
+Mulai dengan Matriks Jembatan Batin. Hubungkan keadaan sekarang, hasil yang diinginkan, dan nilai bagi sasaran spesifik. Susun tangga bukti dengan minimal dua tingkat atau bentuk bukti. Bedakan bukti yang sudah Anda miliki dari rencana pengujian. Antisipasi keberatan dan siapkan jawaban yang mengakui keterbatasan.
+
+Gunakan alur lima menit pada lembar kerja. Menit pertama menghubungkan masalah dengan keadaan masa depan. Menit kedua dan ketiga memperagakan mekanisme. Menit keempat menyajikan bukti serta satu risiko atau keterbatasan. Menit terakhir memberi ruang keberatan dan memeriksa kesiapan tanpa memaksa.
+
+Mitra berperan sebagai sasaran dan memberi respons berdasarkan perannya. Pembicara harus mendengarkan serta memparafrasa keberatan sebelum menjawab. Pertanyaan penutup dapat berbunyi, “Bagian mana yang masih perlu Anda periksa sebelum menilai apakah hasil ini layak diperjuangkan?” Kita tidak meminta persetujuan kontrak dalam latihan ini.
+
+Lengkapi evaluasi sejawat, refleksi mandiri, dan rubrik. Catat perilaku yang terlihat, termasuk bagaimana keterbatasan dinyatakan dan kebebasan menolak dihormati. Simpan matriks, bukti, umpan balik, serta revisi. Pesan slide 15 adalah membantu orang menilai masa depan secara jernih. Mulailah dengan menulis hasil yang benar-benar berharga bagi sasaran Anda.
