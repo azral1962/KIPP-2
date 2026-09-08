@@ -1,0 +1,95 @@
+---
+title: "Lembar Kerja Bab 14"
+---
+
+
+# Lembar Kerja Praktis: Spesifikasi Kopilot dan Manajemen Risiko AI
+
+Lembar kerja ini dirancang untuk memastikan bahwa integrasi Kecerdasan Buatan (AI) dalam komunikasi tetap menempatkan martabat manusia sebagai pusat. Sebagai arsitek komunikasi, Anda bertanggung jawab menjaga keaslian suara dan memelihara relasi, sementara AI berperan sebagai pendamping teknis. Gunakan instrumen ini sebagai arsitektur etis sebelum Anda memproses pesan apa pun melalui AI.
+
+* * *
+
+## 1\. Identitas Pengguna dan Konteks Komunikasi
+
+Sebelum melibatkan AI, Anda harus memetakan tiga lapis keberadaan manusia (Source 1.7) untuk memastikan komunikasi tidak tereduksi menjadi sekadar data teknis.
+
+-   **Nama Pengguna:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   **Nama Pribadi (Target):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+-   **Domain Komunikasi (Source 1.9):** (Pilih salah satu)
+    -   \[ \] **Diri Sendiri (Intrapribadi):** Percakapan batin dan refleksi.
+    -   \[ \] **Keluarga dan Sahabat (Relasi Dekat):** Kehadiran dan dukungan emosional.
+    -   \[ \] **Rekan Kerja dan Pelanggan (Profesional):** Penciptaan nilai dan koordinasi.
+    -   \[ \] **Tetangga dan Komunitas (Sosial/Kolektif):** Deliberasi dan tindakan bersama.
+    -   \[ \] **Dunia (Publik):** Kontribusi gagasan dan dampak luas.
+-   **Analisis Tiga Lapis Komunikasi:**
+    -   **Pribadi (Dignity & History):** Siapa target Anda sebagai manusia yang bernilai? Apa sejarah relasi atau janji sebelumnya (Source 3.5) yang harus tetap dihormati?
+    -   **Kepribadian (Trends):** Apa kecenderungan target (misal: analitis, ekspresif, atau reflektif) yang perlu Anda pertimbangkan dalam nada pesan?
+    -   **Peran Naratif Anda:** Tentukan peran Anda dalam situasi ini (misal: sebagai pemimpin tim yang tegas namun adil, atau sahabat yang mendengarkan tanpa menghakimi). _Tanggung jawab peran ini tidak dapat didelegasikan kepada AI._
+
+* * *
+
+## 2\. Instrumen I: Matriks 'Lampu Lalu Lintas Risiko' AI
+
+Gunakan matriks ini untuk menentukan batas kewenangan AI. Matriks ini merupakan sintesis dari standar etika dalam Lampiran E.4 dan E.5.
+
+| Warna/Tingkat Risiko | Kriteria/Konteks Situasi | Tindakan Eskalasi/Mitigasi |
+| --- | --- | --- |
+| Hijau (Risiko Rendah) | Tugas teknis, perbaikan tata bahasa, pengolahan format, atau simulasi ide awal yang bersifat administratif. | AI dapat digunakan secara luas. Wajib melakukan pemeriksaan mandiri terhadap hasil keluaran sebelum digunakan. |
+| Kuning (Risiko Sedang) | Komunikasi yang melibatkan interpretasi nilai, data sensitif, atau penyusunan draf pesan penting dalam domain profesional. | Wajib melakukan tinjauan manusia yang ketat terhadap bias, asumsi tersembunyi, dan ketepatan nada (Source E.6). |
+| Merah (Risiko Tinggi) | Permintaan maaf, konflik personal, keputusan nilai/etis, penilaian karakter manusia, atau situasi dengan risiko relasi yang tinggi. | DILARANG menggunakan AI dalam pengambilan keputusan atau penyusunan pesan. Komunikasi harus dilakukan secara manual dan autentik oleh manusia (Source E.4). |
+
+* * *
+
+## 3\. Instrumen II: Format Spesifikasi Kopilot Komunikasi
+
+Rancang penggunaan AI sebagai asisten (kopilot) dengan batasan yang tegas untuk melindungi integritas relasi.
+
+-   **Memori Relasi & Shared History:** Sebutkan poin-poin penting dari sejarah relasi atau janji sebelumnya (Source 14.12) yang tidak diketahui AI namun harus tetap tercermin dalam pesan.
+-   **Tujuan Transisi (TAIDA):** Perubahan keadaan apa yang diinginkan?
+    -   **Target:** Siapa person spesifik yang dihadapi?
+    -   **Attention:** Apakah masalah/peluang ini sudah dibuat relevan bagi mereka?
+    -   **Interest:** Apakah solusi yang ditawarkan sudah tampak layak/feasibel?
+    -   **Desire:** Apakah mereka sudah melihat manfaat atau nilai nyata bagi mereka?
+    -   **Action:** Apakah sudah ada kesepakatan langkah nyata yang jelas?
+-   **Peran AI (Pilih satu - Source 14.7):**
+    -   \[ \] Cermin (Refleksi diri) | \[ \] Pelatih (Latihan respons) | \[ \] Penerjemah (Alih ragam bahasa)
+    -   \[ \] Kopilot (Penyusun draf) | \[ \] Mediator (Pencari titik temu) | \[ \] Agen Terdelegasi (Tugas terbatas)
+-   **Data Minimum:** Informasi apa yang diberikan ke AI? _(Peringatan: Dilarang memasukkan data pribadi atau rahasia tanpa dasar sah sesuai Source E.7)._
+-   **Kewenangan Keterlibatan AI:**
+    -   \[ \] Hanya membantu struktur/kerangka berpikir.
+    -   \[ \] Memperluas kosakata/repertoar bahasa.
+    -   \[ \] Menyusun draf sintesis pesan secara utuh.
+-   **Larangan (Prohibitions):** AI dilarang menggunakan nada agresif, dilarang membuat janji palsu, dan dilarang memberikan penilaian karakter. _Ingat: AI tidak memikul tanggung jawab relasional—beban tanggung jawab tetap pada Anda (Source 14.14)._
+-   **Mitigasi Risiko:** Langkah spesifik untuk memverifikasi halusinasi data atau bias AI.
+-   **Tinjauan Manusia:** Mekanisme validasi akhir (misal: pembacaan ulang dengan empati) sebelum pesan dikirim.
+
+* * *
+
+## 4\. Panduan Operasional: Prompt Berpusat pada Manusia
+
+Berdasarkan prinsip Bab 14.15 dan 2.12, terapkan panduan berikut saat berinteraksi dengan AI:
+
+-   **Gunakan AI sebagai cermin reflektif (Source 2.12), bukan sebagai hakim karakter.** Jangan meminta AI menentukan identitas atau "siapa sebenarnya" seseorang.
+-   **Gunakan AI untuk memperluas repertoar, bukan menggantikan suara autentik.** AI membantu Anda menemukan alternatif pilihan bahasa, namun Anda yang memilih mana yang paling mewakili martabat Anda.
+-   **Fokus pada Penciptaan Nilai.** Instruksikan AI untuk mencari solusi yang menguntungkan kedua pihak, bukan strategi untuk memenangkan argumen secara sepihak.
+-   **Jangan mendelegasikan empati.** AI bisa mensimulasikan kata-kata empati, namun kehadiran batiniah hanya bisa diberikan oleh Anda sebagai manusia.
+
+* * *
+
+## 5\. Daftar Periksa Etika (The Final Gate)
+
+Gunakan daftar ini sebagai verifikasi akhir sebelum tombol "Kirim" ditekan.
+
+-   \[ \] Apakah saya tetap memegang tanggung jawab penuh atas dampak relasional dari pesan ini? (Source E.1)
+-   \[ \] Apakah keluaran AI sudah saya periksa secara manual terhadap fakta, asumsi bias, dan ketepatan nada?
+-   \[ \] Apakah pesan ini menghormati martabat penerima sebagai pribadi (person) dan bukan sekadar kategori?
+-   \[ \] Apakah saya telah memastikan AI tidak digunakan untuk menangani konflik merah (konflik personal/etik)?
+-   \[ \] Apakah saya telah menyamarkan data sensitif sebelum diproses oleh AI?
+
+* * *
+
+## 6\. Pernyataan Transparansi (Sesuai Lampiran E.7)
+
+Jika konteks profesional atau akademik menuntut transparansi, gunakan format standar berikut:
+
+_"Draf pesan ini disusun dengan bantuan AI sebagai \[Sebutkan Peran AI, misal: pelatih/penerjemah\], namun isi, keputusan akhir, dan tanggung jawab sepenuhnya berada pada \[Nama Pengguna\]."_

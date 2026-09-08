@@ -1,0 +1,83 @@
+---
+title: "Komunikasi Berpusat pada Manusia di Era AI"
+subtitle: "Transkrip Kuliah Bab 14 — Alur TAIDA"
+lang: id
+---
+
+**Bahan kuliah:** [Slide deck](../slides-pdf/slides-14.pdf) · [Pitch TAIDA](../pitch/pitch-14.qmd) · [Lembar kerja](../lk/lk-14.qmd).
+
+*Naskah tutur untuk pengajar; bukan transkripsi rekaman. Nomor slide mengikuti halaman PDF, termasuk halaman judul. Penanda miring adalah petunjuk penyajian. Beri jeda pada pertanyaan untuk mendengar respons mahasiswa.*
+
+**Catatan pengajar:** Ketentuan risiko merah pada LK lebih ketat daripada pembahasan peran AI secara umum di deck. Instruksi action mengikuti ketentuan LK. Salah ketik pada slide tidak disalin ke naskah tutur.
+
+## Target — Mengenali titik berangkat
+
+*[Tampilkan slide 1](../slides-pdf/slides-14.pdf#page=1).*
+
+Kita akan membahas cara menggunakan AI sambil tetap memiliki tanggung jawab atas komunikasi. Pilih satu kebutuhan yang pernah Anda bantu dengan AI, seperti merapikan penjelasan atau menyiapkan pertanyaan rapat. Hari ini kita akan menetapkan peran alat, batas data, dan keputusan yang harus tetap Anda ambil sendiri.
+
+## Attention — Membuka perhatian
+
+*[Tampilkan slide 2–3](../slides-pdf/slides-14.pdf#page=2).*
+
+Bayangkan Anda menerima permintaan maaf yang sangat rapi setelah berselisih dengan sahabat. Pada bagian akhir, masih tertinggal kalimat pengantar dari alat AI yang dipakai menyusun pesan itu. Apa yang ingin Anda ketahui sebelum mempercayai permintaan maaf tersebut?
+
+Mungkin Anda ingin mendengar apakah sahabat itu memahami tindakannya, bersedia mendengar dampaknya, dan akan melakukan perubahan. Bantuan alat dalam merapikan bahasa tidak dengan sendirinya menjawab pertanyaan-pertanyaan itu. Yang perlu hadir adalah pemilik tindakan dan relasinya.
+
+Lihat slide 2 dan 3. Teknologi dapat memperluas kemampuan menyusun dan mengolah pesan, sementara tanggung jawab atas fakta, keputusan, dan akibatnya tetap kita miliki. Hari ini kita akan membuat batas kerja yang konkret agar bantuan AI mendukung kehadiran dan penilaian kita.
+
+## Interest — Memahami dan menghubungkan materi
+
+### Mengenali bobot relasi dalam tugas
+
+*[Tampilkan slide 3–4](../slides-pdf/slides-14.pdf#page=3).*
+
+Slide 3 membedakan kemampuan sistem mengolah informasi dari tanggung jawab manusia dalam relasi. Slide 4 memperlihatkan komunikasi pembawa tugas dan pembawa relasi. Pengingat jadwal dan permintaan maaf dapat sama-sama berupa teks pendek, tetapi akibat serta kebutuhan kehadiran manusianya berbeda.
+
+Kedua sisi itu juga dapat bertemu. Pengingat administrasi yang memuat data sensitif tetap membutuhkan perhatian. Karena itu, kita tidak menilai risiko hanya dari panjang pesan atau kemudahan membuatnya. Tanyakan siapa yang terkena dampak dan apakah keputusan dapat diperbaiki jika keliru.
+
+### Menetapkan peran dan kewenangan
+
+*[Tampilkan slide 5–6](../slides-pdf/slides-14.pdf#page=5).*
+
+Slide 5 menampilkan enam peran: cermin, pelatih, penerjemah, kopilot, mediator, dan agen terdelegasi. Sebagai cermin, AI dapat membantu Anda menandai asumsi; sebagai pelatih, ia dapat menyimulasikan pertanyaan. Peran mediator di sini membantu memetakan pilihan, sementara keputusan adil tetap milik manusia.
+
+Slide 6 membedakan persiapan, pendampingan, dan delegasi terbatas. Semakin besar dampak tindakan dan semakin sulit membatalkannya, semakin jelas kebutuhan tinjauan manusia. Mandat harus konkret: boleh menyusun alternatif pertanyaan, tetapi tidak boleh mengirim pesan atau membuat janji atas nama kelompok.
+
+Coba tuliskan satu tugas yang boleh dibantu dan satu keputusan yang harus Anda pegang. Perbedaan itu akan menjadi inti spesifikasi kopilot.
+
+### Merancang pemeriksaan yang nyata
+
+*[Tampilkan slide 7–10](../slides-pdf/slides-14.pdf#page=7).*
+
+Slide 7 meminta pengetahuan tentang orang dipakai untuk memahami dan menciptakan nilai bersama. Slide 8 menunjukkan risiko kekeliruan, bias, profilisasi, manipulasi, hilangnya keaslian, serta salah kewenangan. Jangan meminta alat menebak watak seseorang dari potongan percakapan lalu memakai tebakannya sebagai fakta.
+
+Pada slide 9, lapisan verifikasi berada di antara keluaran generatif dan keputusan manusia. Pemeriksa perlu mengetahui apa yang harus diperiksa serta memiliki wewenang menolak. Persetujuan yang diberikan tanpa membaca hasil tidak menjalankan fungsi tersebut.
+
+Contoh prompt slide 10 menyebut konteks, tujuan, larangan menuduh, informasi yang perlu ditanyakan langsung, dan batas tindakan. Anda dapat meminta bantuan menyusun pertanyaan tentang kendala tugas, sambil melarang dugaan niat dan pengiriman otomatis. Periksa pertanyaannya sebelum dipakai.
+
+## Desire — Menguatkan alasan untuk berlatih
+
+*[Tampilkan slide 9–10](../slides-pdf/slides-14.pdf#page=9).*
+
+Di Kuliah 14 hari ini, kita akan dibekali dengan dua kompetensi kunci untuk merancang kerja sama manusia-AI yang etis dan berpusat pada manusia:
+
+Pertama, kita telah mempelajari **Enam Peran AI** yang proporsional dalam komunikasi: sebagai **Cermin** untuk menguji bias pikiran kita, **Pelatih** untuk mensimulasikan percakapan sulit, **Penerjemah** untuk alih ragam bahasa tanpa merusak fakta, **Kopilot** untuk mencatat memori relasi, **Mediator** untuk memetakan alternatif, atau **Agen Terdelegasi** untuk tugas berisiko rendah.
+
+Kedua, kita akan menguasai **Tumpukan Tanggung Jawab** (_Responsibility Stack_). Anda akan diajarkan untuk menarik batas tegas: AI boleh menyarankan draf, menyederhanakan jargon, atau merangkum data. Namun, **manusia harus selalu menetapkan nilai, memverifikasi akurasi fakta secara mandiri, mengonfirmasi persetujuan privasi, dan menanggung seluruh konsekuensi tindakan ke depan**.
+
+Kita juga akan berlatih menyusun **Prompt Berpusat pada Pribadi** (_Person-Centered Prompt_). Kita tidak akan mengajari AI cara memanipulasi orang; kita sedang melatih AI untuk membantu kita memahami orang lain dengan lebih adil, peka, dan penuh empati.
+
+## Action — Mengerjakan dan mengevaluasi latihan
+
+*[Tampilkan slide 11–13](../slides-pdf/slides-14.pdf#page=11).*
+
+Buka [Lembar Kerja Bab 14](../lk/lk-14.qmd), “Spesifikasi Kopilot dan Manajemen Risiko AI”. Slide 11 memberi struktur rancangan dan slide 12 memberi kriteria evaluasi.
+
+Isi identitas konteks dan pilih satu domain komunikasi. Bedakan pribadi, kecenderungan yang masih perlu diperiksa, serta peran Anda. Pada Instrumen I, tentukan warna risiko beserta alasannya. Dalam ketentuan lembar kerja ini, kasus merah seperti konflik personal dan permintaan maaf tidak didelegasikan kepada AI untuk keputusan maupun penyusunan pesan; komunikasi dikerjakan manusia. Untuk latihan penggunaan AI, pilih kasus yang sesuai batas hijau atau kuning.
+
+Pada Instrumen II, tuliskan riwayat relasi yang relevan, tujuan transisi TAIDA, peran AI, data minimum, kewenangan, larangan, mitigasi risiko, dan tinjauan manusia. Sebutkan data yang tidak akan diberikan. Tuliskan pula kondisi yang membuat bantuan dihentikan dan keputusan dikembalikan kepada manusia.
+
+Susun prompt berpusat pada manusia sesuai panduan. Contohnya, minta alternatif pertanyaan yang membantu memahami hambatan, dengan larangan menebak karakter atau menjanjikan sesuatu. Tetapkan cara memeriksa fakta, bias, nada, dan kesesuaian dengan relasi.
+
+Gunakan daftar periksa akhir dan lengkapi pernyataan transparansi bila AI digunakan. Minta rekan menguji spesifikasi dengan satu kemungkinan kegagalan: siapa memeriksa, siapa memutuskan, dan apa langkah perbaikannya? Simpan spesifikasi, alasan tingkat risiko, serta hasil tinjauan. Slide 13 menutup dengan tanggung jawab yang tetap kita miliki. Mulailah dari batas kewenangan yang paling jelas untuk kasus Anda.

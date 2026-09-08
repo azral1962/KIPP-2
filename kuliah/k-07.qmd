@@ -1,0 +1,83 @@
+---
+title: "Menumbuhkan Minat (TAIDA II)"
+subtitle: "Transkrip Kuliah Bab 07 — Alur TAIDA"
+lang: id
+---
+
+**Bahan kuliah:** [Slide deck](../slides-pdf/slides-07.pdf) · [Pitch TAIDA](../pitch/pitch-07.qmd) · [Lembar kerja](../lk/lk-07.qmd).
+
+*Naskah tutur untuk pengajar; bukan transkripsi rekaman. Nomor slide mengikuti halaman PDF, termasuk halaman judul. Penanda miring adalah petunjuk penyajian. Beri jeda pada pertanyaan untuk mendengar respons mahasiswa.*
+
+## Target — Mengenali titik berangkat
+
+*[Tampilkan slide 1](../slides-pdf/slides-07.pdf#page=1).*
+
+Pada pertemuan sebelumnya kita belajar memperoleh perhatian. Kini kita menghadapi orang yang sudah mengakui masalah dan ingin mengetahui kemungkinan perbaikannya. Tujuan hari ini adalah menjelaskan kecocokan masalah dan solusi, lalu membaca apakah penjelasan itu mengundang eksplorasi lebih lanjut.
+
+## Attention — Membuka perhatian
+
+*[Tampilkan slide 1–3](../slides-pdf/slides-07.pdf#page=1).*
+
+Mari kita bayangkan sebuah situasi yang sangat sering terjadi dalam rapat profesional.
+
+Anda telah berhasil memukau pengelola kantin kampus. Beliau mengangguk setuju dan mengakui, _'Ya, antrean panjang di jam makan siang adalah masalah besar bagi kami.'_ Anda telah sukses mendapatkan **Perhatian** (_Attention_) beliau.
+
+Lalu, karena terlalu bersemangat, Anda langsung membuka laptop, menampilkan diagram arsitektur sistem, dan menjelaskan: _'Kami menggunakan arsitektur basis data terdistribusi dengan enkripsi tingkat tinggi, integrasi API gerbang pembayaran nirkabel, dan autentikasi multi-faktor menggunakan akun media sosial!'_
+
+Di tengah penjelasan Anda, pengelola kantin tersebut mulai bersandar di kursinya, menguap diam-diam, atau kembali memeriksa tumpukan nota di mejanya. Anda baru saja kehilangan beliau.
+
+Mengapa presentasi teknologi yang begitu canggih justru membuat calon pengguna kita kehilangan ketertarikan? Karena Anda melakukan kesalahan fatal yang disebut **Pembuangan Fitur** (_Feature Dumping_). Anda lupa bahwa **orang jarang tertarik pada kecanggihan teknologi sebelum mereka melihat hubungan langsungnya dengan beban kerja atau persoalan sehari-hari yang sedang mereka hadapi**.
+
+## Interest — Memahami dan menghubungkan materi
+
+### Mengubah perhatian menjadi eksplorasi
+
+*[Tampilkan slide 2–3](../slides-pdf/slides-07.pdf#page=2).*
+
+Slide 2 membedakan “Itu masalah yang relevan” dari “Bagaimana caranya ini bekerja?” Perbedaan itu menentukan isi percakapan berikutnya. Setelah orang mengakui masalah, kita perlu menunjukkan kemungkinan yang berhubungan dengannya.
+
+Formula slide 3 menggabungkan masalah yang diakui, kemungkinan yang relevan, dan mekanisme yang masuk akal. Jika persoalannya ketidakpastian waktu tunggu, jelaskan bagaimana informasi antrean memberi kepastian. Fitur yang tidak menjawab persoalan tersebut dapat menunggu.
+
+### Menerjemahkan fitur menjadi nilai
+
+*[Tampilkan slide 4–6](../slides-pdf/slides-07.pdf#page=4).*
+
+Pada slide 4, fitur adalah apa yang dilakukan sistem, manfaat adalah perubahan langsung yang dimungkinkan, dan nilai adalah alasan perubahan itu berharga bagi seseorang. Tiga istilah itu membantu kita keluar dari sudut pandang pembuat.
+
+Lihat contoh slide 5. Estimasi waktu tunggu memberi informasi kapan pesanan siap. Bagi mahasiswa, nilainya dapat berupa kesempatan makan tanpa terlambat kuliah. Bagi pengelola, nilainya dapat berupa berkurangnya kerumunan dan interupsi pada kasir. Kita tetap perlu memeriksa apakah akibat itu benar terjadi.
+
+Slide 6 memperlihatkan bahwa insinyur, manajer, pengguna, dan bagian keuangan dapat menilai hal berbeda dari solusi yang sama. Pilih satu fitur proyek Anda. Coba sebutkan manfaatnya dan nilai bagi dua peran yang berbeda. Jika sulit, mungkin relevansinya belum jelas.
+
+### Menjelaskan secukupnya dan menguji minat
+
+*[Tampilkan slide 7–11](../slides-pdf/slides-07.pdf#page=7).*
+
+Slide 7 dan 8 memberi pilihan cerita, fakta, konsep, analogi, prototipe, dan pertanyaan. Prototipe berguna karena orang dapat menunjukkan bagian yang cocok atau menghambat. Jelaskan batas analogi dan batas kemampuan prototipe agar pemahaman tetap akurat.
+
+Slide 9 menyusun informasi berlapis: kemungkinan, mekanisme, contoh atau demonstrasi, lalu bukti dan rincian teknis. Mulai dari lapisan yang diperlukan pendengar. Slide 10 meminta kita menyesuaikan kedalaman berdasarkan respons, bukan label kepribadian yang kaku.
+
+Pada slide 11, perhatikan dua jebakan: menumpuk fitur dan terlalu melekat pada solusi sendiri. Saat mitra mengatakan rancangan Anda menambah beban kasir, tanyakan di langkah mana beban itu muncul. Tanggapan itu adalah bahan perbaikan, bukan gangguan pada presentasi.
+
+## Desire — Menguatkan alasan untuk berlatih
+
+*[Tampilkan slide 9–11](../slides-pdf/slides-07.pdf#page=9).*
+
+Harta karun yang kita cari di kuliah hari ini adalah kemampuan mendesain **Kecocokan Masalah-Solusi** (_Problem-Solution Fit_). Kita sedang melatih kekuatan berpikir kita untuk tidak sekadar menyajikan daftar kemampuan solusi, melainkan menerjemahkannya menjadi jembatan relevansi.
+
+Kita sedang melatih kompetensi **Komunikasi Berlapis** (_Layered Communication_). Anda akan diajar untuk menyajikan informasi secara bertahap: mulai dari satu kalimat kemungkinan yang memikat, mekanisme ringkas yang masuk akal, demonstrasi visual atau prototipe sederhana, hingga rincian teknis mendalam jika memang diminta.
+
+Kita juga akan belajar melakukan **Detoks Fitur** (_Feature Detox_)—sebuah proses berani untuk membuang semua fitur canggih yang sebenarnya tidak menyelesaikan masalah yang telah disepakati. Menunjukkan batas kemampuan sistem kita secara jujur justru akan meningkatkan kredibilitas Anda di hadapan dunia profesional.
+
+## Action — Mengerjakan dan mengevaluasi latihan
+
+*[Tampilkan slide 12–15](../slides-pdf/slides-07.pdf#page=12).*
+
+Buka [Lembar Kerja Bab 07](../lk/lk-07.qmd), “Panduan Detoks Fitur”. Kita mulai dari pernyataan masalah yang sudah dikonfirmasi. Tuliskan pribadi, keadaan, konteks, dampak, hasil yang dibutuhkan, serta kendalanya.
+
+Isi matriks detoks pada Bagian 2 sebagaimana slide 12. Untuk setiap fitur, tulis manfaat langsung, nilai bagi peran tertentu, bukti yang dimiliki atau masih diperlukan, dan keputusan mempertahankan atau memangkasnya. Pangkas fitur yang tidak terkait masalah dari pitch ini. Jangan menghapus penjelasan risiko yang justru diperlukan pendengar.
+
+Pada Bagian 3, susun pitch enam puluh detik dengan maksimal seratus dua puluh kata. Ikuti lima langkah slide 13: hubungkan kembali dengan masalah, perkenalkan kemungkinan solusi, jelaskan mekanisme sederhana, nyatakan manfaat dan nilai, lalu undang tanggapan.
+
+Uji kepada rekan. Dalam simulasi, mitra dapat membawa satu informasi yang belum diketahui pembicara, misalnya keterbatasan akses jaringan. Dengarkan informasi itu dan sesuaikan penjelasan. Jika solusi belum cocok, nyatakan bagian yang perlu diubah atau diuji.
+
+Gunakan rubrik pada lembar kerja dan slide 14 untuk memeriksa kecocokan, kejelasan mekanisme, penerjemahan nilai, dialog, serta kejujuran batas. Simpan matriks, draf pitch, umpan balik, dan revisinya. Pada slide 15, kita kembali pada kebutuhan pihak lain. Mulailah dengan satu fitur dan buktikan hubungan fiturnya dengan masalah yang mereka akui.

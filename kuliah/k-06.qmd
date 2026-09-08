@@ -1,0 +1,81 @@
+---
+title: "TAIDA I: Menemukan Sasaran dan Memperoleh Perhatian"
+subtitle: "Transkrip Kuliah Bab 06 — Alur TAIDA"
+lang: id
+---
+
+**Bahan kuliah:** [Slide deck](../slides-pdf/slides-06.pdf) · [Pitch TAIDA](../pitch/pitch-06.qmd) · [Lembar kerja](../lk/lk-06.qmd).
+
+*Naskah tutur untuk pengajar; bukan transkripsi rekaman. Nomor slide mengikuti halaman PDF, termasuk halaman judul. Penanda miring adalah petunjuk penyajian. Beri jeda pada pertanyaan untuk mendengar respons mahasiswa.*
+
+**Catatan pengajar:** Pitch Bab 06 yang tersedia berupa pengantar lembar kerja, bukan naskah TAIDA lengkap. Bagian tutur dikembangkan dari slide 1–15 dan LK Bab 06.
+
+## Target — Mengenali titik berangkat
+
+*[Tampilkan slide 1](../slides-pdf/slides-06.pdf#page=1).*
+
+Hari ini kita mulai mempraktikkan sasaran dan perhatian dalam TAIDA. Pikirkan satu persoalan kampus yang ingin Anda perbaiki. Anda akan belajar memilih tiga pribadi dengan peran berbeda dan membuka percakapan yang relevan bagi masing-masing. Hasil akhirnya adalah tiga pitch singkat yang diuji melalui respons rekan.
+
+## Attention — Membuka perhatian
+
+*[Tampilkan slide 2–3](../slides-pdf/slides-06.pdf#page=2).*
+
+Bayangkan Anda datang kepada tiga orang dengan pembuka yang persis sama: mahasiswa yang terburu-buru, kasir yang kewalahan, dan pengelola kantin yang sedang menghitung biaya. Anda menjelaskan kecanggihan sistem baru selama beberapa menit. Siapa yang akan merasa persoalannya dipahami?
+
+Sekarang coba ubah titik berangkatnya. Kepada mahasiswa, Anda menanyakan kepastian waktu makan. Kepada kasir, Anda memeriksa gangguan saat mencatat pesanan. Kepada pengelola, Anda membahas dampak antrean terhadap layanan. Persoalannya terkait, tetapi pintu masuknya berbeda.
+
+Slide 2 mengingatkan bahwa perhatian perlu diperoleh melalui relevansi. Kita tidak memiliki hak otomatis atas waktu orang lain. Pertanyaan hari ini adalah: siapa yang perlu kita pahami lebih dahulu, dan bagaimana kita mengundangnya melihat persoalan bersama?
+
+## Interest — Memahami dan menghubungkan materi
+
+### Mengenali orang yang tepat
+
+*[Tampilkan slide 3–5](../slides-pdf/slides-06.pdf#page=3).*
+
+Pada slide 3, TAIDA dipakai sebagai peta keadaan: sasaran, perhatian, minat, keinginan, dan tindakan. Hari ini kita berfokus pada peralihan dari mengenali seseorang menuju munculnya perhatian. Kita belum dapat menganggap orang siap berkomitmen hanya karena ia mau mendengar.
+
+Slide 4 mengajak kita memilih pribadi dalam peran yang spesifik. “Semua mahasiswa” terlalu luas untuk satu percakapan. Untuk antrean kantin, Anda dapat berbicara dengan pengguna, kasir sebagai pelaksana, dan pengelola yang dapat mengambil keputusan.
+
+Gunakan enam dimensi slide 5: peran, konteks, tujuan, riwayat relasi, wewenang, dan keadaan TAIDA awal. Jangan meminta kasir menjanjikan anggaran yang berada di luar wewenangnya. Sebaliknya, pengalaman kasir sangat penting untuk mengetahui kendala operasional.
+
+### Menyusun pembuka yang mengundang
+
+*[Tampilkan slide 6–9](../slides-pdf/slides-06.pdf#page=6).*
+
+Slide 6 dan 7 memperlihatkan perbedaan undangan yang relevan dan interupsi yang memaksa. Kita dapat menyatakan masalah secara jelas tanpa menciptakan ketakutan. Pendengar tetap memiliki ruang untuk mengatakan bahwa waktunya belum tepat atau persoalannya berbeda.
+
+Formula masalah pada slide 8 adalah observasi, dampak, lalu periksa. Contoh pada slide menggunakan antrean delapan belas menit. Angka itu adalah contoh bahan ajar; untuk kasus Anda, gunakan pengamatan sendiri. Tutup dengan pertanyaan apakah dampak tersebut memang penting bagi pihak yang diajak bicara.
+
+Formula peluang pada slide 9 dimulai dari keadaan sekarang, kemungkinan perbaikan, lalu pemeriksaan kesediaan mengeksplorasi. Pilih formula berdasarkan situasi. Jangan membuat pertanyaan yang sebenarnya memaksa orang menyetujui kesimpulan Anda.
+
+### Respons sebagai dasar penyesuaian
+
+*[Tampilkan slide 10–12](../slides-pdf/slides-06.pdf#page=10).*
+
+Slide 10 menawarkan pembuka berupa observasi, data, perbandingan, cerita, pertanyaan, atau demonstrasi. Pilih yang paling cepat membuat persoalan dapat dipahami oleh pribadi tersebut.
+
+Lingkar pada slide 11 meminta kita menyampaikan, mengamati respons, memeriksa pemahaman, lalu menyesuaikan. Slide 12 memberi contoh penting: diam atau tangan bersilang memiliki banyak kemungkinan makna. Kita perlu bertanya dengan hormat, bukan menyatakan bahwa orang itu pasti menolak.
+
+Misalnya, setelah pembuka tentang antrean, pengelola menjawab bahwa masalah utamanya justru pesanan yang tidak diambil. Respons itu mengubah arah percakapan. Tanyakan pengalaman tersebut dan perbaiki rumusan masalah Anda. Keberhasilan latihan terlihat dari kemampuan merespons informasi baru.
+
+## Desire — Menguatkan alasan untuk berlatih
+
+*[Tampilkan slide 11–12](../slides-pdf/slides-06.pdf#page=11).*
+
+Bayangkan Anda dapat membuka percakapan singkat tanpa membuat pendengar merasa waktunya dirampas. Anda mengenali perannya, menyatakan pengamatan yang relevan, lalu memberi ruang baginya untuk mengoreksi. Itu kemampuan yang berharga dalam proyek, organisasi, maupun pekerjaan.
+
+Pada slide 11 dan 12, nilai latihan ini terletak pada kemampuan membaca respons dan memeriksa asumsi. Kita ingin mendapatkan perhatian yang disertai pemahaman, sehingga langkah berikutnya dapat dipilih bersama. Tiga versi pitch akan membantu Anda melatih kelenturan tersebut.
+
+## Action — Mengerjakan dan mengevaluasi latihan
+
+*[Tampilkan slide 13–15](../slides-pdf/slides-06.pdf#page=13).*
+
+Buka [Lembar Kerja Bab 06](../lk/lk-06.qmd), “Tiga Pitch untuk Tiga Pihak”. Slide 13 memuat ketentuan tugas dan slide 14 memandu simulasi.
+
+Pada Langkah 1, tulis satu masalah kampus sebagai fakta yang dapat diperiksa. Pada Langkah 2, petakan pengguna, pelaksana, dan pengambil keputusan. Isi peran, tujuan, kendala, serta keadaan TAIDA awal. Jika informasi belum diketahui, tulis apa yang perlu Anda tanyakan kepada pihak tersebut.
+
+Susun tiga pitch pada Langkah 3, masing-masing maksimal empat puluh lima kata. Gunakan observasi–dampak–periksa atau keadaan sekarang–kemungkinan–periksa. Setiap versi harus memiliki dasar pengamatan dan pertanyaan pemeriksaan. Bedakan nilai bagi tiap pihak: pengguna mungkin mencari kepastian waktu, pelaksana kejelasan proses, dan pengambil keputusan kelayakan sumber daya.
+
+Bekerjalah berpasangan dalam simulasi sembilan puluh detik. Minta izin berbicara, sampaikan pembuka, lalu diam dan dengarkan. Tanggapi respons yang benar-benar diberikan. Bila mitra menolak, terima dengan hormat dan periksa apakah ada informasi yang berguna untuk revisi.
+
+Catat umpan balik menggunakan perilaku atau kalimat tertentu: bagian mana yang membangun perhatian, bagian mana yang membingungkan, dan perubahan apa yang disarankan? Lengkapi refleksi tentang respons, asumsi yang dikoreksi, serta etika perhatian. Simpan tiga pitch, revisi, dan penilaian rubriknya. Pertanyaan penutup slide 15 kita uji sekarang: sudahkah kita berbicara kepada orang yang tepat dengan cara yang sesuai?

@@ -1,0 +1,85 @@
+---
+title: "Negosiasi Banyak Pihak: Mencari Kesepakatan yang Dapat Diterima"
+subtitle: "Transkrip Kuliah Bab 11 — Alur TAIDA"
+lang: id
+---
+
+**Bahan kuliah:** [Slide deck](../slides-pdf/slides-11.pdf) · [Pitch TAIDA](../pitch/pitch-11.qmd) · [Lembar kerja](../lk/lk-11.qmd).
+
+*Naskah tutur untuk pengajar; bukan transkripsi rekaman. Nomor slide mengikuti halaman PDF, termasuk halaman judul. Penanda miring adalah petunjuk penyajian. Beri jeda pada pertanyaan untuk mendengar respons mahasiswa.*
+
+## Target — Mengenali titik berangkat
+
+*[Tampilkan slide 1](../slides-pdf/slides-11.pdf#page=1).*
+
+Kita memperluas negosiasi dari satu lawan bicara ke banyak pihak. Dalam proyek kampus, pengguna, pelaksana, pengelola, dan pemberi dukungan dapat melihat persoalan yang sama dari tanggung jawab berbeda. Tujuan hari ini adalah menyusun kesepakatan yang mempertimbangkan kepentingan mereka dan memberi ruang bagi suara yang mudah terabaikan.
+
+## Attention — Membuka perhatian
+
+*[Tampilkan slide 2](../slides-pdf/slides-11.pdf#page=2).*
+
+Perjalanan studi saya ke Kanada pada tahun 1989 sering kali diceritakan secara sederhana sebagai kisah perjuangan seorang anak dari Tomohon yang akhirnya berhasil sampai ke luar negeri. Namun, jika Anda hanya melihat saya sebagai tokoh utama tunggal, maka cerita itu menjadi sangat tidak lengkap.
+
+Keberhasilan itu sesungguhnya adalah buah dari jaring laba-laba relasi yang saling mendukung. Di sana ada ayah saya yang mengirimkan kartu pos, Ina yang mendampingi di setiap langkah, keluarga yang menyokong, para asisten dan mentor di ITB, instruktur bahasa, lembaga beasiswa WUSC, profesor di Manitoba yang bersedia menerima, hingga reputasi akademis luar biasa dari rekan saya, Pak Budi Rahardjo, yang sudah berada di sana lebih dulu.
+
+Tidak ada satu pun dari mereka yang melakukan seluruh pekerjaan ini sendirian, tetapi jaringan kerja sama inilah yang membuat jalan yang tadinya mustahil ditempuh sendirian menjadi terbuka lebar bagi saya.
+
+Di dunia profesional pun demikian. Tidak ada satu pun program, solusi, atau keputusan besar yang berdiri sendiri. Begitu gagasan Anda dilemparkan ke lapangan, ia akan menyentuh banyak pihak dengan wewenang, batasan, dan kepentingan yang berbeda-beda. Jika Anda tidak tahu cara menyelaraskan jaring laba-laba ini, gagasan terbaik Anda sekalipun hanya akan menguap menjadi konflik yang merusak relasi.
+
+## Interest — Memahami dan menghubungkan materi
+
+### Mencari alasan di balik tuntutan
+
+*[Tampilkan slide 3–4](../slides-pdf/slides-11.pdf#page=3).*
+
+Slide 3 mengajak kita turun dari posisi ke kepentingan. Pada contoh kantin di slide 4, mahasiswa meminta sistem digital karena menginginkan kecepatan dan kepastian. Kasir dapat menolak sistem baru karena khawatir beban kerjanya bertambah.
+
+Jika kita hanya memilih “digital atau tidak”, ruang pilihan menjadi sempit. Setelah kepentingan terdengar, kita dapat membahas uji coba, pelatihan, atau pembaruan satu bagian proses. Semua alternatif itu masih perlu diperiksa kelayakannya; kita tidak boleh menganggap satu solusi otomatis memuaskan semua pihak.
+
+### Peta kepentingan dan ketimpangan suara
+
+*[Tampilkan slide 5–6](../slides-pdf/slides-11.pdf#page=5).*
+
+Enam bagian peta pada slide 5 adalah pribadi atau peran, posisi, kepentingan, kendala, nilai personal, dan tahap TAIDA. Pihak yang baru memahami masalah membutuhkan percakapan berbeda dari pihak yang siap berkomitmen.
+
+Slide 6 memberi dua peringatan untuk fasilitator. Diam belum tentu setuju, dan pihak paling berkuasa belum tentu paling menanggung risiko. Tanyakan pandangan pihak yang belum terdengar dengan cara yang memberinya ruang aman untuk menjawab.
+
+Misalnya, “Dari sisi kasir, bagian mana yang paling sulit dijalankan?” Setelah jawabannya muncul, rangkum dan periksa. Hindari menafsirkan kekhawatiran sebagai kemalasan atau penolakan terhadap kemajuan.
+
+### Dari deliberasi ke komitmen
+
+*[Tampilkan slide 7–8](../slides-pdf/slides-11.pdf#page=7).*
+
+Slide 7 memandu tiga gerak: bingkai ulang masalah, gali kepentingan, dan ciptakan pilihan sebelum menilai. Rumusan bersama dapat berbunyi, “Bagaimana mempercepat pelayanan tanpa menambah beban yang tidak sanggup ditangani kasir?”
+
+Pisahkan waktu menghasilkan pilihan dari waktu mengevaluasinya. Setelah pilihan tersedia, periksa biaya, wewenang, pembagian risiko, dan kesediaan pihak terkait. Gunakan formula slide 8 untuk mencatat siapa melakukan apa, kapan, dengan syarat, ukuran selesai, dan tindak lanjut.
+
+Sebelum menutup, minta setiap pihak menyatakan pemahamannya atas komitmen sendiri. Fasilitator tidak dapat menggantikan persetujuan mereka. Bila masih ada keberatan, catat bagian yang belum disepakati dan cara membahasnya kembali.
+
+## Desire — Menguatkan alasan untuk berlatih
+
+*[Tampilkan slide 9](../slides-pdf/slides-11.pdf#page=9).*
+
+Harta karun yang akan kita kuasai hari ini adalah kemampuan memandu **Deliberasi**—sebuah proses komunikasi untuk memahami dan mencari tindakan bersama, bukan debat kusir untuk mencari pemenang.
+
+Di kuliah ke-11 ini, Anda akan dibekali dengan tiga kompetensi esensial:
+
+Pertama, Anda akan belajar menyusun **Peta Pemangku Kepentingan** (_Stakeholder Mapping_). Kita akan membedakan secara tajam antara _Posisi, Kepentingan, Kendala, Nilai_, hingga _Keadaan TAIDA_ masing-masing pihak. Anda akan dilatih menyadari bahwa **pihak yang diam belum tentu setuju, dan pihak yang paling berkuasa belum tentu pihak yang paling menanggung risiko**.
+
+Kedua, kita akan menguasai metode **Menciptakan Pilihan Sebelum Menilai**. Kita akan belajar memisahkan aktivitas memproduksi ide sebanyak-banyaknya dari aktivitas menilai kelayakan, agar kita tidak membunuh ide-ide kreatif terlalu cepat.
+
+Ketiga, Anda akan belajar menjadi **Fasilitator yang Berpusat pada Manusia**. Anda akan dilatih menggunakan 'bahasa bersama' untuk menerjemahkan jargon teknis, finansial, maupun operasional agar setiap pihak memahami pertukaran manfaat, biaya, dan risiko secara jujur dan transparan.
+
+## Action — Mengerjakan dan mengevaluasi latihan
+
+*[Tampilkan slide 10](../slides-pdf/slides-11.pdf#page=10).*
+
+Buka [Lembar Kerja Bab 11](../lk/lk-11.qmd), “Peta Pemangku Kepentingan dan Deliberasi Banyak Pihak”. Gunakan skenario kantin pada lembar kerja atau skenario kelompok yang telah ditentukan. Slide 10 memberikan format simulasi meja bundar.
+
+Tetapkan fasilitator dan para pemeran. Format slide menyediakan lima peran pihak ditambah satu fasilitator; gunakan baris tambahan bila contoh matriks belum menampung semua pemeran. Masing-masing mengisi posisi, kepentingan, kendala, nilai, serta keadaan TAIDA berdasarkan perannya.
+
+Pada sepuluh menit pertama, sesuai Bagian 2 lembar kerja, fasilitator menggali kepentingan tanpa segera menawarkan kompromi. Ajukan pertanyaan, rangkum jawaban, dan undang suara yang belum terdengar. Dalam alokasi simulasi dua puluh menit pada slide, gunakan sisa waktu untuk menghasilkan pilihan, menilai kelayakan, dan merumuskan kesepakatan.
+
+Isi Bagian 3 dengan alternatif sebelum memilih. Pada Bagian 4, catat komitmen tindakan konkret dan periksa persetujuan setiap pihak. Jangan menutupi keberatan hanya agar dokumen terlihat lengkap.
+
+Bagian 5 meminta evaluasi tugas dan relasi. Sebutkan bukti: apakah komitmennya operasional, siapa yang didengarkan, serta apakah risiko dibagi secara terbuka? Fasilitator menulis refleksi tiga ratus kata mengenai proses dan perbaikan yang diperlukan. Simpan peta, pilihan, dokumen kesepakatan, evaluasi, serta refleksi. Mulailah dengan memastikan setiap pemeran dapat menjelaskan kepentingannya sendiri sebelum berdebat tentang solusi.

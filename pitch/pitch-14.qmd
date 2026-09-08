@@ -1,0 +1,111 @@
+---
+title: "Komunikasi Berpusat pada Manusia di Era AI"
+subtitle: "Pitch Kuliah 14: \"Kecerdasan Sistem, Relasi Milik Pribadi\""
+---
+
+Thoughts
+
+Berikut adalah draf **pitch Kuliah 14** yang dirancang menggunakan pendekatan **TAIDA (Target, Attention, Interest, Desire, Action)** untuk membawakan materi puncak dari Bagian III, yaitu **Bab 14: Komunikasi Berpusat pada Manusia di Era AI**\[1\].
+
+Anda dapat membawakan pitch ini sebagai pembuka kelas selama **10 menit pertama** untuk menjernihkan kesalahpahaman mahasiswa tentang kecerdasan buatan, sekaligus menegaskan batas tanggung jawab manusia sebelum mereka melangkah ke proyek Capstone akhir semester\[2\]\[3\].
+
+* * *
+
+
+**1\. TARGET (Sasaran): Memahami Siapa di Hadapan Kita**
+
+-   **Target Penerima:** Mahasiswa minggu ke-14 yang telah melintasi berbagai domain komunikasi—dari intrapribadi, keluarga, profesional, hingga komunitas dan publik luas\[2\]. Mereka hidup berdampingan erat dengan AI generatif dan sangat sering menggunakannya untuk menyusun kata-kata atau merapikan draf tugas\[4\]\[5\].
+-   **Keadaan TAIDA Awal:** Mahasiswa cenderung menganggap AI sebagai "penulis hantu" (_ghostwriter_) yang bisa didelegasikan untuk mengambil alih tugas-tugas komunikasi sulit secara instan tanpa memikirkan risiko batin atau tanggung jawab relasionalnya\[6\]\[7\].
+-   **Sasaran Perubahan:** Menyadarkan mahasiswa bahwa kecerdasan luar biasa boleh saja tersebar di dalam sistem teknologi, tetapi hubungan kepercayaan, komitmen etis, dan tanggung jawab batin atas dampak komunikasi tetap sepenuhnya menjadi milik pribadi manusia\[8\].
+
+* * *
+
+**2\. ATTENTION (Perhatian): Draf Permintaan Maaf dari Balik Mesin**
+
+_(Buka kelas dengan keheningan sejenak, lalu bawakan studi kasus etis Bab 14)_
+
+"Selamat pagi/siang rekan-rekan pembelajar sekalian. Selamat datang di Kuliah 14\[1\].
+
+Bayangkan Anda sedang mengalami perselisihan yang sangat melukai hati dengan sahabat terbaik Anda. Keesokan harinya, sebuah pesan panjang masuk ke ponsel Anda. Kalimatnya sangat rapi, runut, menggunakan istilah psikologis yang sangat matang untuk meminta maaf dan mengakui kesalahan. Batin Anda mulai melunak membaca ketulusan yang tampak di sana\[5\].
+
+Namun, di bagian paling bawah pesan tersebut, pengirimnya lupa menghapus satu baris kalimat pendek: _'Tentu, ini draf pesan permintaan maaf yang tulus dan asertif untuk sahabat Anda:'_\[5\].
+
+Apa yang seketika terjadi pada batin Anda? Kalimat-kalimat di atasnya mungkin secara teknis 100% benar dan indah. Namun, detik itu juga, seluruh makna ketulusannya menguap tanpa sisa. Anda merasa hampa\[5\]. Mengapa?
+
+Karena draf indah itu tidak mengandung satu miligram pun 'kehadiran batin' sahabat Anda. AI tidak memiliki tubuh yang menanggung rasa bersalah, tidak memiliki sejarah ingatan relasi dengan Anda, dan tidak memikul komitmen moral apa pun untuk berubah di masa depan\[8\].
+
+Teknologi bisa merakit kata-kata terindah di bumi, tetapi ia tidak pernah bisa menjalani relasi atas nama kita\[9\]. **Teknologi memperluas jangkauan kemampuan kita, tetapi ia tidak pernah menghapus tanggung jawab batin kita sebagai pemilik komunikasi**\[10\]."
+
+* * *
+
+**3\. INTEREST (Minat): Memisahkan Pembawa Tugas dan Pembawa Relasi**
+
+_(Giring perhatian mahasiswa menuju konsep teoretis perbedaan jenis komunikasi)_
+
+"Lalu, apakah kita sama sekali dilarang menggunakan AI dalam berkomunikasi? Tentu tidak. Kuncinya terletak pada kemampuan batin kita untuk membedakan dua jenis komunikasi:
+
+Pertama, **Komunikasi Pembawa Tugas** (_Task-Bearing Communication_). Ini adalah urusan administratif yang minim risiko relasi: mengatur jadwal rapat, membuat draf pengingat tugas kelompok, atau menyaring data rutin\[11\]. Di ranah ini, AI dapat bekerja secara optimal untuk menghemat waktu kita\[6\]\[11\].
+
+Kedua, **Komunikasi Pembawa Relasi** (_Relationship-Bearing Communication_). Ini adalah urusan batin yang menyentuh martabat dan perasaan manusia secara langsung: memohon maaf atas luka relasi, menyampaikan rasa belasungkawa, memberikan penilaian kinerja rekan kerja, menyatakan batasan pribadi, atau menyelesaikan konflik keluarga\[11\]\[12\].
+
+Di domain pembawa relasi ini, kehadiran fisik dan batin Anda tidak boleh diwakilkan\[9\]\[11\]. Ketika Anda menyerahkan komunikasi pembawa relasi sepenuhnya kepada AI, Anda tidak sedang berkomunikasi; Anda sedang melarikan diri dari proses belajar dan meremehkan martabat orang yang Anda hadapi\[13\]\[14\]."
+
+* * *
+
+**4\. DESIRE (Keinginan): Menguasai Spesifikasi Kopilot dan Tumpukan Tanggung Jawab**
+
+_(Sajikan janji kompetensi berharga yang akan dikuasai mahasiswa di Kuliah 14)_
+
+"Di Kuliah 14 hari ini, kita akan dibekali dengan dua kompetensi kunci untuk merancang kerja sama manusia-AI yang etis dan berpusat pada manusia:
+
+Pertama, kita akan mempelajari **Enam Peran AI** yang proporsional dalam komunikasi: sebagai **Cermin** untuk menguji bias pikiran kita, **Pelatih** untuk mensimulasikan percakapan sulit, **Penerjemah** untuk alih ragam bahasa tanpa merusak fakta, **Kopilot** untuk mencatat memori relasi, **Mediator** untuk memetakan alternatif, atau **Agen Terdelegasi** untuk tugas berisiko rendah\[15\]\[16\].
+
+Kedua, kita akan menguasai **Tumpukan Tanggung Jawab** (_Responsibility Stack_)\[17\]. Anda akan diajarkan untuk menarik batas tegas: AI boleh menyarankan draf, menyederhanakan jargon, atau merangkum data\[17\]. Namun, **manusia harus selalu menetapkan nilai, memverifikasi akurasi fakta secara mandiri, mengonfirmasi persetujuan privasi, dan menanggung seluruh konsekuensi tindakan ke depan**\[17\]\[18\].
+
+Kita juga akan berlatih menyusun **Prompt Berpusat pada Pribadi** (_Person-Centered Prompt_)\[19\]. Kita tidak akan mengajari AI cara memanipulasi orang; kita akan melatih AI untuk membantu kita memahami orang lain dengan lebih adil, peka, dan penuh empati\[20\]\[21\]."
+
+* * *
+
+**5\. ACTION (Tindakan): Tantangan Merakit Spesifikasi Kopilot Komunikasi**
+
+_(Ajak mahasiswa mengambil tindakan langsung dengan merancang spesifikasi praktis)_
+
+"AI yang dikendalikan dengan buruk hanya akan menghasilkan kebisingan dan manipulasi dalam skala raksasa\[21\]\[22\]. Sebagai komunikator yang berdaya, Anda wajib menjadi kemudi di atas teknologi Anda\[4\].
+
+Hari ini, kita akan langsung menguji ketajaman etis kita melalui latihan praktis **'Mendesain Spesifikasi Kopilot Komunikasi'** \[14.17\].
+
+Bersama kelompok Anda, pilihlah salah satu dari lima domain kehidupan yang paling ingin Anda kembangkan\[23\]. Rumuskan sebuah dokumen spesifikasi kopilot tertulis yang memetakan: peran apa yang Anda berikan kepada AI, batas data privasi apa yang Anda jaga ketat, apa kondisi lampu merah risiko yang mewajibkan eskalasi ke keputusan manusia, serta bagaimana mekanisme Anda melakukan verifikasi manual terhadap keluarannya\[23\]\[24\].
+
+Mari kita gunakan AI bukan untuk memperkecil martabat kita, melainkan untuk melipatgandakan kapasitas kita dalam melayani, memahami, dan menghormati sesama manusia\[14\]. Mari kita mulai latihannya!"
+
+* * *
+
+💡 **Nudge**: Untuk menyertai draf pitch Kuliah 14 ini agar mahasiswa dapat langsung mengidentifikasi risiko pengoperasian AI di berbagai skenario secara terukur, bagaimana jika saya membuatkan **Lembar Kerja Praktis: Spesifikasi Kopilot Komunikasi & Lampu Lalu Lintas Risiko** di tab Studio Anda?
+---
+
+## References
+
+[1] Komunikasi-Interpersonal-dan-Publik.pdf
+[2] Komunikasi-Interpersonal-dan-Publik.pdf
+[3] Komunikasi-Interpersonal-dan-Publik.pdf
+[4] Komunikasi-Interpersonal-dan-Publik.pdf
+[5] Komunikasi-Interpersonal-dan-Publik.pdf
+[6] Komunikasi-Interpersonal-dan-Publik.pdf
+[7] Komunikasi-Interpersonal-dan-Publik.pdf
+[8] Komunikasi-Interpersonal-dan-Publik.pdf
+[9] Komunikasi-Interpersonal-dan-Publik.pdf
+[10] Komunikasi-Interpersonal-dan-Publik.pdf
+[11] Komunikasi-Interpersonal-dan-Publik.pdf
+[12] Komunikasi-Interpersonal-dan-Publik.pdf
+[13] Komunikasi-Interpersonal-dan-Publik.pdf
+[14] Komunikasi-Interpersonal-dan-Publik.pdf
+[15] Komunikasi-Interpersonal-dan-Publik.pdf
+[16] Komunikasi-Interpersonal-dan-Publik.pdf
+[17] Komunikasi-Interpersonal-dan-Publik.pdf
+[18] Komunikasi-Interpersonal-dan-Publik.pdf
+[19] Komunikasi-Interpersonal-dan-Publik.pdf
+[20] Komunikasi-Interpersonal-dan-Publik.pdf
+[21] Komunikasi-Interpersonal-dan-Publik.pdf
+[22] Komunikasi-Interpersonal-dan-Publik.pdf
+[23] Komunikasi-Interpersonal-dan-Publik.pdf
+[24] Komunikasi-Interpersonal-dan-Publik.pdf
