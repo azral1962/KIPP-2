@@ -1,4 +1,4 @@
-# Cara Menggunakan Buku Ini
+# Cara Menggunakan Buku Ini {.unnumbered}
 
 Buku ini dirancang bukan hanya untuk dibaca, melainkan untuk dijalani. Komunikasi tidak dapat dikuasai hanya dengan menghafal istilah. Ia bertumbuh melalui perhatian, latihan, keberanian mencoba, kesediaan menerima umpan balik, dan kerendahan hati untuk memperbaiki diri.
 

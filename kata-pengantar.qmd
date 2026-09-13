@@ -1,4 +1,4 @@
-# Kata Pengantar
+# Kata Pengantar {.unnumbered}
 
 Ada satu keyakinan sederhana yang makin lama makin kuat dalam hidup saya: komunikasi adalah cara kita menghadirkan diri bagi sesama. Kita dapat memiliki gagasan yang cemerlang, jabatan yang terhormat, teknologi yang maju, dan pengetahuan yang luas. Namun pada akhirnya, orang lain akan berjumpa dengan kita melalui cara kita mendengar, memandang, menjawab, menegur, meminta maaf, menyampaikan pendapat, dan mengambil keputusan bersama.
 

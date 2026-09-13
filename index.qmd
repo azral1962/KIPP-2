@@ -1,4 +1,4 @@
-# Selamat Datang
+# Selamat Datang {.unnumbered}
 
 Ada percakapan yang selesai ketika kata-kata berhenti. Namun ada pula percakapan yang terus tinggal di dalam hati, sebab di dalamnya kita merasa dikenali, dihormati, dan diajak menjadi manusia yang lebih utuh. Buku ini lahir dari kerinduan untuk menghadirkan jenis percakapan yang kedua itu di ruang kelas, di rumah, di tempat kerja, di komunitas, dan di ruang publik.
 

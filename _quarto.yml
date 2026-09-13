@@ -63,14 +63,7 @@ format:
     toc: true
     toc-title: "Daftar Isi"
     toc-depth: 2
-    papersize: iso-b5
-    margin:
-      x: 1cm
-      y: 1cm
-    mainfont: "Inter"
-    fontsize: 12pt
-    linestretch: 1.5
-    linkcolor: "#1a73e8"
+    keep-typ: true
   html:
     theme:
       - cosmo

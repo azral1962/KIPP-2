@@ -1,4 +1,4 @@
-# Glosarium
+# Glosarium {.unnumbered}
 
 **Action**  
 Tahap dalam TAIDA yang mengubah pemahaman dan keinginan menjadi langkah konkret.
