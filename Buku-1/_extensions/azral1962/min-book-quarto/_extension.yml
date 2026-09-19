@@ -1,0 +1,21 @@
+title: min-book-quarto
+author: min-book-quarto contributors
+version: 0.1.0
+quarto-required: ">=1.10.18"
+contributes:
+  formats:
+    typst:
+      toc: true
+      toc-depth: 3
+      number-sections: true
+      papersize: a5
+      mainfont: Libertinus Serif
+      codefont: DejaVu Sans Mono
+      fontsize: 12pt
+      template-partials:
+        - typst-template.typ
+        - typst-show.typ
+        - page.typ
+      filters:
+        - path: min-book.lua
+          at: post-quarto

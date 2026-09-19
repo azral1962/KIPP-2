@@ -59,12 +59,19 @@ nocite: '@*'
 lang: id
 
 format:
-  typst:
-    toc: true
-    toc-title: "Daftar Isi"
-    toc-depth: 2
+  min-book-quarto-typst:
+    papersize: a5 # Ganti, misalnya menjadi iso-b5 atau us-letter.
     keep-typ: true
-  html:
-    theme:
-      - cosmo
-      - brand
+    include-in-header:
+      - file: catalog.typ
+      - text: |
+          #import "layout.typ" as example-theme
+          #let min-book-config = (theme: example-theme)
+          #set bibliography(title: none)
+
+min-book:
+  parts: true
+  two-sided: true
+  paper-friendly: false
+  publication-date: "2026-09-19"
+ 
