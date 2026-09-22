@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 book:
-  title: "Komunikasi Interpersonal dan Publik"
+  title: "Prinsip-Prinsip Komunikasi"
   subtitle: "Membangun Relasi, Kepercayaan, dan Nilai di Era Kecerdasan Buatan"
   author: "Armein Z. R. Langi"
-  date: "2026-08-16"
+  date: "2026-08-17"
   chapters:
     - index.qmd
     - dedikasi.qmd
@@ -51,20 +51,22 @@ bibliography: references.bib
 
 lang: id
 
+
 format:
-  typst:
-    toc: true
-    toc-title: "Daftar Isi"
-    toc-depth: 2
-    papersize: a4
-    margin:
-      x: 2cm
-      y: 2cm
-    mainfont: "Inter"
-    fontsize: 12pt
-    linestretch: 1.5
-    linkcolor: "#1a73e8"
-  html:
-    theme:
-      - cosmo
-      - brand
+  min-book-quarto-typst:
+    papersize: iso-b5 # Ganti, misalnya menjadi iso-b5 atau us-letter.
+    keep-typ: true
+    include-in-header:
+      - file: catalog.typ
+      - text: |
+          #import "layout.typ" as example-theme
+          #let min-book-config = (theme: example-theme)
+          #set bibliography(title: none)
+
+min-book:
+  theme: elegance
+  parts: true
+  two-sided: true
+  paper-friendly: false
+  publication-date: "2026-09-19"
+ 
