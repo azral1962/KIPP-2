@@ -68,3 +68,5 @@ format:
     theme:
       - cosmo
       - brand
+  docx:
+    reference-doc: docx\styles2.docx
