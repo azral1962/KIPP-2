@@ -5,3 +5,28 @@ Tujuan belajar ada empat. Yang pertama dan kedua terkait dengan komunikasi priba
 
 Untuk bisa mengukur pencapaian tujuan tersebut, mahasiswa perlu mendemonstrasikan atau memperlihatkan bukti‑bukti pencapaian yang dalam kuliah ini disusun dalam dokumen atau laporan pengerjaan tugas. Selain bukti-bukti pengerjaan tugas, diadakan juga dua ujian, yaitu UTS (ujian tengah semester) dan UAS (ujian akhir semester). 
 
+Berkomunikasi secara personal ibarat kita bermain catur atau tenis antara dua pemain, di mana gerakan atau pukulan dalam permainan tersebut merupakan pesan-pesan komunikasi. Sama seperti catur, tenis, atau pertandingan dua orang, ada repertoar cara-cara untuk melakukannya sehingga tujuan tercapai. 
+
+Berkomunikasi secara publik itu mirip seperti orang bernyanyi, menayangakn movie, atau memiliki sekelompok audience di depannya. Di sini, interaksi dengan audiens sering bersifat satu arah dan akan sangat berhasil bila berlangsung multi arah. 
+
+Dalam kuliah ini, kita mencoba membagi ke dalam tiga konteks. Konteks pertama, kita membangun relasi secara pribadi. Konteks kedua adalah profesional, dalam hal ini dengan rekan sekerja dan pelanggan. Kemudian yang ketiga secara publik, dalam rangka membawa dan menggugah kemajuan bersama. 
+
+Untuk penguasaan ini dan untuk mendemonstrasikan penguasaan tersebut, setiap minggu terdapat tugas yang perlu dikerjakan. Jadi setiap minggu kita belajar satu repertoar untuk mencapai tujuan. Secara teknis telah disiapkan standar repository, di mana mahasiswa dapat melaporkan pengerjaan tugasnya. Kemudian dosen akan menilai baik secara langsung maupun dengan alat bantu seperti teknologi dan AI untuk memastikan kompetensi telah tercapai. 
+
+Untuk itu ada beberapa skill yang bisa kita gunakan untuk menunjang pelaporan kuliah ini. Pertama, pembuatan dokumen teks dengan Markdown, khususnya Quarto Markdown, yang mempermudah penyusunan berbagai dokumen. Kedua, skill tentang repositori, cara menyimpan dan menyusun laporan yang dapat diakses melalui internet. Ketiga, penggunaan AI. 
+
+UAS dan UTS akan diadakan secara daring, dengan format yang akan diumumkan kemudian.
+
+Portfolio
+Portfolio adalah kumpulan dokumen yang menunjukkan bukti-bukti pencapaian kompetensi. Dalam kuliah ini, portfolio disusun dalam bentuk dokumen Quarto Markdown yang disimpan di repositori daring. Setiap mahasiswa akan memiliki repositori pribadi yang berisi semua tugas dan proyek yang telah dikerjakan selama semester.
+
+Bobot penilaian: 
+- Tugas mingguan: 50%
+- UTS: 20%
+- UAS: 30%
+
+UTS: membuat dokumen PDF Quarto Markdown yang berisi ringkasan materi dan refleksi pribadi tentang komunikasi interpersonal dan publik. Dokumen ini harus mencakup contoh nyata dari pengalaman pribadi mahasiswa dalam berkomunikasi, baik secara pribadi maupun publik.
+
+UAS: membuat dokumen PDF Quarto Markdown yang berisi ringkasan materi dan refleksi pribadi tentang komunikasi interpersonal dan publik. Dokumen ini harus mencakup contoh nyata dari pengalaman pribadi mahasiswa dalam berkomunikasi, baik secara pribadi maupun publik.
+
+Buat repertoar komunikasi pribadi dan publik yang mencakup berbagai teknik dan strategi yang telah dipelajari selama semester. Repertoar ini harus mencakup contoh-contoh nyata dari pengalaman pribadi mahasiswa dalam berkomunikasi, baik secara pribadi maupun publik.
