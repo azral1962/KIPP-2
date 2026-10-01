@@ -16,3 +16,5 @@ Lembar kerja ini dirancang khusus untuk melatih kepekaan mahasiswa dalam mengena
 [1] Komunikasi-Interpersonal-dan-Publik.pdf
 [2] Komunikasi-Interpersonal-dan-Publik.pdf
 [3] Komunikasi-Interpersonal-dan-Publik.pdf
+
+{{< include tiga-pitch-tiga-pihak.md >}}

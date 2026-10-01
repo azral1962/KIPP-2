@@ -30,3 +30,10 @@ UTS: membuat dokumen PDF Quarto Markdown yang berisi ringkasan materi dan reflek
 UAS: membuat dokumen PDF Quarto Markdown yang berisi ringkasan materi dan refleksi pribadi tentang komunikasi interpersonal dan publik. Dokumen ini harus mencakup contoh nyata dari pengalaman pribadi mahasiswa dalam berkomunikasi, baik secara pribadi maupun publik.
 
 Buat repertoar komunikasi pribadi dan publik yang mencakup berbagai teknik dan strategi yang telah dipelajari selama semester. Repertoar ini harus mencakup contoh-contoh nyata dari pengalaman pribadi mahasiswa dalam berkomunikasi, baik secara pribadi maupun publik.
+
+Menggunakan ekstensi https://github.com/kazuyanagimoto/quarto-academic-typst
+dengan cara 
+
+    quarto install extension kazuyanagimoto/quarto-academic-typst
+
+    Buat
